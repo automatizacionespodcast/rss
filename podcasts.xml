@@ -8,7 +8,7 @@
     <title>Mi Podcast desde Google Drive</title>
     <link>https://automatizacionespodcast.github.io/rss/podcasts.xml</link>
     <language>es-es</language>
-    <copyright>&#169; 2025 Jaume Martínez Ara</copyright>
+    <copyright>2025 Jaume Martínez Ara</copyright>
     <itunes:author>Jaume Martínez Ara</itunes:author>
     <itunes:summary>Podcast generado con archivos mp3 alojados en Google Drive.</itunes:summary>
     <description>Podcast con episodios subidos a Google Drive y feed generado automáticamente.</description>
