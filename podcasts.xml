@@ -8,7 +8,7 @@
     <title>Mi Podcast desde Google Drive</title>
     <link>https://automatizacionespodcast.github.io/rss/podcasts.xml</link>
     <language>es-es</language>
-    <copyright>© 2025 Jaume Martínez Ara</copyright>
+    <copyright>&#169; 2025 Jaume Martínez Ara</copyright>
     <itunes:author>Jaume Martínez Ara</itunes:author>
     <itunes:summary>Podcast generado con archivos mp3 alojados en Google Drive.</itunes:summary>
     <description>Podcast con episodios subidos a Google Drive y feed generado automáticamente.</description>
@@ -18,32 +18,34 @@
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://automatizacionespodcast.github.io/rss/podcast.jpg" />
-    <itunes:category text="Society Culture" />
+    <itunes:category text="Society &amp; Culture" />
     <podcast:locked>no</podcast:locked>
     <atom:link href="https://automatizacionespodcast.github.io/rss/podcasts.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>20250811__BOMBAZO____EL_BAR_A_JUGAR__un_PARTIDO_de_LALIGA_en_MIAMI___MI_OPINI_N_NO_ES_LO_QUE_PIENSAS_.mp3</title>
-      <link>https://drive.google.com/uc?id=1pqvsNquet5wKSymC5ilgZLuaeDTgfBz7&export=download</link>
-      <enclosure url="https://drive.google.com/uc?id=1pqvsNquet5wKSymC5ilgZLuaeDTgfBz7&export=download" length="5198487" type="audio/mpeg" />
+      <link>https://drive.google.com/uc?id=1pqvsNquet5wKSymC5ilgZLuaeDTgfBz7&amp;export=download</link>
+      <enclosure url="https://drive.google.com/uc?id=1pqvsNquet5wKSymC5ilgZLuaeDTgfBz7&amp;export=download" length="5198487" type="audio/mpeg" />
       <guid isPermaLink="false">1pqvsNquet5wKSymC5ilgZLuaeDTgfBz7</guid>
       <pubDate>Mon, 11 Aug 2025 20:40:19 GMT</pubDate>
       <itunes:duration>00:00:00</itunes:duration>
       <description>Primer episodio del podcast, hablando sobre fútbol y opiniones.</description>
       <itunes:image href="https://automatizacionespodcast.github.io/rss/podcast.jpg" />
       <podcast:transcript></podcast:transcript>
+      <itunes:explicit>no</itunes:explicit>
     </item>
 
     <item>
       <title>20250811__CAMP_NOU_EN_CRISIS____M_S_DE_200_FALLOS_PONEN_en_PELIGRO_EL_REGRESO_al_CAMP_NOU___Y_AHORA_QU__.mp3</title>
-      <link>https://drive.google.com/uc?id=1PZMf7jE04Y1OkG5qV8-Umm7KMj9D6d4z&export=download</link>
-      <enclosure url="https://drive.google.com/uc?id=1PZMf7jE04Y1OkG5qV8-Umm7KMj9D6d4z&export=download" length="5113486" type="audio/mpeg" />
+      <link>https://drive.google.com/uc?id=1PZMf7jE04Y1OkG5qV8-Umm7KMj9D6d4z&amp;export=download</link>
+      <enclosure url="https://drive.google.com/uc?id=1PZMf7jE04Y1OkG5qV8-Umm7KMj9D6d4z&amp;export=download" length="5113486" type="audio/mpeg" />
       <guid isPermaLink="false">1PZMf7jE04Y1OkG5qV8-Umm7KMj9D6d4z</guid>
       <pubDate>Mon, 11 Aug 2025 20:40:27 GMT</pubDate>
       <itunes:duration>00:00:00</itunes:duration>
       <description>Segundo episodio: análisis de la crisis en el Camp Nou y sus consecuencias.</description>
       <itunes:image href="https://automatizacionespodcast.github.io/rss/podcast.jpg" />
       <podcast:transcript></podcast:transcript>
+      <itunes:explicit>no</itunes:explicit>
     </item>
 
   </channel>
