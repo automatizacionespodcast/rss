@@ -21,7 +21,7 @@
     <itunes:explicit>no</itunes:explicit>
     <podcast:locked>no</podcast:locked>
     <atom:link href="https://automatizacionespodcast.github.io/rss/podcasts.xml" rel="self" type="application/rss+xml" />
-
+    
     <item>
       <title>20250811__BOMBAZO____EL_BAR_A_JUGAR__un_PARTIDO_de_LALIGA_en_MIAMI___MI_OPINI_N_NO_ES_LO_QUE_PIENSAS_.mp3</title>
       <link>https://drive.google.com/uc?id=1pqvsNquet5wKSymC5ilgZLuaeDTgfBz7&export=download</link>
@@ -32,6 +32,7 @@
       <itunes:explicit>no</itunes:explicit>
       <description>Primer episodio del podcast, hablando sobre fútbol y opiniones.</description>
       <itunes:image href="https://automatizacionespodcast.github.io/rss/podcast.jpg" />
+      <podcast:transcript></podcast:transcript>
     </item>
 
     <item>
@@ -44,6 +45,7 @@
       <itunes:explicit>no</itunes:explicit>
       <description>Segundo episodio: análisis de la crisis en el Camp Nou y sus consecuencias.</description>
       <itunes:image href="https://automatizacionespodcast.github.io/rss/podcast.jpg" />
+      <podcast:transcript></podcast:transcript>
     </item>
 
   </channel>
