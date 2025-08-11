@@ -16,9 +16,9 @@
       <itunes:name>Jaume Martínez Ara</itunes:name>
       <itunes:email>tuemail@ejemplo.com</itunes:email>
     </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://automatizacionespodcast.github.io/rss/podcast.jpg" />
     <itunes:category text="Society & Culture" />
-    <itunes:explicit>no</itunes:explicit>
     <podcast:locked>no</podcast:locked>
     <atom:link href="https://automatizacionespodcast.github.io/rss/podcasts.xml" rel="self" type="application/rss+xml" />
     
