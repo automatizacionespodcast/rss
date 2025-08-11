@@ -8,7 +8,7 @@
     <title>Mi Podcast desde Google Drive</title>
     <link>https://automatizacionespodcast.github.io/rss/podcasts.xml</link>
     <language>es-es</language>
-    <copyright>2025 Jaume Martínez Ara</copyright>
+    <copyright>(c) 2025 Jaume Martínez Ara</copyright>
     <itunes:author>Jaume Martínez Ara</itunes:author>
     <itunes:summary>Podcast generado con archivos mp3 alojados en Google Drive.</itunes:summary>
     <description>Podcast con episodios subidos a Google Drive y feed generado automáticamente.</description>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://automatizacionespodcast.github.io/rss/podcast.jpg" />
-    <itunes:category text="Society &amp; Culture" />
+    <itunes:category text="Society Culture" />
     <podcast:locked>no</podcast:locked>
     <atom:link href="https://automatizacionespodcast.github.io/rss/podcasts.xml" rel="self" type="application/rss+xml" />
     
