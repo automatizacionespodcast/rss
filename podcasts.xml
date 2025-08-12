@@ -67,6 +67,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250811_____BOMBAZO_CONFIRMADO___EL_CITY_QUIERE_FICHAR_a_RODRYGO____ERA_FALTA_de_RAPHINHA____CAMP_NOU__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/20250811_____BOMBAZO_CONFIRMADO___EL_CITY_QUIERE_FICHAR_a_RODRYGO____ERA_FALTA_de_RAPHINHA____CAMP_NOU__.mp3" length="6449997" type="audio/mpeg" />
+      <guid isPermaLink="false">e10da05911407489bf54882ea2452c3639532e1d</guid>
+      <pubDate>Tue, 12 Aug 2025 11:15:44 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250811____VALVERDE_LESIONADO__POL_MICA_LISTA_de_CONVOCADOS_vs_TIROL__FALTAN_MEDIOS_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/20250811____VALVERDE_LESIONADO__POL_MICA_LISTA_de_CONVOCADOS_vs_TIROL__FALTAN_MEDIOS_.mp3" length="12969189" type="audio/mpeg" />
+      <guid isPermaLink="false">5b5a4afff7cb6a3de2f6f123882982f4db72ef83</guid>
+      <pubDate>Tue, 12 Aug 2025 11:15:49 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
