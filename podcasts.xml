@@ -22,69 +22,6 @@
     <podcast:locked>no</podcast:locked>
     <atom:link href="https://automatizacionespodcast.github.io/rss/podcasts.xml" rel="self" type="application/rss+xml" />
 
-
-    <item>
-      <title>20250811__BOMBAZO____EL_BAR_A_JUGAR__un_PARTIDO_de_LALIGA_en_MIAMI___MI_OPINI_N_NO_ES_LO_QUE_PIENSAS_.mp3</title>
-      <enclosure url="https://automatizacionespodcast.github.io/rss/20250811__BOMBAZO____EL_BAR_A_JUGAR__un_PARTIDO_de_LALIGA_en_MIAMI___MI_OPINI_N_NO_ES_LO_QUE_PIENSAS_.mp3" length="5198487" type="audio/mpeg" />
-      <guid isPermaLink="false">eecfc735dad7c8f69ae3f944f1277b53502458cd</guid>
-      <pubDate>Tue, 12 Aug 2025 10:45:28 GMT</pubDate>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-      <title>20250811__CAMP_NOU_EN_CRISIS____M_S_DE_200_FALLOS_PONEN_en_PELIGRO_EL_REGRESO_al_CAMP_NOU___Y_AHORA_QU__.mp3</title>
-      <enclosure url="https://automatizacionespodcast.github.io/rss/20250811__CAMP_NOU_EN_CRISIS____M_S_DE_200_FALLOS_PONEN_en_PELIGRO_EL_REGRESO_al_CAMP_NOU___Y_AHORA_QU__.mp3" length="5113486" type="audio/mpeg" />
-      <guid isPermaLink="false">270f77605afa031c591a73044af35ec1bcb9a4c3</guid>
-      <pubDate>Tue, 12 Aug 2025 10:45:31 GMT</pubDate>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-      <title>20250811____SE_FILTRA_el_PLAN_INSOLITO_de_LAPORTA_CON_LAS_INSCRIPCIONES___PINTA_MUY_MAL_.mp3</title>
-      <enclosure url="https://automatizacionespodcast.github.io/rss/20250811____SE_FILTRA_el_PLAN_INSOLITO_de_LAPORTA_CON_LAS_INSCRIPCIONES___PINTA_MUY_MAL_.mp3" length="10719526" type="audio/mpeg" />
-      <guid isPermaLink="false">714d282b0d700dcf6d67ca1d51bd4995b04bbb0e</guid>
-      <pubDate>Tue, 12 Aug 2025 10:45:35 GMT</pubDate>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-      <title>20250811___ANALISIS_en_FRIO_del_BAR_A_5_0_COMO_______ESTE_BAR_A_METE_MIEDO_A_EUROPA_.mp3</title>
-      <enclosure url="https://automatizacionespodcast.github.io/rss/20250811___ANALISIS_en_FRIO_del_BAR_A_5_0_COMO_______ESTE_BAR_A_METE_MIEDO_A_EUROPA_.mp3" length="7657749" type="audio/mpeg" />
-      <guid isPermaLink="false">dd3cf6b624eac0011694f5ad961f2bb472a3125b</guid>
-      <pubDate>Tue, 12 Aug 2025 10:45:39 GMT</pubDate>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-      <title>20250811___LIO_MONUMENTAL_entre_GAVI_y_FERMIN_por_CULPA_de____SUS_NOVIAS_____MI_OPINI_N.mp3</title>
-      <enclosure url="https://automatizacionespodcast.github.io/rss/20250811___LIO_MONUMENTAL_entre_GAVI_y_FERMIN_por_CULPA_de____SUS_NOVIAS_____MI_OPINI_N.mp3" length="6228213" type="audio/mpeg" />
-      <guid isPermaLink="false">d0f4b0822ca2395ea75206aea2e2acff9a0d4cad</guid>
-      <pubDate>Tue, 12 Aug 2025 10:45:42 GMT</pubDate>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-      <title>20250811_____BOMBAZO_CONFIRMADO___EL_CITY_QUIERE_FICHAR_a_RODRYGO____ERA_FALTA_de_RAPHINHA____CAMP_NOU__.mp3</title>
-      <enclosure url="https://automatizacionespodcast.github.io/rss/20250811_____BOMBAZO_CONFIRMADO___EL_CITY_QUIERE_FICHAR_a_RODRYGO____ERA_FALTA_de_RAPHINHA____CAMP_NOU__.mp3" length="6449997" type="audio/mpeg" />
-      <guid isPermaLink="false">e10da05911407489bf54882ea2452c3639532e1d</guid>
-      <pubDate>Tue, 12 Aug 2025 11:15:44 GMT</pubDate>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-      <title>20250811____VALVERDE_LESIONADO__POL_MICA_LISTA_de_CONVOCADOS_vs_TIROL__FALTAN_MEDIOS_.mp3</title>
-      <enclosure url="https://automatizacionespodcast.github.io/rss/20250811____VALVERDE_LESIONADO__POL_MICA_LISTA_de_CONVOCADOS_vs_TIROL__FALTAN_MEDIOS_.mp3" length="12969189" type="audio/mpeg" />
-      <guid isPermaLink="false">5b5a4afff7cb6a3de2f6f123882982f4db72ef83</guid>
-      <pubDate>Tue, 12 Aug 2025 11:15:49 GMT</pubDate>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
 </channel>
 </rss>
 
