@@ -48,6 +48,15 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
 
-  </channel>
+  
+    <item>
+      <title>20250811__BOMBAZO____EL_BAR_A_JUGAR__un_PARTIDO_de_LALIGA_en_MIAMI___MI_OPINI_N_NO_ES_LO_QUE_PIENSAS_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/20250811__BOMBAZO____EL_BAR_A_JUGAR__un_PARTIDO_de_LALIGA_en_MIAMI___MI_OPINI_N_NO_ES_LO_QUE_PIENSAS_.mp3" length="5198487" type="audio/mpeg" />
+      <guid isPermaLink="false">eecfc735dad7c8f69ae3f944f1277b53502458cd</guid>
+      <pubDate>Tue, 12 Aug 2025 09:27:27 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
 </rss>
 
