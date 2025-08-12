@@ -14,7 +14,7 @@
     <description>Podcast con episodios subidos a Google Drive y feed generado automáticamente.</description>
     <itunes:owner>
       <itunes:name>Jaume Martínez Ara</itunes:name>
-      <itunes:email>tuemail@ejemplo.com</itunes:email>
+      <itunes:email>automatizacionespodcast@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://automatizacionespodcast.github.io/rss/podcast.jpg" />
@@ -27,6 +27,7 @@
       <enclosure url="https://automatizacionespodcast.github.io/rss/20250811__BOMBAZO____EL_BAR_A_JUGAR__un_PARTIDO_de_LALIGA_en_MIAMI___MI_OPINI_N_NO_ES_LO_QUE_PIENSAS_.mp3" length="5198487" type="audio/mpeg" />
       <guid isPermaLink="false">eecfc735dad7c8f69ae3f944f1277b53502458cd</guid>
       <pubDate>Tue, 12 Aug 2025 09:27:27 GMT</pubDate>
+      <itunes:summary>En este episodio hablamos sobre inteligencia artificial aplicada a negocios pequeños.</itunes:summary>
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
