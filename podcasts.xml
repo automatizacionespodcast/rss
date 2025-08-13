@@ -229,6 +229,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250813____EL_PSG_GANA_de_MILAGRO_al_TOTTENHAM_en_los_PENALES_y_es_CAMPE_N_____PSG_2_4_3_2_TOTTENHAM.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/20250813____EL_PSG_GANA_de_MILAGRO_al_TOTTENHAM_en_los_PENALES_y_es_CAMPE_N_____PSG_2_4_3_2_TOTTENHAM.mp3" length="5793981" type="audio/mpeg" />
+      <guid isPermaLink="false">7875532f62e19fd84c637dd9223b45578bfe0791</guid>
+      <pubDate>Wed, 13 Aug 2025 22:31:59 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250813___EL_PSG_de_LUIS_ENRIQUE_REMONTA_un_0_2_al_PECHOFR_O_TOTTENHAM_con_un_ESTELAR_DEMB_L___BAL_N_de_ORO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/20250813___EL_PSG_de_LUIS_ENRIQUE_REMONTA_un_0_2_al_PECHOFR_O_TOTTENHAM_con_un_ESTELAR_DEMB_L___BAL_N_de_ORO_.mp3" length="7522365" type="audio/mpeg" />
+      <guid isPermaLink="false">92c80c6d45e826ff6e798c340fd43c327309251c</guid>
+      <pubDate>Wed, 13 Aug 2025 22:32:01 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
