@@ -247,6 +247,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250813__BOMBAZO____JOAN_GARCIA_SER__INSCRITO_de_FORMA_INMINENTE___LA_LIGA_APRUEBA_LA_LESI_N_DE_TER_STEGEN_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250813__BOMBAZO____JOAN_GARCIA_SER__INSCRITO_de_FORMA_INMINENTE___LA_LIGA_APRUEBA_LA_LESI_N_DE_TER_STEGEN_.mp3" length="5512533" type="audio/mpeg" />
+      <guid isPermaLink="false">f215788ec4fa689ed879414b4ac2d5d3f392c809</guid>
+      <pubDate>Wed, 13 Aug 2025 23:31:24 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
