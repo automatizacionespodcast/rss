@@ -301,6 +301,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250814_EL_PSG_SUFRE_para_GANARLE_al_TOTTENHAM_la_SUPERCOPA_de_EUROPA__YA_NO_METE_MIEDO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250814_EL_PSG_SUFRE_para_GANARLE_al_TOTTENHAM_la_SUPERCOPA_de_EUROPA__YA_NO_METE_MIEDO_.mp3" length="13096749" type="audio/mpeg" />
+      <guid isPermaLink="false">a0676865f63add7402083836e2194d9b4f614a75</guid>
+      <pubDate>Thu, 14 Aug 2025 17:32:01 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
