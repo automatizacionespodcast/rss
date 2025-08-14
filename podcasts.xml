@@ -274,6 +274,33 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250814____DECEPCION_TOTAL_en_MADRID_TRAS_la_PRESENTACI_N_de_MASTANTUONO___ALABA_A_MESSI_EN_SU_PRESENTACI_N_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250814____DECEPCION_TOTAL_en_MADRID_TRAS_la_PRESENTACI_N_de_MASTANTUONO___ALABA_A_MESSI_EN_SU_PRESENTACI_N_.mp3" length="5724885" type="audio/mpeg" />
+      <guid isPermaLink="false">39f00810d730fb2f8d8a8041896d6646b20b8f16</guid>
+      <pubDate>Thu, 14 Aug 2025 14:38:20 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250814____FRANCO_MASTANTUONO_ILUSIONA_____MESSI_el_MEJOR_del_MUNDO____POL_MICA_con_su_DORSAL_en_el_MADRID.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250814____FRANCO_MASTANTUONO_ILUSIONA_____MESSI_el_MEJOR_del_MUNDO____POL_MICA_con_su_DORSAL_en_el_MADRID.mp3" length="8532213" type="audio/mpeg" />
+      <guid isPermaLink="false">11fb0e52d0c6ece58bdf83cf12960e7195e25559</guid>
+      <pubDate>Thu, 14 Aug 2025 14:38:23 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250814____MASTANTUONO_PRESENTADO_con_POL_MICA___MESSI_es_el_MEJOR_del_MUNDO___DORSAL_30_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250814____MASTANTUONO_PRESENTADO_con_POL_MICA___MESSI_es_el_MEJOR_del_MUNDO___DORSAL_30_.mp3" length="9588861" type="audio/mpeg" />
+      <guid isPermaLink="false">a8fe7c4dcd19285fdec6b4edefe2d21982e7da20</guid>
+      <pubDate>Thu, 14 Aug 2025 14:38:25 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
