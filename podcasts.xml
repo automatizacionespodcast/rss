@@ -328,6 +328,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250814____BOMBAZO_DE_ULTIMA_HORA_SOBRE_MARCUS_RASHFORD___INSCRIPCI_N_PRIORITARIA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250814____BOMBAZO_DE_ULTIMA_HORA_SOBRE_MARCUS_RASHFORD___INSCRIPCI_N_PRIORITARIA_.mp3" length="6732021" type="audio/mpeg" />
+      <guid isPermaLink="false">8d0fa748bb5b948ae7af45763d06e0230eb0e2cd</guid>
+      <pubDate>Thu, 14 Aug 2025 19:31:23 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
