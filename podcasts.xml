@@ -5,13 +5,13 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <title>Mi Podcast desde Google Drive</title>
+    <title>YTChannels2Podcast</title>
     <link>https://automatizacionespodcast.github.io/rss/podcasts.xml</link>
     <language>es-es</language>
     <copyright>(c) 2025 Jaume Martínez Ara</copyright>
     <itunes:author>Jaume Martínez Ara</itunes:author>
-    <itunes:summary>Podcast generado con archivos mp3 alojados en Google Drive.</itunes:summary>
-    <description>Podcast con episodios subidos a Google Drive y feed generado automáticamente.</description>
+    <itunes:summary>Podcasts de los videos de mis canales de YT favoritos.</itunes:summary>
+    <description>Podcasts de los videos de mis canales de YT favoritos.</description>
     <itunes:owner>
       <itunes:name>Jaume Martínez Ara</itunes:name>
       <itunes:email>automatizacionespodcast@gmail.com</itunes:email>
