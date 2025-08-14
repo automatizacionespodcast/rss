@@ -265,6 +265,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250814____IMPRESIONANTES_DECLARACIONES_de_JOAN_GARCIA_que_ILUSIONAN_al_BARCELONISMO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250814____IMPRESIONANTES_DECLARACIONES_de_JOAN_GARCIA_que_ILUSIONAN_al_BARCELONISMO_.mp3" length="6858237" type="audio/mpeg" />
+      <guid isPermaLink="false">cbc349238c63e3c032019081a05df7ed66bcb96d</guid>
+      <pubDate>Thu, 14 Aug 2025 13:31:22 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
