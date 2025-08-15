@@ -364,6 +364,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250815__ME_ARRIESGO____REVELO_MI_PRONOSTICO_DEL_BAR_A_PARA_LALIGA_TEMPORADA_2025_2026___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250815__ME_ARRIESGO____REVELO_MI_PRONOSTICO_DEL_BAR_A_PARA_LALIGA_TEMPORADA_2025_2026___.mp3" length="9600093" type="audio/mpeg" />
+      <guid isPermaLink="false">d0547336f393f4c8d0517ad484df0bad4e7995bd</guid>
+      <pubDate>Fri, 15 Aug 2025 14:37:39 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250815____EL_RID_CULO_DEL_A_O__Antimadridistas_inventan_drama_con_Mastantuono_y_el_dorsal_30.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250815____EL_RID_CULO_DEL_A_O__Antimadridistas_inventan_drama_con_Mastantuono_y_el_dorsal_30.mp3" length="14894325" type="audio/mpeg" />
+      <guid isPermaLink="false">bfaaeff5f9a7c38ba89884aad272cf567b488d99</guid>
+      <pubDate>Fri, 15 Aug 2025 14:37:42 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
