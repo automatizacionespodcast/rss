@@ -382,6 +382,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250815___Los_Jugadores_del_MADRID_que_SE_LA_JUEGAN_esta_Temporada.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250815___Los_Jugadores_del_MADRID_que_SE_LA_JUEGAN_esta_Temporada.mp3" length="14822949" type="audio/mpeg" />
+      <guid isPermaLink="false">e458c3d938c4bc388b5c371766ef295a9cbb61ae</guid>
+      <pubDate>Fri, 15 Aug 2025 17:36:08 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250815_LA_PREVIA_DEL_PRIMER_PARTIDO_DE_LA_TEMPORADA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250815_LA_PREVIA_DEL_PRIMER_PARTIDO_DE_LA_TEMPORADA.mp3" length="7498317" type="audio/mpeg" />
+      <guid isPermaLink="false">38fb2b23627c780a9e58a490c6e12d1b2ca936db</guid>
+      <pubDate>Fri, 15 Aug 2025 17:36:11 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
