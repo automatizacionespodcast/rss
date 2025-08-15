@@ -400,6 +400,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250815_Xabi_Alonso_ha_CAMBIADO_a_Mbapp__y_Vinicius__La_NUEVA_pareja_que_ilusiona_al_madridismo_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250815_Xabi_Alonso_ha_CAMBIADO_a_Mbapp__y_Vinicius__La_NUEVA_pareja_que_ilusiona_al_madridismo_.mp3" length="11689701" type="audio/mpeg" />
+      <guid isPermaLink="false">95614a77c8a713b79e76dc0490cb48ac9a5ee9a2</guid>
+      <pubDate>Fri, 15 Aug 2025 19:31:30 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
