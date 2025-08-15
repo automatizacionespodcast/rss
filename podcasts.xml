@@ -346,6 +346,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250815__AL_COLAPSO____SE_FILTRA_el_ABSURDO_PLAN_de_LALIGA_para_LUCHAR_CONTRA_la_PIRATERI4___NO_SABEN_NADA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250815__AL_COLAPSO____SE_FILTRA_el_ABSURDO_PLAN_de_LALIGA_para_LUCHAR_CONTRA_la_PIRATERI4___NO_SABEN_NADA_.mp3" length="14770365" type="audio/mpeg" />
+      <guid isPermaLink="false">d03de97c180eeb8f1892ac6fd3c485f0245c6488</guid>
+      <pubDate>Fri, 15 Aug 2025 13:38:14 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250815___CONDENA_HIST_RICA_por_los_AUDIOS_de_FLORENTINO_P_REZ___PALO_de_FLICK_a_FERM_N_y_RASHFORD_NO_LLEGA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250815___CONDENA_HIST_RICA_por_los_AUDIOS_de_FLORENTINO_P_REZ___PALO_de_FLICK_a_FERM_N_y_RASHFORD_NO_LLEGA.mp3" length="7221453" type="audio/mpeg" />
+      <guid isPermaLink="false">22fddc36da439b448a8668ea27965fb38cd20e2a</guid>
+      <pubDate>Fri, 15 Aug 2025 13:38:17 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
