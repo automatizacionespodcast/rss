@@ -427,6 +427,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250815___SE_FILTRA_el_PLAN_SECRETO_DEL_BAR_A_con_I_AKI_PE_A__NO_es_LO_QUE_TE_ESPERAS_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250815___SE_FILTRA_el_PLAN_SECRETO_DEL_BAR_A_con_I_AKI_PE_A__NO_es_LO_QUE_TE_ESPERAS_.mp3" length="4724685" type="audio/mpeg" />
+      <guid isPermaLink="false">f67534127f9d1fc6eeafbfc15de5f84f94a59a42</guid>
+      <pubDate>Fri, 15 Aug 2025 22:31:16 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
