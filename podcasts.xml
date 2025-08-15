@@ -337,6 +337,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250815____FLICK_EXPLOTA_CONTRA_LA_DIRECTIVA_por_el_CAOS_de_las_INSCRIPCIONES_____RUEDA_DE_PRENSA_FLICK_25_26.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250815____FLICK_EXPLOTA_CONTRA_LA_DIRECTIVA_por_el_CAOS_de_las_INSCRIPCIONES_____RUEDA_DE_PRENSA_FLICK_25_26.mp3" length="7660917" type="audio/mpeg" />
+      <guid isPermaLink="false">5c82f7361fb8931d58f12ddc880b4be8e57fbb54</guid>
+      <pubDate>Fri, 15 Aug 2025 11:31:35 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
