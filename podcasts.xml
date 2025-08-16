@@ -526,6 +526,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250816_LAMINE_EST__IMPARABLE__RAPHINHA_Y_FERRAN_VUELVEN_A_MARCAR_Y_GOLEADA_0_3_DEL_FC_BARCELONA___LALIGA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250816_LAMINE_EST__IMPARABLE__RAPHINHA_Y_FERRAN_VUELVEN_A_MARCAR_Y_GOLEADA_0_3_DEL_FC_BARCELONA___LALIGA.mp3" length="6205485" type="audio/mpeg" />
+      <guid isPermaLink="false">921bfa4b092e03eeb8f9e42e53a811d89dc3031e</guid>
+      <pubDate>Sat, 16 Aug 2025 21:01:15 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
