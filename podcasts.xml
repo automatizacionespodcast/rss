@@ -490,6 +490,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250816_____DATO_DEMOLEDOR_en_el_MALLORCA_vs_BAR_A___EMPEZ__el_F_TBOL___PRIMERA_JORNADA_LALIGA___PREDICCI_N.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250816_____DATO_DEMOLEDOR_en_el_MALLORCA_vs_BAR_A___EMPEZ__el_F_TBOL___PRIMERA_JORNADA_LALIGA___PREDICCI_N.mp3" length="5164413" type="audio/mpeg" />
+      <guid isPermaLink="false">95a80db30be2ca6e5390708de788208ca2a9b799</guid>
+      <pubDate>Sat, 16 Aug 2025 15:31:01 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
