@@ -499,6 +499,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250816_REACCIONES_DE_UN_HINCHA_al_Mallorca_vs_Barcelona_0_3__EL__RBITRO_LA_L_A____ByDiegoX10.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250816_REACCIONES_DE_UN_HINCHA_al_Mallorca_vs_Barcelona_0_3__EL__RBITRO_LA_L_A____ByDiegoX10.mp3" length="8465157" type="audio/mpeg" />
+      <guid isPermaLink="false">5868b60a549dc581c0911a80f97a4379abaa1760</guid>
+      <pubDate>Sat, 16 Aug 2025 19:51:31 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
