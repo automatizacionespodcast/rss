@@ -544,6 +544,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250816_EL_FC_BARCELONA_GANA_0_3_CON_MUCHA_POLE_MICA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250816_EL_FC_BARCELONA_GANA_0_3_CON_MUCHA_POLE_MICA.mp3" length="16237461" type="audio/mpeg" />
+      <guid isPermaLink="false">d2c4db1de79abf0211596da2740f876a3968980b</guid>
+      <pubDate>Sat, 16 Aug 2025 21:54:05 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
