@@ -535,6 +535,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250816_REACCIONES_a_la_POL_MICA____HA_SIDO_UN_ROBO_EL_MALLORCA_0_3_BAR_A_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250816_REACCIONES_a_la_POL_MICA____HA_SIDO_UN_ROBO_EL_MALLORCA_0_3_BAR_A_.mp3" length="7141821" type="audio/mpeg" />
+      <guid isPermaLink="false">ea49e9123609b8b17782339264a7f5f9f7466b11</guid>
+      <pubDate>Sat, 16 Aug 2025 21:31:22 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
