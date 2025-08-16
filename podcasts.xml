@@ -508,6 +508,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250816__EMPEZAMOS_BIEN____EL_BAR_A_LIQUIDA_al_MALLORCA_0_3_en_un_PARTIDO_P_LEMICO___GOLAZO_DE_LAMINE_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250816__EMPEZAMOS_BIEN____EL_BAR_A_LIQUIDA_al_MALLORCA_0_3_en_un_PARTIDO_P_LEMICO___GOLAZO_DE_LAMINE_.mp3" length="8127021" type="audio/mpeg" />
+      <guid isPermaLink="false">879a07d1c90267df471ee8ceb7da515a531ed204</guid>
+      <pubDate>Sat, 16 Aug 2025 20:34:22 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250816_LAMINE_YAMAL____OTRA_EXHIBICI_N_con_GOLAZO_y_ASISTENCIA_en_el_POL_MICO_PARTIDO_MALLORCA_0_3_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250816_LAMINE_YAMAL____OTRA_EXHIBICI_N_con_GOLAZO_y_ASISTENCIA_en_el_POL_MICO_PARTIDO_MALLORCA_0_3_BAR_A.mp3" length="5936973" type="audio/mpeg" />
+      <guid isPermaLink="false">fe5bb3624555b6a1ae06a9090f363b4c34d5c16a</guid>
+      <pubDate>Sat, 16 Aug 2025 20:34:24 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
