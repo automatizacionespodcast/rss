@@ -652,6 +652,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250817____RODRYGO_LLEGA_TARDE_al_ENTRENO_y_SE_RIE_de_TODOS__ARSENAL_RECHAZA_TRUEQUE___JUDE_VUELVE_PRONTO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250817____RODRYGO_LLEGA_TARDE_al_ENTRENO_y_SE_RIE_de_TODOS__ARSENAL_RECHAZA_TRUEQUE___JUDE_VUELVE_PRONTO.mp3" length="10135965" type="audio/mpeg" />
+      <guid isPermaLink="false">6182cebefce4a28b2cefda8fdaedd66719cf845b</guid>
+      <pubDate>Sun, 17 Aug 2025 19:01:21 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
