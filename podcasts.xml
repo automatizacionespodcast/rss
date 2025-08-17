@@ -589,6 +589,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250817_MALLORCA_0_3_FC_BARCELONA__LAMINE_IMPARABLE_y_LOS__RBITROS_ENSUCIAN_TODO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250817_MALLORCA_0_3_FC_BARCELONA__LAMINE_IMPARABLE_y_LOS__RBITROS_ENSUCIAN_TODO_.mp3" length="14770845" type="audio/mpeg" />
+      <guid isPermaLink="false">93f79d3696c618c54c5a03f2c0e6686479d3bd26</guid>
+      <pubDate>Sun, 17 Aug 2025 14:02:19 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
