@@ -616,6 +616,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250817__POL_MICA_TOTAL____EL_MADRID_ESTALLA_y_ACUSA_al_BAR_A_de_ADULTERAR_LALIGA_TRAS_el_MALLORCA_0_3_BAR_A_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250817__POL_MICA_TOTAL____EL_MADRID_ESTALLA_y_ACUSA_al_BAR_A_de_ADULTERAR_LALIGA_TRAS_el_MALLORCA_0_3_BAR_A_.mp3" length="5223141" type="audio/mpeg" />
+      <guid isPermaLink="false">add5158555516ea51f9d1d6262113505eec616d2</guid>
+      <pubDate>Sun, 17 Aug 2025 15:31:15 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
