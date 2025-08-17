@@ -571,6 +571,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250817____SE_FILTRA_el_MOTIVO_REAL_del_BRUTAL_ENFADO_de_HANSI_FLICK_TRAS_el_MALLORCA_0_3_BAR_A_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250817____SE_FILTRA_el_MOTIVO_REAL_del_BRUTAL_ENFADO_de_HANSI_FLICK_TRAS_el_MALLORCA_0_3_BAR_A_.mp3" length="5040645" type="audio/mpeg" />
+      <guid isPermaLink="false">44cbb272d7cbddba1362d38595e188b32c052b37</guid>
+      <pubDate>Sun, 17 Aug 2025 13:33:17 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250817_OPINI_N__GOL_POL_MICO_DE_FERRAN_Y_EL_MALLORCA_PUDO_TERMINAR_MUCHO_PEOR_QUE_EL_0_3_VS_FC_BARCELONA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250817_OPINI_N__GOL_POL_MICO_DE_FERRAN_Y_EL_MALLORCA_PUDO_TERMINAR_MUCHO_PEOR_QUE_EL_0_3_VS_FC_BARCELONA.mp3" length="5753949" type="audio/mpeg" />
+      <guid isPermaLink="false">a828097781e5ffc268a102ecb1c819159bec9e62</guid>
+      <pubDate>Sun, 17 Aug 2025 13:33:18 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
