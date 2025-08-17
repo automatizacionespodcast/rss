@@ -643,6 +643,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250817____SE_DESVELA_LA_OSCURA_CAMPA_A_CONTRA_el_BAR_A_de_LALIGA_por_el_ARBITRAJE___NO_PODR_N_COMPETIR_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250817____SE_DESVELA_LA_OSCURA_CAMPA_A_CONTRA_el_BAR_A_de_LALIGA_por_el_ARBITRAJE___NO_PODR_N_COMPETIR_.mp3" length="8156445" type="audio/mpeg" />
+      <guid isPermaLink="false">9ca0b2b092891ed165efbb1091943f14c50ddc0e</guid>
+      <pubDate>Sun, 17 Aug 2025 18:51:50 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
