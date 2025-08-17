@@ -562,6 +562,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250817___EL_DETALLE_que_NADIE_VI__del_MALLORCA_0_3_BAR_A____ANALISIS_EN_FRIO_MALLORCA_0_3_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250817___EL_DETALLE_que_NADIE_VI__del_MALLORCA_0_3_BAR_A____ANALISIS_EN_FRIO_MALLORCA_0_3_BAR_A.mp3" length="6597021" type="audio/mpeg" />
+      <guid isPermaLink="false">d9899a9a4c98df03ca8057312645e1ce04cd3364</guid>
+      <pubDate>Sun, 17 Aug 2025 11:31:22 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
