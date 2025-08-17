@@ -598,6 +598,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250817_PUES_S_____LAMINE_la_EST__ROMPIENDO_con_el_10___RASHFORD_y_FERM_N_se_APAGAN___BAR_A_SE_DESINFL____.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250817_PUES_S_____LAMINE_la_EST__ROMPIENDO_con_el_10___RASHFORD_y_FERM_N_se_APAGAN___BAR_A_SE_DESINFL____.mp3" length="5172117" type="audio/mpeg" />
+      <guid isPermaLink="false">4840676b02d8cb731edb209f2e28ad2387e7a58d</guid>
+      <pubDate>Sun, 17 Aug 2025 14:13:05 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250817_LAS_NOTAS_DEL_MALLORCA___FC_BARCELONA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250817_LAS_NOTAS_DEL_MALLORCA___FC_BARCELONA.mp3" length="6665949" type="audio/mpeg" />
+      <guid isPermaLink="false">1dd032eecc314a1143af6426a454eb6f54ebfd3b</guid>
+      <pubDate>Sun, 17 Aug 2025 14:13:07 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
