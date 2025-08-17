@@ -625,6 +625,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250817___RODRYGO_LLEGA_TARDE___Y_ESTE_QUIERE_JUGAR____CTA_CONFIRMA_un_ERROR_ESCANDALOSO_en_el_BAR_A_MALLORCA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250817___RODRYGO_LLEGA_TARDE___Y_ESTE_QUIERE_JUGAR____CTA_CONFIRMA_un_ERROR_ESCANDALOSO_en_el_BAR_A_MALLORCA.mp3" length="6465525" type="audio/mpeg" />
+      <guid isPermaLink="false">ccdfcb9d7cbf53a9dac5a48e669873963813d3cb</guid>
+      <pubDate>Sun, 17 Aug 2025 16:31:16 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
