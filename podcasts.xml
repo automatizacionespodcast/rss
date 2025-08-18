@@ -724,6 +724,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250818_VINICIUS___LTIMA_OPORTUNIDAD___RINDES_o_ADI_S.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250818_VINICIUS___LTIMA_OPORTUNIDAD___RINDES_o_ADI_S.mp3" length="7508733" type="audio/mpeg" />
+      <guid isPermaLink="false">6f8b5a5ab653a1cc0bdbdba077cb8add251ac210</guid>
+      <pubDate>Mon, 18 Aug 2025 17:51:26 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
