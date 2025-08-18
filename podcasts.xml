@@ -679,6 +679,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250818_EL_ATLETI_PECHOFR_A_en_la_1_JORNADA__LE_REMONTA_el_ESPANYOL_2_1_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250818_EL_ATLETI_PECHOFR_A_en_la_1_JORNADA__LE_REMONTA_el_ESPANYOL_2_1_.mp3" length="16186197" type="audio/mpeg" />
+      <guid isPermaLink="false">492a5efde3e11a9a97cd08c6585146a88fd84032</guid>
+      <pubDate>Mon, 18 Aug 2025 14:02:51 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
