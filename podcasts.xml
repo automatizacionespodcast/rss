@@ -688,6 +688,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250818____COMPETICI_N_ADULTERADA____XABI_ALONSO_MUY_CONTUNDENTE___MASTANTUONO__MESSI__LAMINE_YAMAL___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250818____COMPETICI_N_ADULTERADA____XABI_ALONSO_MUY_CONTUNDENTE___MASTANTUONO__MESSI__LAMINE_YAMAL___.mp3" length="7090221" type="audio/mpeg" />
+      <guid isPermaLink="false">17e6e2242869d31cf28de0730724906e7ff62226</guid>
+      <pubDate>Mon, 18 Aug 2025 14:11:21 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
