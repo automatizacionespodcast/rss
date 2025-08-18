@@ -760,6 +760,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250818___BAR_A_CAMBIA_el_PLAN_con_BARDGHJI_por_MASTANTUONO___LIADA_con_las_CAMISETAS_CUL_S___VINICIUS_FUERA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250818___BAR_A_CAMBIA_el_PLAN_con_BARDGHJI_por_MASTANTUONO___LIADA_con_las_CAMISETAS_CUL_S___VINICIUS_FUERA.mp3" length="7319877" type="audio/mpeg" />
+      <guid isPermaLink="false">9fb30ce8125525a0b2729411647db7acdd0c5cdf</guid>
+      <pubDate>Mon, 18 Aug 2025 21:51:20 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
