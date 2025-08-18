@@ -715,6 +715,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250818___XABI_ALONSO_MUY_CR_TICO_con_TEBAS_por_MIAMI__POL_MICA_ARBITRAL__MASTANTUONO__LAMINE_YAMAL___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250818___XABI_ALONSO_MUY_CR_TICO_con_TEBAS_por_MIAMI__POL_MICA_ARBITRAL__MASTANTUONO__LAMINE_YAMAL___.mp3" length="14593221" type="audio/mpeg" />
+      <guid isPermaLink="false">3abc0cf9aa08dfb3be529cac2758b2d41eab467d</guid>
+      <pubDate>Mon, 18 Aug 2025 17:02:16 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
