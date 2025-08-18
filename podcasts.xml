@@ -751,6 +751,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250818__NOTICI_N____El_BAR_A_DESCUBRE_la_TRAMPA_del_MADRID_con_su_FICHAJE_ESTRELLA___ESTO_HAR__EL_BAR_A_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250818__NOTICI_N____El_BAR_A_DESCUBRE_la_TRAMPA_del_MADRID_con_su_FICHAJE_ESTRELLA___ESTO_HAR__EL_BAR_A_.mp3" length="5399109" type="audio/mpeg" />
+      <guid isPermaLink="false">8ee5fa0c6b4394614281f630a02c656b50443561</guid>
+      <pubDate>Mon, 18 Aug 2025 19:51:14 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
