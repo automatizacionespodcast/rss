@@ -697,6 +697,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250818__BOMBAZO____El_BAR_A_ADMITE_que_el_FAIR_PLAY_lo_TIENE_CONTRA_LAS_CUERDAS_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250818__BOMBAZO____El_BAR_A_ADMITE_que_el_FAIR_PLAY_lo_TIENE_CONTRA_LAS_CUERDAS_.mp3" length="7634757" type="audio/mpeg" />
+      <guid isPermaLink="false">d947e64b8ecf122166842086ff64245ca39651fb</guid>
+      <pubDate>Mon, 18 Aug 2025 14:51:22 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
