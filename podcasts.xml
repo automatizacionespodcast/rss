@@ -742,6 +742,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250818___LO_de_LAMINE_YAMAL_da_MIEDO___LEWANDOWSKI_VUELVE_a_ENTRENARSE___LIO_con_la_3_EQUIPACI_N.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250818___LO_de_LAMINE_YAMAL_da_MIEDO___LEWANDOWSKI_VUELVE_a_ENTRENARSE___LIO_con_la_3_EQUIPACI_N.mp3" length="12307509" type="audio/mpeg" />
+      <guid isPermaLink="false">f8f365768ab7b10a948487740928570a3cca02ef</guid>
+      <pubDate>Mon, 18 Aug 2025 19:01:29 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
