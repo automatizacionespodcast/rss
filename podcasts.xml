@@ -733,6 +733,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250818_NADIE_LO_ESPERA____EL_BAR_A_PREPARA_SALIDAS_BOMBA_para_INSCRIBIR_a_SZCZESNY_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250818_NADIE_LO_ESPERA____EL_BAR_A_PREPARA_SALIDAS_BOMBA_para_INSCRIBIR_a_SZCZESNY_.mp3" length="5555613" type="audio/mpeg" />
+      <guid isPermaLink="false">745aef64a5c2512f64c217755a06c478a108a906</guid>
+      <pubDate>Mon, 18 Aug 2025 18:31:15 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
