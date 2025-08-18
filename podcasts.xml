@@ -706,6 +706,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250818__CAOS_en_MADRID____XABI_ALONSO_REVELA_EL_MIEDO_DEL_MADRID_AL_BAR_A_en_RUEDA_DE_PRENSA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250818__CAOS_en_MADRID____XABI_ALONSO_REVELA_EL_MIEDO_DEL_MADRID_AL_BAR_A_en_RUEDA_DE_PRENSA_.mp3" length="8410989" type="audio/mpeg" />
+      <guid isPermaLink="false">82e85d1873495c19c02448af05ad1ea706e6d91d</guid>
+      <pubDate>Mon, 18 Aug 2025 16:31:32 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
