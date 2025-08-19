@@ -769,6 +769,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250819_REAL_MADRID_vs_OSASUNA___ESTRENO_del_MADRID_de_XABI_ALONSO__PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250819_REAL_MADRID_vs_OSASUNA___ESTRENO_del_MADRID_de_XABI_ALONSO__PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="10212765" type="audio/mpeg" />
+      <guid isPermaLink="false">1d7de7cd8b7e9e5cdfa90db357a22cc5a7bfd62e</guid>
+      <pubDate>Tue, 19 Aug 2025 10:21:31 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
