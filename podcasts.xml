@@ -814,6 +814,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250819__BOMBAZO____JULI_N_ALVAR_Z_SUENA_PARA_FICHAR_POR_EL_BAR_A_y_NO_AGUANTA_M_S_al_ATLETICO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250819__BOMBAZO____JULI_N_ALVAR_Z_SUENA_PARA_FICHAR_POR_EL_BAR_A_y_NO_AGUANTA_M_S_al_ATLETICO_.mp3" length="5259717" type="audio/mpeg" />
+      <guid isPermaLink="false">fe7db8681f3dac4d5e787eed7193dfb6048f19c8</guid>
+      <pubDate>Tue, 19 Aug 2025 15:41:20 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
