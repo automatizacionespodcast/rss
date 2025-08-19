@@ -895,6 +895,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250819____TODA_la_POL_MICA_del_MADRID_1_0_OSASUNA___ERA_PENALTI_y_ROJA_____FRANCO__DOLO_del_BERNAB_U_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250819____TODA_la_POL_MICA_del_MADRID_1_0_OSASUNA___ERA_PENALTI_y_ROJA_____FRANCO__DOLO_del_BERNAB_U_.mp3" length="7358315" type="audio/mpeg" />
+      <guid isPermaLink="false">fdb8b6c8cab2dbea34c97ade6694b4f32f24bdff</guid>
+      <pubDate>Tue, 19 Aug 2025 23:42:18 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
