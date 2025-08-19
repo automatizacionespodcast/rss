@@ -850,6 +850,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250819____VICTORIA_del_MADRID_1_0_al_OSASUNA_con_AYUDA_del__RBITRO_y_POL_MICA_ROJA___NO_JUEGAN_A_NADA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250819____VICTORIA_del_MADRID_1_0_al_OSASUNA_con_AYUDA_del__RBITRO_y_POL_MICA_ROJA___NO_JUEGAN_A_NADA_.mp3" length="5891685" type="audio/mpeg" />
+      <guid isPermaLink="false">6147324fc63cf104e31321c33026e959ef7c193b</guid>
+      <pubDate>Tue, 19 Aug 2025 22:01:16 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
