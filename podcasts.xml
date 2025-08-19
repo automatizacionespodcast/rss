@@ -859,6 +859,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250819_MBAPP__EVITA_el_PINCHAZO_del_MADRID_con_GOL_de_PENALTI_1_0___AS__FUE_el_DEBUT_de_MASTANTUONO___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250819_MBAPP__EVITA_el_PINCHAZO_del_MADRID_con_GOL_de_PENALTI_1_0___AS__FUE_el_DEBUT_de_MASTANTUONO___.mp3" length="7479741" type="audio/mpeg" />
+      <guid isPermaLink="false">6714f897c936d9d72f28f7974bfdbf13251157bd</guid>
+      <pubDate>Tue, 19 Aug 2025 22:21:22 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
