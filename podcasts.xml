@@ -823,6 +823,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250819____SE_HABLA_de_ESC_NDALO_si_MASTANTUONO_JUEGA_HOY_con_el_MADRID___FRAUDE_de_LEY__ALINEACI_N_INDEBIDA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250819____SE_HABLA_de_ESC_NDALO_si_MASTANTUONO_JUEGA_HOY_con_el_MADRID___FRAUDE_de_LEY__ALINEACI_N_INDEBIDA_.mp3" length="7023597" type="audio/mpeg" />
+      <guid isPermaLink="false">d70a5f12ed7ce503daf369043a64a181971f3f9d</guid>
+      <pubDate>Tue, 19 Aug 2025 16:21:24 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
