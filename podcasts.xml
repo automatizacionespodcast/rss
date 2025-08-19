@@ -868,6 +868,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250819_EL_REAL_MADRID_GANA_EL_PRIMER_PARTIDO_DE_LIGA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250819_EL_REAL_MADRID_GANA_EL_PRIMER_PARTIDO_DE_LIGA.mp3" length="8870143" type="audio/mpeg" />
+      <guid isPermaLink="false">81304869a92c4ce32edfe8dfc1f131cda23b5127</guid>
+      <pubDate>Tue, 19 Aug 2025 22:43:41 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250819_MBAPPE_NOS_SALVA_OTRA_VEZ_Y_OTRA_VEZ_DE_PENALTI___COMIENZO_SUPER_DIFICIL___LALIGA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250819_MBAPPE_NOS_SALVA_OTRA_VEZ_Y_OTRA_VEZ_DE_PENALTI___COMIENZO_SUPER_DIFICIL___LALIGA.mp3" length="5418826" type="audio/mpeg" />
+      <guid isPermaLink="false">691fd4742d68b2507143352a9d5f21033852010e</guid>
+      <pubDate>Tue, 19 Aug 2025 22:43:43 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
