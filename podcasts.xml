@@ -886,6 +886,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250819____MASTANTUONO_DEBUTA_CON_EL_MADRID_y_el_OSASUNA_TOMAR__ESTA_DECISI_N___ALINEACI_N_INDEBIDA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250819____MASTANTUONO_DEBUTA_CON_EL_MADRID_y_el_OSASUNA_TOMAR__ESTA_DECISI_N___ALINEACI_N_INDEBIDA_.mp3" length="5255502" type="audio/mpeg" />
+      <guid isPermaLink="false">27e092356810822c495c073dc912168a8f1bfa88</guid>
+      <pubDate>Tue, 19 Aug 2025 23:01:32 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
