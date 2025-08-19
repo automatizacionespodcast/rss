@@ -787,6 +787,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250819_____DEBUTA_el_MADRID_y_MASTANTUONO____PINCHAZO_ante_OSASUNA___DATO_DEMOLEDOR__y_PREDICCI_N.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250819_____DEBUTA_el_MADRID_y_MASTANTUONO____PINCHAZO_ante_OSASUNA___DATO_DEMOLEDOR__y_PREDICCI_N.mp3" length="6818469" type="audio/mpeg" />
+      <guid isPermaLink="false">81bbfb522faa121a6e10d5b46d77793a8bc8ec39</guid>
+      <pubDate>Tue, 19 Aug 2025 13:01:18 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
