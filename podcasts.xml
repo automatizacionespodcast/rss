@@ -832,6 +832,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250819___LTIMA_HORA____EL_BAR_A_VENDER__A_CASAD__POR_UN_MILLONADA_A_LA_PREMIER_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250819___LTIMA_HORA____EL_BAR_A_VENDER__A_CASAD__POR_UN_MILLONADA_A_LA_PREMIER_.mp3" length="6871437" type="audio/mpeg" />
+      <guid isPermaLink="false">bfb231345df7e11f56fa95d7cb48db0832d5f7da</guid>
+      <pubDate>Tue, 19 Aug 2025 17:21:19 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
