@@ -841,6 +841,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250819_REACCIONES_DE_UN_HINCHA_al_Real_Madrid_vs_Osasuna_1_0__MENOS_MAL_MBAPP_____ByDiegoX10.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250819_REACCIONES_DE_UN_HINCHA_al_Real_Madrid_vs_Osasuna_1_0__MENOS_MAL_MBAPP_____ByDiegoX10.mp3" length="8350533" type="audio/mpeg" />
+      <guid isPermaLink="false">21cb726db1a72dd06d7235ac4cef50a41137dc7e</guid>
+      <pubDate>Tue, 19 Aug 2025 21:31:26 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
