@@ -778,6 +778,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250819___RASHFORD_lo_CONFIESA_TODO__IMPRESIONANTE_ENTREVISTA_que_me_HA_GUSTADO_MUCHO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250819___RASHFORD_lo_CONFIESA_TODO__IMPRESIONANTE_ENTREVISTA_que_me_HA_GUSTADO_MUCHO_.mp3" length="6210237" type="audio/mpeg" />
+      <guid isPermaLink="false">381d8b116df92230be50e763db5515a3f1b1cd09</guid>
+      <pubDate>Tue, 19 Aug 2025 11:51:23 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
