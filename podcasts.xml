@@ -931,6 +931,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250820____MALISIMAS_NOTICIAS_sobre_el_REGRESO_del_BAR_A_al_CAMP_NOU_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250820____MALISIMAS_NOTICIAS_sobre_el_REGRESO_del_BAR_A_al_CAMP_NOU_.mp3" length="5718970" type="audio/mpeg" />
+      <guid isPermaLink="false">6e6d0dba4f99ed489ae6418b685670e8909c6a83</guid>
+      <pubDate>Wed, 20 Aug 2025 15:02:20 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
