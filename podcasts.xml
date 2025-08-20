@@ -994,6 +994,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250820_____EX__RBITRO_DESTAPA_el_PENALTI_a_MBAPP__con_GERARD_ROMERO______SPOTIFY_CAMP_NOU_INUNDADO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250820_____EX__RBITRO_DESTAPA_el_PENALTI_a_MBAPP__con_GERARD_ROMERO______SPOTIFY_CAMP_NOU_INUNDADO_.mp3" length="6806757" type="audio/mpeg" />
+      <guid isPermaLink="false">d70bad7616c8a75d1eed43b465573978b983a3c2</guid>
+      <pubDate>Wed, 20 Aug 2025 23:01:26 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
