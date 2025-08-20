@@ -949,6 +949,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250820___VINICIUS_pone_en_JAQUE_al_Madrid__REVELAN_problemas_en_su_RENOVACI_N.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250820___VINICIUS_pone_en_JAQUE_al_Madrid__REVELAN_problemas_en_su_RENOVACI_N.mp3" length="13457269" type="audio/mpeg" />
+      <guid isPermaLink="false">7d4d7f32e92ae5b4ea27316e35e1df47902f544f</guid>
+      <pubDate>Wed, 20 Aug 2025 17:12:52 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
