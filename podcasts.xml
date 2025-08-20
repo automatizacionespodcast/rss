@@ -976,6 +976,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250820____LTIMA_HORA_del_BAR_A__VENTA_de_CASAD__por_30M___DE_JONG_cerca_de_RENOVAR___SALIDA_de_I_AKI_PE_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250820____LTIMA_HORA_del_BAR_A__VENTA_de_CASAD__por_30M___DE_JONG_cerca_de_RENOVAR___SALIDA_de_I_AKI_PE_A.mp3" length="11525480" type="audio/mpeg" />
+      <guid isPermaLink="false">45fe9378a971c87ecb733701943abe87ca74b94e</guid>
+      <pubDate>Wed, 20 Aug 2025 19:11:31 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
