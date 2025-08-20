@@ -985,6 +985,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250820____GIRO_RADICAL_en_el_FUTURO_de_FRENKIE_de_JONG_que_SENTENCIA_a_MARC_CASAD__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250820____GIRO_RADICAL_en_el_FUTURO_de_FRENKIE_de_JONG_que_SENTENCIA_a_MARC_CASAD__.mp3" length="6803288" type="audio/mpeg" />
+      <guid isPermaLink="false">255d378347bf983499350b256759c6195f4618d8</guid>
+      <pubDate>Wed, 20 Aug 2025 21:22:14 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
