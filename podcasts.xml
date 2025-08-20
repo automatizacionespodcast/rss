@@ -940,6 +940,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250820____MARC_CASAD__Y_FERM_N_LOPEZ_en_VENTA_INMINENTE___SI_ES_VERDAD__VOY_A_EXPLOTAR_COMO_NUNCA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250820____MARC_CASAD__Y_FERM_N_LOPEZ_en_VENTA_INMINENTE___SI_ES_VERDAD__VOY_A_EXPLOTAR_COMO_NUNCA_.mp3" length="6078382" type="audio/mpeg" />
+      <guid isPermaLink="false">f5be1c5927570c0f3c985be4df6ab2bb7ea71049</guid>
+      <pubDate>Wed, 20 Aug 2025 16:41:41 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
