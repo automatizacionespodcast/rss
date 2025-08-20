@@ -967,6 +967,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250820__ESC_NDALO_ARBITRAL____BAR_A_y_MADRID_SE_ALADOS_de_ROBOS_ARBITRALES___Y_AHORA_QU__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250820__ESC_NDALO_ARBITRAL____BAR_A_y_MADRID_SE_ALADOS_de_ROBOS_ARBITRALES___Y_AHORA_QU__.mp3" length="6101620" type="audio/mpeg" />
+      <guid isPermaLink="false">02bf6f0015da3b57473fcd987551a5d3ffc62b82</guid>
+      <pubDate>Wed, 20 Aug 2025 18:41:39 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
