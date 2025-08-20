@@ -958,6 +958,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250820_XABI_ALONSO_CUBRE_la_MENTIRA_con_RODRYGO__EST__APARTADO___BAR_A_MANDA_en_LALIGA_y_CITY_en_la_PREMIER.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250820_XABI_ALONSO_CUBRE_la_MENTIRA_con_RODRYGO__EST__APARTADO___BAR_A_MANDA_en_LALIGA_y_CITY_en_la_PREMIER.mp3" length="7144699" type="audio/mpeg" />
+      <guid isPermaLink="false">8574c64cbf32385534220fd7e84e2c0c4dc27e16</guid>
+      <pubDate>Wed, 20 Aug 2025 17:41:53 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
