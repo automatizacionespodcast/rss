@@ -922,6 +922,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250820_REAL_MADRID_1_0_OSASUNA___ESTRENO_de_XABI_con_SABOR_ANCELOTTI__GRAN_DEBUT_de_MASTANTUONO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250820_REAL_MADRID_1_0_OSASUNA___ESTRENO_de_XABI_con_SABOR_ANCELOTTI__GRAN_DEBUT_de_MASTANTUONO_.mp3" length="22367349" type="audio/mpeg" />
+      <guid isPermaLink="false">f0524914cc5bd03dc500d5af768896b113a990a0</guid>
+      <pubDate>Wed, 20 Aug 2025 14:14:39 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
