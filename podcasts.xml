@@ -904,6 +904,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250820__BOMBAZO____SE_FILTRA_EL_INS_LITO_PLAN_DEL_BAR_A_PARA_FICHAR_a_JULI_N__LVAREZ_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250820__BOMBAZO____SE_FILTRA_EL_INS_LITO_PLAN_DEL_BAR_A_PARA_FICHAR_a_JULI_N__LVAREZ_.mp3" length="5142359" type="audio/mpeg" />
+      <guid isPermaLink="false">5704260aec28b5cfe471143c8079c2852bd4b9ea</guid>
+      <pubDate>Wed, 20 Aug 2025 12:43:26 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250820_SALVADOS_por_un_PENALTI___MBAPP__DEMUESTRA_y_VINICIUS_en_CRISIS___MASTANTUONO_TIENE_COSITAS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250820_SALVADOS_por_un_PENALTI___MBAPP__DEMUESTRA_y_VINICIUS_en_CRISIS___MASTANTUONO_TIENE_COSITAS.mp3" length="8400674" type="audio/mpeg" />
+      <guid isPermaLink="false">a5d1a8b83dea17e91b609a6ba74fe836f6ac8c88</guid>
+      <pubDate>Wed, 20 Aug 2025 12:43:28 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
