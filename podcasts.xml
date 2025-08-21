@@ -1039,6 +1039,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250821__INSPECCI_N_FINAL____LA_UEFA_INVESTIGA_el_ESTADO_del_CAMP_NOU_ANTES_de_tomar_una_DECISI_N__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250821__INSPECCI_N_FINAL____LA_UEFA_INVESTIGA_el_ESTADO_del_CAMP_NOU_ANTES_de_tomar_una_DECISI_N__.mp3" length="5594887" type="audio/mpeg" />
+      <guid isPermaLink="false">aeefef5ffc76247c0e9cc8bce96ce629088680f1</guid>
+      <pubDate>Thu, 21 Aug 2025 14:41:51 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
