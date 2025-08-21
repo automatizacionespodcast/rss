@@ -1030,6 +1030,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250821____OPERACI_N_RODRYGO_en_MARCHA___QUIERE_QUEDARSE_PERO_____.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250821____OPERACI_N_RODRYGO_en_MARCHA___QUIERE_QUEDARSE_PERO_____.mp3" length="12537698" type="audio/mpeg" />
+      <guid isPermaLink="false">7f09703b49e7315625051d95b6e5a9bffec6392e</guid>
+      <pubDate>Thu, 21 Aug 2025 14:11:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
