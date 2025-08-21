@@ -1057,6 +1057,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250821__Juzgar_a_Xabi_Alonso_por_1_partido__Mourinho_y_Pep_empezaron_PEOR.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250821__Juzgar_a_Xabi_Alonso_por_1_partido__Mourinho_y_Pep_empezaron_PEOR.mp3" length="14207609" type="audio/mpeg" />
+      <guid isPermaLink="false">ec20c04cb0dd71f59a9c2304cb70c6f192d0a259</guid>
+      <pubDate>Thu, 21 Aug 2025 17:12:56 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
