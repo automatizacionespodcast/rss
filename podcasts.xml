@@ -1084,6 +1084,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250821___TRAGEDIA_en_el_INDEPENDIETE_vs_U__de_CHILE__REFLEXION_sobre_el_ODIO_en_el_F_TBOL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250821___TRAGEDIA_en_el_INDEPENDIETE_vs_U__de_CHILE__REFLEXION_sobre_el_ODIO_en_el_F_TBOL_.mp3" length="13888117" type="audio/mpeg" />
+      <guid isPermaLink="false">f522374638f6b226631821638e8f0ce003b4871d</guid>
+      <pubDate>Thu, 21 Aug 2025 19:23:29 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
