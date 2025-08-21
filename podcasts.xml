@@ -1102,6 +1102,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250821____BOMBAZO_HIST_RICO_en_el_ARBITRAJE__EL_CTA_DAR__la_CARA___La_UEFA_da_LUZ_VERDE_al_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250821____BOMBAZO_HIST_RICO_en_el_ARBITRAJE__EL_CTA_DAR__la_CARA___La_UEFA_da_LUZ_VERDE_al_BAR_A.mp3" length="5835468" type="audio/mpeg" />
+      <guid isPermaLink="false">17f3e2c200d0394e236a56a6b9183c82362e84ef</guid>
+      <pubDate>Thu, 21 Aug 2025 21:01:30 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
