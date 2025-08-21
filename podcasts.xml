@@ -1021,6 +1021,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250821____OJO__TRUEQUE_al_BAR_A_por_CASAD____TERRIBLE_PELEA_SALVAJE_en_el_F_TBOL__UEFA_INVESTIGA_el_CAMP_NOU.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250821____OJO__TRUEQUE_al_BAR_A_por_CASAD____TERRIBLE_PELEA_SALVAJE_en_el_F_TBOL__UEFA_INVESTIGA_el_CAMP_NOU.mp3" length="7168029" type="audio/mpeg" />
+      <guid isPermaLink="false">b88d16b47b70e69f281ddf87e3b796301ae93f6c</guid>
+      <pubDate>Thu, 21 Aug 2025 13:41:52 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
