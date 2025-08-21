@@ -1093,6 +1093,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250821____REUNI_N_CLAVE_LAPORTA_DECO_PARA_DECIDIR_EL_FUTURO_DE_MARC_CASAD__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250821____REUNI_N_CLAVE_LAPORTA_DECO_PARA_DECIDIR_EL_FUTURO_DE_MARC_CASAD__.mp3" length="5858697" type="audio/mpeg" />
+      <guid isPermaLink="false">1a24f23a18161cfd102b2680614a6c64ea55ab7f</guid>
+      <pubDate>Thu, 21 Aug 2025 19:41:32 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
