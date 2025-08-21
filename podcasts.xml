@@ -1003,6 +1003,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250821____HANSI_FLICK_se_HARTA_de_las_MENTIRAS_de_LAPORTA_y_EXIGE_que_se_ACABE_TODO_YA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250821____HANSI_FLICK_se_HARTA_de_las_MENTIRAS_de_LAPORTA_y_EXIGE_que_se_ACABE_TODO_YA_.mp3" length="9787359" type="audio/mpeg" />
+      <guid isPermaLink="false">85ddd36a1ed8ac76b3aa4bb4d2ceba6dc63c04e9</guid>
+      <pubDate>Thu, 21 Aug 2025 12:22:35 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
