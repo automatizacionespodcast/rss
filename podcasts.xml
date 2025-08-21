@@ -1066,6 +1066,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250821__SE_DESTAPA_LA_VERDAD____EL_BAR_A_NO_JUGAR__en_el_CAMP_NOU___LA_UEFA_y_LALIGA_lo_CONFIRMAN_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250821__SE_DESTAPA_LA_VERDAD____EL_BAR_A_NO_JUGAR__en_el_CAMP_NOU___LA_UEFA_y_LALIGA_lo_CONFIRMAN_.mp3" length="7698576" type="audio/mpeg" />
+      <guid isPermaLink="false">ea20bb346777890d908bf804cb278b9e97632ee8</guid>
+      <pubDate>Thu, 21 Aug 2025 17:42:15 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
