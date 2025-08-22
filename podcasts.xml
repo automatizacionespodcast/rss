@@ -1120,6 +1120,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250822_VAYA_PERSECUCI_N_a_LAMINE_YAMAL____FLICK_sobre_su_CELEBRACI_N___BAR_A_MANDA_a_BARDGHJI_al_FILIAL.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250822_VAYA_PERSECUCI_N_a_LAMINE_YAMAL____FLICK_sobre_su_CELEBRACI_N___BAR_A_MANDA_a_BARDGHJI_al_FILIAL.mp3" length="6766343" type="audio/mpeg" />
+      <guid isPermaLink="false">645de74286e720fdb3eb26da6dbfa1a30e302702</guid>
+      <pubDate>Fri, 22 Aug 2025 13:23:24 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250822_MIS_PREDICCIONES_A_LA_JORNADA_2___QUINIELAS_GRATIS_CON_UBIETOO___LALIGA___PREMIOS_REALES.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250822_MIS_PREDICCIONES_A_LA_JORNADA_2___QUINIELAS_GRATIS_CON_UBIETOO___LALIGA___PREMIOS_REALES.mp3" length="5334784" type="audio/mpeg" />
+      <guid isPermaLink="false">20c6cab7191f7f7685e26a5e20415e93efd72afe</guid>
+      <pubDate>Fri, 22 Aug 2025 13:23:26 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
