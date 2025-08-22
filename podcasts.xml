@@ -1219,6 +1219,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250822____ALGO_RARO_OCURRE_con_ROONY_BARDGHJI_en_el_BAR_A__TODA_LA_VERDAD_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250822____ALGO_RARO_OCURRE_con_ROONY_BARDGHJI_en_el_BAR_A__TODA_LA_VERDAD_.mp3" length="8854268" type="audio/mpeg" />
+      <guid isPermaLink="false">74ded9b69104623f594191c3d35c6b5ab1befd66</guid>
+      <pubDate>Fri, 22 Aug 2025 22:03:00 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
