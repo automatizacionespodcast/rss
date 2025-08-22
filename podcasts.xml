@@ -1210,6 +1210,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250822_____LALIGA_DESTROZA_al_BAR_A__LO_que_NADIE_te_QUIERE_DECIR_sobre_el_FAIR_PLAY.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250822_____LALIGA_DESTROZA_al_BAR_A__LO_que_NADIE_te_QUIERE_DECIR_sobre_el_FAIR_PLAY.mp3" length="12444378" type="audio/mpeg" />
+      <guid isPermaLink="false">7d6430e058cb8f28c2f420397606f78f8c199657</guid>
+      <pubDate>Fri, 22 Aug 2025 19:43:05 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
