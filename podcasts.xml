@@ -1165,6 +1165,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250822_LA_PREVIA_DEL_LEVANTE___FC_BARCELONA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250822_LA_PREVIA_DEL_LEVANTE___FC_BARCELONA.mp3" length="9924432" type="audio/mpeg" />
+      <guid isPermaLink="false">03d93e4776d50e4155442b5a439b37ef68d0914a</guid>
+      <pubDate>Fri, 22 Aug 2025 16:22:57 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
