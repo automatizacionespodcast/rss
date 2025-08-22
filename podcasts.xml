@@ -1183,6 +1183,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250822___BOMBAZO__Liverpool_REACTIVA_el_FICHAJE_de_Rodrygo_tras_el_bloqueo_por_Isak.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250822___BOMBAZO__Liverpool_REACTIVA_el_FICHAJE_de_Rodrygo_tras_el_bloqueo_por_Isak.mp3" length="12236003" type="audio/mpeg" />
+      <guid isPermaLink="false">462e6001ed8387b449e4848b01397447d7a950b8</guid>
+      <pubDate>Fri, 22 Aug 2025 17:21:34 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
