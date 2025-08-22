@@ -1156,6 +1156,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250822___ADVERTENCIA___EL_BAR_A_EST__A_PUNTO_de_COMETER_un_GRAVE_ERROR_VENDIENDO_a_HECTOR_FORT_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250822___ADVERTENCIA___EL_BAR_A_EST__A_PUNTO_de_COMETER_un_GRAVE_ERROR_VENDIENDO_a_HECTOR_FORT_.mp3" length="6122333" type="audio/mpeg" />
+      <guid isPermaLink="false">ebf8f5c355f3d26f4ee977d17a28e9166fcca4a5</guid>
+      <pubDate>Fri, 22 Aug 2025 15:22:12 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
