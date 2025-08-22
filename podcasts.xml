@@ -1111,6 +1111,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250822____HANSI_FLICK_SE_PLANTA_CONTRA_la_DIRECTIVA_y_SE_NIEGA_a_VENDER_a_CASAD____CAMBIO_DE_PLANES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250822____HANSI_FLICK_SE_PLANTA_CONTRA_la_DIRECTIVA_y_SE_NIEGA_a_VENDER_a_CASAD____CAMBIO_DE_PLANES_.mp3" length="6695233" type="audio/mpeg" />
+      <guid isPermaLink="false">6f849fbe1ef1846946279fea243affdace750686</guid>
+      <pubDate>Fri, 22 Aug 2025 11:42:09 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
