@@ -1228,6 +1228,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250822___ES_LAMENTABLE_____RODRYGO_EXIGE_su_LUGAR_a_XABI_ALONSO_____Y_VINICIUS__PERDER__el_PUESTO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250822___ES_LAMENTABLE_____RODRYGO_EXIGE_su_LUGAR_a_XABI_ALONSO_____Y_VINICIUS__PERDER__el_PUESTO_.mp3" length="5345866" type="audio/mpeg" />
+      <guid isPermaLink="false">be842b54dcfbde907e69d0cc64e7d18cc7c7ef44</guid>
+      <pubDate>Fri, 22 Aug 2025 22:21:21 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
