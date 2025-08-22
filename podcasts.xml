@@ -1201,6 +1201,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250822__Qu__pasa_con_Vinicius__Xabi_Alonso_lo_podr_a_mandar_al_BANQUILLO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250822__Qu__pasa_con_Vinicius__Xabi_Alonso_lo_podr_a_mandar_al_BANQUILLO.mp3" length="16498910" type="audio/mpeg" />
+      <guid isPermaLink="false">0be15223d02c887bc4686e8a92f4ecc486c5f537</guid>
+      <pubDate>Fri, 22 Aug 2025 19:03:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
