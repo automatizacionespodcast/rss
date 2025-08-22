@@ -1192,6 +1192,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250822_____ESC_NDALO__EL_BAR_A_se_QUEDA_sin_ESTADIO_para_ARRANCAR_LALIGA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250822_____ESC_NDALO__EL_BAR_A_se_QUEDA_sin_ESTADIO_para_ARRANCAR_LALIGA.mp3" length="6665337" type="audio/mpeg" />
+      <guid isPermaLink="false">a3c053a81873731ca6941c7db28bdcb1fde5447e</guid>
+      <pubDate>Fri, 22 Aug 2025 17:41:41 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
