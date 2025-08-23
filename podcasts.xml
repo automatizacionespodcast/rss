@@ -1327,6 +1327,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250823___REACCIONES_a_la_POL_MICA____HA_SIDO_ROBO_DEL_ARBITRO_en_el_LEVANTE_2_3_BAR_A_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250823___REACCIONES_a_la_POL_MICA____HA_SIDO_ROBO_DEL_ARBITRO_en_el_LEVANTE_2_3_BAR_A_.mp3" length="6151389" type="audio/mpeg" />
+      <guid isPermaLink="false">ef3dc7c209d8ae5f99c7c8ac84701cdd2599b44c</guid>
+      <pubDate>Sat, 23 Aug 2025 23:42:20 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250823___NUEVO_BOCHORNO_ARBITRAL_que_PERJUDICA_al_BAR_A___LA_DE_TCHOUAMENI_NO_HA_SIDO_MANO_Y_LA_DE_BALDE_SI_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250823___NUEVO_BOCHORNO_ARBITRAL_que_PERJUDICA_al_BAR_A___LA_DE_TCHOUAMENI_NO_HA_SIDO_MANO_Y_LA_DE_BALDE_SI_.mp3" length="6649498" type="audio/mpeg" />
+      <guid isPermaLink="false">f7a997778b6d320116d3ce809171a1ecf08319a4</guid>
+      <pubDate>Sat, 23 Aug 2025 23:42:22 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
