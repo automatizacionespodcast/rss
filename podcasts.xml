@@ -1264,6 +1264,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250823_____DATO_DEMOLEDOR___EL_BAR_A_vs_LEVANTE___SORPRESA_A_LA_VISTA___Mi_BRUTAL_PREDICCI_N____JORNADA_2.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250823_____DATO_DEMOLEDOR___EL_BAR_A_vs_LEVANTE___SORPRESA_A_LA_VISTA___Mi_BRUTAL_PREDICCI_N____JORNADA_2.mp3" length="5360289" type="audio/mpeg" />
+      <guid isPermaLink="false">f97e0a849aec16ce567e3ba83feb4a17c9fb511d</guid>
+      <pubDate>Sat, 23 Aug 2025 13:51:50 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
