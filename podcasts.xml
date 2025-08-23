@@ -1255,6 +1255,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250823____SE_DESTAPA_la_CAMPA_A_ANTIBAR_A_m_s_BRUTAL_de_la_CAVERNA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250823____SE_DESTAPA_la_CAMPA_A_ANTIBAR_A_m_s_BRUTAL_de_la_CAVERNA_.mp3" length="6895764" type="audio/mpeg" />
+      <guid isPermaLink="false">d6a27418cf46d30e03f26a567c573f85254872e5</guid>
+      <pubDate>Sat, 23 Aug 2025 13:41:33 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
