@@ -1237,6 +1237,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250823_LEVANTE_vs_FC_BARCELONA__ESTADIO_COMPLICADO___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250823_LEVANTE_vs_FC_BARCELONA__ESTADIO_COMPLICADO___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="10438202" type="audio/mpeg" />
+      <guid isPermaLink="false">3a6fb0f695b6c79f7ea870ad8d5f8ed55f3fd84d</guid>
+      <pubDate>Sat, 23 Aug 2025 10:02:16 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
