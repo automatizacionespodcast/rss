@@ -1300,6 +1300,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250823_PEDRI_INCRE_BLE_Y_MVP__PARTIDAZO_DE_RAPHINHA_Y_LAMINE___REMONTADA_DEL_BAR_A_2_3_ANTE_UN_LEVANTE_DURO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250823_PEDRI_INCRE_BLE_Y_MVP__PARTIDAZO_DE_RAPHINHA_Y_LAMINE___REMONTADA_DEL_BAR_A_2_3_ANTE_UN_LEVANTE_DURO.mp3" length="6620559" type="audio/mpeg" />
+      <guid isPermaLink="false">cad14c7a588ef88033e2effad1aa79ae22b27b94</guid>
+      <pubDate>Sat, 23 Aug 2025 22:11:58 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
