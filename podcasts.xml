@@ -1246,6 +1246,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250823____NO_DEJ_IS_QUE_EL_OTRO_EQUIPO_SE_LEVANTE______PREVIA_LEVANTE_vs_BAR_A_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250823____NO_DEJ_IS_QUE_EL_OTRO_EQUIPO_SE_LEVANTE______PREVIA_LEVANTE_vs_BAR_A_.mp3" length="6844283" type="audio/mpeg" />
+      <guid isPermaLink="false">e3123b01cee4ce26bfe820bed1295dede55f0f68</guid>
+      <pubDate>Sat, 23 Aug 2025 11:41:57 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
