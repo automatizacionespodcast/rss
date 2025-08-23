@@ -1273,6 +1273,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250823____MASTANTUONO_es_MEJOR_que_LAMINE_YAMAL__XABI_ALONSO_NO_da_por_CERRADA_la_PLANTILLA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250823____MASTANTUONO_es_MEJOR_que_LAMINE_YAMAL__XABI_ALONSO_NO_da_por_CERRADA_la_PLANTILLA.mp3" length="14679989" type="audio/mpeg" />
+      <guid isPermaLink="false">cceb1f8559020c6c83b751256b002791a1b3e964</guid>
+      <pubDate>Sat, 23 Aug 2025 14:22:03 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
