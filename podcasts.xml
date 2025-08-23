@@ -1309,6 +1309,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250823_BRUTAAAL___EL_BAR_A_REMONTA__PICAMENTE_3_2_al_LEVANTE_a_PESAR_del_ROBO_ARBITRAL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250823_BRUTAAAL___EL_BAR_A_REMONTA__PICAMENTE_3_2_al_LEVANTE_a_PESAR_del_ROBO_ARBITRAL_.mp3" length="7749632" type="audio/mpeg" />
+      <guid isPermaLink="false">2278776b8820fc8bbdf43b2e8adab0dd215fecbe</guid>
+      <pubDate>Sat, 23 Aug 2025 22:21:39 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
