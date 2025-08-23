@@ -1318,6 +1318,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250823_____EL_BAR_A_REMONTA_al_LEVANTE_2_3_en_el_91____LAMINE_YAMAL_y_PEDRI_EXHIBICI_N___GOL_en_PROPIA______.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250823_____EL_BAR_A_REMONTA_al_LEVANTE_2_3_en_el_91____LAMINE_YAMAL_y_PEDRI_EXHIBICI_N___GOL_en_PROPIA______.mp3" length="5941898" type="audio/mpeg" />
+      <guid isPermaLink="false">5372a7b51c595eb3afe6a5869e3e13be46359e6f</guid>
+      <pubDate>Sat, 23 Aug 2025 22:51:37 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
