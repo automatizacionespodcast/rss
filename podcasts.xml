@@ -1282,6 +1282,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250823_____BOMBAZO___BARDGHJI_PODR_A_IRSE_del_BAR_A___OTRA_PETICI_N_del_BAR_A_a_LALIGA_con_el_CALENDARIO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250823_____BOMBAZO___BARDGHJI_PODR_A_IRSE_del_BAR_A___OTRA_PETICI_N_del_BAR_A_a_LALIGA_con_el_CALENDARIO.mp3" length="7074467" type="audio/mpeg" />
+      <guid isPermaLink="false">c45a71cc14bf545eca4dee0c06427e454be57647</guid>
+      <pubDate>Sat, 23 Aug 2025 17:12:28 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
