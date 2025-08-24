@@ -1408,6 +1408,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250824_____HABLAN_de_ESC_NDALO_y_ATRACO_al_BAR_A____ERA_PENALTI_de_BALDE____Mi_OPINI_N_HONESTA_SIN_FILTROS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250824_____HABLAN_de_ESC_NDALO_y_ATRACO_al_BAR_A____ERA_PENALTI_de_BALDE____Mi_OPINI_N_HONESTA_SIN_FILTROS.mp3" length="8494910" type="audio/mpeg" />
+      <guid isPermaLink="false">3520e093787f1ecfed85f60961444fa2e352a142</guid>
+      <pubDate>Sun, 24 Aug 2025 13:32:29 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
