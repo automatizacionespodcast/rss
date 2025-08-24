@@ -1381,6 +1381,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250824__EXPLOTO____EL_BAR_A_PLANEA_CEDER_a_ROONY_por_que_NO_PODR_N_INSCRIBIRLO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250824__EXPLOTO____EL_BAR_A_PLANEA_CEDER_a_ROONY_por_que_NO_PODR_N_INSCRIBIRLO_.mp3" length="7368660" type="audio/mpeg" />
+      <guid isPermaLink="false">fac70622cfa3a10d06fe04e978fc6be3ec992549</guid>
+      <pubDate>Sun, 24 Aug 2025 11:12:10 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
