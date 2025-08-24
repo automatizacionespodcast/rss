@@ -1390,6 +1390,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250824____DESVELADO_INSOLITO_DETALLE_que_NADIE_VI__del_ROBO_ARBITRAL_____ANALISIS_en_FRIO_LEVANTE_2_3_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250824____DESVELADO_INSOLITO_DETALLE_que_NADIE_VI__del_ROBO_ARBITRAL_____ANALISIS_en_FRIO_LEVANTE_2_3_BAR_A.mp3" length="11440906" type="audio/mpeg" />
+      <guid isPermaLink="false">33f18b09f0bd2275100d7edbd4d1f78f7ec4f5d1</guid>
+      <pubDate>Sun, 24 Aug 2025 13:14:29 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250824_OPINI_N__PEDRI_IMPARABLE__PARTIDAZO_DE_AMBOS_Y_REMONTADA_2_3_DEL_FC_BARCELONA___LALIGA___Ubietoo.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250824_OPINI_N__PEDRI_IMPARABLE__PARTIDAZO_DE_AMBOS_Y_REMONTADA_2_3_DEL_FC_BARCELONA___LALIGA___Ubietoo.mp3" length="4702473" type="audio/mpeg" />
+      <guid isPermaLink="false">b37e773bf806846eb56fa22ffc9d6911218c66ad</guid>
+      <pubDate>Sun, 24 Aug 2025 13:14:32 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
