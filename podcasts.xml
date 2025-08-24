@@ -1480,6 +1480,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250824_0_3_al_OVIEDO__ME_CONVENCE_AHORA_el_REAL_MADRID____MBAPP__TAPANDO_BOCAS_y_VINICIUS_RESPONDE.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250824_0_3_al_OVIEDO__ME_CONVENCE_AHORA_el_REAL_MADRID____MBAPP__TAPANDO_BOCAS_y_VINICIUS_RESPONDE.mp3" length="5794666" type="audio/mpeg" />
+      <guid isPermaLink="false">8b9cf082b8dfac1ae0a03e3cd69f5fbf00753169</guid>
+      <pubDate>Sun, 24 Aug 2025 22:31:41 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
