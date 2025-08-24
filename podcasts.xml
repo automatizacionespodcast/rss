@@ -1462,6 +1462,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250824__VESTUARIO_ROTO____EL_MADRID_GOLEA_0_3_al_OVIEDO_con_DOBLETE_de_MBAPP__y_BRUTAL_ENFADO_de_RODRYGO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250824__VESTUARIO_ROTO____EL_MADRID_GOLEA_0_3_al_OVIEDO_con_DOBLETE_de_MBAPP__y_BRUTAL_ENFADO_de_RODRYGO_.mp3" length="5319369" type="audio/mpeg" />
+      <guid isPermaLink="false">6d87d67ad081b5d7b1b77034fd750c7d94705798</guid>
+      <pubDate>Sun, 24 Aug 2025 21:53:19 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250824_REACCIONES_DE_UN_HINCHA_al_Oviedo_vs_Real_Madrid_0_3__VINICIUS_LUCE_de_SUPLENTE____ByDiegoX10.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250824_REACCIONES_DE_UN_HINCHA_al_Oviedo_vs_Real_Madrid_0_3__VINICIUS_LUCE_de_SUPLENTE____ByDiegoX10.mp3" length="8886212" type="audio/mpeg" />
+      <guid isPermaLink="false">f656eaa693484a251f4f8f03ccc534b954d30d4c</guid>
+      <pubDate>Sun, 24 Aug 2025 21:53:21 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
