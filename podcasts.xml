@@ -1426,6 +1426,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250824_BASTA_DE_MENTIRAS____ESTA_ES_LA_VERDAD_INC_MODA_que_NADIE_QUIERE_ESCUCHAR_sobre_el_ARBITRAJE_ESPA_OL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250824_BASTA_DE_MENTIRAS____ESTA_ES_LA_VERDAD_INC_MODA_que_NADIE_QUIERE_ESCUCHAR_sobre_el_ARBITRAJE_ESPA_OL_.mp3" length="10213092" type="audio/mpeg" />
+      <guid isPermaLink="false">51b10c397c62ae0d319fb9db63f2292101fae0f3</guid>
+      <pubDate>Sun, 24 Aug 2025 14:51:44 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
