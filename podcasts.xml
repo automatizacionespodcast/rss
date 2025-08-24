@@ -1417,6 +1417,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250824_LEVANTE_2_3_FC_BARCELONA___PEDRI_y_10_M_S_provocan_una_REMONTADA__PICA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250824_LEVANTE_2_3_FC_BARCELONA___PEDRI_y_10_M_S_provocan_una_REMONTADA__PICA.mp3" length="18056610" type="audio/mpeg" />
+      <guid isPermaLink="false">f1a07dc59a661ae8ac81199336f285ec0fb6c459</guid>
+      <pubDate>Sun, 24 Aug 2025 14:12:39 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
