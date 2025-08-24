@@ -1363,6 +1363,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250824_OVIEDO_vs_REAL_MADRID____MASTANTUONO_TITULAR___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250824_OVIEDO_vs_REAL_MADRID____MASTANTUONO_TITULAR___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="12203513" type="audio/mpeg" />
+      <guid isPermaLink="false">eccb2b677cce1e301f1d1bb41ecb42c203de0a7f</guid>
+      <pubDate>Sun, 24 Aug 2025 10:12:21 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
