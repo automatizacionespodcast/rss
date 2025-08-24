@@ -1345,6 +1345,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250823_INDIGNACI_N_TOTAL___INFORME_DEL_CTA_CONFIRMA_que_el_ARBITRO_se_EQUIVOC__PITANDO_PENALTI_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250823_INDIGNACI_N_TOTAL___INFORME_DEL_CTA_CONFIRMA_que_el_ARBITRO_se_EQUIVOC__PITANDO_PENALTI_.mp3" length="6162267" type="audio/mpeg" />
+      <guid isPermaLink="false">bf604d30c7d417ca85640855950932aa6a2f1f2c</guid>
+      <pubDate>Sun, 24 Aug 2025 00:01:18 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
