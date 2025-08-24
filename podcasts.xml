@@ -1507,6 +1507,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250824____OTRO_ESC_NDALO_en_el_0_3_del_MADRID____La__FALTA__de_TCHOUAMEN__al_DESCUBIERTO__BASTA_YA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250824____OTRO_ESC_NDALO_en_el_0_3_del_MADRID____La__FALTA__de_TCHOUAMEN__al_DESCUBIERTO__BASTA_YA_.mp3" length="6401553" type="audio/mpeg" />
+      <guid isPermaLink="false">47a5f45969faba326ca7777f91b2873c835fa658</guid>
+      <pubDate>Sun, 24 Aug 2025 23:51:18 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
