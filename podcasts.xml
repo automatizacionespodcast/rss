@@ -1489,6 +1489,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250824_EL_REAL_MADRID_GANA_0_3_AL_OVIEDO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250824_EL_REAL_MADRID_GANA_0_3_AL_OVIEDO.mp3" length="7741547" type="audio/mpeg" />
+      <guid isPermaLink="false">8b388932c851872d20a7d652aa3e15ee9619401e</guid>
+      <pubDate>Sun, 24 Aug 2025 23:13:51 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250824_MBAPP__EST__IMPARABLE__VINI_CONVIRTI__JUGANDO_S_LO_30_MINUTOS_Y_GOLEAMOS_0_3_AL_OVIEDO___LALIGA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250824_MBAPP__EST__IMPARABLE__VINI_CONVIRTI__JUGANDO_S_LO_30_MINUTOS_Y_GOLEAMOS_0_3_AL_OVIEDO___LALIGA.mp3" length="5393413" type="audio/mpeg" />
+      <guid isPermaLink="false">c06cb531056180f30b591c117afb986fcf1a23bd</guid>
+      <pubDate>Sun, 24 Aug 2025 23:13:53 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
