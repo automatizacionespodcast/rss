@@ -1435,6 +1435,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250824__VERG_ENZA_HIST_RICA____EL_BAR_A_SE_QUEDA_SIN_CAMISETA_PARA_LA_LIGA_POR_CULPA_DE_NIKE_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250824__VERG_ENZA_HIST_RICA____EL_BAR_A_SE_QUEDA_SIN_CAMISETA_PARA_LA_LIGA_POR_CULPA_DE_NIKE_.mp3" length="5756382" type="audio/mpeg" />
+      <guid isPermaLink="false">2370ead7ca127eef6c44e54e4fe9aa8a3f07534d</guid>
+      <pubDate>Sun, 24 Aug 2025 16:12:34 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250824_____PELIGRO_para_el_MADRID_en_OVIEDO___PARTIDO_TRAMPA_y_POL_MICA_ASEGURADA___DATO_DEMOLEDOR.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250824_____PELIGRO_para_el_MADRID_en_OVIEDO___PARTIDO_TRAMPA_y_POL_MICA_ASEGURADA___DATO_DEMOLEDOR.mp3" length="6767326" type="audio/mpeg" />
+      <guid isPermaLink="false">f46685f35bf656f0706f1a4bbdd0eecf4dc00b28</guid>
+      <pubDate>Sun, 24 Aug 2025 16:12:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
