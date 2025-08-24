@@ -1372,6 +1372,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250824_EL_FC_BARCELONA_GANA_REMONTANDO_AL_LEVANTE.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250824_EL_FC_BARCELONA_GANA_REMONTANDO_AL_LEVANTE.mp3" length="13491807" type="audio/mpeg" />
+      <guid isPermaLink="false">cacf83c360fca1360093fd6353c789a0d0a1b79f</guid>
+      <pubDate>Sun, 24 Aug 2025 10:53:21 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
