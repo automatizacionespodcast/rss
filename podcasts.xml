@@ -1525,6 +1525,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250825_DEBATE_CON__losfutbolitos___VINI_GAN__LA_PULSEADA_CON_RODRYGO___ACTUALIDAD_REAL_MADRID_Y_BARCELONA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250825_DEBATE_CON__losfutbolitos___VINI_GAN__LA_PULSEADA_CON_RODRYGO___ACTUALIDAD_REAL_MADRID_Y_BARCELONA.mp3" length="8942921" type="audio/mpeg" />
+      <guid isPermaLink="false">6cd04e2d4457ed1ea35d5aa6fa6990be4244c2ac</guid>
+      <pubDate>Mon, 25 Aug 2025 13:11:40 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
