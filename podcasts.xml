@@ -1570,6 +1570,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250825___CEBALLOS_a_un_paso_del_MARSELLA___Nico_Paz_el_reemplazo_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250825___CEBALLOS_a_un_paso_del_MARSELLA___Nico_Paz_el_reemplazo_.mp3" length="11868164" type="audio/mpeg" />
+      <guid isPermaLink="false">02c5e6a203755b121ed92cb5b29d7dcaa21cadc8</guid>
+      <pubDate>Mon, 25 Aug 2025 17:11:49 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
