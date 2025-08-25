@@ -1552,6 +1552,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250825____LAMINE_YAMAL_y_MBAPP__van_a_HUMILLAR_a_TODOS___EST__el_BAR_A_por_ENCIMA_del_MADRID_AHORA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250825____LAMINE_YAMAL_y_MBAPP__van_a_HUMILLAR_a_TODOS___EST__el_BAR_A_por_ENCIMA_del_MADRID_AHORA_.mp3" length="8951503" type="audio/mpeg" />
+      <guid isPermaLink="false">ee0bb5f467e3d1c28b0010bae9c45c96a3e19d39</guid>
+      <pubDate>Mon, 25 Aug 2025 14:31:40 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
