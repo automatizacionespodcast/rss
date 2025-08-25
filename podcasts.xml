@@ -1516,6 +1516,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250825____MBAPP__SE_HARTA_DE_VINICIUS_y_lo_MANDA_a_CALLAR_DURANTE_el_PARTIDO___NADIE_LO_SOPORTA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250825____MBAPP__SE_HARTA_DE_VINICIUS_y_lo_MANDA_a_CALLAR_DURANTE_el_PARTIDO___NADIE_LO_SOPORTA_.mp3" length="5069908" type="audio/mpeg" />
+      <guid isPermaLink="false">941ce9feceb5d0c504bd49df76746e42f85250ed</guid>
+      <pubDate>Mon, 25 Aug 2025 11:51:27 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
