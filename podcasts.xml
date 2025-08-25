@@ -1579,6 +1579,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250825___LO_ADMITO____TENGO_MIEDO_DE_MBAPP_____NOS_VA_A_DESTROZAR_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250825___LO_ADMITO____TENGO_MIEDO_DE_MBAPP_____NOS_VA_A_DESTROZAR_.mp3" length="7709439" type="audio/mpeg" />
+      <guid isPermaLink="false">ef16b5232f308a71c93c6e2da43ecd430744f053</guid>
+      <pubDate>Mon, 25 Aug 2025 17:51:35 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
