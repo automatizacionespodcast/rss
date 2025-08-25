@@ -1543,6 +1543,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250825_OVIEDO_0_3_REAL_MADRID__MBAPP__est__INTRATABLE___Xabi_va_MEJORANDO_cosas_poco_a_poco_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250825_OVIEDO_0_3_REAL_MADRID__MBAPP__est__INTRATABLE___Xabi_va_MEJORANDO_cosas_poco_a_poco_.mp3" length="23330816" type="audio/mpeg" />
+      <guid isPermaLink="false">6178af019533e68859a4eb73400026dbcc4849fe</guid>
+      <pubDate>Mon, 25 Aug 2025 14:21:52 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
