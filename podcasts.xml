@@ -1588,6 +1588,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250825_Vinicius_SUPLENTE___Castigo_de_Xabi_Alonso_o_simple_rotaci_n_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250825_Vinicius_SUPLENTE___Castigo_de_Xabi_Alonso_o_simple_rotaci_n_.mp3" length="14851932" type="audio/mpeg" />
+      <guid isPermaLink="false">4c6a857d5237a4770a4abd99f4d76588e4a6dea9</guid>
+      <pubDate>Mon, 25 Aug 2025 19:12:03 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
