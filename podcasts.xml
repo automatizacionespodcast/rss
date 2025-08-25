@@ -1615,6 +1615,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250825____AHORA_se_SABE_el_PORQU__de_TODO__EL_INCIDENTE_con_VINICIUS_en_OVIEDO___BAR_A_PIERDE_el_LIDERATO___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250825____AHORA_se_SABE_el_PORQU__de_TODO__EL_INCIDENTE_con_VINICIUS_en_OVIEDO___BAR_A_PIERDE_el_LIDERATO___.mp3" length="7387402" type="audio/mpeg" />
+      <guid isPermaLink="false">b3c2df913fcc03a63e610810e428a664f6fb75e9</guid>
+      <pubDate>Mon, 25 Aug 2025 22:52:20 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
