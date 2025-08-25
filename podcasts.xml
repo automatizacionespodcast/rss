@@ -1534,6 +1534,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250825_CRISIS_TOTAL___CUBARS__NO_EST__AL_NIVEL_DEL_BAR_A__LO_TENGO_CLARO_Y_TE_EXPLICO_LOS_MOTIVOS_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250825_CRISIS_TOTAL___CUBARS__NO_EST__AL_NIVEL_DEL_BAR_A__LO_TENGO_CLARO_Y_TE_EXPLICO_LOS_MOTIVOS_.mp3" length="7096609" type="audio/mpeg" />
+      <guid isPermaLink="false">ccb163bd182e805a0cc7d2f3c1968f3d8016f60d</guid>
+      <pubDate>Mon, 25 Aug 2025 13:32:04 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
