@@ -1561,6 +1561,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250825____BOMBAZO_DE__LTIMA_HORA_sobre_el_FUTURO_del_CAMP_NOU___ES_INJUSTO____.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250825____BOMBAZO_DE__LTIMA_HORA_sobre_el_FUTURO_del_CAMP_NOU___ES_INJUSTO____.mp3" length="5380673" type="audio/mpeg" />
+      <guid isPermaLink="false">5bbf55dab7dfe55cf6a8c8719b04e4729a7209e3</guid>
+      <pubDate>Mon, 25 Aug 2025 15:51:24 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
