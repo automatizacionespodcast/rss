@@ -1597,6 +1597,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250825__GIRO_TOTAL___EL_CAMP_NOU_PUEDE_ABRIR_ANTES_DE_LO_ESPERADO___SORPRESA_TOTAL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250825__GIRO_TOTAL___EL_CAMP_NOU_PUEDE_ABRIR_ANTES_DE_LO_ESPERADO___SORPRESA_TOTAL_.mp3" length="9206983" type="audio/mpeg" />
+      <guid isPermaLink="false">e2bbb1ce5cf9d06072711045db4d2554fa1ac038</guid>
+      <pubDate>Mon, 25 Aug 2025 19:33:30 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250825______ROBO_del_MADRID___JUGADOR_del_OVIEDO_habla_CLARO__BASTA_de_INVENTOS____BAR_A_a_por_un_DELANTERO__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250825______ROBO_del_MADRID___JUGADOR_del_OVIEDO_habla_CLARO__BASTA_de_INVENTOS____BAR_A_a_por_un_DELANTERO__.mp3" length="7365809" type="audio/mpeg" />
+      <guid isPermaLink="false">337b9d1851f0b6d6f232af06c2070f928c0c8c60</guid>
+      <pubDate>Mon, 25 Aug 2025 19:33:32 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
