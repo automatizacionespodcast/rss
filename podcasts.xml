@@ -1678,6 +1678,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250826____VERGONZOZO__EL_Madrid_NO_FICHAR__si_SALE_CEBALLOS__Otra_NEGLIGENCIA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250826____VERGONZOZO__EL_Madrid_NO_FICHAR__si_SALE_CEBALLOS__Otra_NEGLIGENCIA_.mp3" length="16114083" type="audio/mpeg" />
+      <guid isPermaLink="false">5aa57116653b00a4b0f0afa4cd16cf8f6e2291ad</guid>
+      <pubDate>Tue, 26 Aug 2025 17:12:22 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
