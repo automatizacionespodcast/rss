@@ -1687,6 +1687,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250826_____LTIMA_HORA_sobre_las_INSCRIPCIONES_del_BAR_A___TODO_en_JUEGO____.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250826_____LTIMA_HORA_sobre_las_INSCRIPCIONES_del_BAR_A___TODO_en_JUEGO____.mp3" length="5009989" type="audio/mpeg" />
+      <guid isPermaLink="false">a0be5723ddc09da16f9efa91ca75e1643692798e</guid>
+      <pubDate>Tue, 26 Aug 2025 18:11:38 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
