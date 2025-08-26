@@ -1714,6 +1714,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250826_____BOMBAZO___VINICIUS_MUY_ENFADADO_y_DISPUESTO_a_MARCHARSE_del_REAL_MADRID__AHORA_MISMO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250826_____BOMBAZO___VINICIUS_MUY_ENFADADO_y_DISPUESTO_a_MARCHARSE_del_REAL_MADRID__AHORA_MISMO_.mp3" length="8319791" type="audio/mpeg" />
+      <guid isPermaLink="false">0a7039fd13b115d00627b58c7bd09c57a9818d91</guid>
+      <pubDate>Tue, 26 Aug 2025 20:32:33 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
