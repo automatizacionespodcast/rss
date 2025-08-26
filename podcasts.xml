@@ -1669,6 +1669,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250826____EXPLOSIVAS_DECLARACIONES_de_HANSI_FLICK___ADMITE_ERRORES_en_el_CASO_TER_STEGEN_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250826____EXPLOSIVAS_DECLARACIONES_de_HANSI_FLICK___ADMITE_ERRORES_en_el_CASO_TER_STEGEN_.mp3" length="5151660" type="audio/mpeg" />
+      <guid isPermaLink="false">06dc7f320cb679319ddc4459c6ab7a5426c6faef</guid>
+      <pubDate>Tue, 26 Aug 2025 16:31:29 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
