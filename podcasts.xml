@@ -1633,6 +1633,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250826_MI_PREDICCI_N_DE_LA_JORNADA_2___RESULTADOS_QUINIELA_Y_GANADORES___LALIGA___Ubietoo.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250826_MI_PREDICCI_N_DE_LA_JORNADA_2___RESULTADOS_QUINIELA_Y_GANADORES___LALIGA___Ubietoo.mp3" length="6577267" type="audio/mpeg" />
+      <guid isPermaLink="false">283cbedab2b2457d4fd76be154d2eee9c91063eb</guid>
+      <pubDate>Tue, 26 Aug 2025 13:12:44 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
