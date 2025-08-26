@@ -1624,6 +1624,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250826_CRISIS_M_XIMA___VINICIUS_ROMPE_el_VESTUARIO_del_REAL_MADRID_y_AS__REACCIONA_la_PRENSA_MUNDIAL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250826_CRISIS_M_XIMA___VINICIUS_ROMPE_el_VESTUARIO_del_REAL_MADRID_y_AS__REACCIONA_la_PRENSA_MUNDIAL_.mp3" length="5501043" type="audio/mpeg" />
+      <guid isPermaLink="false">0025829d4cb55a81151a232d19b427e6fc590e6a</guid>
+      <pubDate>Tue, 26 Aug 2025 12:32:00 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
