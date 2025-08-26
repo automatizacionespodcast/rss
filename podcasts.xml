@@ -1642,6 +1642,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250826___Fabrizio_lo_CONFIRMA___El_City_quiere_fichar_a_Rodrygo_YA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250826___Fabrizio_lo_CONFIRMA___El_City_quiere_fichar_a_Rodrygo_YA_.mp3" length="13938958" type="audio/mpeg" />
+      <guid isPermaLink="false">46d41e65f8aed8296335864bc7e8e6079d153494</guid>
+      <pubDate>Tue, 26 Aug 2025 14:11:44 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
