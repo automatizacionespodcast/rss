@@ -1705,6 +1705,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250826__INJUSTICIA_TOTAL____SE_FILTRA_LA_LISTA_DE_SALARIOS_del_MADRID_y_BAR_A___LA_DIFERENCIA_ES_ABISMAL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250826__INJUSTICIA_TOTAL____SE_FILTRA_LA_LISTA_DE_SALARIOS_del_MADRID_y_BAR_A___LA_DIFERENCIA_ES_ABISMAL_.mp3" length="9897702" type="audio/mpeg" />
+      <guid isPermaLink="false">1b95bad82cc250f7f252dc6f232d495355f500cf</guid>
+      <pubDate>Tue, 26 Aug 2025 19:52:29 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
