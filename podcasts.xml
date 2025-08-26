@@ -1723,6 +1723,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250826____HANSI_FLICK_se_EST__CANSANDO_de_las_DECISIONES_del_BAR_A_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250826____HANSI_FLICK_se_EST__CANSANDO_de_las_DECISIONES_del_BAR_A_.mp3" length="6756106" type="audio/mpeg" />
+      <guid isPermaLink="false">8207993998a72a0df6bdcc2996c544e1adf427c8</guid>
+      <pubDate>Tue, 26 Aug 2025 21:22:02 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
