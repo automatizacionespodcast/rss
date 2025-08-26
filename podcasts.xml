@@ -1651,6 +1651,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250826_BOMBAZO____FERM_N_L_PEZ_PODR_A_IRSE_DEL_BAR_A_TRAS_MEGA_OFERTA_del_CHELSEA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250826_BOMBAZO____FERM_N_L_PEZ_PODR_A_IRSE_DEL_BAR_A_TRAS_MEGA_OFERTA_del_CHELSEA_.mp3" length="4855172" type="audio/mpeg" />
+      <guid isPermaLink="false">048cecf084ba5559317ec111b5a8341bd7c5c37a</guid>
+      <pubDate>Tue, 26 Aug 2025 14:32:12 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250826____OFERT_N_OFICIAL_al_BAR_A_por_FERM_N____CEBALLOS_SE_VA_DEL_MADRID__Y_NO_HABR__REFUERZOS___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250826____OFERT_N_OFICIAL_al_BAR_A_por_FERM_N____CEBALLOS_SE_VA_DEL_MADRID__Y_NO_HABR__REFUERZOS___.mp3" length="6614467" type="audio/mpeg" />
+      <guid isPermaLink="false">11d21df2f2c41738ff564b270dc3a4b5ca4c2885</guid>
+      <pubDate>Tue, 26 Aug 2025 14:32:14 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
