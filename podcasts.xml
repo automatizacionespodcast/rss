@@ -1696,6 +1696,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250826_Hac_a_10_A_OS_que_no_pasaba_esto_en_el_Real_Madrid___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250826_Hac_a_10_A_OS_que_no_pasaba_esto_en_el_Real_Madrid___.mp3" length="16342186" type="audio/mpeg" />
+      <guid isPermaLink="false">d93706a77f2594a4285cb0f02cc80b37c9ecc962</guid>
+      <pubDate>Tue, 26 Aug 2025 19:12:40 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
