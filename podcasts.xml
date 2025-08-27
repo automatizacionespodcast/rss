@@ -1840,6 +1840,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250827____BOCHORNO_HIST_RICO_en_el_F_TBOL____el_NUEVO_SORTEO_de_la_CHAMPIONS_____RIVALES_de_BAR_A_y_MADRID_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250827____BOCHORNO_HIST_RICO_en_el_F_TBOL____el_NUEVO_SORTEO_de_la_CHAMPIONS_____RIVALES_de_BAR_A_y_MADRID_.mp3" length="7700516" type="audio/mpeg" />
+      <guid isPermaLink="false">742ea14ae18304fad9797c4dd4a72dfe1a35e6ea</guid>
+      <pubDate>Wed, 27 Aug 2025 22:42:26 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
