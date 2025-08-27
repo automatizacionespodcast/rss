@@ -1786,6 +1786,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250827_MI_OPINIO_N_SOBRE_LA_POSIBLE_SALIDA_DE_FERMIN.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250827_MI_OPINIO_N_SOBRE_LA_POSIBLE_SALIDA_DE_FERMIN.mp3" length="12695845" type="audio/mpeg" />
+      <guid isPermaLink="false">36f6af56cee27930e0e02be507ccc926158e359e</guid>
+      <pubDate>Wed, 27 Aug 2025 16:43:58 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
