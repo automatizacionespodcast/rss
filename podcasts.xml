@@ -1750,6 +1750,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250827____NOS_TOMAN_por_BOBOS_y_SIEMPRE_CAEMOS__EL_MADRID_NO_FICHAR__NADA_tras_la_MARCHA_de_CEBALLOS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250827____NOS_TOMAN_por_BOBOS_y_SIEMPRE_CAEMOS__EL_MADRID_NO_FICHAR__NADA_tras_la_MARCHA_de_CEBALLOS.mp3" length="7247799" type="audio/mpeg" />
+      <guid isPermaLink="false">c6b16ba55d32c0ba1fe25a6d2e4e3bc611290bca</guid>
+      <pubDate>Wed, 27 Aug 2025 14:02:18 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
