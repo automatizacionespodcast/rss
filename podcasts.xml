@@ -1795,6 +1795,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250827_As__ser__el_sorteo_de_la_Champions_League_2025_2026__POSIBLES_RIVALES_del_MADRID_y_BAR_A_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250827_As__ser__el_sorteo_de_la_Champions_League_2025_2026__POSIBLES_RIVALES_del_MADRID_y_BAR_A_.mp3" length="15118003" type="audio/mpeg" />
+      <guid isPermaLink="false">15dd533eb0c11b24a54eaa550e5f03e0b311aaed</guid>
+      <pubDate>Wed, 27 Aug 2025 17:12:19 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
