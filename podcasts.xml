@@ -1759,6 +1759,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250827___BOMBAZO___VINICIUS_QUIERE_IRSE_del_MADRID_YA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250827___BOMBAZO___VINICIUS_QUIERE_IRSE_del_MADRID_YA_.mp3" length="16830344" type="audio/mpeg" />
+      <guid isPermaLink="false">bc66d0c2fda37be7580e0d96d21399fee507e8c5</guid>
+      <pubDate>Wed, 27 Aug 2025 14:12:42 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
