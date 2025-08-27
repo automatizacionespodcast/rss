@@ -1804,6 +1804,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250827____NOTICI_N_de__LTIMA_HORA_en_CAN_BAR_A___ESTO_LO_CAMBIA_TODO____.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250827____NOTICI_N_de__LTIMA_HORA_en_CAN_BAR_A___ESTO_LO_CAMBIA_TODO____.mp3" length="5171677" type="audio/mpeg" />
+      <guid isPermaLink="false">0ef65e44cee2c2a54b6dd0498b2fe1ed768fed9a</guid>
+      <pubDate>Wed, 27 Aug 2025 19:14:11 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250827____INCRE_BLE_GIRO__CEBALLOS_frena_su_fichaje_por_el_MARSELLA_y_FERM_N_cerca_del_CHELSEA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250827____INCRE_BLE_GIRO__CEBALLOS_frena_su_fichaje_por_el_MARSELLA_y_FERM_N_cerca_del_CHELSEA.mp3" length="14476160" type="audio/mpeg" />
+      <guid isPermaLink="false">c5c219e5d39a4e2a320b5be88352c6ff2af9199d</guid>
+      <pubDate>Wed, 27 Aug 2025 19:14:13 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
