@@ -1831,6 +1831,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250827__ESC_NDALO____DENUNCIA_EXPLOSIVA_contra_LALIGA_por_el_FAIR_PLAY___TODO_PUEDE_CAMBIAR_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250827__ESC_NDALO____DENUNCIA_EXPLOSIVA_contra_LALIGA_por_el_FAIR_PLAY___TODO_PUEDE_CAMBIAR_.mp3" length="13927467" type="audio/mpeg" />
+      <guid isPermaLink="false">bd9f18c15d8705ee8e19550a2e390ef7df91bd50</guid>
+      <pubDate>Wed, 27 Aug 2025 21:23:26 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
