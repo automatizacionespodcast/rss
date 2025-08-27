@@ -1741,6 +1741,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250827____REVELADO_EL_ESTADIO_DONDE_EL_BAR_A_JUGAR__EL_PRIMER_PARTIDO_EN_CASA___NO_ES_EL_CAMP_NOU_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250827____REVELADO_EL_ESTADIO_DONDE_EL_BAR_A_JUGAR__EL_PRIMER_PARTIDO_EN_CASA___NO_ES_EL_CAMP_NOU_.mp3" length="5203629" type="audio/mpeg" />
+      <guid isPermaLink="false">d8e60a43b27a8eb0a8a0c4284a27b9f3d99ca2f4</guid>
+      <pubDate>Wed, 27 Aug 2025 12:01:38 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
