@@ -1777,6 +1777,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250827__CONFIRMADO____EL_BAR_A_FICHA_A_ESTE_JUGADOR_PARA_EL_MEDIOCAMPO___NADIE_LO_ESPERABA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250827__CONFIRMADO____EL_BAR_A_FICHA_A_ESTE_JUGADOR_PARA_EL_MEDIOCAMPO___NADIE_LO_ESPERABA_.mp3" length="4939799" type="audio/mpeg" />
+      <guid isPermaLink="false">5116d168843829a4a9764eace642b5eed247a732</guid>
+      <pubDate>Wed, 27 Aug 2025 16:21:27 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
