@@ -1939,6 +1939,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250828____PREDICCI_N_TOTAL__BAR_A_y_MADRID_en_la_CHAMPIONS____CLASIFICADOS_DIRECTOS__TOP_8___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250828____PREDICCI_N_TOTAL__BAR_A_y_MADRID_en_la_CHAMPIONS____CLASIFICADOS_DIRECTOS__TOP_8___.mp3" length="6420401" type="audio/mpeg" />
+      <guid isPermaLink="false">765215ee589f6d92b8b84efd6fc0e81234a4530c</guid>
+      <pubDate>Thu, 28 Aug 2025 19:54:11 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250828___El_Real_Madrid_cerca_de_FICHAR_a_la_JOYA_de_16_a_os_de_M_xico__Gilberto_Mora_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250828___El_Real_Madrid_cerca_de_FICHAR_a_la_JOYA_de_16_a_os_de_M_xico__Gilberto_Mora_.mp3" length="12319790" type="audio/mpeg" />
+      <guid isPermaLink="false">3e2c863bf495a9ee32acee0d1207aab9d2cac334</guid>
+      <pubDate>Thu, 28 Aug 2025 19:54:13 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
