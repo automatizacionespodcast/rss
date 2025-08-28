@@ -1912,6 +1912,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250828___AS__FUE_el_SORTEO_de_la_CHAMPIONS_y_RIVALES_del_BAR_A_y_MADRID__OFICIAL____Mi_REACCI_N_MADRIDISTA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250828___AS__FUE_el_SORTEO_de_la_CHAMPIONS_y_RIVALES_del_BAR_A_y_MADRID__OFICIAL____Mi_REACCI_N_MADRIDISTA.mp3" length="4900601" type="audio/mpeg" />
+      <guid isPermaLink="false">90c1862c3b612fc294c600c10b1b12430812b62a</guid>
+      <pubDate>Thu, 28 Aug 2025 17:51:27 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
