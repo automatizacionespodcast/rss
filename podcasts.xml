@@ -1867,6 +1867,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250828_MIS_PREDICCIONES_A_LA_JORNADA_3___QUINIELAS_GRATIS_CON_UBIETOO___LALIGA___PREMIOS_REALES.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250828_MIS_PREDICCIONES_A_LA_JORNADA_3___QUINIELAS_GRATIS_CON_UBIETOO___LALIGA___PREMIOS_REALES.mp3" length="5260506" type="audio/mpeg" />
+      <guid isPermaLink="false">576881ff3825fa801d5f975a6a53604e7abf2558</guid>
+      <pubDate>Thu, 28 Aug 2025 13:11:44 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
