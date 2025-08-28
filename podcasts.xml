@@ -1930,6 +1930,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250828_REACCI_N_MADRIDISTA_AL_SORTEO_DE_LA_CHAMPIONS_2025_26____QUI_N_lo_tiene_M_S_DIFICIL____Ubietoo.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250828_REACCI_N_MADRIDISTA_AL_SORTEO_DE_LA_CHAMPIONS_2025_26____QUI_N_lo_tiene_M_S_DIFICIL____Ubietoo.mp3" length="5498946" type="audio/mpeg" />
+      <guid isPermaLink="false">9bcceae300884c9f98d8d3a6f18c642baef1efae</guid>
+      <pubDate>Thu, 28 Aug 2025 19:12:11 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
