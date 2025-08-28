@@ -1876,6 +1876,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250828____EL_BAR_A_PIERDE_a_LA_NUEVA_JOYA_del_F_TBOL_MUNDIAL___GRAVE_ERROR_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250828____EL_BAR_A_PIERDE_a_LA_NUEVA_JOYA_del_F_TBOL_MUNDIAL___GRAVE_ERROR_.mp3" length="4787622" type="audio/mpeg" />
+      <guid isPermaLink="false">2056071bfa4f4c5c63d6271ef20857d24e83b247</guid>
+      <pubDate>Thu, 28 Aug 2025 13:51:19 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
