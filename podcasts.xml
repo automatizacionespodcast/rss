@@ -1957,6 +1957,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250828____LLOROS_Y_REACCIONES_de_la_CAVERNA_al_SORTEO_de_la_CHAMPIONS_25_26___SON_UNOS_ACOMPLEJADOS_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250828____LLOROS_Y_REACCIONES_de_la_CAVERNA_al_SORTEO_de_la_CHAMPIONS_25_26___SON_UNOS_ACOMPLEJADOS_.mp3" length="5232663" type="audio/mpeg" />
+      <guid isPermaLink="false">55727e85221d03d8287350d2dca86ca178374572</guid>
+      <pubDate>Thu, 28 Aug 2025 20:51:34 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
