@@ -1903,6 +1903,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250828_REACCIONANDO_al_SORTEO_de_la_CHAMPIONS_LEAGUE_25_26.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250828_REACCIONANDO_al_SORTEO_de_la_CHAMPIONS_LEAGUE_25_26.mp3" length="12371074" type="audio/mpeg" />
+      <guid isPermaLink="false">63f74ad1705dd2447fd68aedb7135aef15cae972</guid>
+      <pubDate>Thu, 28 Aug 2025 17:41:41 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
