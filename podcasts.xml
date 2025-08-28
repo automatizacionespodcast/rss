@@ -1921,6 +1921,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250828_LOCURA___AS__HA_QUEDADO_EL_SORTEO_de_CHAMPIONS_25_26______PARTIDAZOS__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250828_LOCURA___AS__HA_QUEDADO_EL_SORTEO_de_CHAMPIONS_25_26______PARTIDAZOS__.mp3" length="5945545" type="audio/mpeg" />
+      <guid isPermaLink="false">1262b423a28297f4d52f9f46ff02f7fe16d92870</guid>
+      <pubDate>Thu, 28 Aug 2025 18:51:24 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
