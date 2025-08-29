@@ -2047,6 +2047,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250829_JOAN_GARC_A_AUSENTE_Y_MORATA_OTRA_VEZ______CONVOCATORIA_SELECCI_N___CLASIFICACI_N_MUNDIAL_FIFA_2026.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250829_JOAN_GARC_A_AUSENTE_Y_MORATA_OTRA_VEZ______CONVOCATORIA_SELECCI_N___CLASIFICACI_N_MUNDIAL_FIFA_2026.mp3" length="6851501" type="audio/mpeg" />
+      <guid isPermaLink="false">7fe638092efe0cbac8fe63a27e3585dab9952f65</guid>
+      <pubDate>Fri, 29 Aug 2025 19:12:43 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
