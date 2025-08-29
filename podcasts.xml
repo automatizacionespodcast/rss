@@ -2002,6 +2002,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250829____BOMBAZO_de__LTIMA_HORA_en_CAN_BAR_A___Y_SELECCI_N_ESPA_OLA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250829____BOMBAZO_de__LTIMA_HORA_en_CAN_BAR_A___Y_SELECCI_N_ESPA_OLA_.mp3" length="6392453" type="audio/mpeg" />
+      <guid isPermaLink="false">3c66cdcaaa3d2ec8b379613074fa2edc89c6d246</guid>
+      <pubDate>Fri, 29 Aug 2025 14:51:27 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
