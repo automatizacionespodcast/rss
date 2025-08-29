@@ -2029,6 +2029,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250829___XABI_ALONSO_lo_CONFIRMA___PLANTILLA_CERRADA____LISTA_de_ESPA_A_con_SOLO_2_del_MADRID.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250829___XABI_ALONSO_lo_CONFIRMA___PLANTILLA_CERRADA____LISTA_de_ESPA_A_con_SOLO_2_del_MADRID.mp3" length="14181128" type="audio/mpeg" />
+      <guid isPermaLink="false">f522b76163db3ce545571437cdff697153c10fb7</guid>
+      <pubDate>Fri, 29 Aug 2025 17:11:50 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
