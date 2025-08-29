@@ -1993,6 +1993,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250829_Mi_PREDICCION_de_la_CHAMPIONS_LEAGUE_25_26__Qui_n_tuvo_m_s_Suerte_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250829_Mi_PREDICCION_de_la_CHAMPIONS_LEAGUE_25_26__Qui_n_tuvo_m_s_Suerte_.mp3" length="21970794" type="audio/mpeg" />
+      <guid isPermaLink="false">41ae6a4c4d7f48c07d78c67a8810bda4834490c1</guid>
+      <pubDate>Fri, 29 Aug 2025 14:14:11 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
