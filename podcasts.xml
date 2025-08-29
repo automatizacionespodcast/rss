@@ -2074,6 +2074,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250829_____DRAMA_TOTAL__La_LESI_N_de_GAVI_PREOCUPA__MISMA_RODILLA___EL_FUTURO_de_FERM_N_en_el_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250829_____DRAMA_TOTAL__La_LESI_N_de_GAVI_PREOCUPA__MISMA_RODILLA___EL_FUTURO_de_FERM_N_en_el_BAR_A.mp3" length="7834892" type="audio/mpeg" />
+      <guid isPermaLink="false">c18274c748bc962d3af50179560d77527a82c968</guid>
+      <pubDate>Fri, 29 Aug 2025 23:32:25 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
