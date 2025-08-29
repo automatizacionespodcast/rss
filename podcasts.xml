@@ -2056,6 +2056,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250829____XABI_ALONSO_CONFIRMA_lo_PEOR______VINI_o_RODRYGO____GAVI_LESIONADO___ACUERDOS_BAR_A_y_MALLORCA___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250829____XABI_ALONSO_CONFIRMA_lo_PEOR______VINI_o_RODRYGO____GAVI_LESIONADO___ACUERDOS_BAR_A_y_MALLORCA___.mp3" length="7038266" type="audio/mpeg" />
+      <guid isPermaLink="false">637a92a628c9e11fdb73f791b99ec4d99c095943</guid>
+      <pubDate>Fri, 29 Aug 2025 20:12:20 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
