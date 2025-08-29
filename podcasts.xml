@@ -2065,6 +2065,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250829____GIRO_RADICAL_en_el_FUTURO_de_FERM_N_L_PEZ_en_el_BAR_A____LTIMA_HORA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250829____GIRO_RADICAL_en_el_FUTURO_de_FERM_N_L_PEZ_en_el_BAR_A____LTIMA_HORA_.mp3" length="5440729" type="audio/mpeg" />
+      <guid isPermaLink="false">5050f0ed08190349173912d933f26b4f14eb9247</guid>
+      <pubDate>Fri, 29 Aug 2025 20:31:56 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
