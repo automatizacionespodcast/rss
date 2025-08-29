@@ -1966,6 +1966,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250829_ACABO_DE_COMETER_EL_MAYOR_ERROR_EN_LA_HISTORIA_DEL_CANAL_____PIDO_PERD_N_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250829_ACABO_DE_COMETER_EL_MAYOR_ERROR_EN_LA_HISTORIA_DEL_CANAL_____PIDO_PERD_N_.mp3" length="5834425" type="audio/mpeg" />
+      <guid isPermaLink="false">441de41aa5078a0448e0238cd7abc377af65267a</guid>
+      <pubDate>Fri, 29 Aug 2025 11:11:29 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
