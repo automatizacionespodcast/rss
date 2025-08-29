@@ -1975,6 +1975,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250829____HANSI_FLICK_se_FULMINA_a_ARAUJO_Y_ESTE_SER__EL_NUEVO_CENTRAL_TITULAR_del_BAR_A_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250829____HANSI_FLICK_se_FULMINA_a_ARAUJO_Y_ESTE_SER__EL_NUEVO_CENTRAL_TITULAR_del_BAR_A_.mp3" length="8351838" type="audio/mpeg" />
+      <guid isPermaLink="false">00c8abcf56e7ddf5bfa38c41f081e707d4f3cada</guid>
+      <pubDate>Fri, 29 Aug 2025 13:12:47 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250829___La_CONVOCATORIA_de_ESPA_A_con_MAYOR_A_del_BAR_A_y_SOLO_con_DOS_MADRIDISTAS___LAMINE_YAMAL__CARVAJAL.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250829___La_CONVOCATORIA_de_ESPA_A_con_MAYOR_A_del_BAR_A_y_SOLO_con_DOS_MADRIDISTAS___LAMINE_YAMAL__CARVAJAL.mp3" length="6352155" type="audio/mpeg" />
+      <guid isPermaLink="false">c95e125310b9c2d0ee095112c9241779a5027c0f</guid>
+      <pubDate>Fri, 29 Aug 2025 13:12:49 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
