@@ -2011,6 +2011,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250829____FERM_N_ROMPER__SU_SILENCIO_HOY_sobre_SU_FUTURO____BAR_A_INSCRIBE_a_OTRO_JUGADOR___GILBERTO_MORA___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250829____FERM_N_ROMPER__SU_SILENCIO_HOY_sobre_SU_FUTURO____BAR_A_INSCRIBE_a_OTRO_JUGADOR___GILBERTO_MORA___.mp3" length="5565934" type="audio/mpeg" />
+      <guid isPermaLink="false">e052be3e5cad82a73d87eaf73a2cd15528c8c4ef</guid>
+      <pubDate>Fri, 29 Aug 2025 15:21:16 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
