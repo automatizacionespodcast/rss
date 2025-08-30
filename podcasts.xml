@@ -2173,6 +2173,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250830____SURREALISTA__EL_VAR_HUNDE_al_MADRID__SUFRIMIENTO_ante_el_MALLORCA__2_1____L_DERES_INVICTOS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250830____SURREALISTA__EL_VAR_HUNDE_al_MADRID__SUFRIMIENTO_ante_el_MALLORCA__2_1____L_DERES_INVICTOS.mp3" length="6020276" type="audio/mpeg" />
+      <guid isPermaLink="false">c176d06be3de2b14a5cc84876275d0ffd59e296d</guid>
+      <pubDate>Sat, 30 Aug 2025 22:31:51 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
