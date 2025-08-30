@@ -2164,6 +2164,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250830____EL_MADRID_REMONTA_y_GANA_CON_MUCHA_P_LEMICA_2_1_al_MALLORCA___LE_ANULARON_TRES_GOLES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250830____EL_MADRID_REMONTA_y_GANA_CON_MUCHA_P_LEMICA_2_1_al_MALLORCA___LE_ANULARON_TRES_GOLES_.mp3" length="6050892" type="audio/mpeg" />
+      <guid isPermaLink="false">b13f0de1bf9d9d703e1cb67bedc456fd0f6a3036</guid>
+      <pubDate>Sat, 30 Aug 2025 22:11:42 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
