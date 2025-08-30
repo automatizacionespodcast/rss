@@ -2101,6 +2101,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250830____HANSI_FLICK_SE__MOJA__sobre_el_CASO_FERM_N_y_ENV_A_UN_MENSAJE_a_LAPORTA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250830____HANSI_FLICK_SE__MOJA__sobre_el_CASO_FERM_N_y_ENV_A_UN_MENSAJE_a_LAPORTA_.mp3" length="9499939" type="audio/mpeg" />
+      <guid isPermaLink="false">9f8acad5104714e459d415e4dec4d2fc0def520e</guid>
+      <pubDate>Sat, 30 Aug 2025 13:12:26 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
