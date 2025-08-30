@@ -2191,6 +2191,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250830____POL_MICA_BRUTAL__El_VAR_y_la_MANO_de_G_LER_en_el_MADRID_2_1_MALLORCA____HAY_ROBO__SIN_FILTROS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250830____POL_MICA_BRUTAL__El_VAR_y_la_MANO_de_G_LER_en_el_MADRID_2_1_MALLORCA____HAY_ROBO__SIN_FILTROS.mp3" length="8116617" type="audio/mpeg" />
+      <guid isPermaLink="false">eeb8ffd6d799118cb9b106ca2336aeb5eabd23b8</guid>
+      <pubDate>Sat, 30 Aug 2025 23:52:18 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
