@@ -2092,6 +2092,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250830_LOS_TRES_ESCENARIOS_POSIBLES_DEL_CASO_FERM_N_L_PEZ_AL_CHELSEA___SPIDERCULE_OPINA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250830_LOS_TRES_ESCENARIOS_POSIBLES_DEL_CASO_FERM_N_L_PEZ_AL_CHELSEA___SPIDERCULE_OPINA.mp3" length="7897231" type="audio/mpeg" />
+      <guid isPermaLink="false">c736fda5af8caa633ef65752d31f1cb9cc4954e7</guid>
+      <pubDate>Sat, 30 Aug 2025 10:51:32 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
