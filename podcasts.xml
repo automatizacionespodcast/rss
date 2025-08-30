@@ -2128,6 +2128,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250830___ALERTA_M_XIMA_GAVI____SPIDERCULE_OPINA_SOBRE_LA_POSIBLE_LESI_N_DEL_CANTERANO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250830___ALERTA_M_XIMA_GAVI____SPIDERCULE_OPINA_SOBRE_LA_POSIBLE_LESI_N_DEL_CANTERANO_.mp3" length="8088071" type="audio/mpeg" />
+      <guid isPermaLink="false">e51416aa54eeeae15e7d0b897544988875acdc4c</guid>
+      <pubDate>Sat, 30 Aug 2025 15:31:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
