@@ -2083,6 +2083,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250830_REAL_MADRID_vs_MALLORCA__A_POR_EL_9_de_9___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250830_REAL_MADRID_vs_MALLORCA__A_POR_EL_9_de_9___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="14331039" type="audio/mpeg" />
+      <guid isPermaLink="false">8c73a3cc7fdbf09399a9ea646139387e3e527515</guid>
+      <pubDate>Sat, 30 Aug 2025 10:11:58 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
