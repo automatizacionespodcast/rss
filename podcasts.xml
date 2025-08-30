@@ -2119,6 +2119,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250830______PINCHAZO_del_MADRID_vs_MALLORCA___OJO_al_DATO_DEMOLEDOR__IM_PO_SI_BLE___BAR_A_MADRID_en_CHAMPIONS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250830______PINCHAZO_del_MADRID_vs_MALLORCA___OJO_al_DATO_DEMOLEDOR__IM_PO_SI_BLE___BAR_A_MADRID_en_CHAMPIONS.mp3" length="6638602" type="audio/mpeg" />
+      <guid isPermaLink="false">2cfb83a98b6c2801dee1fe722923e6fb55633999</guid>
+      <pubDate>Sat, 30 Aug 2025 14:32:15 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
