@@ -2110,6 +2110,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250830__ADI_S_JERARQU_AS__VINICIUS_y_RODRYGO_LUCHAN_por_un_PUESTO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250830__ADI_S_JERARQU_AS__VINICIUS_y_RODRYGO_LUCHAN_por_un_PUESTO.mp3" length="14678220" type="audio/mpeg" />
+      <guid isPermaLink="false">7e0e0a732918002abf509910d3a511f0418786e6</guid>
+      <pubDate>Sat, 30 Aug 2025 14:12:04 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
