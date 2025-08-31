@@ -102,6 +102,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250831___VENOM_EXPLOTA_CONTRA_el_SPIDERCUL__TRAS_el_EMPATE_del_BAR_A_1_1_CONTRA_EL_RAYO_VALLECANO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250831___VENOM_EXPLOTA_CONTRA_el_SPIDERCUL__TRAS_el_EMPATE_del_BAR_A_1_1_CONTRA_EL_RAYO_VALLECANO_.mp3" length="9361055" type="audio/mpeg" />
+      <guid isPermaLink="false">aafe806d08c1f4928887c356f447ea3dc58573ff</guid>
+      <pubDate>Sun, 31 Aug 2025 23:51:13 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
