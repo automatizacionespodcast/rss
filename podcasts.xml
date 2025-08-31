@@ -57,6 +57,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250831_ESC_NDALO____TCHOUAMENI_CONTRADICE_LOS_LLOROS_del_MADRIDISMO_y_LA_CAVERNA_EXPLOTA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250831_ESC_NDALO____TCHOUAMENI_CONTRADICE_LOS_LLOROS_del_MADRIDISMO_y_LA_CAVERNA_EXPLOTA_.mp3" length="7911826" type="audio/mpeg" />
+      <guid isPermaLink="false">eeb922204610f6cebc6da13e081437325bdb3ef2</guid>
+      <pubDate>Sun, 31 Aug 2025 15:31:53 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
