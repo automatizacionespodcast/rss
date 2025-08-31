@@ -30,6 +30,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250831____HANSI_FLICK_SE_LA_JUGAR__CONTRA_EL_RAYO_____PREVIA_RAYO_vs_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250831____HANSI_FLICK_SE_LA_JUGAR__CONTRA_EL_RAYO_____PREVIA_RAYO_vs_BAR_A.mp3" length="11100847" type="audio/mpeg" />
+      <guid isPermaLink="false">9a187c4491c33c720b2980dcc1c54aac25d53681</guid>
+      <pubDate>Sun, 31 Aug 2025 13:21:45 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
