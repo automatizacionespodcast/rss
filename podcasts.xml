@@ -2209,6 +2209,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250831__EXCLUSIVA____FERMIN_SE_QUEDA_EN_EL_BAR_A___CONFIRMADO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250831__EXCLUSIVA____FERMIN_SE_QUEDA_EN_EL_BAR_A___CONFIRMADO_.mp3" length="9387780" type="audio/mpeg" />
+      <guid isPermaLink="false">4524bde1cec5ff9aea622f6a5dbf308a745d3435</guid>
+      <pubDate>Sun, 31 Aug 2025 11:12:28 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
