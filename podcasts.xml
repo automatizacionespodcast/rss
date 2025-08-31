@@ -93,6 +93,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250831____EL_BAR_A_se_SALVA_de_PERDER_y_EMPATA_1_1_CONTRA_el_RAYO_VALLECANO___JOAN_GARCIA_FUE_EL_H_ROE_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250831____EL_BAR_A_se_SALVA_de_PERDER_y_EMPATA_1_1_CONTRA_el_RAYO_VALLECANO___JOAN_GARCIA_FUE_EL_H_ROE_.mp3" length="6718528" type="audio/mpeg" />
+      <guid isPermaLink="false">96b76fd0257de801979709b5343342192b61171f</guid>
+      <pubDate>Sun, 31 Aug 2025 22:31:21 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
