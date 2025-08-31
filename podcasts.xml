@@ -39,6 +39,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250831_____DATO_DEMOLEDOR_en_el_RAYO_vs_BAR_A______ME_HUELO_COSAS_en_esta_JORNADA_3____PREDICCI_N.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250831_____DATO_DEMOLEDOR_en_el_RAYO_vs_BAR_A______ME_HUELO_COSAS_en_esta_JORNADA_3____PREDICCI_N.mp3" length="6203269" type="audio/mpeg" />
+      <guid isPermaLink="false">4c02c9119594c06b6321d4540bd03fccdb05322f</guid>
+      <pubDate>Sun, 31 Aug 2025 13:31:50 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
