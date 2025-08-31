@@ -48,6 +48,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250831_REAL_MADRID_2_1_MALLORCA___Robo_arbitral___Tres_goles_anulados_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250831_REAL_MADRID_2_1_MALLORCA___Robo_arbitral___Tres_goles_anulados_.mp3" length="30095869" type="audio/mpeg" />
+      <guid isPermaLink="false">b60e2c8308d4b4351317043e598a2ded2c32df5d</guid>
+      <pubDate>Sun, 31 Aug 2025 14:26:25 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
