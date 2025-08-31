@@ -66,6 +66,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250831___DISCURSO_sobre_LAMINE_YAMAL_que_DESTROZ__a_la_PRENSA___OFERTA_REAL_por_FERM_N___NEVERAZO_HIST_RICO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250831___DISCURSO_sobre_LAMINE_YAMAL_que_DESTROZ__a_la_PRENSA___OFERTA_REAL_por_FERM_N___NEVERAZO_HIST_RICO.mp3" length="7199773" type="audio/mpeg" />
+      <guid isPermaLink="false">e56198f4f0bc9f4233f47ef400ac7204874f341c</guid>
+      <pubDate>Sun, 31 Aug 2025 17:31:06 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
