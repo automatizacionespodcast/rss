@@ -2200,6 +2200,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250831_RAYO_VALLECANO_vs_FC_BARCELONA__CAMPO_en_MALAS_CONDICIONES___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250831_RAYO_VALLECANO_vs_FC_BARCELONA__CAMPO_en_MALAS_CONDICIONES___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="11977391" type="audio/mpeg" />
+      <guid isPermaLink="false">f8e12dc3dfd74fd094a51b5a25bf4d8e3b7c1860</guid>
+      <pubDate>Sun, 31 Aug 2025 10:12:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
