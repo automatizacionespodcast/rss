@@ -75,6 +75,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250831_REACCIONES_DE_UN_HINCHA_al_Rayo_Vallecano_vs_Barcelona_1_1__TROPIEZO_DEL_BAR_A_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250831_REACCIONES_DE_UN_HINCHA_al_Rayo_Vallecano_vs_Barcelona_1_1__TROPIEZO_DEL_BAR_A_.mp3" length="9951563" type="audio/mpeg" />
+      <guid isPermaLink="false">393529e07251551b69d40839df53d68cd5c1b538</guid>
+      <pubDate>Sun, 31 Aug 2025 21:51:43 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
