@@ -84,6 +84,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250831_____ESC_NDALO_en_el_RAYO_vs_BAR_A___UN_PARTIDO_SIN_VAR___PESADILLA_con_JOAN_GARC_A___PINCHAZO_1_1.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250831_____ESC_NDALO_en_el_RAYO_vs_BAR_A___UN_PARTIDO_SIN_VAR___PESADILLA_con_JOAN_GARC_A___PINCHAZO_1_1.mp3" length="5843676" type="audio/mpeg" />
+      <guid isPermaLink="false">b1a20920a590aeb889a39cfb95babe8d8efc724b</guid>
+      <pubDate>Sun, 31 Aug 2025 22:11:00 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
