@@ -156,6 +156,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250901____DESAHOGO_TOTAL_del_SPIDERCUL__sobre_la_P_LEMICA_DEL_PENALTI_a_LAMINE_YAMAL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250901____DESAHOGO_TOTAL_del_SPIDERCUL__sobre_la_P_LEMICA_DEL_PENALTI_a_LAMINE_YAMAL_.mp3" length="8505970" type="audio/mpeg" />
+      <guid isPermaLink="false">3d2cf46567b99506c9e813faf466f8128528256a</guid>
+      <pubDate>Mon, 01 Sep 2025 15:01:19 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
