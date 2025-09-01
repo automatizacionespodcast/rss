@@ -138,6 +138,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250901___ME_EQUIVOQU___Joan_Garc_a_es_un_FICHAJE_BRUTAL_del_BAR_A___ADMITI__el_ERROR_con_el_PENAL_de_LAMINE.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250901___ME_EQUIVOQU___Joan_Garc_a_es_un_FICHAJE_BRUTAL_del_BAR_A___ADMITI__el_ERROR_con_el_PENAL_de_LAMINE.mp3" length="9679526" type="audio/mpeg" />
+      <guid isPermaLink="false">1eadc86670ea88f4bfebef91bd23fbbf2d198527</guid>
+      <pubDate>Mon, 01 Sep 2025 14:16:01 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250901_RAYO_VALLECANO_1_1_FC_BARCELONA___Pudo_ser_PEOR__Que_pas__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250901_RAYO_VALLECANO_1_1_FC_BARCELONA___Pudo_ser_PEOR__Que_pas__.mp3" length="20346165" type="audio/mpeg" />
+      <guid isPermaLink="false">4e0341f7ac68bb0571a605cf581670f78399c37d</guid>
+      <pubDate>Mon, 01 Sep 2025 14:16:05 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
