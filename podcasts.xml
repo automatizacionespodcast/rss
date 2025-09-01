@@ -237,6 +237,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250901_LAMENTABLE____JUGADORES_del_BAR_A_INTIMIDADOS_por_REGALAR_CAMISETAS_a_CR_OS___DIFERENCIAS_ANCELOTTI.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250901_LAMENTABLE____JUGADORES_del_BAR_A_INTIMIDADOS_por_REGALAR_CAMISETAS_a_CR_OS___DIFERENCIAS_ANCELOTTI.mp3" length="8392552" type="audio/mpeg" />
+      <guid isPermaLink="false">98e06b13d70683e1ad65755e9227e42bff485a6f</guid>
+      <pubDate>Mon, 01 Sep 2025 23:51:59 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
