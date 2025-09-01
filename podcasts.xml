@@ -201,6 +201,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250901___Calendario_COMPLETO__los_choques_de_Madrid_y_Bar_a_en_la_Champions.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250901___Calendario_COMPLETO__los_choques_de_Madrid_y_Bar_a_en_la_Champions.mp3" length="13665301" type="audio/mpeg" />
+      <guid isPermaLink="false">55e7d2080861b23a458ce79ebc61389c1698cb32</guid>
+      <pubDate>Mon, 01 Sep 2025 19:15:37 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250901__QUI_N_ES_QUI_N__UBIETOO_VS___joaanpu___ADIVINA_JUGADOR__ENTRENADOR_Y_LEYENDA__MUY_DIFICIL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250901__QUI_N_ES_QUI_N__UBIETOO_VS___joaanpu___ADIVINA_JUGADOR__ENTRENADOR_Y_LEYENDA__MUY_DIFICIL_.mp3" length="9258170" type="audio/mpeg" />
+      <guid isPermaLink="false">4318730834b2f0033a65bb5c3f22792afe1439f3</guid>
+      <pubDate>Mon, 01 Sep 2025 19:15:41 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
