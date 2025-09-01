@@ -129,6 +129,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250901____IMPACTANTE_DESAHOGO_de_HANSI_FLICK_CON_LA_PLANTILLA_TRAS_el_RAYO_1_1_BAR_A_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250901____IMPACTANTE_DESAHOGO_de_HANSI_FLICK_CON_LA_PLANTILLA_TRAS_el_RAYO_1_1_BAR_A_.mp3" length="6651418" type="audio/mpeg" />
+      <guid isPermaLink="false">60632ad7ecc2e6ba70bc750953f6d5717a84de6f</guid>
+      <pubDate>Mon, 01 Sep 2025 13:11:14 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
