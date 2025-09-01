@@ -111,6 +111,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250831____ESC_NDALO_HIST_RICO__SIN_VAR__CAMPO_DESASTROSO_y_el_PENALTI_a_LAMINE_YAMAL__LO_ERA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250831____ESC_NDALO_HIST_RICO__SIN_VAR__CAMPO_DESASTROSO_y_el_PENALTI_a_LAMINE_YAMAL__LO_ERA_.mp3" length="6485954" type="audio/mpeg" />
+      <guid isPermaLink="false">920e25423bfed6bfc11e6d789ee8f3ae7254cb00</guid>
+      <pubDate>Mon, 01 Sep 2025 00:11:07 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
