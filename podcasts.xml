@@ -165,6 +165,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250901_____FERMIN_SE_QUEDA_EN_EL_BARCELONA____ESTE_ES_EL_SORPRENDENTE_MOTIVO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250901_____FERMIN_SE_QUEDA_EN_EL_BARCELONA____ESTE_ES_EL_SORPRENDENTE_MOTIVO_.mp3" length="8623977" type="audio/mpeg" />
+      <guid isPermaLink="false">0decf86c035e30b9d2511b2985f0e2b592a14063</guid>
+      <pubDate>Mon, 01 Sep 2025 16:31:25 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
