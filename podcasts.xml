@@ -192,6 +192,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250901_DANI_OLMO_Y_RAPHINHA__SE_ALADOS___FLICK_NO_TOLERAR__M_S_ESTAS_ACTITUDES.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250901_DANI_OLMO_Y_RAPHINHA__SE_ALADOS___FLICK_NO_TOLERAR__M_S_ESTAS_ACTITUDES.mp3" length="5660871" type="audio/mpeg" />
+      <guid isPermaLink="false">e4cb38d9ce7ab085730cfafa190ea2644f474ca3</guid>
+      <pubDate>Mon, 01 Sep 2025 18:11:08 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
