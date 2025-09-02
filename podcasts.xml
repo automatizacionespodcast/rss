@@ -354,6 +354,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250902_FLIPANTE___FERM_N_CUENTA_LA_VERDAD_Y_ACLARA_SU_POL_MICA_CON_GAVI.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250902_FLIPANTE___FERM_N_CUENTA_LA_VERDAD_Y_ACLARA_SU_POL_MICA_CON_GAVI.mp3" length="9644281" type="audio/mpeg" />
+      <guid isPermaLink="false">05cc70f032e2266088e9d33c678ba385c3f6e998</guid>
+      <pubDate>Tue, 02 Sep 2025 21:12:07 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
