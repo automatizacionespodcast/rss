@@ -282,6 +282,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250902__ESTO_QUE_ES___LAMINE_YAMAL_y_DANI_OLMO_EXPONEN_a_HANSI_FLICK_P_BLICAMENTE_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250902__ESTO_QUE_ES___LAMINE_YAMAL_y_DANI_OLMO_EXPONEN_a_HANSI_FLICK_P_BLICAMENTE_.mp3" length="7242690" type="audio/mpeg" />
+      <guid isPermaLink="false">dc3c687f855ba2be8796e687e062bf43c647e733</guid>
+      <pubDate>Tue, 02 Sep 2025 15:11:30 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
