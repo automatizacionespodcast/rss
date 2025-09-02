@@ -336,6 +336,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250902__QUE_HA_PASADO_CON_ROONY_BARDGHJI____SOLUCI_N_INESPERADA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250902__QUE_HA_PASADO_CON_ROONY_BARDGHJI____SOLUCI_N_INESPERADA.mp3" length="4945969" type="audio/mpeg" />
+      <guid isPermaLink="false">59a0a5227bc004ae1b66bd2967f4d1ead32c255b</guid>
+      <pubDate>Tue, 02 Sep 2025 19:51:03 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
