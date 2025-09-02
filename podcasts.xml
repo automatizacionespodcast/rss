@@ -309,6 +309,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250902_ENTREVISTA_IN_DITA___LAMINE_RETRATA_A_LOS_HATERS_Y_DEMUESTRA_UNA_MENTALIDAD_INCRE_BLE_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250902_ENTREVISTA_IN_DITA___LAMINE_RETRATA_A_LOS_HATERS_Y_DEMUESTRA_UNA_MENTALIDAD_INCRE_BLE_.mp3" length="9645931" type="audio/mpeg" />
+      <guid isPermaLink="false">2ca01d8e8f9ef1c2c7033e85bc57bfe91b3b48a5</guid>
+      <pubDate>Tue, 02 Sep 2025 18:31:25 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
