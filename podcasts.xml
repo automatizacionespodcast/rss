@@ -246,6 +246,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250902___MI_CONSEJO_A_XAVI_HERNANDEZ__NO_ACEPTES_LA_PROPUESTA_DEL_BAYER_LEVERKUSEN.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250902___MI_CONSEJO_A_XAVI_HERNANDEZ__NO_ACEPTES_LA_PROPUESTA_DEL_BAYER_LEVERKUSEN.mp3" length="6173971" type="audio/mpeg" />
+      <guid isPermaLink="false">8e97dc144183642414b207cb1eaa83bdeb604c4a</guid>
+      <pubDate>Tue, 02 Sep 2025 11:31:11 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
