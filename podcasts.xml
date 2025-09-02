@@ -318,6 +318,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250902___Pedri_CONFIRMA_los_EGOS_del_Bar_a___pero_Lamine_lo_NIEGA_TODO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250902___Pedri_CONFIRMA_los_EGOS_del_Bar_a___pero_Lamine_lo_NIEGA_TODO_.mp3" length="20996973" type="audio/mpeg" />
+      <guid isPermaLink="false">204bb535c7dd8b8bc2feb2fb5c5d6ff6359eca0a</guid>
+      <pubDate>Tue, 02 Sep 2025 19:16:10 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250902___CIERRE_DEL_MERCADO_DE_FICHAJES______QUI_NES_SE_QUEDAN___QUI_NES_LLEGAN____LALIGA___Ubietoo.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250902___CIERRE_DEL_MERCADO_DE_FICHAJES______QUI_NES_SE_QUEDAN___QUI_NES_LLEGAN____LALIGA___Ubietoo.mp3" length="5291908" type="audio/mpeg" />
+      <guid isPermaLink="false">8e74ce920b283f5612e743a8255d5f2c4df61d62</guid>
+      <pubDate>Tue, 02 Sep 2025 19:16:15 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
