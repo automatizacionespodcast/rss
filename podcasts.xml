@@ -273,6 +273,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250902___CARVAJAL_MUY_CRITICADO_por_MADRIDISTAS___RAZ_N_al_BAR_A____PEDRI_y_los_EGOS__VA_POR_LAMINE_YAMAL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250902___CARVAJAL_MUY_CRITICADO_por_MADRIDISTAS___RAZ_N_al_BAR_A____PEDRI_y_los_EGOS__VA_POR_LAMINE_YAMAL_.mp3" length="7579453" type="audio/mpeg" />
+      <guid isPermaLink="false">58ad8c72102e2eb05f9c90da07d2f443a76a9b1f</guid>
+      <pubDate>Tue, 02 Sep 2025 14:31:15 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
