@@ -264,6 +264,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250902_As__quedar__la_LIGA_25_26_seg_n_Mi_Predicci_n___SORPRESAS_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250902_As__quedar__la_LIGA_25_26_seg_n_Mi_Predicci_n___SORPRESAS_.mp3" length="24350786" type="audio/mpeg" />
+      <guid isPermaLink="false">028ba296ebef9b12f80dfb6223e890cea391644c</guid>
+      <pubDate>Tue, 02 Sep 2025 14:15:29 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
