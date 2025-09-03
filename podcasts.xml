@@ -444,6 +444,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250903_ILUSIONANTES_NOTICIAS_de__LTIMA_HORA_en_el_BAR_A_para_la_CHAMPIONS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250903_ILUSIONANTES_NOTICIAS_de__LTIMA_HORA_en_el_BAR_A_para_la_CHAMPIONS.mp3" length="5538510" type="audio/mpeg" />
+      <guid isPermaLink="false">c8ef2c3f39285154a59effe1cef9153f09636ceb</guid>
+      <pubDate>Wed, 03 Sep 2025 20:12:37 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250903___PEDRI__MOTOR_del_BAR_A_y_ESPA_A___EL_MEJOR_del_MUNDO_por_DATOS___Champions_Bar_a_Madrid___NEGREIRA__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250903___PEDRI__MOTOR_del_BAR_A_y_ESPA_A___EL_MEJOR_del_MUNDO_por_DATOS___Champions_Bar_a_Madrid___NEGREIRA__.mp3" length="7471612" type="audio/mpeg" />
+      <guid isPermaLink="false">61e98a5759d3b0820208df712dee1925fbc7eeab</guid>
+      <pubDate>Wed, 03 Sep 2025 20:12:39 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
