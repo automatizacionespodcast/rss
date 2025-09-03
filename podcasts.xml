@@ -408,6 +408,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250903_DESVELADO_EL_INS_LITO_PLAN_DEL_BAR_A_CON_LEWANDOWSKI.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250903_DESVELADO_EL_INS_LITO_PLAN_DEL_BAR_A_CON_LEWANDOWSKI.mp3" length="7092560" type="audio/mpeg" />
+      <guid isPermaLink="false">669da3496faec38c1ead11b09c8a72af01183288</guid>
+      <pubDate>Wed, 03 Sep 2025 16:11:38 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
