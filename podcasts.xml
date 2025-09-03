@@ -372,6 +372,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250903_MI_PREDICCI_N_DE_LA_JORNADA_3___RESULTADOS_DE_MI_QUINIELA___LALIGA___Ubietoo.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250903_MI_PREDICCI_N_DE_LA_JORNADA_3___RESULTADOS_DE_MI_QUINIELA___LALIGA___Ubietoo.mp3" length="6073013" type="audio/mpeg" />
+      <guid isPermaLink="false">b0f48cfc841cb61bde3c4e33e8925055a4f4d7c0</guid>
+      <pubDate>Wed, 03 Sep 2025 13:11:07 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
