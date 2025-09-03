@@ -426,6 +426,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250903__OTRA_VEZ_NO__ME_CAG0_EN_TODO__NUEVOS_DATOS_DE_MI3RDA_PARA_VENDER_HUMO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250903__OTRA_VEZ_NO__ME_CAG0_EN_TODO__NUEVOS_DATOS_DE_MI3RDA_PARA_VENDER_HUMO.mp3" length="9620760" type="audio/mpeg" />
+      <guid isPermaLink="false">1dcf622ebe8941fa1105af1c1696ed6f9c3fe51d</guid>
+      <pubDate>Wed, 03 Sep 2025 18:31:23 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
