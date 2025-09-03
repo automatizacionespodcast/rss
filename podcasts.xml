@@ -399,6 +399,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250903_____BOMBAZO___POL_MICAS_EXPLICADAS_por_el_CTA__ELIGIERON_ESTAS_JUGADAS____La_MANO_de_G_LER_ME_CANSA__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250903_____BOMBAZO___POL_MICAS_EXPLICADAS_por_el_CTA__ELIGIERON_ESTAS_JUGADAS____La_MANO_de_G_LER_ME_CANSA__.mp3" length="9190858" type="audio/mpeg" />
+      <guid isPermaLink="false">567fb6d455f4a252771006b7a9ce7506f52f8ca8</guid>
+      <pubDate>Wed, 03 Sep 2025 14:52:09 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
