@@ -417,6 +417,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250903__APROBADO_o_SUSPENSO__Nota_final_al_mercado_del_Bar_a.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250903__APROBADO_o_SUSPENSO__Nota_final_al_mercado_del_Bar_a.mp3" length="20070733" type="audio/mpeg" />
+      <guid isPermaLink="false">8cd1558dff2c701d54eb580f00e835f98faebbb1</guid>
+      <pubDate>Wed, 03 Sep 2025 17:03:13 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
