@@ -381,6 +381,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250903__ILUSIONA_o_DECEPCIONA__Nota_al_mercado_de_fichajes_del_Madrid.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250903__ILUSIONA_o_DECEPCIONA__Nota_al_mercado_de_fichajes_del_Madrid.mp3" length="22437197" type="audio/mpeg" />
+      <guid isPermaLink="false">3013c594b4f012c9102c6b60584f0cf4a875978b</guid>
+      <pubDate>Wed, 03 Sep 2025 14:04:10 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
