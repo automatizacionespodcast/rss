@@ -435,6 +435,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250903__ESC_NDALO__Carvajal_recibe_palos_y_el_Madrid_denuncia_al_VAR.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250903__ESC_NDALO__Carvajal_recibe_palos_y_el_Madrid_denuncia_al_VAR.mp3" length="18348709" type="audio/mpeg" />
+      <guid isPermaLink="false">aab1d8224149105009313c783d8dcf54db0bb5cf</guid>
+      <pubDate>Wed, 03 Sep 2025 19:03:06 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
