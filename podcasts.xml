@@ -363,6 +363,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250903__LTIMA_HORA___PREOCUPACI_N_MAXIMA_POR_EL_BAJO_NIVEL_DE_RASHFORD_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250903__LTIMA_HORA___PREOCUPACI_N_MAXIMA_POR_EL_BAJO_NIVEL_DE_RASHFORD_.mp3" length="5329151" type="audio/mpeg" />
+      <guid isPermaLink="false">19632b97165efcbe1b5885c88f9ea51130297278</guid>
+      <pubDate>Wed, 03 Sep 2025 12:11:44 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
