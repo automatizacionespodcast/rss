@@ -390,6 +390,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250903_CARVAJAL_DEJA_EN_RIDICULO_AL_MADRID_Y_DA_LA_RAZON_AL_BAR_A___PODRIA_SER_CASTIGADO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250903_CARVAJAL_DEJA_EN_RIDICULO_AL_MADRID_Y_DA_LA_RAZON_AL_BAR_A___PODRIA_SER_CASTIGADO.mp3" length="5474261" type="audio/mpeg" />
+      <guid isPermaLink="false">598245e5e6742cb10eb11d3ec9eeaf1f2c231314</guid>
+      <pubDate>Wed, 03 Sep 2025 14:31:07 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
