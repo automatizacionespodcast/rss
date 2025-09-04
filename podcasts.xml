@@ -462,6 +462,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250904____Y_ESTA_PORTADA___LAMINE_YAMAL_el_REY_como_LEBRON____ESPA_A_a_por_el_MUNDIAL_____ESC_NDALO_LAPORTE.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250904____Y_ESTA_PORTADA___LAMINE_YAMAL_el_REY_como_LEBRON____ESPA_A_a_por_el_MUNDIAL_____ESC_NDALO_LAPORTE.mp3" length="7569376" type="audio/mpeg" />
+      <guid isPermaLink="false">82d93696a5279b5e250c62e9eea82efa3a7596a0</guid>
+      <pubDate>Thu, 04 Sep 2025 00:51:52 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
