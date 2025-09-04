@@ -534,6 +534,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250904____BA_O_de_ESPA_A__LAMINE_YAMAL__HUIJSEN__PEDRI_____SELECCI_N_de_LUJO__0_3_a_BULGARIA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250904____BA_O_de_ESPA_A__LAMINE_YAMAL__HUIJSEN__PEDRI_____SELECCI_N_de_LUJO__0_3_a_BULGARIA.mp3" length="5932123" type="audio/mpeg" />
+      <guid isPermaLink="false">bd871b03c2ba0bca129e001c6983c8aa1142e35b</guid>
+      <pubDate>Thu, 04 Sep 2025 21:31:03 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
