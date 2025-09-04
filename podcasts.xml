@@ -525,6 +525,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250904__RECORD_HIST_RICO__Xabi_Alonso_supera_al_Bar_a_de_Pep_en_solo_3_partidos.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250904__RECORD_HIST_RICO__Xabi_Alonso_supera_al_Bar_a_de_Pep_en_solo_3_partidos.mp3" length="19813531" type="audio/mpeg" />
+      <guid isPermaLink="false">11f55e3a29ea792cbe191fd903a9ddbdf7fbfb66</guid>
+      <pubDate>Thu, 04 Sep 2025 19:23:18 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
