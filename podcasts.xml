@@ -516,6 +516,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250904____FICHAJE_BOMBA__El_Madrid_se_mete_en_la_pelea_por_GUEHI.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250904____FICHAJE_BOMBA__El_Madrid_se_mete_en_la_pelea_por_GUEHI.mp3" length="16007212" type="audio/mpeg" />
+      <guid isPermaLink="false">7e98a145f25975a4e3d72b0df202166d9f8b7d65</guid>
+      <pubDate>Thu, 04 Sep 2025 17:32:14 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
