@@ -507,6 +507,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250904_La_VERDAD_de_la_MIRADA_de_RAPHINHA_a_LAMINE_YAMAL___VINICIUS_y_RODRYGO__COMPETENCIA_INTERNA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250904_La_VERDAD_de_la_MIRADA_de_RAPHINHA_a_LAMINE_YAMAL___VINICIUS_y_RODRYGO__COMPETENCIA_INTERNA_.mp3" length="7437237" type="audio/mpeg" />
+      <guid isPermaLink="false">f5e13c740c550edde06ea9f6bd6e4c2d7691b003</guid>
+      <pubDate>Thu, 04 Sep 2025 15:32:02 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
