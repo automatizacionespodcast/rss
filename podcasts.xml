@@ -471,6 +471,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250904__BASTA_YA____ESTO_TIENE_QUE_PARAR___MI_MENSAJE_A_TODO_EL_BARCELONISMO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250904__BASTA_YA____ESTO_TIENE_QUE_PARAR___MI_MENSAJE_A_TODO_EL_BARCELONISMO.mp3" length="5975148" type="audio/mpeg" />
+      <guid isPermaLink="false">321b3cf74e1a81f9e2544d0a3708d815c9f2171c</guid>
+      <pubDate>Thu, 04 Sep 2025 11:31:08 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
