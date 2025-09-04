@@ -489,6 +489,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250904___Juli_n__lvarez__La_prioridad_absoluta_del_Bar_a_para_2026__As__podr_n_ficharlo_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250904___Juli_n__lvarez__La_prioridad_absoluta_del_Bar_a_para_2026__As__podr_n_ficharlo_.mp3" length="16173445" type="audio/mpeg" />
+      <guid isPermaLink="false">2512f4e6b22e59699109482b726f79a164e2fc5e</guid>
+      <pubDate>Thu, 04 Sep 2025 14:11:47 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
