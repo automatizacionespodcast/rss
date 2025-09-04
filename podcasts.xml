@@ -543,6 +543,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250904_VAMOS____ESPA_A_SE_GUSTA_y_GOLEA_CON_MUCHA_FACILIDAD_3_0_a_BULGARIA_con_un_LAMINE_ESTELAR.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250904_VAMOS____ESPA_A_SE_GUSTA_y_GOLEA_CON_MUCHA_FACILIDAD_3_0_a_BULGARIA_con_un_LAMINE_ESTELAR.mp3" length="6589481" type="audio/mpeg" />
+      <guid isPermaLink="false">e733573c3204dc53af561ed900a3f96cc267ff98</guid>
+      <pubDate>Thu, 04 Sep 2025 21:51:30 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
