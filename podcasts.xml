@@ -606,6 +606,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250905_ALARMA_TOTAL___ROONY_CARGA_CONTRA_LA_DIRECTIVA___NO_JUGAR__EN_EL_FILIAL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250905_ALARMA_TOTAL___ROONY_CARGA_CONTRA_LA_DIRECTIVA___NO_JUGAR__EN_EL_FILIAL_.mp3" length="5131496" type="audio/mpeg" />
+      <guid isPermaLink="false">0afcbb03ec1a4d031dc84c7f578882604cd97d90</guid>
+      <pubDate>Fri, 05 Sep 2025 16:51:41 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
