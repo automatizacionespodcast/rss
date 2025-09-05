@@ -615,6 +615,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250905__ESPA_A_DESTROZA_a_BULGARIA_0_3__LAMINE_YAMAL__PEDRI_y_HUIJSEN_los_MEJORES.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250905__ESPA_A_DESTROZA_a_BULGARIA_0_3__LAMINE_YAMAL__PEDRI_y_HUIJSEN_los_MEJORES.mp3" length="13277380" type="audio/mpeg" />
+      <guid isPermaLink="false">86a867dfbe000ae08ff31ec3690310590adf0f54</guid>
+      <pubDate>Fri, 05 Sep 2025 17:11:39 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
