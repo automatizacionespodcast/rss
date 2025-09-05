@@ -642,6 +642,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250905_UBIETOO_juega_a_WHO_ARE_YA_vs__Josepdt11___NIVEL_IMPOSIBLE___JUEGOS_DE_F_TBOL.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250905_UBIETOO_juega_a_WHO_ARE_YA_vs__Josepdt11___NIVEL_IMPOSIBLE___JUEGOS_DE_F_TBOL.mp3" length="13748948" type="audio/mpeg" />
+      <guid isPermaLink="false">b01f6c78d4e68a86aca27cb57f303afe06a4a12b</guid>
+      <pubDate>Fri, 05 Sep 2025 19:55:25 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
