@@ -570,6 +570,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250905_TENGO_QUE_PEDIR_PERD_N___SIN_EXCUSAS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250905_TENGO_QUE_PEDIR_PERD_N___SIN_EXCUSAS.mp3" length="5957434" type="audio/mpeg" />
+      <guid isPermaLink="false">ee362548dd35817792e69624966dd6568651fb86</guid>
+      <pubDate>Fri, 05 Sep 2025 13:11:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
