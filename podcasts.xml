@@ -624,6 +624,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250905_NUEVO_RETRASO_EN_LAS_OBRAS_DEL_CAMP_NOU____ESTO_QU__ES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250905_NUEVO_RETRASO_EN_LAS_OBRAS_DEL_CAMP_NOU____ESTO_QU__ES_.mp3" length="5684109" type="audio/mpeg" />
+      <guid isPermaLink="false">2c6f47ca8843dd1f2181cc6f7fbe4c76602a6ea9</guid>
+      <pubDate>Fri, 05 Sep 2025 18:51:51 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
