@@ -597,6 +597,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250905_BOMBAZO_MUNDIAL___MESSI_AMENAZA_CON_RETIRARSE_DE_LA_SELECCI_N__LLEGAR__AL_MUNDIAL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250905_BOMBAZO_MUNDIAL___MESSI_AMENAZA_CON_RETIRARSE_DE_LA_SELECCI_N__LLEGAR__AL_MUNDIAL_.mp3" length="5254946" type="audio/mpeg" />
+      <guid isPermaLink="false">bc12cd1b967a94503ba4318e77b35615dc5d9aa2</guid>
+      <pubDate>Fri, 05 Sep 2025 15:11:19 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
