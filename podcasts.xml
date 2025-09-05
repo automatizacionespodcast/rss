@@ -552,6 +552,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250905_MESSI_ES_ETERNO__SE_DESPIDE_entre_L_GRIMAS_y_se_EXHIBE_con_DOBLETE_vs_VENEZUELA_3_0___ELIMINATORIAS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250905_MESSI_ES_ETERNO__SE_DESPIDE_entre_L_GRIMAS_y_se_EXHIBE_con_DOBLETE_vs_VENEZUELA_3_0___ELIMINATORIAS.mp3" length="7248601" type="audio/mpeg" />
+      <guid isPermaLink="false">8c166f8e4ff8f9b06ae8e9a386e7e3ca34c80e1a</guid>
+      <pubDate>Fri, 05 Sep 2025 02:31:10 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
