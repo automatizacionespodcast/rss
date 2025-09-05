@@ -561,6 +561,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250905__BOMBAZO____ANSU_FATI_INSCRITO_EN_CHAMPIONS___RENACER__SU_CARRERA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250905__BOMBAZO____ANSU_FATI_INSCRITO_EN_CHAMPIONS___RENACER__SU_CARRERA_.mp3" length="5209217" type="audio/mpeg" />
+      <guid isPermaLink="false">449dcb62c305780f7c7c2fe0e039fe48c7e8f334</guid>
+      <pubDate>Fri, 05 Sep 2025 11:31:06 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
