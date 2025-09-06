@@ -732,6 +732,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250906______CRISTIANO_con_40_A_OS_SIGUE_HACI_NDOLO__INCRE_BLE_pero_CIERTO___MBAPP__HIST_RICO___RODRI_SE_MOJA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250906______CRISTIANO_con_40_A_OS_SIGUE_HACI_NDOLO__INCRE_BLE_pero_CIERTO___MBAPP__HIST_RICO___RODRI_SE_MOJA.mp3" length="6265373" type="audio/mpeg" />
+      <guid isPermaLink="false">442ebd40f0469226e81008dfd6fe7b5f55fd2043</guid>
+      <pubDate>Sat, 06 Sep 2025 19:13:59 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250906____DEMB_L__KO_no_jugar__contra_el_BAR_A__BARDGHJI_INSCRITO_y_THIAGO_VUELVE.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250906____DEMB_L__KO_no_jugar__contra_el_BAR_A__BARDGHJI_INSCRITO_y_THIAGO_VUELVE.mp3" length="13375919" type="audio/mpeg" />
+      <guid isPermaLink="false">436bc2fdb6ac861f66aa56e3e28e7b2720b1fe92</guid>
+      <pubDate>Sat, 06 Sep 2025 19:14:01 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
