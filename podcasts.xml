@@ -759,6 +759,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250906_BOMBAZO____DEMB_L__Y_DOU__SE_PERDER_N_EL_PARTIDO_CONTRA_EL_BAR_A_____DOPING_EN_EL_BAR_A__LA_VERDAD.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250906_BOMBAZO____DEMB_L__Y_DOU__SE_PERDER_N_EL_PARTIDO_CONTRA_EL_BAR_A_____DOPING_EN_EL_BAR_A__LA_VERDAD.mp3" length="6609557" type="audio/mpeg" />
+      <guid isPermaLink="false">ae326cae270169f62c31ddef2892c209e740e5bc</guid>
+      <pubDate>Sat, 06 Sep 2025 21:41:01 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
