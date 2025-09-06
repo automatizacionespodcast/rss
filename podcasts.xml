@@ -723,6 +723,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250906__LIO_MONUMENTAL_CON_RAPHINHA_EN_DISNEYLAND__SU_HIJA_IGNORADA_POR__RACISMO____THIAGO_VUELVE_AL_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250906__LIO_MONUMENTAL_CON_RAPHINHA_EN_DISNEYLAND__SU_HIJA_IGNORADA_POR__RACISMO____THIAGO_VUELVE_AL_BAR_A.mp3" length="6052276" type="audio/mpeg" />
+      <guid isPermaLink="false">cdae8beee4fdee22121bb07bf1d53534f1afe5c0</guid>
+      <pubDate>Sat, 06 Sep 2025 17:31:09 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
