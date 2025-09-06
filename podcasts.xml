@@ -714,6 +714,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250906____RECORD_de_MBAPP___FABRIZIO_desmiente_lo_de_STILLER___Septiembre_del_Real_Madrid.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250906____RECORD_de_MBAPP___FABRIZIO_desmiente_lo_de_STILLER___Septiembre_del_Real_Madrid.mp3" length="18031035" type="audio/mpeg" />
+      <guid isPermaLink="false">6f9278e6d81fa975567d596022d3dcfc3dddbe29</guid>
+      <pubDate>Sat, 06 Sep 2025 17:12:37 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
