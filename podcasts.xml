@@ -696,6 +696,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250906_Mis_SELECCIONES_FAVORITAS_para_GANAR_el_MUNDIAL_2026.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250906_Mis_SELECCIONES_FAVORITAS_para_GANAR_el_MUNDIAL_2026.mp3" length="22384514" type="audio/mpeg" />
+      <guid isPermaLink="false">572f80c433b9dcd0c62bed5c0bb731241ef5e32a</guid>
+      <pubDate>Sat, 06 Sep 2025 14:13:57 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
