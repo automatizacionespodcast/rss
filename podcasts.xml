@@ -750,6 +750,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250906_REUNI_N_BAR_A___LEWANDOWSKI_TERMINA_MAL_____CRISTIANO_RONALDO_AGREDE_A_UN_AFICIONADO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250906_REUNI_N_BAR_A___LEWANDOWSKI_TERMINA_MAL_____CRISTIANO_RONALDO_AGREDE_A_UN_AFICIONADO_.mp3" length="4885775" type="audio/mpeg" />
+      <guid isPermaLink="false">ff4312ee5ceede255093a3dc5694ccfa6958c4b0</guid>
+      <pubDate>Sat, 06 Sep 2025 19:31:33 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
