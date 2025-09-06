@@ -669,6 +669,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250906___ALARMA__DE_JONG_LESIONADO___VIRUS_FIFA_DESTROZA_AL_BAR_A___GAVI__BALDE_y_LAMINE_TAMBIEN_KO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250906___ALARMA__DE_JONG_LESIONADO___VIRUS_FIFA_DESTROZA_AL_BAR_A___GAVI__BALDE_y_LAMINE_TAMBIEN_KO.mp3" length="5284095" type="audio/mpeg" />
+      <guid isPermaLink="false">b6ca96e8efa4ffc085d0616f8d66c29ddd55dd67</guid>
+      <pubDate>Sat, 06 Sep 2025 11:11:31 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
