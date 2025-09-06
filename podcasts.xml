@@ -705,6 +705,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250906_BOMBAZO___BARDGHJI_INSCRITO_en_la_LIGA____FLICK_EXPLOTA_tras_LESIONES_del_VIRUS_FIFA__ES_INADMISIBLE.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250906_BOMBAZO___BARDGHJI_INSCRITO_en_la_LIGA____FLICK_EXPLOTA_tras_LESIONES_del_VIRUS_FIFA__ES_INADMISIBLE.mp3" length="5009785" type="audio/mpeg" />
+      <guid isPermaLink="false">7f4daa68add3ada42658d85441b9a27b1eaff9e6</guid>
+      <pubDate>Sat, 06 Sep 2025 15:31:47 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
