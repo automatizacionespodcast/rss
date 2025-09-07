@@ -786,6 +786,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250907__IMPOSIBLE_comparar_a_LAMINE_con_ARDA__CRISTIANO_doblete__942_GOLES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250907__IMPOSIBLE_comparar_a_LAMINE_con_ARDA__CRISTIANO_doblete__942_GOLES_.mp3" length="11433996" type="audio/mpeg" />
+      <guid isPermaLink="false">a3dc02d8e30524eea12ff3607cda5dcaec0781f1</guid>
+      <pubDate>Sun, 07 Sep 2025 14:11:32 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
