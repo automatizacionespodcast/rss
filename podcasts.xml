@@ -831,6 +831,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250907____HUMILLACI_N_TOTAL_de_LAMINE_YAMAL_a_ARDA_GULER_en_la_GOLEADA_MONUMENTAL_de_ESPA_A_6_0_TURQUIA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250907____HUMILLACI_N_TOTAL_de_LAMINE_YAMAL_a_ARDA_GULER_en_la_GOLEADA_MONUMENTAL_de_ESPA_A_6_0_TURQUIA_.mp3" length="6145955" type="audio/mpeg" />
+      <guid isPermaLink="false">ae6bd362cd2be229de84683d398a683cdf7722f5</guid>
+      <pubDate>Sun, 07 Sep 2025 21:51:41 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
