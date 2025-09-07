@@ -804,6 +804,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250907____La_REACCI_N_de_MBAPP__al_BAL_N_de_ORO_y_LAMINE_YAMAL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250907____La_REACCI_N_de_MBAPP__al_BAL_N_de_ORO_y_LAMINE_YAMAL_.mp3" length="7462869" type="audio/mpeg" />
+      <guid isPermaLink="false">51f952abdbf38c69a2535a6140daf16e7c0223c2</guid>
+      <pubDate>Sun, 07 Sep 2025 15:51:57 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
