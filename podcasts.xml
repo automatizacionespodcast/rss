@@ -777,6 +777,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250907__ESC_NDALO____EL_BAR_A_SE_ARREPIENTE_de_FICHAR_a_RASHFORD_y_NO_a_LUIS_D_AZ___GRAVE_ERROR_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250907__ESC_NDALO____EL_BAR_A_SE_ARREPIENTE_de_FICHAR_a_RASHFORD_y_NO_a_LUIS_D_AZ___GRAVE_ERROR_.mp3" length="6885678" type="audio/mpeg" />
+      <guid isPermaLink="false">b05c97d6706e01c5be3a5cc85e740b13657e7096</guid>
+      <pubDate>Sun, 07 Sep 2025 13:11:13 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
