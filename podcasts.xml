@@ -822,6 +822,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250907____PSG_EXPLOTA___Fin_de_los_parones_de_selecciones_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250907____PSG_EXPLOTA___Fin_de_los_parones_de_selecciones_.mp3" length="15631850" type="audio/mpeg" />
+      <guid isPermaLink="false">0b1e1dba8bf82659a77635cba479fdf397b1e071</guid>
+      <pubDate>Sun, 07 Sep 2025 19:12:12 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
