@@ -813,6 +813,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250907_Mbapp__lo_revela_todo__impactado_con_Xabi_y_su_favorito_al_Bal_n_de_Oro.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250907_Mbapp__lo_revela_todo__impactado_con_Xabi_y_su_favorito_al_Bal_n_de_Oro.mp3" length="15509480" type="audio/mpeg" />
+      <guid isPermaLink="false">9f57f419079fb810794ba1f97e0e71872e1ed116</guid>
+      <pubDate>Sun, 07 Sep 2025 17:11:55 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
