@@ -768,6 +768,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250907____LA_LESI_N_de_FRENKIE_de_JONG_PODR_A_SER_MAS_GRAVE_de_lo_QUE_PIENSAS____SOLUCI_N_INESPERADA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250907____LA_LESI_N_de_FRENKIE_de_JONG_PODR_A_SER_MAS_GRAVE_de_lo_QUE_PIENSAS____SOLUCI_N_INESPERADA.mp3" length="5493703" type="audio/mpeg" />
+      <guid isPermaLink="false">c14bd1bc4e42185e917b8456936a448127517847</guid>
+      <pubDate>Sun, 07 Sep 2025 11:11:21 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
