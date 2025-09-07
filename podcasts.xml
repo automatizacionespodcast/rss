@@ -795,6 +795,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250907__GUERRA_TOTAL_DE_PRESIDENTES___LAPORTA_vs_FLORENTINO___QUI_N_ES_EL_MEJOR_DE_LA_HISTORIA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250907__GUERRA_TOTAL_DE_PRESIDENTES___LAPORTA_vs_FLORENTINO___QUI_N_ES_EL_MEJOR_DE_LA_HISTORIA_.mp3" length="10040039" type="audio/mpeg" />
+      <guid isPermaLink="false">14e93ca3d08fd8122a01810bd7b6a1fdc75e55d4</guid>
+      <pubDate>Sun, 07 Sep 2025 15:12:09 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
