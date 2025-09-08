@@ -876,6 +876,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250908____BOMBAZO__WHARTON_o_KEES_SMIT_al_MADRID_en_2026___CAMAVINGA_y_ENDRICK_Recuperados.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250908____BOMBAZO__WHARTON_o_KEES_SMIT_al_MADRID_en_2026___CAMAVINGA_y_ENDRICK_Recuperados.mp3" length="16458681" type="audio/mpeg" />
+      <guid isPermaLink="false">a1c738e20bb11d5dfa910460331170eed46670e1</guid>
+      <pubDate>Mon, 08 Sep 2025 17:12:15 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
