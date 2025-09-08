@@ -867,6 +867,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250908_CRISIS_TOTAL____EL_MADRID_SE_HARTA_de_ASENCIO_y_LO_CONDENAN_ENVI_NDOLO_al_BANQUILLO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250908_CRISIS_TOTAL____EL_MADRID_SE_HARTA_de_ASENCIO_y_LO_CONDENAN_ENVI_NDOLO_al_BANQUILLO_.mp3" length="5031273" type="audio/mpeg" />
+      <guid isPermaLink="false">49983e73d3e15a2299f5359d64d4b97f75faa847</guid>
+      <pubDate>Mon, 08 Sep 2025 16:31:02 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
