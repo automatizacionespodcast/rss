@@ -885,6 +885,33 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250908____PREOCUPACI_N_M_XIMA_en_el_BAR_A_TRAS_la_NUEVA_LESI_N_DE_GAVI___PODRIA_PASAR_POR_EL_QUIROFANO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250908____PREOCUPACI_N_M_XIMA_en_el_BAR_A_TRAS_la_NUEVA_LESI_N_DE_GAVI___PODRIA_PASAR_POR_EL_QUIROFANO_.mp3" length="10234245" type="audio/mpeg" />
+      <guid isPermaLink="false">f4b0ba9bffe064b2d4927160d208a4d1a391c0a0</guid>
+      <pubDate>Mon, 08 Sep 2025 19:29:28 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250908____DE_JONG_LESIONADO_____ESC_NDALO_con_RAPHINHA_y_ANCELOTTI__en_BOLIVIA___KONAT__CERCA_del_MADRID.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250908____DE_JONG_LESIONADO_____ESC_NDALO_con_RAPHINHA_y_ANCELOTTI__en_BOLIVIA___KONAT__CERCA_del_MADRID.mp3" length="7246533" type="audio/mpeg" />
+      <guid isPermaLink="false">a1cb4e458148f906ff8a53517bc244a4dfd54252</guid>
+      <pubDate>Mon, 08 Sep 2025 19:29:31 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250908____DE_JONG_LESIONADO__La_RODILLA_de_GAVI_PREOCUPA_al_BAR_A___CAMP_NOU_cerrado_hasta_OCTUBRE.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250908____DE_JONG_LESIONADO__La_RODILLA_de_GAVI_PREOCUPA_al_BAR_A___CAMP_NOU_cerrado_hasta_OCTUBRE.mp3" length="16949754" type="audio/mpeg" />
+      <guid isPermaLink="false">db47274882e5dc1448c94154555d1e6f74fabfff</guid>
+      <pubDate>Mon, 08 Sep 2025 19:29:34 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
