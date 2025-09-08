@@ -921,6 +921,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250908__GUERRA_TOTAL____EL_BAYERN_EXPONE_LA_DEUDA_ESCANDALOSA_del_BAR_A___TIENEN_RAZ_N_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250908__GUERRA_TOTAL____EL_BAYERN_EXPONE_LA_DEUDA_ESCANDALOSA_del_BAR_A___TIENEN_RAZ_N_.mp3" length="5260234" type="audio/mpeg" />
+      <guid isPermaLink="false">d09c4f3e8f2f7e22a5dcfa34cd9bb55d3cff13c0</guid>
+      <pubDate>Mon, 08 Sep 2025 21:11:13 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
