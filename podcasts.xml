@@ -849,6 +849,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250908__PALIZA_HIST_RICA_a_TURQU_A_0_6__ESPA_A_METE_MIEDO___PEDRI_es_de_OTRO_PLANETA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250908__PALIZA_HIST_RICA_a_TURQU_A_0_6__ESPA_A_METE_MIEDO___PEDRI_es_de_OTRO_PLANETA.mp3" length="16887831" type="audio/mpeg" />
+      <guid isPermaLink="false">de911722fcb1745c34d1382606235d4da93dcad4</guid>
+      <pubDate>Mon, 08 Sep 2025 14:12:05 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
