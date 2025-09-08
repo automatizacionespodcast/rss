@@ -840,6 +840,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250908____SE_DESVELA_QUE_PEDRI_ES_SERIO_CANDIDATO_A_GANAR_EL_BAL_N_DE_ORO_TRAS_SU_EXHIBICI_N_CONTRA_TURQU_A_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250908____SE_DESVELA_QUE_PEDRI_ES_SERIO_CANDIDATO_A_GANAR_EL_BAL_N_DE_ORO_TRAS_SU_EXHIBICI_N_CONTRA_TURQU_A_.mp3" length="6252681" type="audio/mpeg" />
+      <guid isPermaLink="false">d86d6faf90795060575e0cd4439ce85c761ab5ad</guid>
+      <pubDate>Mon, 08 Sep 2025 13:11:43 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
