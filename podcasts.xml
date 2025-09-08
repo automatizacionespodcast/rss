@@ -912,6 +912,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250908___BASTA_YA_____AL_DESCUBIERTO_EL_ATAQUE_MEDI_TICO_M_S_BRUTAL_CONTRA_EL_BAR_A_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250908___BASTA_YA_____AL_DESCUBIERTO_EL_ATAQUE_MEDI_TICO_M_S_BRUTAL_CONTRA_EL_BAR_A_.mp3" length="9752234" type="audio/mpeg" />
+      <guid isPermaLink="false">a05971997ba9003cb4c354fdda84a53c1215fca6</guid>
+      <pubDate>Mon, 08 Sep 2025 19:51:56 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
