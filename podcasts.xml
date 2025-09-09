@@ -930,6 +930,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250909____FILTRAN_que_LAMINE_YAMAL_NO_GANAR__el_BAL_N_de_ORO___ESTE_ES_EL_MOTIVO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250909____FILTRAN_que_LAMINE_YAMAL_NO_GANAR__el_BAL_N_de_ORO___ESTE_ES_EL_MOTIVO_.mp3" length="5070006" type="audio/mpeg" />
+      <guid isPermaLink="false">f0f818105d03bce9614cdb7bb83480372b20a673</guid>
+      <pubDate>Tue, 09 Sep 2025 11:11:10 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
