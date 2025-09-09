@@ -993,6 +993,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250909____EL_BAR_A_puede_PERDER_6_Puntos__LAMINE_sue_a_con_GANAR_muchos_BALONES_de_ORO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250909____EL_BAR_A_puede_PERDER_6_Puntos__LAMINE_sue_a_con_GANAR_muchos_BALONES_de_ORO.mp3" length="15732355" type="audio/mpeg" />
+      <guid isPermaLink="false">c31b6bd8a69416961435965f7bccf76b41ef09d8</guid>
+      <pubDate>Tue, 09 Sep 2025 19:12:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
