@@ -966,6 +966,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250909____SE_REVELA_el_INS_LITO_CAMBIO_T_CTICO_de_HANSI_FLICK_para_EL_CENTRO_DEL_CAMPO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250909____SE_REVELA_el_INS_LITO_CAMBIO_T_CTICO_de_HANSI_FLICK_para_EL_CENTRO_DEL_CAMPO_.mp3" length="5464835" type="audio/mpeg" />
+      <guid isPermaLink="false">8b25782f17453be2a7c4ad2902e987b814003ae9</guid>
+      <pubDate>Tue, 09 Sep 2025 15:51:05 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
