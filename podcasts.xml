@@ -939,6 +939,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250909_SI_ESTO_SUCEDE_CONTRA_EL_BAR_A__SER__EL_MAYOR_ESC_NDALO_DE_LA_HISTORIA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250909_SI_ESTO_SUCEDE_CONTRA_EL_BAR_A__SER__EL_MAYOR_ESC_NDALO_DE_LA_HISTORIA_.mp3" length="6328028" type="audio/mpeg" />
+      <guid isPermaLink="false">60426fe0ad3048891f1224206d442df0eee883e1</guid>
+      <pubDate>Tue, 09 Sep 2025 13:31:34 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
