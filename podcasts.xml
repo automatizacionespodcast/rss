@@ -984,6 +984,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250909____LAMINE_AFIRMA_que_GANAR__MUCHOS_BALONES_de_ORO___RETA_a_MESSI____MADRID_se_PLANTA___OFICIAL_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250909____LAMINE_AFIRMA_que_GANAR__MUCHOS_BALONES_de_ORO___RETA_a_MESSI____MADRID_se_PLANTA___OFICIAL_BAR_A.mp3" length="7860100" type="audio/mpeg" />
+      <guid isPermaLink="false">f7b3df30bae15aa32ba6ba0ff6cc8ab9ba966207</guid>
+      <pubDate>Tue, 09 Sep 2025 17:31:58 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
