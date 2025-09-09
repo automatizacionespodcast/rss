@@ -1002,6 +1002,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250909__BOMBAZO____HAALAND_AL_BAR_A_LA_PR_XIMA_TEMPORADA___ENTORNO_DE_LAPORTA_LO_CONFIRMA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250909__BOMBAZO____HAALAND_AL_BAR_A_LA_PR_XIMA_TEMPORADA___ENTORNO_DE_LAPORTA_LO_CONFIRMA_.mp3" length="4970501" type="audio/mpeg" />
+      <guid isPermaLink="false">4956983bc44fafbd16b7d4825148b384bce29dcc</guid>
+      <pubDate>Tue, 09 Sep 2025 19:31:10 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
