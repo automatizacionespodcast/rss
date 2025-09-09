@@ -957,6 +957,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250909____SUPERA_la_ESPA_A_de_LAMINE__PEDRI_y_HUIJSEN_a_la_CAMPEONA_del_MUNDO_2010_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250909____SUPERA_la_ESPA_A_de_LAMINE__PEDRI_y_HUIJSEN_a_la_CAMPEONA_del_MUNDO_2010_.mp3" length="6412763" type="audio/mpeg" />
+      <guid isPermaLink="false">be6fe335cd468ed6a8e715614941e83a2d7a3cfe</guid>
+      <pubDate>Tue, 09 Sep 2025 14:33:11 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
