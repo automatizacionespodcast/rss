@@ -1083,6 +1083,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250910____EXPLOTO__CTA_REVELA_su_CRITERIO_para_POL_MICAS___CR_TICAS_al_BAR_A_y_el_MADRID_jug__en_VALDEBEBAS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250910____EXPLOTO__CTA_REVELA_su_CRITERIO_para_POL_MICAS___CR_TICAS_al_BAR_A_y_el_MADRID_jug__en_VALDEBEBAS.mp3" length="9930168" type="audio/mpeg" />
+      <guid isPermaLink="false">772875a62e71e552737c6d05e1f0a5a1f126088e</guid>
+      <pubDate>Wed, 10 Sep 2025 17:15:16 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250910____LAMINE_al_BAYERN_MUNICH_por_5_MILLONES__SIN_FECHA_de_REGRESO_al_CAMP_NOU.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250910____LAMINE_al_BAYERN_MUNICH_por_5_MILLONES__SIN_FECHA_de_REGRESO_al_CAMP_NOU.mp3" length="11242249" type="audio/mpeg" />
+      <guid isPermaLink="false">21c733bca3644d058333f3acd894e20475b98321</guid>
+      <pubDate>Wed, 10 Sep 2025 17:15:18 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
