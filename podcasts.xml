@@ -1101,6 +1101,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250910____BOMBAZO_DE__LTIMA_HORA_sobre_el_REGRESO_del_CAMP_NOU___MALISIMAS_NOTICIAS_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250910____BOMBAZO_DE__LTIMA_HORA_sobre_el_REGRESO_del_CAMP_NOU___MALISIMAS_NOTICIAS_.mp3" length="8583310" type="audio/mpeg" />
+      <guid isPermaLink="false">2dca1b0903f390d64fa1956af2cab86451ada1e2</guid>
+      <pubDate>Wed, 10 Sep 2025 18:52:50 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
