@@ -1056,6 +1056,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250910__DRAMA_SIN_PRECEDENTES____DE_LA_FUENTE_FILTRA_el_PARTE_M_DICO_de_GAVI___ES_MUCHO_M_S_GRAVE_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250910__DRAMA_SIN_PRECEDENTES____DE_LA_FUENTE_FILTRA_el_PARTE_M_DICO_de_GAVI___ES_MUCHO_M_S_GRAVE_.mp3" length="5188197" type="audio/mpeg" />
+      <guid isPermaLink="false">6a5fa45221a06e3313e8c7c98d1fa4d79ac458a9</guid>
+      <pubDate>Wed, 10 Sep 2025 15:21:50 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250910_____MESSI_LO_ES_TODO_en_ARGENTINA__MASTANTUONO_TOMA_el_10___DESPLOME_en_RANKING_FIFA___CR7_HIST_RICO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250910_____MESSI_LO_ES_TODO_en_ARGENTINA__MASTANTUONO_TOMA_el_10___DESPLOME_en_RANKING_FIFA___CR7_HIST_RICO.mp3" length="6154434" type="audio/mpeg" />
+      <guid isPermaLink="false">fd485625f9ec51f03e84a5c6f01de41b8803d18e</guid>
+      <pubDate>Wed, 10 Sep 2025 15:21:51 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
