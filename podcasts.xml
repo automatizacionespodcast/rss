@@ -1020,6 +1020,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250910____COLOMBIA_DESTROZA_a_VENEZUELA_3_6_y_LE_ROMPE_el_SUE_O_MUNDIALISTA______BOLIVIA_HIST_RICO_REPECHAJE.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250910____COLOMBIA_DESTROZA_a_VENEZUELA_3_6_y_LE_ROMPE_el_SUE_O_MUNDIALISTA______BOLIVIA_HIST_RICO_REPECHAJE.mp3" length="7909197" type="audio/mpeg" />
+      <guid isPermaLink="false">407e31fec97735dfd8dda82770095357f8a1c079</guid>
+      <pubDate>Wed, 10 Sep 2025 02:32:01 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
