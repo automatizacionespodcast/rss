@@ -1119,6 +1119,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250910__VERGUENZA____DEJAN_FUERA_al_BAR_A_y_al_MADRID_de_la_CHAMPIONS___ESTO_ES_LAMENTABLE_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250910__VERGUENZA____DEJAN_FUERA_al_BAR_A_y_al_MADRID_de_la_CHAMPIONS___ESTO_ES_LAMENTABLE_.mp3" length="15275703" type="audio/mpeg" />
+      <guid isPermaLink="false">3f4556bf8acdee35a47bfc6fde1d0269684eba9d</guid>
+      <pubDate>Wed, 10 Sep 2025 21:13:35 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
