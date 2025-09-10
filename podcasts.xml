@@ -1074,6 +1074,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250910__ESC_NDALO_TOTAL____EL_BAR_A_SUFRE_GRAVES_AMENAZAS_del_VALENCIA___IMPACTANTE_MOTIVO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250910__ESC_NDALO_TOTAL____EL_BAR_A_SUFRE_GRAVES_AMENAZAS_del_VALENCIA___IMPACTANTE_MOTIVO_.mp3" length="8715211" type="audio/mpeg" />
+      <guid isPermaLink="false">c015818687bc473159a797cb644caf5c6995c159</guid>
+      <pubDate>Wed, 10 Sep 2025 16:51:19 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
