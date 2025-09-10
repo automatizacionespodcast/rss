@@ -1128,6 +1128,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250910_NO_PUEDE_SER_____EL_BAR_A_por_ENCIMA_del_MADRID_en_la_CHAMPIONS_____ESC_NDALO_con_MBAPP____.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250910_NO_PUEDE_SER_____EL_BAR_A_por_ENCIMA_del_MADRID_en_la_CHAMPIONS_____ESC_NDALO_con_MBAPP____.mp3" length="7122605" type="audio/mpeg" />
+      <guid isPermaLink="false">2ad07f3391e0d79ca3fc551f7917110ce6aaf66c</guid>
+      <pubDate>Wed, 10 Sep 2025 21:51:10 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
