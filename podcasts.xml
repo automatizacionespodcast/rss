@@ -1110,6 +1110,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250910__DECISI_N_HIST_RICA__El_Real_Madrid_ROMPE_con_UEFA_y_FRANCE_FOOTBALL_por_el_Bal_n_de_Oro.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250910__DECISI_N_HIST_RICA__El_Real_Madrid_ROMPE_con_UEFA_y_FRANCE_FOOTBALL_por_el_Bal_n_de_Oro.mp3" length="12837151" type="audio/mpeg" />
+      <guid isPermaLink="false">50b9c55ab750bb9fe335f3b9f347ad1dd48b4935</guid>
+      <pubDate>Wed, 10 Sep 2025 19:01:19 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
