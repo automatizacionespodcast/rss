@@ -1029,6 +1029,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250910__PALIZA___EL_BAR_A_HUMILLA_al_MADRID___QUI_NES_SON_LOS_M_S_FEOS_DEL_CL_SICO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250910__PALIZA___EL_BAR_A_HUMILLA_al_MADRID___QUI_NES_SON_LOS_M_S_FEOS_DEL_CL_SICO_.mp3" length="9177895" type="audio/mpeg" />
+      <guid isPermaLink="false">97577eb52af5b9f22236f6139ab37e4fab747d95</guid>
+      <pubDate>Wed, 10 Sep 2025 11:12:11 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
