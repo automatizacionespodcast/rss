@@ -1047,6 +1047,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250910_Mbapp__se_Sincera_en_una_Entrevista_muy_Personal.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250910_Mbapp__se_Sincera_en_una_Entrevista_muy_Personal.mp3" length="15503293" type="audio/mpeg" />
+      <guid isPermaLink="false">107c93c69467deac061f8836f8e52b1035a5cdc5</guid>
+      <pubDate>Wed, 10 Sep 2025 14:12:45 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
