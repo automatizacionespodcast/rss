@@ -1182,6 +1182,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250911_MIS_PREDICCIONES_A_LA_JORNADA_4___QUINIELAS_GRATIS_CON_UBIETOO___LALIGA___PREMIOS_REALES.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250911_MIS_PREDICCIONES_A_LA_JORNADA_4___QUINIELAS_GRATIS_CON_UBIETOO___LALIGA___PREMIOS_REALES.mp3" length="6699606" type="audio/mpeg" />
+      <guid isPermaLink="false">684b0ad97e80186e31475ae71776ccf451be9b3c</guid>
+      <pubDate>Thu, 11 Sep 2025 19:11:17 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
