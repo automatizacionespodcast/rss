@@ -1200,6 +1200,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250911___MI_OPINI_N_HONESTA_SOBRE_LA_IN_DITA_ENTREVISTA_a_LAMINE_YAMAL.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250911___MI_OPINI_N_HONESTA_SOBRE_LA_IN_DITA_ENTREVISTA_a_LAMINE_YAMAL.mp3" length="12058896" type="audio/mpeg" />
+      <guid isPermaLink="false">2caa24f3ad6d0522ad19fff28af16182c6093b2d</guid>
+      <pubDate>Thu, 11 Sep 2025 21:32:51 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
