@@ -1146,6 +1146,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250911____ESC_NDALO_en_La_LIGA__Los__rbitros_admiten_errores__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250911____ESC_NDALO_en_La_LIGA__Los__rbitros_admiten_errores__.mp3" length="12527243" type="audio/mpeg" />
+      <guid isPermaLink="false">f8a0683ac3c7c18e091f08fc7adfab93faface90</guid>
+      <pubDate>Thu, 11 Sep 2025 14:02:16 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
