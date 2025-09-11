@@ -1155,6 +1155,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250911_REACCIONANDO_a_las_STATS_del_REAL_MADRID_en_FC_26.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250911_REACCIONANDO_a_las_STATS_del_REAL_MADRID_en_FC_26.mp3" length="12512187" type="audio/mpeg" />
+      <guid isPermaLink="false">bc468d3f5d9c23e61d92b795cb0455d79e844dd5</guid>
+      <pubDate>Thu, 11 Sep 2025 17:01:59 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
