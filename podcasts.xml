@@ -1137,6 +1137,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250911_____BOMBAZO_OFICIAL___La_VERDAD_SALE_a_la_LUZ__EL_VAR_SE_ALADO___La_MANO_de_BALDE__FERR_N__G_LER___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250911_____BOMBAZO_OFICIAL___La_VERDAD_SALE_a_la_LUZ__EL_VAR_SE_ALADO___La_MANO_de_BALDE__FERR_N__G_LER___.mp3" length="8791445" type="audio/mpeg" />
+      <guid isPermaLink="false">7602aa430ed8d7f037bad5508ade61b49c8080dc</guid>
+      <pubDate>Thu, 11 Sep 2025 13:12:17 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
