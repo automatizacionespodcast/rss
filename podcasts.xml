@@ -1173,6 +1173,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250911_REACCIONANDO_a_las_STATS_del_FC_BARCELONA_en_FC_26.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250911_REACCIONANDO_a_las_STATS_del_FC_BARCELONA_en_FC_26.mp3" length="11916099" type="audio/mpeg" />
+      <guid isPermaLink="false">0013eb8d3099c40527e0ce8691a3a86cc5c0fff0</guid>
+      <pubDate>Thu, 11 Sep 2025 19:01:39 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
