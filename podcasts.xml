@@ -1290,6 +1290,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250912__BOMBAZO_____MILLONARIA_OFERTA_DE_ARABIA_POR_MARC_BERNAL___ESTA_FUE_SU_RESPUESTA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250912__BOMBAZO_____MILLONARIA_OFERTA_DE_ARABIA_POR_MARC_BERNAL___ESTA_FUE_SU_RESPUESTA_.mp3" length="7537660" type="audio/mpeg" />
+      <guid isPermaLink="false">a37017b010919ac5ee8626fa79eb9fcc78d6ef80</guid>
+      <pubDate>Fri, 12 Sep 2025 20:51:14 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
