@@ -1245,6 +1245,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250912____DESVELADO_EL_SUCESOR_DE_HANSI_FLICK_EN_EL_BAR_A____TODO_LO_QUE_SABEMOS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250912____DESVELADO_EL_SUCESOR_DE_HANSI_FLICK_EN_EL_BAR_A____TODO_LO_QUE_SABEMOS.mp3" length="6981810" type="audio/mpeg" />
+      <guid isPermaLink="false">523fde04e69048a89c6cb54484c40d7606954d61</guid>
+      <pubDate>Fri, 12 Sep 2025 16:52:09 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
