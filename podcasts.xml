@@ -1227,6 +1227,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250912_RESPONDO_SIN_TAPUJOS____LAPORTA_LO_HACE_TODO_MAL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250912_RESPONDO_SIN_TAPUJOS____LAPORTA_LO_HACE_TODO_MAL_.mp3" length="10174727" type="audio/mpeg" />
+      <guid isPermaLink="false">eb952f18c71f04a662cac41c93cb7293ac2902d6</guid>
+      <pubDate>Fri, 12 Sep 2025 14:52:48 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
