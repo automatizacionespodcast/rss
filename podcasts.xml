@@ -1254,6 +1254,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250912__VINICIUS_AL_200___Recuperado_y_listo_para_su_MEJOR_versi_n____Vuelven_los_CONCIERTOS_al_Bernab_u.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250912__VINICIUS_AL_200___Recuperado_y_listo_para_su_MEJOR_versi_n____Vuelven_los_CONCIERTOS_al_Bernab_u.mp3" length="17173101" type="audio/mpeg" />
+      <guid isPermaLink="false">bc36abfba8e80ec0dd5820d14a295dfcc1d189c3</guid>
+      <pubDate>Fri, 12 Sep 2025 17:02:46 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
