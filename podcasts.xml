@@ -1209,6 +1209,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250912_PEDRI_INCRE_BLE_JUNTO_A_LAMINE__MBAPP__IMPARABLE_Y_UNA_SELECCI_N_ESPA_OLA_MUY_FUERTE___VUELVE_LALIGA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250912_PEDRI_INCRE_BLE_JUNTO_A_LAMINE__MBAPP__IMPARABLE_Y_UNA_SELECCI_N_ESPA_OLA_MUY_FUERTE___VUELVE_LALIGA.mp3" length="6709416" type="audio/mpeg" />
+      <guid isPermaLink="false">c435540042eb512fe5f61ade73fe4cdd80eeb946</guid>
+      <pubDate>Fri, 12 Sep 2025 13:11:49 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
