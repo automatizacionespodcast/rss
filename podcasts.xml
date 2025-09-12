@@ -1272,6 +1272,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250912_____ALERTA_EN_EL_BAR_A__LA_LESI_N_DE_GAVI_NO_PINTA_NADA_BIEN__PODR_A_SER_OPERADO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250912_____ALERTA_EN_EL_BAR_A__LA_LESI_N_DE_GAVI_NO_PINTA_NADA_BIEN__PODR_A_SER_OPERADO_.mp3" length="6873124" type="audio/mpeg" />
+      <guid isPermaLink="false">7f2e1322cd075da0e70d165a551fa89b1911e8f0</guid>
+      <pubDate>Fri, 12 Sep 2025 18:52:02 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
