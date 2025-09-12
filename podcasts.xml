@@ -1281,6 +1281,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250912_REAL_SOCIEDAD_vs_REAL_MADRID____VUELVE_LA_LIGA___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250912_REAL_SOCIEDAD_vs_REAL_MADRID____VUELVE_LA_LIGA___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="12258011" type="audio/mpeg" />
+      <guid isPermaLink="false">8d6e2b49c0d8d4b95920a1f573993efaa5057dbb</guid>
+      <pubDate>Fri, 12 Sep 2025 19:01:30 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
