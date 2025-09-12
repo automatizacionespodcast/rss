@@ -1218,6 +1218,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250912____BELLINGHAM_EST__DE_VUELTA__Pero_malas_noticias_con_Camavinga__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250912____BELLINGHAM_EST__DE_VUELTA__Pero_malas_noticias_con_Camavinga__.mp3" length="16654480" type="audio/mpeg" />
+      <guid isPermaLink="false">279061af930553b7c21c60bc2b8e68bdc2fde90a</guid>
+      <pubDate>Fri, 12 Sep 2025 14:02:54 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
