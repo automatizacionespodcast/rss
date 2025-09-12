@@ -1263,6 +1263,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250912_____REVIENTO___RUDIGER_SE_ROMPE_y_CAE_LESIONADO_de_GRAVEDAD____LO_HAN_DESTROZADO__NEGLIGENCIA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250912_____REVIENTO___RUDIGER_SE_ROMPE_y_CAE_LESIONADO_de_GRAVEDAD____LO_HAN_DESTROZADO__NEGLIGENCIA.mp3" length="6298250" type="audio/mpeg" />
+      <guid isPermaLink="false">92362f11a211760bd2d74429cb140ba052e48a11</guid>
+      <pubDate>Fri, 12 Sep 2025 18:11:45 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
