@@ -1236,6 +1236,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250912____XABI_ALONSO_HUMILLA_a_JUGONES_con_lo_de_los_EGOS_de_FLICK__MERITOCRACIA______UEFA_PERDONA_a_FLICK.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250912____XABI_ALONSO_HUMILLA_a_JUGONES_con_lo_de_los_EGOS_de_FLICK__MERITOCRACIA______UEFA_PERDONA_a_FLICK.mp3" length="5450987" type="audio/mpeg" />
+      <guid isPermaLink="false">65514668c1e4382e9ccb26b4bfdff6b27737926e</guid>
+      <pubDate>Fri, 12 Sep 2025 15:11:33 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
