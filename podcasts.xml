@@ -1416,6 +1416,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250913____SORPRESA_TOTAL__EL_ATLETI_DESPIERTA___PELIGRO_para_BAR_A_y_MADRID____GANAN_al_VILLARREAL_2_0.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250913____SORPRESA_TOTAL__EL_ATLETI_DESPIERTA___PELIGRO_para_BAR_A_y_MADRID____GANAN_al_VILLARREAL_2_0.mp3" length="6236558" type="audio/mpeg" />
+      <guid isPermaLink="false">1a2333044e966fde336926a0229c44fbf746c19f</guid>
+      <pubDate>Sat, 13 Sep 2025 21:31:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
