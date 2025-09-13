@@ -1380,6 +1380,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250913_EL_MADRID_GANA_1_2_CONTRA_LA_REAL_SOCIEDAD.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250913_EL_MADRID_GANA_1_2_CONTRA_LA_REAL_SOCIEDAD.mp3" length="11264116" type="audio/mpeg" />
+      <guid isPermaLink="false">30819e4abdd3ea529026a2162d94ae7da019ed12</guid>
+      <pubDate>Sat, 13 Sep 2025 18:32:39 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
