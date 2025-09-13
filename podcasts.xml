@@ -1308,6 +1308,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250913____R_DIGER_3_MESES_LESIONADO__La_Directiva_del_Madrid_vuelve_a_quedar_RETRATADA__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250913____R_DIGER_3_MESES_LESIONADO__La_Directiva_del_Madrid_vuelve_a_quedar_RETRATADA__.mp3" length="12492201" type="audio/mpeg" />
+      <guid isPermaLink="false">910f4fa331e1d3ed3ed78c0358fd15b1524919a1</guid>
+      <pubDate>Sat, 13 Sep 2025 10:11:21 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
