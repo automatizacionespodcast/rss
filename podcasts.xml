@@ -1371,6 +1371,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250913_ARBITRAJE_LAMENTABLE__MBAPP__IMPARABLE_Y_VICTORIA_ANTE_LA_REAL_SOCIEDAD_1_2___LALIGA___Ubietoo.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250913_ARBITRAJE_LAMENTABLE__MBAPP__IMPARABLE_Y_VICTORIA_ANTE_LA_REAL_SOCIEDAD_1_2___LALIGA___Ubietoo.mp3" length="4600891" type="audio/mpeg" />
+      <guid isPermaLink="false">b6865366d34dfd824ec342633f649de515a646d9</guid>
+      <pubDate>Sat, 13 Sep 2025 17:31:42 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
