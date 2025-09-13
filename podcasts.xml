@@ -1344,6 +1344,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250913____ESC_NDALO__PESE_al_SINVERG_ENZA_de_GIL_MANZANO_el_MADRID_de_MBAPP__GANA_SUFRIENDO_1_2__INCRE_BLE_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250913____ESC_NDALO__PESE_al_SINVERG_ENZA_de_GIL_MANZANO_el_MADRID_de_MBAPP__GANA_SUFRIENDO_1_2__INCRE_BLE_.mp3" length="5629661" type="audio/mpeg" />
+      <guid isPermaLink="false">4b0190dafd16fc0b8b75cd85fce69ae4f50fb292</guid>
+      <pubDate>Sat, 13 Sep 2025 16:53:35 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250913_REACCIONES_DE_UN_HINCHA_al_Real_Sociedad_vs_Real_Madrid_1_2__VERGONZOSO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250913_REACCIONES_DE_UN_HINCHA_al_Real_Sociedad_vs_Real_Madrid_1_2__VERGONZOSO_.mp3" length="9859939" type="audio/mpeg" />
+      <guid isPermaLink="false">782f6875efe0479dfa5a05a4937ca5fb98600d14</guid>
+      <pubDate>Sat, 13 Sep 2025 16:53:37 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
