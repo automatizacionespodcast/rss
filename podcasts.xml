@@ -1407,6 +1407,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250913_LA_PREVIA_DEL_FC_BARCELONA___VALENCIA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250913_LA_PREVIA_DEL_FC_BARCELONA___VALENCIA.mp3" length="7016995" type="audio/mpeg" />
+      <guid isPermaLink="false">035b92b9038209851f83848bd7d5159f540be9dd</guid>
+      <pubDate>Sat, 13 Sep 2025 20:31:59 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
