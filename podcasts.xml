@@ -1452,6 +1452,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250914___ESC_NDALO___LA_RFEF_RESPONDE_a_FLICK_y_la_POL_MICA_AUMENTA___QUI_N_TIENE_RAZ_N_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250914___ESC_NDALO___LA_RFEF_RESPONDE_a_FLICK_y_la_POL_MICA_AUMENTA___QUI_N_TIENE_RAZ_N_.mp3" length="8927603" type="audio/mpeg" />
+      <guid isPermaLink="false">ab089a5287dd22d656fad9c64d2a14074cad5eae</guid>
+      <pubDate>Sun, 14 Sep 2025 13:11:14 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
