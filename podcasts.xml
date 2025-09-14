@@ -1506,6 +1506,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250914___EL_BAR_A_HA_VUELTO____HUMILLACI_N_y_GOLEADA_al_VALENCIA_6_0____y_sin_LAMINE___MVP_FERM_N_y_RAPHINHA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250914___EL_BAR_A_HA_VUELTO____HUMILLACI_N_y_GOLEADA_al_VALENCIA_6_0____y_sin_LAMINE___MVP_FERM_N_y_RAPHINHA.mp3" length="6706046" type="audio/mpeg" />
+      <guid isPermaLink="false">375f0df3e374dea5446af0e37877632195385b6c</guid>
+      <pubDate>Sun, 14 Sep 2025 21:53:03 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250914_PARTIDO_PERFECTO_DE_FERM_N___TRES_DOBLETES_Y_BAILE_DEL_BAR_A_6_0_AL_VALENCIA___LALIGA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250914_PARTIDO_PERFECTO_DE_FERM_N___TRES_DOBLETES_Y_BAILE_DEL_BAR_A_6_0_AL_VALENCIA___LALIGA.mp3" length="7136584" type="audio/mpeg" />
+      <guid isPermaLink="false">9bf42128f66416883055ba099a9a97f5257dbfc4</guid>
+      <pubDate>Sun, 14 Sep 2025 21:53:05 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
