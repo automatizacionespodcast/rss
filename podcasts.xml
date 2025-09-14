@@ -1434,6 +1434,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250914___PREVIA_BAR_A_vs_VALENCIA___OBLIGADOS_A_GANAR_y_CON_BAJAS_CLAVE_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250914___PREVIA_BAR_A_vs_VALENCIA___OBLIGADOS_A_GANAR_y_CON_BAJAS_CLAVE_.mp3" length="8099809" type="audio/mpeg" />
+      <guid isPermaLink="false">4714951d7a5b53bf614e695b2c8094a5cf51cc63</guid>
+      <pubDate>Sun, 14 Sep 2025 11:11:37 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
