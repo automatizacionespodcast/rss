@@ -1443,6 +1443,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250914____DATO_DEMOLEDOR_en_el_BAR_A_vs_VALENCIA__Sin_Lamine__TODO_pasa_por_PEDRI___PREDICCI_N.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250914____DATO_DEMOLEDOR_en_el_BAR_A_vs_VALENCIA__Sin_Lamine__TODO_pasa_por_PEDRI___PREDICCI_N.mp3" length="6999191" type="audio/mpeg" />
+      <guid isPermaLink="false">a0f26120b40908ee62bf80227a1d483aae80fb57</guid>
+      <pubDate>Sun, 14 Sep 2025 12:52:02 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
