@@ -1488,6 +1488,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250914__INEDITO__XABI_ALONSO_a_los_ARBITROS___YO_NO_QUIERO__PERO_ME_HAC_IS_PENSAR_MAL___GRAVE_ACUSACI_N_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250914__INEDITO__XABI_ALONSO_a_los_ARBITROS___YO_NO_QUIERO__PERO_ME_HAC_IS_PENSAR_MAL___GRAVE_ACUSACI_N_.mp3" length="14421589" type="audio/mpeg" />
+      <guid isPermaLink="false">5a6be5da0e201e4149029fe65a352bfd5ab152e2</guid>
+      <pubDate>Sun, 14 Sep 2025 16:14:31 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
