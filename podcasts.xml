@@ -1533,6 +1533,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250914_EL_FC_BARCELONA_LE_METE_6_AL_VALENCIA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250914_EL_FC_BARCELONA_LE_METE_6_AL_VALENCIA.mp3" length="9975445" type="audio/mpeg" />
+      <guid isPermaLink="false">b9f2273d634d63d6256ce5fddde1e209be7299ae</guid>
+      <pubDate>Sun, 14 Sep 2025 22:51:49 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
