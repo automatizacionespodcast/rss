@@ -1470,6 +1470,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250914_MBAPP__PUEDE_con_GIL_MANZANO_y_la_REAL_SOCIEDAD__1_2__POL_MICA_ROJA_a_HUIJSEN.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250914_MBAPP__PUEDE_con_GIL_MANZANO_y_la_REAL_SOCIEDAD__1_2__POL_MICA_ROJA_a_HUIJSEN.mp3" length="20144088" type="audio/mpeg" />
+      <guid isPermaLink="false">1cc8e164d3cd0fc676470bcd3a4b3f4d5a484e79</guid>
+      <pubDate>Sun, 14 Sep 2025 14:13:18 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
