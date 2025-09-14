@@ -1524,6 +1524,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250914_GOLEADA_DE_CAMPE_N__EL_BAR_A_DESTROZA_6_0_al_VALENCIA_con_PARTIDAZO_de_FERMIN_y_SIN_LAMINE_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250914_GOLEADA_DE_CAMPE_N__EL_BAR_A_DESTROZA_6_0_al_VALENCIA_con_PARTIDAZO_de_FERMIN_y_SIN_LAMINE_.mp3" length="8318665" type="audio/mpeg" />
+      <guid isPermaLink="false">a97ecdf73c9441e668d6a124de71bba9ea95e323</guid>
+      <pubDate>Sun, 14 Sep 2025 22:11:29 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
