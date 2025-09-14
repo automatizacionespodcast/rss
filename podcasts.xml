@@ -1497,6 +1497,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250914_REACCIONES_DE_UN_HINCHA_al_Barcelona_vs_Valencia_6_0__QUE_BA_O____ByDiegoX10.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250914_REACCIONES_DE_UN_HINCHA_al_Barcelona_vs_Valencia_6_0__QUE_BA_O____ByDiegoX10.mp3" length="9957412" type="audio/mpeg" />
+      <guid isPermaLink="false">50f1a2533deae20879d6bdc098d874fe99083c61</guid>
+      <pubDate>Sun, 14 Sep 2025 21:31:40 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
