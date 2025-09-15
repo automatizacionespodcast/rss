@@ -1560,6 +1560,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250915_GOLAZOS_DE_LEWAN__FERMIN_MEJOR_QUE_PEDRI_Y_VICTORIA_MUY_F_CIL_PARA_EL_BAR_A_6_0_AL_VALENCIA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250915_GOLAZOS_DE_LEWAN__FERMIN_MEJOR_QUE_PEDRI_Y_VICTORIA_MUY_F_CIL_PARA_EL_BAR_A_6_0_AL_VALENCIA.mp3" length="4795301" type="audio/mpeg" />
+      <guid isPermaLink="false">729e39d5c22a266ebc56fdfa4c7de09d9bec4ce3</guid>
+      <pubDate>Mon, 15 Sep 2025 13:31:13 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
