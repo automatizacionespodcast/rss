@@ -1641,6 +1641,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250915_RID_CUL0_TOTAL____EL_REAL_MADRID_PREPARA_UN_DOSSIER_A_LA_FIFA_por_el_ARBITRAJE_en_LALIGA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250915_RID_CUL0_TOTAL____EL_REAL_MADRID_PREPARA_UN_DOSSIER_A_LA_FIFA_por_el_ARBITRAJE_en_LALIGA_.mp3" length="15078400" type="audio/mpeg" />
+      <guid isPermaLink="false">107bcce32aca107f6111936310540295879979dc</guid>
+      <pubDate>Mon, 15 Sep 2025 20:04:55 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
