@@ -1587,6 +1587,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250915___BAR_A_vs_MADRID__COMPARACI_N_DEMOLEDORA_en_la_JORNADA_4____SIN_FILTROS_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250915___BAR_A_vs_MADRID__COMPARACI_N_DEMOLEDORA_en_la_JORNADA_4____SIN_FILTROS_.mp3" length="6777808" type="audio/mpeg" />
+      <guid isPermaLink="false">36494e47527ce7dae6c3bddb4e4e1897c6d3e131</guid>
+      <pubDate>Mon, 15 Sep 2025 14:32:07 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250915_LAS_NOTAS_DEL_FC_BARCELONA___VALENCIA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250915_LAS_NOTAS_DEL_FC_BARCELONA___VALENCIA.mp3" length="6042214" type="audio/mpeg" />
+      <guid isPermaLink="false">e386ea46ee65a71eeaae97ac6a5c8ad82459fe55</guid>
+      <pubDate>Mon, 15 Sep 2025 14:32:09 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
