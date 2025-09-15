@@ -1542,6 +1542,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250914___HECHO_HIST_RICO_en_el_BAR_A____HUBO_POL_MICA____FLICK_ACLARA_el_CASTIGO_a_RAPHINHA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250914___HECHO_HIST_RICO_en_el_BAR_A____HUBO_POL_MICA____FLICK_ACLARA_el_CASTIGO_a_RAPHINHA.mp3" length="8581353" type="audio/mpeg" />
+      <guid isPermaLink="false">4f0467439f5d1ddb72daf649a008a53be57c9216</guid>
+      <pubDate>Mon, 15 Sep 2025 00:12:01 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
