@@ -1578,6 +1578,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250915_FC_BARCELONA_6_0_VALENCIA___PARTIDO_PERFECTO_del_BAR_A___FERM_N_es_una_LOCURA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250915_FC_BARCELONA_6_0_VALENCIA___PARTIDO_PERFECTO_del_BAR_A___FERM_N_es_una_LOCURA.mp3" length="16491989" type="audio/mpeg" />
+      <guid isPermaLink="false">da4bb56d1d4845f943b99160fefd7940fe39685d</guid>
+      <pubDate>Mon, 15 Sep 2025 14:12:20 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
