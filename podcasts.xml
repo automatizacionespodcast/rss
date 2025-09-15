@@ -1632,6 +1632,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250915____NOTICI_N__Bellingham_y_Camavinga_VUELVEN_a_la_convocatoria_vs_Marsella.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250915____NOTICI_N__Bellingham_y_Camavinga_VUELVEN_a_la_convocatoria_vs_Marsella.mp3" length="11279796" type="audio/mpeg" />
+      <guid isPermaLink="false">e9494392adc4cadedb6231b303b5946a7461c93e</guid>
+      <pubDate>Mon, 15 Sep 2025 19:11:38 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
