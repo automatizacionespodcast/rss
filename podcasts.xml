@@ -1650,6 +1650,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250915___VINICIUS_NO_EST__a_la_ALTURA_de_MBAPP__ni_de_LAMINE___VOLVER_____RESUMEN_JORNADA_4___PREMIER.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250915___VINICIUS_NO_EST__a_la_ALTURA_de_MBAPP__ni_de_LAMINE___VOLVER_____RESUMEN_JORNADA_4___PREMIER.mp3" length="12137893" type="audio/mpeg" />
+      <guid isPermaLink="false">8d93864505fa26b33f00033673761de1b6cf6d71</guid>
+      <pubDate>Mon, 15 Sep 2025 22:52:52 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
