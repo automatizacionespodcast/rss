@@ -1551,6 +1551,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250915___ANALISIS_en_FRIO_del_BAR_A_6_0_VALENCIA___EL_BAR_A_HA_VUELTO_Y_METE_MIEDO____.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250915___ANALISIS_en_FRIO_del_BAR_A_6_0_VALENCIA___EL_BAR_A_HA_VUELTO_Y_METE_MIEDO____.mp3" length="11081393" type="audio/mpeg" />
+      <guid isPermaLink="false">2f72207d1e5be34f991f4571ee93a862d536eac2</guid>
+      <pubDate>Mon, 15 Sep 2025 12:51:57 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
