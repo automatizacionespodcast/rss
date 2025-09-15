@@ -1623,6 +1623,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250915____EL_MADRID_se_AGARRA_al_BAR_A_en_su_DENUNCIA_a_los__RBITROS____ESTRENO_del_NUEVO_CAMP_NOU.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250915____EL_MADRID_se_AGARRA_al_BAR_A_en_su_DENUNCIA_a_los__RBITROS____ESTRENO_del_NUEVO_CAMP_NOU.mp3" length="9899064" type="audio/mpeg" />
+      <guid isPermaLink="false">acb259bf5bd5ce9e0f144ea2e60f4878e5c056f0</guid>
+      <pubDate>Mon, 15 Sep 2025 18:12:21 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
