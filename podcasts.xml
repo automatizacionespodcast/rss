@@ -1605,6 +1605,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250915__PROBLEMAS_entre_HANSI_FLICK_y_FERMIN___ESTA_FRASE_de_FLICK_en_RUEDA_de_PRENSA_lo_CAMBIA_TODO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250915__PROBLEMAS_entre_HANSI_FLICK_y_FERMIN___ESTA_FRASE_de_FLICK_en_RUEDA_de_PRENSA_lo_CAMBIA_TODO.mp3" length="9383815" type="audio/mpeg" />
+      <guid isPermaLink="false">f5c302fe78efef7bf57bdd9ce57ef1cfb20c6cea</guid>
+      <pubDate>Mon, 15 Sep 2025 15:11:23 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
