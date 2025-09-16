@@ -1659,6 +1659,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250916_REAL_MADRID_vs_OYMPIQUE_MARSELLA__EMPIEZA_la_CHAMPIONS___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250916_REAL_MADRID_vs_OYMPIQUE_MARSELLA__EMPIEZA_la_CHAMPIONS___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="12550936" type="audio/mpeg" />
+      <guid isPermaLink="false">5afbe04d4d1993b5a6b4fa35e6f5de2b63a4b30f</guid>
+      <pubDate>Tue, 16 Sep 2025 10:12:20 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
