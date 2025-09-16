@@ -1740,6 +1740,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250916_EL_REAL_MADRID_GANA_EL_PRIMER_PARTIDO_DE_CHAMPIONS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250916_EL_REAL_MADRID_GANA_EL_PRIMER_PARTIDO_DE_CHAMPIONS.mp3" length="12903167" type="audio/mpeg" />
+      <guid isPermaLink="false">4a6432479a20c12e7a180e95e631f8e6452368f1</guid>
+      <pubDate>Tue, 16 Sep 2025 23:43:27 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
