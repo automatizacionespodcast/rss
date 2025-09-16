@@ -1713,6 +1713,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250916_ME_DA_VERG_ENZA_GANAR_AS_____ESC_NDALO_el_PENALTI_al_MADRID_que_le_AYUDA_a_GANAR_2_1_al_MARSELLA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250916_ME_DA_VERG_ENZA_GANAR_AS_____ESC_NDALO_el_PENALTI_al_MADRID_que_le_AYUDA_a_GANAR_2_1_al_MARSELLA.mp3" length="6816649" type="audio/mpeg" />
+      <guid isPermaLink="false">4ed3d7cd29d94b8b8aa0339172e0e0e1ec032226</guid>
+      <pubDate>Tue, 16 Sep 2025 21:51:34 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
