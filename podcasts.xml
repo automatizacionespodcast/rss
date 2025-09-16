@@ -1722,6 +1722,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250916_PFFF___EL_MADRID_GANA_2_1_al_MARSELLA_CON_DOBLETE_de_PENAL_de_MBAPP____ROBO_TOTAL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250916_PFFF___EL_MADRID_GANA_2_1_al_MARSELLA_CON_DOBLETE_de_PENAL_de_MBAPP____ROBO_TOTAL_.mp3" length="7603749" type="audio/mpeg" />
+      <guid isPermaLink="false">bd26165f5c4120b30d912545c9482d96d9d5f495</guid>
+      <pubDate>Tue, 16 Sep 2025 22:01:12 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
