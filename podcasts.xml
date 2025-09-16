@@ -1704,6 +1704,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250916___DESTRUYO_la_FARSA_del_VALOR_DE_PLANTILLA_del_REAL_MADRID__VERG_ENZA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250916___DESTRUYO_la_FARSA_del_VALOR_DE_PLANTILLA_del_REAL_MADRID__VERG_ENZA_.mp3" length="10073163" type="audio/mpeg" />
+      <guid isPermaLink="false">e2a0c4edafd0f211bc7acf49905644318aae262c</guid>
+      <pubDate>Tue, 16 Sep 2025 15:22:25 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
