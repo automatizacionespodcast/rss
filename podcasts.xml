@@ -1668,6 +1668,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250916_____LAMINE_YAMAL_SE_PERDER__EL_PARTIDO_CONTRA_EL_NEWCASTLE_____Y_AHORA_QU___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250916_____LAMINE_YAMAL_SE_PERDER__EL_PARTIDO_CONTRA_EL_NEWCASTLE_____Y_AHORA_QU___.mp3" length="7902818" type="audio/mpeg" />
+      <guid isPermaLink="false">4e989cbd1f12a20ef4bb9e2b7f687cfcce551411</guid>
+      <pubDate>Tue, 16 Sep 2025 11:41:18 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
