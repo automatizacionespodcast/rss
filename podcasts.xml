@@ -1821,6 +1821,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250917____CASO_VINICIUS__Segunda_suplencia_de_la_temporada___QU__EST__PASANDO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250917____CASO_VINICIUS__Segunda_suplencia_de_la_temporada___QU__EST__PASANDO_.mp3" length="15905200" type="audio/mpeg" />
+      <guid isPermaLink="false">8a1ac5e33cc6166cf1f10695e02872916f2b66e3</guid>
+      <pubDate>Wed, 17 Sep 2025 19:02:25 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
