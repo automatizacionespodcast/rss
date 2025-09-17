@@ -1776,6 +1776,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250917___VINICIUS_HUMILLADO_por_XABI_ALONSO_y_EL_MADRID_SIN_LATERALES__DRAMA_OFICIAL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250917___VINICIUS_HUMILLADO_por_XABI_ALONSO_y_EL_MADRID_SIN_LATERALES__DRAMA_OFICIAL_.mp3" length="9567889" type="audio/mpeg" />
+      <guid isPermaLink="false">7a8e478d04884485f1077157a59665ac4eb77395</guid>
+      <pubDate>Wed, 17 Sep 2025 13:32:25 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
