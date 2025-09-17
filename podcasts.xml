@@ -1794,6 +1794,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250917___ME_LA_JUEGO___QUI_N_MERECE_M_S_EL_BAL_N_DE_ORO___RAPHINHA_O_LAMINE_YAMAL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250917___ME_LA_JUEGO___QUI_N_MERECE_M_S_EL_BAL_N_DE_ORO___RAPHINHA_O_LAMINE_YAMAL_.mp3" length="10746969" type="audio/mpeg" />
+      <guid isPermaLink="false">c97277ce3465333743d957811ebf4566ca404d8b</guid>
+      <pubDate>Wed, 17 Sep 2025 15:51:45 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
