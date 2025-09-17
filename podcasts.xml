@@ -1767,6 +1767,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250917___LAMENTABLE____RESULTADOS_DE_MI_QUINIELA_DE_LA_JORNADA_4___LALIGA___Ubietoo.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250917___LAMENTABLE____RESULTADOS_DE_MI_QUINIELA_DE_LA_JORNADA_4___LALIGA___Ubietoo.mp3" length="9051374" type="audio/mpeg" />
+      <guid isPermaLink="false">9c3234866a2b36aed0b4ef094225f0370bf8adfe</guid>
+      <pubDate>Wed, 17 Sep 2025 13:11:54 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
