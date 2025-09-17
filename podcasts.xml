@@ -1749,6 +1749,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250916___TODAS_las_POL_MICAS_del_MADRID_2_1_MARSELLA___PENALTIS__ROJA_a_CARVAJAL____ESC_NDALO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250916___TODAS_las_POL_MICAS_del_MADRID_2_1_MARSELLA___PENALTIS__ROJA_a_CARVAJAL____ESC_NDALO.mp3" length="9613289" type="audio/mpeg" />
+      <guid isPermaLink="false">72956b754f6defaed3be4cf7ee29292d8c898dd1</guid>
+      <pubDate>Wed, 17 Sep 2025 00:02:21 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
