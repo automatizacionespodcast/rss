@@ -1785,6 +1785,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250917__FUIMOS_BENEFICIADOS__REAL_MADRID_2_1_OLYMPIQUE_MARSELLA__Me_Equivoqu__ayer_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250917__FUIMOS_BENEFICIADOS__REAL_MADRID_2_1_OLYMPIQUE_MARSELLA__Me_Equivoqu__ayer_.mp3" length="25388177" type="audio/mpeg" />
+      <guid isPermaLink="false">045cdb50465e57905f2a85817b310ba99e9ff62d</guid>
+      <pubDate>Wed, 17 Sep 2025 14:05:01 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
