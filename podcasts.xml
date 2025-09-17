@@ -1758,6 +1758,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250917____ANALISIS_en_FRIO_del_REAL_MADRID_2_1_MARSELLA___EUROPA_EST__QUE_ARDE_CON_LAS_AYUDAS_AL_MADRID.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250917____ANALISIS_en_FRIO_del_REAL_MADRID_2_1_MARSELLA___EUROPA_EST__QUE_ARDE_CON_LAS_AYUDAS_AL_MADRID.mp3" length="13065387" type="audio/mpeg" />
+      <guid isPermaLink="false">bd47a5417a7ab358081e16b65fa83d8bdb794f48</guid>
+      <pubDate>Wed, 17 Sep 2025 12:12:24 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
