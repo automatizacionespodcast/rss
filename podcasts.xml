@@ -1830,6 +1830,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250917_LA_PREVIA_DEL_PRIMER_PARTIDO_DE_CHAMPIONS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250917_LA_PREVIA_DEL_PRIMER_PARTIDO_DE_CHAMPIONS.mp3" length="9750932" type="audio/mpeg" />
+      <guid isPermaLink="false">4aacd09cce98b066c946e4443d53ae4bc8adda70</guid>
+      <pubDate>Wed, 17 Sep 2025 20:52:49 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
