@@ -1812,6 +1812,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250917____RUEDA_DE_PRENSA_COMPLETA_de_HANSI_FLICK_y_CHRISTENSEN____PREVIA_BARCA___NEWCASTLE.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250917____RUEDA_DE_PRENSA_COMPLETA_de_HANSI_FLICK_y_CHRISTENSEN____PREVIA_BARCA___NEWCASTLE.mp3" length="8016541" type="audio/mpeg" />
+      <guid isPermaLink="false">f5ed6d5b2ec07442614add2dc9f27b0e8b691959</guid>
+      <pubDate>Wed, 17 Sep 2025 18:31:15 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
