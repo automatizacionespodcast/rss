@@ -1803,6 +1803,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250917____ARNOLD_2_MESES_LESIONADO___Y_Ahora_qu____Mi_Soluci_n_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250917____ARNOLD_2_MESES_LESIONADO___Y_Ahora_qu____Mi_Soluci_n_.mp3" length="11662202" type="audio/mpeg" />
+      <guid isPermaLink="false">11f27715cf702bc333115d88c9a61aab4e752ed9</guid>
+      <pubDate>Wed, 17 Sep 2025 17:01:18 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
