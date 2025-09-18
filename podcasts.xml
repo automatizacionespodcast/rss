@@ -1911,6 +1911,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250918__TODOS_CONTRA_EL_MADRID___EL_MUNDO_DEL_F_TBOL_EXPLOTA_CONTRA_el_MADRID_POR_LOS_ERRORES_ARBITRALES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250918__TODOS_CONTRA_EL_MADRID___EL_MUNDO_DEL_F_TBOL_EXPLOTA_CONTRA_el_MADRID_POR_LOS_ERRORES_ARBITRALES_.mp3" length="13305429" type="audio/mpeg" />
+      <guid isPermaLink="false">324d52b694da0e18a746b0d4500c86927fa927a7</guid>
+      <pubDate>Thu, 18 Sep 2025 15:13:31 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
