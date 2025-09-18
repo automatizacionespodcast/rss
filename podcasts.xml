@@ -1902,6 +1902,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250918_GOLPE_DUR_SIMO__El_Atleti_cae_3_2_en_el_92__con_el_Liverpool_y_Simeone_termina_expulsado.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250918_GOLPE_DUR_SIMO__El_Atleti_cae_3_2_en_el_92__con_el_Liverpool_y_Simeone_termina_expulsado.mp3" length="18088900" type="audio/mpeg" />
+      <guid isPermaLink="false">476d4354745c8f506f5b5c782031e68b70b62e89</guid>
+      <pubDate>Thu, 18 Sep 2025 14:02:59 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
