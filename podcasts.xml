@@ -1875,6 +1875,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250918_BOMBAZO_INESPERADO____El_HIJO_de_NEGREIRA_ROMPE_el_SILENCIO_SOBRE_el_BAR_A_en_el_JUZGADO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250918_BOMBAZO_INESPERADO____El_HIJO_de_NEGREIRA_ROMPE_el_SILENCIO_SOBRE_el_BAR_A_en_el_JUZGADO_.mp3" length="14361779" type="audio/mpeg" />
+      <guid isPermaLink="false">d472cee23a5a8acd195a636e53d66fcdcc359514</guid>
+      <pubDate>Thu, 18 Sep 2025 13:36:12 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250918_PREVIA___SE_LLEVAR__EL_BAR_A_LOS_3_PUNTOS____NEWCASTLE_UNITED_VS_FC_BARCELONA___Ubietoo.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250918_PREVIA___SE_LLEVAR__EL_BAR_A_LOS_3_PUNTOS____NEWCASTLE_UNITED_VS_FC_BARCELONA___Ubietoo.mp3" length="8213267" type="audio/mpeg" />
+      <guid isPermaLink="false">b0a670576cd87047cd6a3f2c15807978d0227e50</guid>
+      <pubDate>Thu, 18 Sep 2025 13:36:15 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
