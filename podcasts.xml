@@ -1866,6 +1866,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250918____FLICK_TIENE_UN_PLAN_y_HABR__SORPRESAS_en_el_ONCE_INICIAL_____NEWCASTLE_vs_BAR_A_SUPER_PREVIA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250918____FLICK_TIENE_UN_PLAN_y_HABR__SORPRESAS_en_el_ONCE_INICIAL_____NEWCASTLE_vs_BAR_A_SUPER_PREVIA.mp3" length="8996097" type="audio/mpeg" />
+      <guid isPermaLink="false">9fc6ff1377eebd14f394579febb64e9febd3186f</guid>
+      <pubDate>Thu, 18 Sep 2025 11:51:22 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
