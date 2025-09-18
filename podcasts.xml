@@ -1965,6 +1965,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250918_EL_FC_BARCELONA_GANA_EL_PRIMER_PARTIDO_DE_CHAMPIONS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250918_EL_FC_BARCELONA_GANA_EL_PRIMER_PARTIDO_DE_CHAMPIONS.mp3" length="12544039" type="audio/mpeg" />
+      <guid isPermaLink="false">eed96a0dbf5ded81a5063606d3385b7e438d05d1</guid>
+      <pubDate>Thu, 18 Sep 2025 23:42:03 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
