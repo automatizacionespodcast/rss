@@ -2073,6 +2073,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250919_MI_TOP_5_PARA_EL_BALO_N_DE_ORO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250919_MI_TOP_5_PARA_EL_BALO_N_DE_ORO.mp3" length="10377089" type="audio/mpeg" />
+      <guid isPermaLink="false">37afbd5cf63261777bb3ad9f60e788e47ff26e12</guid>
+      <pubDate>Fri, 19 Sep 2025 19:11:34 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
