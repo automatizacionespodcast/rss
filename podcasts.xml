@@ -2082,6 +2082,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250919___TENEMOS_QUE_HABLAR_SOBRE_MARCUS_RASHFORD___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250919___TENEMOS_QUE_HABLAR_SOBRE_MARCUS_RASHFORD___.mp3" length="8663951" type="audio/mpeg" />
+      <guid isPermaLink="false">72c198bbc06ec8ed4bdd369e7a8592b89851db3b</guid>
+      <pubDate>Fri, 19 Sep 2025 19:21:14 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
