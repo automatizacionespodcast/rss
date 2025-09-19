@@ -1974,6 +1974,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250919____SUPER_AN_LISIS_en_FR_O_del_NEWCASTLE_1_2_BAR_A____ESTE_EQUIPO_ME_ILUSIONA_y_MUCHO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250919____SUPER_AN_LISIS_en_FR_O_del_NEWCASTLE_1_2_BAR_A____ESTE_EQUIPO_ME_ILUSIONA_y_MUCHO_.mp3" length="14198660" type="audio/mpeg" />
+      <guid isPermaLink="false">b815cf69603334e135829f686ff53698f29d2a3d</guid>
+      <pubDate>Fri, 19 Sep 2025 11:43:00 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
