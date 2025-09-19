@@ -2064,6 +2064,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250919_El_Real_Madrid_NO_Ganar__la_Champions__Te_explico_el_porqu__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250919_El_Real_Madrid_NO_Ganar__la_Champions__Te_explico_el_porqu__.mp3" length="16810972" type="audio/mpeg" />
+      <guid isPermaLink="false">9eeed4a2ee918cd18b76e577ed9b276f1edd438e</guid>
+      <pubDate>Fri, 19 Sep 2025 19:02:40 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
