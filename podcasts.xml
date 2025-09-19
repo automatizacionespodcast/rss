@@ -2028,6 +2028,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250919____BOMBAZOS_de__LTIMA_HORA_en_CAN_BAR_A___BUENISIMAS_y_MALAS_NOTICIAS__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250919____BOMBAZOS_de__LTIMA_HORA_en_CAN_BAR_A___BUENISIMAS_y_MALAS_NOTICIAS__.mp3" length="7986416" type="audio/mpeg" />
+      <guid isPermaLink="false">306682cc26fd5f1c17e233b6b1f8471d4d896ab2</guid>
+      <pubDate>Fri, 19 Sep 2025 15:21:15 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
