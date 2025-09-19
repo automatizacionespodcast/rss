@@ -2019,6 +2019,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250919_LAS_NOTAS_DEL_NEWCASTLE___FC_BARCELONA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250919_LAS_NOTAS_DEL_NEWCASTLE___FC_BARCELONA.mp3" length="8065994" type="audio/mpeg" />
+      <guid isPermaLink="false">53624e50e3e1663c9eb85f631ca2d6165a516649</guid>
+      <pubDate>Fri, 19 Sep 2025 14:51:54 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
