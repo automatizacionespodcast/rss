@@ -2100,6 +2100,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250919___HUELE_MUY_MAL_____DATO_DEMOLEDOR_del_MADRID_ante_el_ESPANYOL___PINCHAZO____Predicci_n_jornada_5.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250919___HUELE_MUY_MAL_____DATO_DEMOLEDOR_del_MADRID_ante_el_ESPANYOL___PINCHAZO____Predicci_n_jornada_5.mp3" length="5691246" type="audio/mpeg" />
+      <guid isPermaLink="false">8cd19c9ff07cad26463af3efc150ccf5999e7574</guid>
+      <pubDate>Fri, 19 Sep 2025 23:41:15 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
