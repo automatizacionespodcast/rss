@@ -2001,6 +2001,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250919_POR_ESTO_BORR__EL_TWEET_de_RASHFORD___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250919_POR_ESTO_BORR__EL_TWEET_de_RASHFORD___.mp3" length="25595459" type="audio/mpeg" />
+      <guid isPermaLink="false">9ad81fc99f5441d5a48b20d7afe6d8949252a076</guid>
+      <pubDate>Fri, 19 Sep 2025 13:49:19 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
