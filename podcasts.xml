@@ -2154,6 +2154,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250920_MASTANTUONO_SE_SALVA__GOLAZOS_DE_MILITAO_Y_MBAPP___2_0_Y_L_DERES_DE_LALIGA___OPINI_N___UBIETOO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250920_MASTANTUONO_SE_SALVA__GOLAZOS_DE_MILITAO_Y_MBAPP___2_0_Y_L_DERES_DE_LALIGA___OPINI_N___UBIETOO.mp3" length="6743085" type="audio/mpeg" />
+      <guid isPermaLink="false">ca5bbbf94546fa3e91b215fe57c4fdf104d6ed8b</guid>
+      <pubDate>Sat, 20 Sep 2025 17:31:01 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
