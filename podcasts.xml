@@ -2199,6 +2199,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250920__ROJA_PERDONADA_a_MASTANTUONO_y_el_CABREO__OTRA_VEZ__de_VINICIUS___HIJO_NEGREIRA_ACUSA_al_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250920__ROJA_PERDONADA_a_MASTANTUONO_y_el_CABREO__OTRA_VEZ__de_VINICIUS___HIJO_NEGREIRA_ACUSA_al_BAR_A.mp3" length="7284381" type="audio/mpeg" />
+      <guid isPermaLink="false">ae058d860e10dd78ada7d56a08a831a7a33c7ade</guid>
+      <pubDate>Sat, 20 Sep 2025 19:21:02 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
