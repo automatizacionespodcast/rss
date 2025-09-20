@@ -2127,6 +2127,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250920____EL_REAL_MADRID_GANA_F_CIL_al_ESPANYOL_2_0_con_un_MBAPP__ON_FIRE____SE_ALEJAN_DEL_BAR_A_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250920____EL_REAL_MADRID_GANA_F_CIL_al_ESPANYOL_2_0_con_un_MBAPP__ON_FIRE____SE_ALEJAN_DEL_BAR_A_.mp3" length="7796973" type="audio/mpeg" />
+      <guid isPermaLink="false">bb76d0b9ef99a4ed12fc597df569a0f3949b5a68</guid>
+      <pubDate>Sat, 20 Sep 2025 16:45:01 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250920_REACCIONES_DE_UN_HINCHA_al_Real_Madrid_vs_Espanyol_2_0__BRUTAL_MILITAO_y_MBAPP_____ByDiegoX10.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250920_REACCIONES_DE_UN_HINCHA_al_Real_Madrid_vs_Espanyol_2_0__BRUTAL_MILITAO_y_MBAPP_____ByDiegoX10.mp3" length="9172701" type="audio/mpeg" />
+      <guid isPermaLink="false">82de26ad5d6c691b17e455c403217463eec4f4cb</guid>
+      <pubDate>Sat, 20 Sep 2025 16:45:03 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
