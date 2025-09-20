@@ -2181,6 +2181,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250920__PIDEN_el_BALON_de_ORO_para_PEDRI__EL_BAR_A_DESCIENDE_en_el_LIMITE_SALARIAL__Tiene_trampa_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250920__PIDEN_el_BALON_de_ORO_para_PEDRI__EL_BAR_A_DESCIENDE_en_el_LIMITE_SALARIAL__Tiene_trampa_.mp3" length="11327816" type="audio/mpeg" />
+      <guid isPermaLink="false">1ffe86890007481266175726f051a38e00b18e9b</guid>
+      <pubDate>Sat, 20 Sep 2025 19:01:28 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
