@@ -2163,6 +2163,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250920_EL_REAL_MADRID_GANA_2_0_CONTRA_EL_ESPANYOL.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250920_EL_REAL_MADRID_GANA_2_0_CONTRA_EL_ESPANYOL.mp3" length="7137861" type="audio/mpeg" />
+      <guid isPermaLink="false">b7e78da6fd9a02478b7d723351f8ba8664a8bc78</guid>
+      <pubDate>Sat, 20 Sep 2025 17:51:00 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
