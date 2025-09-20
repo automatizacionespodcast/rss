@@ -2145,6 +2145,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250920___DOS_TRALLAZOS_del_MADRID_al_ESPANYOL__2_0__con_POL_MICA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250920___DOS_TRALLAZOS_del_MADRID_al_ESPANYOL__2_0__con_POL_MICA.mp3" length="6181533" type="audio/mpeg" />
+      <guid isPermaLink="false">b955e8297619316126291d5b12fd8fd58e40dc07</guid>
+      <pubDate>Sat, 20 Sep 2025 17:01:00 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
