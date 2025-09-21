@@ -2217,6 +2217,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250921_LA_PREVIA_DEL_FC_BARCELONA___GETAFE.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250921_LA_PREVIA_DEL_FC_BARCELONA___GETAFE.mp3" length="6324629" type="audio/mpeg" />
+      <guid isPermaLink="false">b59429fb36bcfa08b4f4b32cb1ba59d9a89ebfbc</guid>
+      <pubDate>Sun, 21 Sep 2025 07:11:25 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
