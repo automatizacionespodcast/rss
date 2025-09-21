@@ -2262,6 +2262,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250921__DRAMA____SE_DESTAPA_el_CONFLICTO_ENTRE_VINICIUS_y_el_REAL_MADRID____ESTO_SE_RESUELVE_AS_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250921__DRAMA____SE_DESTAPA_el_CONFLICTO_ENTRE_VINICIUS_y_el_REAL_MADRID____ESTO_SE_RESUELVE_AS_.mp3" length="14494557" type="audio/mpeg" />
+      <guid isPermaLink="false">3927782023583dff20471bf2b7d6f6fee8fe937a</guid>
+      <pubDate>Sun, 21 Sep 2025 14:11:07 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250921__ROJA_a_MASTANTUONO__REAL_MADRID_2_0_ESPANYOL___PLENO_de_VICTORIAS_15_de_15.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250921__ROJA_a_MASTANTUONO__REAL_MADRID_2_0_ESPANYOL___PLENO_de_VICTORIAS_15_de_15.mp3" length="23107413" type="audio/mpeg" />
+      <guid isPermaLink="false">8e165727fd4119dc04c32295f46bc421d3f80551</guid>
+      <pubDate>Sun, 21 Sep 2025 14:11:22 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
