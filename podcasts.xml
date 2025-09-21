@@ -2334,6 +2334,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250921_FERR_N_EXPLOTA_contra_el_GETAFE__SOLO_HACEN_FALTAS____ADVERTENCIA_de_FLICK_al_VESTUARIO__FERMIN_OUT_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250921_FERR_N_EXPLOTA_contra_el_GETAFE__SOLO_HACEN_FALTAS____ADVERTENCIA_de_FLICK_al_VESTUARIO__FERMIN_OUT_.mp3" length="8233101" type="audio/mpeg" />
+      <guid isPermaLink="false">4212b82f594c02a786b54e75c950f5bcbde8c62c</guid>
+      <pubDate>Sun, 21 Sep 2025 23:00:39 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
