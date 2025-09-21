@@ -2226,6 +2226,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250921_FC_BARCELONA_vs_GETAFE___DURO_HUESO_para_el_BAR_A__PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250921_FC_BARCELONA_vs_GETAFE___DURO_HUESO_para_el_BAR_A__PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="13895373" type="audio/mpeg" />
+      <guid isPermaLink="false">bfc11f4240a5836b77dd0dadc92ccc45a68471a6</guid>
+      <pubDate>Sun, 21 Sep 2025 10:01:49 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
