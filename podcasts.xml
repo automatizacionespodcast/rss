@@ -2343,6 +2343,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250921_EL_FC_BARCELONA_GANA_3_0_CONTRA_EL_GETAFE.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250921_EL_FC_BARCELONA_GANA_3_0_CONTRA_EL_GETAFE.mp3" length="14244933" type="audio/mpeg" />
+      <guid isPermaLink="false">8088198b6b22835d20bba463f5683d9d9fbff5ab</guid>
+      <pubDate>Sun, 21 Sep 2025 23:12:57 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
