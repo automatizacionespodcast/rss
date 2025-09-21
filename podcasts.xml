@@ -2316,6 +2316,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250921_DOBLETE_DE_FERRAN_Y_OTRO_PARTIDAZO_DE_PEDRI__GOLEADA_DEL_BARCELONA_3_0_AL_GETAFE___LALIGA___Ubietoo.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250921_DOBLETE_DE_FERRAN_Y_OTRO_PARTIDAZO_DE_PEDRI__GOLEADA_DEL_BARCELONA_3_0_AL_GETAFE___LALIGA___Ubietoo.mp3" length="6205317" type="audio/mpeg" />
+      <guid isPermaLink="false">a4f4783b4012a3a2abc69ad8f8a2bd679ac1b10e</guid>
+      <pubDate>Sun, 21 Sep 2025 21:50:29 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
