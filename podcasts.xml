@@ -2325,6 +2325,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250921_BRUTAL_PARTIDO_del_BAR_A__DOBLETE_de_FERR_N_Y_BAILE_3_0_CONTRA_EL_GETAFE____BAR_A_3_0_GETAFE_LALIGA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250921_BRUTAL_PARTIDO_del_BAR_A__DOBLETE_de_FERR_N_Y_BAILE_3_0_CONTRA_EL_GETAFE____BAR_A_3_0_GETAFE_LALIGA.mp3" length="11231925" type="audio/mpeg" />
+      <guid isPermaLink="false">0d376c1a12d0d66af30bf696a59e6719562289c0</guid>
+      <pubDate>Sun, 21 Sep 2025 22:01:34 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
