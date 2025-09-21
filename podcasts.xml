@@ -2280,6 +2280,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250921____JOAO_FELIX_y_VITOR_ROQUE_la_ROMPEN_FUERA_del_BAR_A___FUE_UN_GRAVE_ERROR_DEJARLOS_IR_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250921____JOAO_FELIX_y_VITOR_ROQUE_la_ROMPEN_FUERA_del_BAR_A___FUE_UN_GRAVE_ERROR_DEJARLOS_IR_.mp3" length="13509285" type="audio/mpeg" />
+      <guid isPermaLink="false">394b4bca2a92b7e331ba3c539579c1760eaec1a7</guid>
+      <pubDate>Sun, 21 Sep 2025 15:22:45 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
