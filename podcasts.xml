@@ -2307,6 +2307,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250921___ME_CERRARON_LA_BOCA__EL_BAR_A_HUMILLA_al_GETAFE_3_0___DOBLETE_de_FERR_N_TORRES___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250921___ME_CERRARON_LA_BOCA__EL_BAR_A_HUMILLA_al_GETAFE_3_0___DOBLETE_de_FERR_N_TORRES___.mp3" length="5163261" type="audio/mpeg" />
+      <guid isPermaLink="false">ae8e2d3907ea0caae70eb5cff31bd741d4183cec</guid>
+      <pubDate>Sun, 21 Sep 2025 21:40:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
