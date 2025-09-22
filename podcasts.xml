@@ -2442,6 +2442,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250922_____DEMB_L__BAL_N_de_ORO_por_DELANTE_de_LAMINE_YAMAL____TONGO____GAN__OTRO_KOPA___TODOS_los_PREMIOS__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250922_____DEMB_L__BAL_N_de_ORO_por_DELANTE_de_LAMINE_YAMAL____TONGO____GAN__OTRO_KOPA___TODOS_los_PREMIOS__.mp3" length="7130733" type="audio/mpeg" />
+      <guid isPermaLink="false">b0834056f9eb3a448ba4776e29caec2ed3432627</guid>
+      <pubDate>Mon, 22 Sep 2025 22:00:34 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
