@@ -2397,6 +2397,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250922___BAR_A_y_MADRID_GANARON___PERO_NO_FUE_LO_MISMO_____QUI_N_JUG__MEJOR_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250922___BAR_A_y_MADRID_GANARON___PERO_NO_FUE_LO_MISMO_____QUI_N_JUG__MEJOR_.mp3" length="7143477" type="audio/mpeg" />
+      <guid isPermaLink="false">450dd96a26c419f9312a9f573c3020b5117049b6</guid>
+      <pubDate>Mon, 22 Sep 2025 15:20:33 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
