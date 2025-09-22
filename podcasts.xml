@@ -2388,6 +2388,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250922_BORDAL_S_EXPLOTA_CONTRA_FERR_N_TORRES_por_sus_P_LEMICAS_DECLARACIONES.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250922_BORDAL_S_EXPLOTA_CONTRA_FERR_N_TORRES_por_sus_P_LEMICAS_DECLARACIONES.mp3" length="9173541" type="audio/mpeg" />
+      <guid isPermaLink="false">094b860b9449da53b115582f2c2ba3e832ab6d07</guid>
+      <pubDate>Mon, 22 Sep 2025 14:40:44 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
