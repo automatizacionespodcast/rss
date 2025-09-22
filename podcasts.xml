@@ -2424,6 +2424,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250922_DEMB_L__GANA_EL_BAL_N_DE_ORO_a_LAMINE_YAMAL__EXPLOTO____.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250922_DEMB_L__GANA_EL_BAL_N_DE_ORO_a_LAMINE_YAMAL__EXPLOTO____.mp3" length="10445397" type="audio/mpeg" />
+      <guid isPermaLink="false">959b731003ffc16c004ab4754847fe8d9c0d5ab5</guid>
+      <pubDate>Mon, 22 Sep 2025 21:20:43 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
