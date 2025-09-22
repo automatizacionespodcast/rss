@@ -2379,6 +2379,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250922_LAS_NOTAS_DEL_FC_BARCELONA___GETAFE.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250922_LAS_NOTAS_DEL_FC_BARCELONA___GETAFE.mp3" length="8128989" type="audio/mpeg" />
+      <guid isPermaLink="false">a4326fcb666805ec6503f8f35667851c66aab82f</guid>
+      <pubDate>Mon, 22 Sep 2025 14:10:43 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
