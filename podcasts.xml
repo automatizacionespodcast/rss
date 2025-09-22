@@ -2352,6 +2352,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250922___LAMINE_YAMAL_VA_CAMINO_del_BAL_N_de_ORO_por_DELANTE_de_DEMB_L_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250922___LAMINE_YAMAL_VA_CAMINO_del_BAL_N_de_ORO_por_DELANTE_de_DEMB_L_.mp3" length="7068909" type="audio/mpeg" />
+      <guid isPermaLink="false">e74e4809277c70e2bee8e28492246aa3ad3bf8d8</guid>
+      <pubDate>Mon, 22 Sep 2025 00:40:35 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
