@@ -2415,6 +2415,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250922____RIDICULO_HISTORICO_de_VINICIUS_en_el_BALON_de_ORO___De_ser_2_a_QUEDAR_el_16_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250922____RIDICULO_HISTORICO_de_VINICIUS_en_el_BALON_de_ORO___De_ser_2_a_QUEDAR_el_16_.mp3" length="6627693" type="audio/mpeg" />
+      <guid isPermaLink="false">4d6d6e8bd2818e334847c2529ff04c5aa6810dd0</guid>
+      <pubDate>Mon, 22 Sep 2025 18:00:40 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
