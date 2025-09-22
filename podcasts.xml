@@ -2433,6 +2433,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250922____DEMB_L__Balon_de_Oro_2025___Injusticia_con_Lamine__Pedri_acaba_11___VERGONZOSO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250922____DEMB_L__Balon_de_Oro_2025___Injusticia_con_Lamine__Pedri_acaba_11___VERGONZOSO_.mp3" length="11720253" type="audio/mpeg" />
+      <guid isPermaLink="false">4a0b4f6e0fa9912ce2987cdd629e7dcd36d0d483</guid>
+      <pubDate>Mon, 22 Sep 2025 21:41:06 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
