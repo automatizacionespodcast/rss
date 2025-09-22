@@ -2406,6 +2406,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250922____BOMBAZO__VINICIUS_pide_IRSE_en_ENERO__Est__MUY_Enfadado_con_Xabi_Alonso_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250922____BOMBAZO__VINICIUS_pide_IRSE_en_ENERO__Est__MUY_Enfadado_con_Xabi_Alonso_.mp3" length="21089925" type="audio/mpeg" />
+      <guid isPermaLink="false">76c3bd9cf73ef73f069a687eaac13a788cd902d6</guid>
+      <pubDate>Mon, 22 Sep 2025 17:03:43 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
