@@ -2361,6 +2361,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250922_AN_LISIS_EN_FR_O_BAR_A_3_0_GETAFE___ESTE_BAR_A_ES_UNA_M_QUINA__QUE_SE_PREPARE_EUROPA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250922_AN_LISIS_EN_FR_O_BAR_A_3_0_GETAFE___ESTE_BAR_A_ES_UNA_M_QUINA__QUE_SE_PREPARE_EUROPA_.mp3" length="12740829" type="audio/mpeg" />
+      <guid isPermaLink="false">d439f17b33e9f93457e1801fbf0a4e617f7ee7a8</guid>
+      <pubDate>Mon, 22 Sep 2025 11:22:34 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
