@@ -2568,6 +2568,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250923___EL_MADRID_DA_MIEDO___MASTANTUONO_se_ESTRENA_al_FIN__GOLAZO_VINI__DOBLETE_de_MBAPP__y_OTRO_PENALTI.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250923___EL_MADRID_DA_MIEDO___MASTANTUONO_se_ESTRENA_al_FIN__GOLAZO_VINI__DOBLETE_de_MBAPP__y_OTRO_PENALTI.mp3" length="5671461" type="audio/mpeg" />
+      <guid isPermaLink="false">6ee3720c8b034b3ece1fd65589dc53649b7615f1</guid>
+      <pubDate>Tue, 23 Sep 2025 22:42:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250923_PARTIDO_BRUTAL_DE_MBAPP__Y_VINI__MASTANTUONO_CONVIRTI__Y_GOLEADA_VS_LEVANTE_1_4___LALIGA___Ubietoo.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250923_PARTIDO_BRUTAL_DE_MBAPP__Y_VINI__MASTANTUONO_CONVIRTI__Y_GOLEADA_VS_LEVANTE_1_4___LALIGA___Ubietoo.mp3" length="5680677" type="audio/mpeg" />
+      <guid isPermaLink="false">ba6641e514efb14917d20b38941f118434322455</guid>
+      <pubDate>Tue, 23 Sep 2025 22:42:38 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
