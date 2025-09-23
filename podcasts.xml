@@ -2523,6 +2523,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250923_BRUTAL_ZASCA_DE_LAPORTA_A_FLORENTINO_P_REZ_POR_LA_GALA_DEL_BAL_N_DE_ORO__LO_DEJA_EN_EVIDENCIA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250923_BRUTAL_ZASCA_DE_LAPORTA_A_FLORENTINO_P_REZ_POR_LA_GALA_DEL_BAL_N_DE_ORO__LO_DEJA_EN_EVIDENCIA_.mp3" length="7749981" type="audio/mpeg" />
+      <guid isPermaLink="false">a90b628dd1455b5553114cf1d42c1546d05f107a</guid>
+      <pubDate>Tue, 23 Sep 2025 17:03:37 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250923___SE_MOFAN_de_VINICIUS_por_su_DESPLOME_en_BAL_N_de_ORO___LAMINE_FELICITA_a_DEMB_L____BAR_A_BLOQUEADO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250923___SE_MOFAN_de_VINICIUS_por_su_DESPLOME_en_BAL_N_de_ORO___LAMINE_FELICITA_a_DEMB_L____BAR_A_BLOQUEADO_.mp3" length="7512433" type="audio/mpeg" />
+      <guid isPermaLink="false">db97757ca4b9317644804beb70505c0a67914e2f</guid>
+      <pubDate>Tue, 23 Sep 2025 17:03:39 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
