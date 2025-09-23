@@ -2550,6 +2550,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250923_REACCIONES_DE_UN_HINCHA_al_Levante_vs_Real_Madrid_1_4__VAYA_SHOW____ByDiegoX10.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250923_REACCIONES_DE_UN_HINCHA_al_Levante_vs_Real_Madrid_1_4__VAYA_SHOW____ByDiegoX10.mp3" length="11071581" type="audio/mpeg" />
+      <guid isPermaLink="false">9be78c2128173bbf673058c35e4620a857b75367</guid>
+      <pubDate>Tue, 23 Sep 2025 21:52:03 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
