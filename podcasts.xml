@@ -2469,6 +2469,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250923__DOBLE_GOLPE_al_BAR_A__GAVI_y_FERM_N_KO__pero_HAY_UNA_BUENA_NOTICIA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250923__DOBLE_GOLPE_al_BAR_A__GAVI_y_FERM_N_KO__pero_HAY_UNA_BUENA_NOTICIA.mp3" length="6098325" type="audio/mpeg" />
+      <guid isPermaLink="false">f326eddf0d7dfc7f74bd98717b8b742f33cf7808</guid>
+      <pubDate>Tue, 23 Sep 2025 11:20:35 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
