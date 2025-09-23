@@ -2487,6 +2487,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250923_VERGONZOSO____RESULTADOS_DE_LA_JORNADA_5_Y_MI_PREDICCI_N_A_LA_JORNADA_6___QUINIELAS___Ubietoo.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250923_VERGONZOSO____RESULTADOS_DE_LA_JORNADA_5_Y_MI_PREDICCI_N_A_LA_JORNADA_6___QUINIELAS___Ubietoo.mp3" length="11588428" type="audio/mpeg" />
+      <guid isPermaLink="false">20d213c5839e38acdfd878780b78243c6464f467</guid>
+      <pubDate>Tue, 23 Sep 2025 13:31:30 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
