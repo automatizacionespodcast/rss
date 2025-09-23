@@ -2460,6 +2460,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250923_LEVANTE_vs_REAL_MADRID____VINICIUS_SUPLENTE___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250923_LEVANTE_vs_REAL_MADRID____VINICIUS_SUPLENTE___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="11735949" type="audio/mpeg" />
+      <guid isPermaLink="false">0eff5f4a1f68fd45b90766ee2674b46955cfbf5f</guid>
+      <pubDate>Tue, 23 Sep 2025 10:00:58 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
