@@ -2478,6 +2478,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250923_LAPORTA_Y_ELENA_FORT_CULPAN_AL_AYUNTAMIENTO_de_los_RETRASOS_DEL_CAMP_NOU.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250923_LAPORTA_Y_ELENA_FORT_CULPAN_AL_AYUNTAMIENTO_de_los_RETRASOS_DEL_CAMP_NOU.mp3" length="12927237" type="audio/mpeg" />
+      <guid isPermaLink="false">b7963c9b8c7d920ae87332f84d15ac2e0ffa89e9</guid>
+      <pubDate>Tue, 23 Sep 2025 12:42:30 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
