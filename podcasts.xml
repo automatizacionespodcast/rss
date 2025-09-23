@@ -2451,6 +2451,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250923_DEMB_L__GANA_EL_BALO_N_DE_ORO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250923_DEMB_L__GANA_EL_BALO_N_DE_ORO.mp3" length="14630805" type="audio/mpeg" />
+      <guid isPermaLink="false">2a286089057c3de34e255e165dc982f5473c4be1</guid>
+      <pubDate>Tue, 23 Sep 2025 06:13:12 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
