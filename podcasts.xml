@@ -2586,6 +2586,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250923_EL_REAL_MADRID_GANA_1_4_CONTRA_EL_LEVANTE.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250923_EL_REAL_MADRID_GANA_1_4_CONTRA_EL_LEVANTE.mp3" length="10748181" type="audio/mpeg" />
+      <guid isPermaLink="false">fb3ce9f730b4da38decd9a9846e342bc7b61b44f</guid>
+      <pubDate>Tue, 23 Sep 2025 23:01:25 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
