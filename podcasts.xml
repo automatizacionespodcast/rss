@@ -2541,6 +2541,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250923__DEMB_L__NO_MEREC_A_EL_BAL_N_DE_ORO___TE_EXPLICO_POR_QU__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250923__DEMB_L__NO_MEREC_A_EL_BAL_N_DE_ORO___TE_EXPLICO_POR_QU__.mp3" length="6264549" type="audio/mpeg" />
+      <guid isPermaLink="false">225f8ee0254b322cc3517b51cf91daee411c8d09</guid>
+      <pubDate>Tue, 23 Sep 2025 17:40:34 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
