@@ -2559,6 +2559,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250923_DOBLETE_DE_MBAPP___GOL_DE_MASTANTUONO_Y_GOLEADA_DEL_MADRID_1_4_CONTRA_EL_LEVANTE__LIDERES_INVICTOS_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250923_DOBLETE_DE_MBAPP___GOL_DE_MASTANTUONO_Y_GOLEADA_DEL_MADRID_1_4_CONTRA_EL_LEVANTE__LIDERES_INVICTOS_.mp3" length="5952741" type="audio/mpeg" />
+      <guid isPermaLink="false">4e7a77801fc5732c86c68c1f838f39273e58ecb3</guid>
+      <pubDate>Tue, 23 Sep 2025 22:00:33 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
