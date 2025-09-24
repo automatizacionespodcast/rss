@@ -2622,6 +2622,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250924_LEVANTE_1_4_REAL_MADRID__ESTE_MADRID_ILUSIONA___EL_PLAN_de_XABI_FUNCIONA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250924_LEVANTE_1_4_REAL_MADRID__ESTE_MADRID_ILUSIONA___EL_PLAN_de_XABI_FUNCIONA_.mp3" length="20585756" type="audio/mpeg" />
+      <guid isPermaLink="false">7097cc918dd020b3459d68636949d1c7b8e97aa8</guid>
+      <pubDate>Wed, 24 Sep 2025 14:12:50 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
