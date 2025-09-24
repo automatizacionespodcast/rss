@@ -2595,6 +2595,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250924_HANSI_FLICK_SE_PRONUNCIA_TRAS_LA_GRAVE_LESI_N_DE_GAVI.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250924_HANSI_FLICK_SE_PRONUNCIA_TRAS_LA_GRAVE_LESI_N_DE_GAVI.mp3" length="10912070" type="audio/mpeg" />
+      <guid isPermaLink="false">ffc598ca64094aa74141ffbaf31d7663f251d64c</guid>
+      <pubDate>Wed, 24 Sep 2025 12:22:01 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
