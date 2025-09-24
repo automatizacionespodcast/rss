@@ -2640,6 +2640,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250924_GRACIAS_XABI_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250924_GRACIAS_XABI_.mp3" length="20303325" type="audio/mpeg" />
+      <guid isPermaLink="false">5765652756d499ac042c61ef2ab5f34f889c3ca3</guid>
+      <pubDate>Wed, 24 Sep 2025 17:13:31 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
