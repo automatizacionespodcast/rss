@@ -2604,6 +2604,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250924_OTRO_ANSU_FATI___GAVI_LESIONADO_5_MESES_DE_BAJA__ME_CAG0_EN_T0D0.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250924_OTRO_ANSU_FATI___GAVI_LESIONADO_5_MESES_DE_BAJA__ME_CAG0_EN_T0D0.mp3" length="7370903" type="audio/mpeg" />
+      <guid isPermaLink="false">e271069232af5ef312ef79394e5705afbb5f97ab</guid>
+      <pubDate>Wed, 24 Sep 2025 13:20:52 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
