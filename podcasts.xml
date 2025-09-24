@@ -2685,6 +2685,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250924___LA_NUEVA_JOYA_de_la_MAS_A_que_ENAMOR__a_HANSI_FLICK__SER__CONVOCADO_CON_EL_PRIMER_EQUIPO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250924___LA_NUEVA_JOYA_de_la_MAS_A_que_ENAMOR__a_HANSI_FLICK__SER__CONVOCADO_CON_EL_PRIMER_EQUIPO_.mp3" length="5461339" type="audio/mpeg" />
+      <guid isPermaLink="false">354774b6a0e674b183093c1d2f982ca89ab61dde</guid>
+      <pubDate>Wed, 24 Sep 2025 20:20:48 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
