@@ -2631,6 +2631,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250924__ESC_NDALO__Los_PALMEROS_culpan_al_AYUNTAMIENTO_por_el_RETRASO_del_CAMP_NOU.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250924__ESC_NDALO__Los_PALMEROS_culpan_al_AYUNTAMIENTO_por_el_RETRASO_del_CAMP_NOU.mp3" length="9414558" type="audio/mpeg" />
+      <guid isPermaLink="false">077808a4cb717bed9833ac0b70a9b837bf46168e</guid>
+      <pubDate>Wed, 24 Sep 2025 15:00:59 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
