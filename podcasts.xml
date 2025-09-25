@@ -2748,6 +2748,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250925____SALIBA_RENUEVA_con_el_ARSENAL___Adi_s_al_Madrid___ROJA_perdonada_a_KOKE__Hora_y_Fecha_del_Cl_sico.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250925____SALIBA_RENUEVA_con_el_ARSENAL___Adi_s_al_Madrid___ROJA_perdonada_a_KOKE__Hora_y_Fecha_del_Cl_sico.mp3" length="14909717" type="audio/mpeg" />
+      <guid isPermaLink="false">d726af80995c2a8aa42186e04ad9eb1b85ea7aaa</guid>
+      <pubDate>Thu, 25 Sep 2025 14:11:28 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
