@@ -2757,6 +2757,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250925___LANZAMIENTO__PICO__YA_EST__AQU__EL_C_MIC_DEL_SPIDERCUL____CAOS_T_XICO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250925___LANZAMIENTO__PICO__YA_EST__AQU__EL_C_MIC_DEL_SPIDERCUL____CAOS_T_XICO.mp3" length="7705627" type="audio/mpeg" />
+      <guid isPermaLink="false">4bad406f6e979e23a761d8cda5b08038390de1b2</guid>
+      <pubDate>Thu, 25 Sep 2025 14:40:50 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
