@@ -2721,6 +2721,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250925__GUERRA_DE_PODER__BAR_A_Y_AYUNTAMIENTO_SE_CULPAN_PERO_NADIE_PIENSA_EN_EL_SOCIO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250925__GUERRA_DE_PODER__BAR_A_Y_AYUNTAMIENTO_SE_CULPAN_PERO_NADIE_PIENSA_EN_EL_SOCIO.mp3" length="7757579" type="audio/mpeg" />
+      <guid isPermaLink="false">67c217815486823e9a7dcd38ab30e7f2cb68c447</guid>
+      <pubDate>Thu, 25 Sep 2025 12:21:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
