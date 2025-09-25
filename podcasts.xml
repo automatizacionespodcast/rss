@@ -2793,6 +2793,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250925_REMONTADA__PICA_DEL_BAR_A_1_3_CONTRA_EL_OVIEDO_EN_UN_PARTIDO_COMPLICADO___R_OVIEDO_1_3_BAR_A_LALIGA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250925_REMONTADA__PICA_DEL_BAR_A_1_3_CONTRA_EL_OVIEDO_EN_UN_PARTIDO_COMPLICADO___R_OVIEDO_1_3_BAR_A_LALIGA.mp3" length="7880350" type="audio/mpeg" />
+      <guid isPermaLink="false">3ac6471333e10a3ff33bebe37579adc17c33f11b</guid>
+      <pubDate>Thu, 25 Sep 2025 22:22:05 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250925_GOLAZO_DE_LEWAN__OTRO_PARTIDAZO_DE_PEDRI_Y_REMONTADA_1_3_DEL_FC_BARCELONA_QUE_SE_QUEDA_A_2_PUNTOS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250925_GOLAZO_DE_LEWAN__OTRO_PARTIDAZO_DE_PEDRI_Y_REMONTADA_1_3_DEL_FC_BARCELONA_QUE_SE_QUEDA_A_2_PUNTOS.mp3" length="5383555" type="audio/mpeg" />
+      <guid isPermaLink="false">e0d7ce1973b4db97051f175fbb7ef72a351ca079</guid>
+      <pubDate>Thu, 25 Sep 2025 22:22:07 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
