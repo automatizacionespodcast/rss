@@ -2775,6 +2775,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250925__LTIMA_HORA___JULI_N__LVAREZ_APUNTA_A_SER_EL_NUEVO_9_DEL_BAR_A_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250925__LTIMA_HORA___JULI_N__LVAREZ_APUNTA_A_SER_EL_NUEVO_9_DEL_BAR_A_.mp3" length="6516780" type="audio/mpeg" />
+      <guid isPermaLink="false">608253fb69ccb7da52bff6554769398e59e724c7</guid>
+      <pubDate>Thu, 25 Sep 2025 18:01:48 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
