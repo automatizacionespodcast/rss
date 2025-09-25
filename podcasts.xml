@@ -2703,6 +2703,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250925_OVIEDO_vs_FC_BARCELONA__PARTIDO_ASEQUIBLE___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250925_OVIEDO_vs_FC_BARCELONA__PARTIDO_ASEQUIBLE___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="9640704" type="audio/mpeg" />
+      <guid isPermaLink="false">08fb6d893685226da6aa594db2ec200891745910</guid>
+      <pubDate>Thu, 25 Sep 2025 10:10:50 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
