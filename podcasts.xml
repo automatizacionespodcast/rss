@@ -2739,6 +2739,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250925_PARTIDO_CLAVE__CON_BAJAS_IMPORTANTES_Y_SORPRESAS_EN_EL_ONCE_TITULAR___PREVIA_REAL_OVIEDO_VS_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250925_PARTIDO_CLAVE__CON_BAJAS_IMPORTANTES_Y_SORPRESAS_EN_EL_ONCE_TITULAR___PREVIA_REAL_OVIEDO_VS_BAR_A.mp3" length="9319159" type="audio/mpeg" />
+      <guid isPermaLink="false">a3ff495b0057dc6182cef536361aee802452850e</guid>
+      <pubDate>Thu, 25 Sep 2025 13:40:50 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
