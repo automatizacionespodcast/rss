@@ -2811,6 +2811,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250925___ESTO_HA_DICHO_HANSI_FLICK_A_JOAN_GARC_A_TRAS_SU_ERROR_GARRAFAL_en_el_OVIEDO_1_3_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250925___ESTO_HA_DICHO_HANSI_FLICK_A_JOAN_GARC_A_TRAS_SU_ERROR_GARRAFAL_en_el_OVIEDO_1_3_BAR_A.mp3" length="6598336" type="audio/mpeg" />
+      <guid isPermaLink="false">3c21ca672f86f67f7859b8c23a25c0d4ed2fad12</guid>
+      <pubDate>Thu, 25 Sep 2025 23:20:58 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
