@@ -2784,6 +2784,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250925_REACCIONES_DE_UN_HINCHA_al_Oviedo_vs_Barcelona_1_3__EVITAN_un_SUSTO____ByDiegoX10.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250925_REACCIONES_DE_UN_HINCHA_al_Oviedo_vs_Barcelona_1_3__EVITAN_un_SUSTO____ByDiegoX10.mp3" length="7272125" type="audio/mpeg" />
+      <guid isPermaLink="false">fa8741ecd251ba5595d661261804b063e81b9325</guid>
+      <pubDate>Thu, 25 Sep 2025 21:51:22 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
