@@ -2766,6 +2766,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250925__PELIGRO_PARA_EL_BAR_A___DA_O_REPUTACIONAL_IRREVERSIBLE_SI_NO_HAY_EXIGENCIA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250925__PELIGRO_PARA_EL_BAR_A___DA_O_REPUTACIONAL_IRREVERSIBLE_SI_NO_HAY_EXIGENCIA.mp3" length="13321900" type="audio/mpeg" />
+      <guid isPermaLink="false">6c04f72d940d81063a2b20faa5f397375144e64a</guid>
+      <pubDate>Thu, 25 Sep 2025 16:22:28 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
