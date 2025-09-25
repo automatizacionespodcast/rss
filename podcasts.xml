@@ -2712,6 +2712,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250925_LA_PREVIA_DEL_OVIEDO___FC_BARCELONA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250925_LA_PREVIA_DEL_OVIEDO___FC_BARCELONA.mp3" length="10112380" type="audio/mpeg" />
+      <guid isPermaLink="false">1c92ff30e2d9ed7961f846a3cee8795472c3c5ab</guid>
+      <pubDate>Thu, 25 Sep 2025 11:42:11 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
