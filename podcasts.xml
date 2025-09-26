@@ -2910,6 +2910,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250926_LAMENTABLE____RESULTADOS_DE_LA_JORNADA_6_Y_MI_PREDICCI_N_A_LA_JORNADA_7___QUINIELAS___Ubietoo.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250926_LAMENTABLE____RESULTADOS_DE_LA_JORNADA_6_Y_MI_PREDICCI_N_A_LA_JORNADA_7___QUINIELAS___Ubietoo.mp3" length="10466355" type="audio/mpeg" />
+      <guid isPermaLink="false">143e54200588cf9f990a0671a4c61199487d3899</guid>
+      <pubDate>Fri, 26 Sep 2025 17:21:23 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
