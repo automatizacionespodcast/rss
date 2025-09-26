@@ -2829,6 +2829,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250926___AN_LISIS_en_FR_O_del_OVIEDO_1_3_BAR_A___LO_DE_ESTE_EQUIPO_ES_ALUCINANTE__NO_DEPENDEMOS_DE_LAMINE.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250926___AN_LISIS_en_FR_O_del_OVIEDO_1_3_BAR_A___LO_DE_ESTE_EQUIPO_ES_ALUCINANTE__NO_DEPENDEMOS_DE_LAMINE.mp3" length="6891088" type="audio/mpeg" />
+      <guid isPermaLink="false">229f3b5132fd6084e8cd6a3fdde802255cfe2341</guid>
+      <pubDate>Fri, 26 Sep 2025 12:01:19 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
