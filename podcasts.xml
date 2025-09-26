@@ -2820,6 +2820,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250925_EL_FC_BARCELONA_GANA_1_3_CONTRA_EL_OVIEDO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250925_EL_FC_BARCELONA_GANA_1_3_CONTRA_EL_OVIEDO.mp3" length="14876276" type="audio/mpeg" />
+      <guid isPermaLink="false">0de5c7fe65d50e6f68ea36f45291a22f5a6af704</guid>
+      <pubDate>Fri, 26 Sep 2025 00:02:45 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
