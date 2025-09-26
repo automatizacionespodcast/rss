@@ -2892,6 +2892,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250926___EXPLOTO_____JOAN_GARCIA_LESIONADO_PASAR__POR_QUIR_FANO___6_SEMANAS_FUERA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250926___EXPLOTO_____JOAN_GARCIA_LESIONADO_PASAR__POR_QUIR_FANO___6_SEMANAS_FUERA_.mp3" length="6302667" type="audio/mpeg" />
+      <guid isPermaLink="false">8651dab3c87a3d9a6f7c5887e3c449498e779030</guid>
+      <pubDate>Fri, 26 Sep 2025 16:41:03 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
