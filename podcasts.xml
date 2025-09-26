@@ -2937,6 +2937,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250926_ATLETICO_de_MADRID_vs_REAL_MADRID___DERBI_de_ALTA_TENSI_N.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250926_ATLETICO_de_MADRID_vs_REAL_MADRID___DERBI_de_ALTA_TENSI_N.mp3" length="14702382" type="audio/mpeg" />
+      <guid isPermaLink="false">e98873e948a9fd0183ee3089ffeb376804dc5daa</guid>
+      <pubDate>Fri, 26 Sep 2025 19:11:18 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
