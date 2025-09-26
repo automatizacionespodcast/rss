@@ -2901,6 +2901,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250926____MI_11_COMBINADO__Atl_tico_de_Madrid_vs_Real_Madrid.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250926____MI_11_COMBINADO__Atl_tico_de_Madrid_vs_Real_Madrid.mp3" length="15629235" type="audio/mpeg" />
+      <guid isPermaLink="false">62c38e194b61546e4860616667eb499fbf3995bf</guid>
+      <pubDate>Fri, 26 Sep 2025 17:11:42 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
