@@ -2946,6 +2946,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250926_JOAN_GARCIA_SE_HA_LESIONADO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250926_JOAN_GARCIA_SE_HA_LESIONADO.mp3" length="9995367" type="audio/mpeg" />
+      <guid isPermaLink="false">00eaff459121dee9964e999c906c51723ca96da9</guid>
+      <pubDate>Fri, 26 Sep 2025 22:01:02 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
