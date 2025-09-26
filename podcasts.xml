@@ -2865,6 +2865,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250926__BOMBAZO____LAMINE_YAMAL_ANUNCIA_QUE_EST__DE_VUELTA____EL_PSG_EN_P_NICO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250926__BOMBAZO____LAMINE_YAMAL_ANUNCIA_QUE_EST__DE_VUELTA____EL_PSG_EN_P_NICO.mp3" length="8383944" type="audio/mpeg" />
+      <guid isPermaLink="false">52967b002c7811fa7c9060085754384dbf3ae2a3</guid>
+      <pubDate>Fri, 26 Sep 2025 14:22:54 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250926___DRAMA_en_el_BAR_A__JOAN_GARC_A_y_RAPHINHA_lesionados___EL_MADRID__SE_LLEVA__20M_del_AYUNTAMIENTO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250926___DRAMA_en_el_BAR_A__JOAN_GARC_A_y_RAPHINHA_lesionados___EL_MADRID__SE_LLEVA__20M_del_AYUNTAMIENTO.mp3" length="6865773" type="audio/mpeg" />
+      <guid isPermaLink="false">438b1427ee7bb7b201371911506494a8ea1991a6</guid>
+      <pubDate>Fri, 26 Sep 2025 14:22:56 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
