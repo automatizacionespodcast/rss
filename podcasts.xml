@@ -2838,6 +2838,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250926_OFICIAL__SERGIO_BUSQUETS_SE_RETIRA_DEL_F_TBOL___GRACIAS_POR_TODO___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250926_OFICIAL__SERGIO_BUSQUETS_SE_RETIRA_DEL_F_TBOL___GRACIAS_POR_TODO___.mp3" length="7830793" type="audio/mpeg" />
+      <guid isPermaLink="false">7753d2d8b6dd753a934759a770def71e62c8aff9</guid>
+      <pubDate>Fri, 26 Sep 2025 13:01:21 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
