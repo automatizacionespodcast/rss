@@ -2883,6 +2883,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250926_LAS_NOTAS_DEL_OVIEDO___FC_BARCELONA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250926_LAS_NOTAS_DEL_OVIEDO___FC_BARCELONA.mp3" length="10602252" type="audio/mpeg" />
+      <guid isPermaLink="false">06dfba13406db73696d00463da2f02c613c99788</guid>
+      <pubDate>Fri, 26 Sep 2025 15:01:33 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
