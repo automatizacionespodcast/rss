@@ -2847,6 +2847,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250926_PARTIDAZO_DE_ERIC_GARC_A__ARAUJO_Y_PEDRI___OTRA_REMONTADA___OVIEDO_1_3_FC_BARCELONA___LALIGA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250926_PARTIDAZO_DE_ERIC_GARC_A__ARAUJO_Y_PEDRI___OTRA_REMONTADA___OVIEDO_1_3_FC_BARCELONA___LALIGA.mp3" length="4945599" type="audio/mpeg" />
+      <guid isPermaLink="false">feef510fc68f225beb751cfa75763b3127fc5e33</guid>
+      <pubDate>Fri, 26 Sep 2025 13:21:16 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
