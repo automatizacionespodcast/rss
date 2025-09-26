@@ -2856,6 +2856,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250926_OVIEDO_1_3_FC_BARCELONA___LEWANDOWSKI_y_ERIC_GARC_A_provocan_otra_REMONTADA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250926_OVIEDO_1_3_FC_BARCELONA___LEWANDOWSKI_y_ERIC_GARC_A_provocan_otra_REMONTADA.mp3" length="15646466" type="audio/mpeg" />
+      <guid isPermaLink="false">167fc210e8cf9d886e4d6292a7dbed566ff25155</guid>
+      <pubDate>Fri, 26 Sep 2025 14:11:53 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
