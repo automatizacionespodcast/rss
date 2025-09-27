@@ -3018,6 +3018,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250927____LLOROS_Y_REACCIONES_LAMENTABLES_a_la_GOLEADA_HISTORICA_del_ATL_DE_MADRID_5_2_REAL_MADRID_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250927____LLOROS_Y_REACCIONES_LAMENTABLES_a_la_GOLEADA_HISTORICA_del_ATL_DE_MADRID_5_2_REAL_MADRID_.mp3" length="13858544" type="audio/mpeg" />
+      <guid isPermaLink="false">3ac2286737990dfad59c1104c86f2aebfad23e45</guid>
+      <pubDate>Sat, 27 Sep 2025 19:42:19 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
