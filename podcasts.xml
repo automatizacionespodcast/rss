@@ -3009,6 +3009,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250927____BOMBAZO__El_Real_Madrid_gana_23M_por_demanda___Busquets_anuncia_su_RETIRADA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250927____BOMBAZO__El_Real_Madrid_gana_23M_por_demanda___Busquets_anuncia_su_RETIRADA.mp3" length="12281614" type="audio/mpeg" />
+      <guid isPermaLink="false">5fc8ca9e44a5a7ea3e38412ccca803edff148a02</guid>
+      <pubDate>Sat, 27 Sep 2025 19:11:00 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
