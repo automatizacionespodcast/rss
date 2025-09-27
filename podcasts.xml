@@ -3045,6 +3045,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250927_EL_ATLE_TICO_LE_METE_5_AL_MADRID.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250927_EL_ATLE_TICO_LE_METE_5_AL_MADRID.mp3" length="16145000" type="audio/mpeg" />
+      <guid isPermaLink="false">269fb0ef1d4f835fea3ae37de078c45532b7f1dd</guid>
+      <pubDate>Sat, 27 Sep 2025 23:43:23 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
