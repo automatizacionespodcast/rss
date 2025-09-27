@@ -2982,6 +2982,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250927_EL_CHOLO_SIMEONE_LE_PINTA_LA_CARA_A_XABI_ALONSO_DESTROZANDO_5_2_AL_REAL_MADRID___ATLETICO_5_2_MADRID.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250927_EL_CHOLO_SIMEONE_LE_PINTA_LA_CARA_A_XABI_ALONSO_DESTROZANDO_5_2_AL_REAL_MADRID___ATLETICO_5_2_MADRID.mp3" length="6973867" type="audio/mpeg" />
+      <guid isPermaLink="false">6d6b47fbdb2afa48c16e6303bbdb59d2ab762a56</guid>
+      <pubDate>Sat, 27 Sep 2025 17:00:51 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
