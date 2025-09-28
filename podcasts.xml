@@ -3162,6 +3162,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250928_POL_MICA_TOTAL__DENUNCIAN_QUE_EL_GOL_DEL_BAR_A_VEN_A_DE_UN_C_RNER_INEXISTENTE____BAR_A_2_1_R_SOCIEDAD.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250928_POL_MICA_TOTAL__DENUNCIAN_QUE_EL_GOL_DEL_BAR_A_VEN_A_DE_UN_C_RNER_INEXISTENTE____BAR_A_2_1_R_SOCIEDAD.mp3" length="6147978" type="audio/mpeg" />
+      <guid isPermaLink="false">2f991eb8cc804a79f8926bd4b2397f3aa8e683e6</guid>
+      <pubDate>Sun, 28 Sep 2025 20:40:46 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
