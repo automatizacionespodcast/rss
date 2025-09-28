@@ -3117,6 +3117,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250928_HUMILLACI_N_HIST_RICA_del_ATL_TCO_de_MADRID_5_2_al_REAL_MADRID__Qu__les_pasa_en_PARTIDOS_GRANDES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250928_HUMILLACI_N_HIST_RICA_del_ATL_TCO_de_MADRID_5_2_al_REAL_MADRID__Qu__les_pasa_en_PARTIDOS_GRANDES_.mp3" length="32607832" type="audio/mpeg" />
+      <guid isPermaLink="false">6d1cfd9b3488caeb49d4a0675bb8afd6aac14178</guid>
+      <pubDate>Sun, 28 Sep 2025 14:17:19 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
