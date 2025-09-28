@@ -3126,6 +3126,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250928___DRAM_TICO__CARVAJAL_y_MILITAO_LESIONADOS___SIMEONE_LLORANDO_y_la_REACCI_N_de_FLORENTINO_al_5_2.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250928___DRAM_TICO__CARVAJAL_y_MILITAO_LESIONADOS___SIMEONE_LLORANDO_y_la_REACCI_N_de_FLORENTINO_al_5_2.mp3" length="5259709" type="audio/mpeg" />
+      <guid isPermaLink="false">ec8793a69f41a0935c6b0a3c1be958dd0a90ef65</guid>
+      <pubDate>Sun, 28 Sep 2025 14:41:03 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
