@@ -3135,6 +3135,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250928_LIDERES_INVICTOS__PARTIDAZO_DE_LAMINE_Y_REMONTADA__PICA_DEL_BAR_A_2_1_CONTRA_LA_REAL_SOCIEDAD.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250928_LIDERES_INVICTOS__PARTIDAZO_DE_LAMINE_Y_REMONTADA__PICA_DEL_BAR_A_2_1_CONTRA_LA_REAL_SOCIEDAD.mp3" length="8802102" type="audio/mpeg" />
+      <guid isPermaLink="false">89cd826a7d6b2b113425f0e6ac5092e4b2cbe531</guid>
+      <pubDate>Sun, 28 Sep 2025 19:01:39 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
