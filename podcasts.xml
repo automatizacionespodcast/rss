@@ -3081,6 +3081,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250928___AN_LISIS_en_FRIO_del_ATL_TICO_de_MADRID_5_2_REAL_MADRID___HA_SIDO_UNA_HUMILLACI_N_TOTAL___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250928___AN_LISIS_en_FRIO_del_ATL_TICO_de_MADRID_5_2_REAL_MADRID___HA_SIDO_UNA_HUMILLACI_N_TOTAL___.mp3" length="9681041" type="audio/mpeg" />
+      <guid isPermaLink="false">ac69e24c0dce598219bc51ef860fe0faf393042d</guid>
+      <pubDate>Sun, 28 Sep 2025 12:02:15 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
