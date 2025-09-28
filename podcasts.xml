@@ -3090,6 +3090,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250928_EL_BAR_A_puede_REMATAR_al_MADRID_y_con_LAMINE_YAMAL__SE_JUEGAN_el_LIDERATO_ante_la_REAL_SOCIEDAD.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250928_EL_BAR_A_puede_REMATAR_al_MADRID_y_con_LAMINE_YAMAL__SE_JUEGAN_el_LIDERATO_ante_la_REAL_SOCIEDAD.mp3" length="6783860" type="audio/mpeg" />
+      <guid isPermaLink="false">e98ca550a12f117f7b814e5d4d0b897f5169f1a4</guid>
+      <pubDate>Sun, 28 Sep 2025 12:22:04 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250928_VERG_ENZA_TOTAL__DEFENDEMOS_IGUAL_DE_MAL_QUE_EL_A_O_PASADO___ATL_TICO_5_2_REAL_MADRID___LALIGA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250928_VERG_ENZA_TOTAL__DEFENDEMOS_IGUAL_DE_MAL_QUE_EL_A_O_PASADO___ATL_TICO_5_2_REAL_MADRID___LALIGA.mp3" length="4818455" type="audio/mpeg" />
+      <guid isPermaLink="false">712a6be161aa5bb1215cddbc7b1e338cca89bfef</guid>
+      <pubDate>Sun, 28 Sep 2025 12:22:05 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
