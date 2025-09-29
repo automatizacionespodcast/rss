@@ -3234,6 +3234,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250929_LAS_NOTAS_DEL_FC_BARCELONA___REAL_SOCIEDAD.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250929_LAS_NOTAS_DEL_FC_BARCELONA___REAL_SOCIEDAD.mp3" length="9359273" type="audio/mpeg" />
+      <guid isPermaLink="false">8bf2036cdececda18d686d3609bb2de07c398077</guid>
+      <pubDate>Mon, 29 Sep 2025 19:01:02 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
