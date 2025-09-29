@@ -3216,6 +3216,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250929__NOS_ENGA_ARON___EL_BAR_A_CONFIESA_la_VERDAD_sobre_los_RETRASOS_del_CAMP_NOU.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250929__NOS_ENGA_ARON___EL_BAR_A_CONFIESA_la_VERDAD_sobre_los_RETRASOS_del_CAMP_NOU.mp3" length="10572172" type="audio/mpeg" />
+      <guid isPermaLink="false">aef7fba11579e7e04013a5cd5980511df6d2b24d</guid>
+      <pubDate>Mon, 29 Sep 2025 15:01:27 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
