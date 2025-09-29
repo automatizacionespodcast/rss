@@ -3243,6 +3243,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250929__BOMBAZO____XAVI_HERN_NDEZ_AL_UNITED_SEG_N_FABRIZIO_ROMANO____MI_OPINI_N_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250929__BOMBAZO____XAVI_HERN_NDEZ_AL_UNITED_SEG_N_FABRIZIO_ROMANO____MI_OPINI_N_.mp3" length="5058044" type="audio/mpeg" />
+      <guid isPermaLink="false">e1f4b82df03afc2de67461b360a220bb88c94b15</guid>
+      <pubDate>Mon, 29 Sep 2025 19:40:33 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
