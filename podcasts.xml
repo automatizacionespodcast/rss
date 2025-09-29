@@ -3261,6 +3261,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250929_ESTA_VEZ_NO_HAY_DISCUSI_N____EL_MADRID_en_RID_CULO_y_el_BAR_A_REMONTANDO_para_SER_L_DER___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250929_ESTA_VEZ_NO_HAY_DISCUSI_N____EL_MADRID_en_RID_CULO_y_el_BAR_A_REMONTANDO_para_SER_L_DER___.mp3" length="6238159" type="audio/mpeg" />
+      <guid isPermaLink="false">9dc9af1b42671d68007b1ca9afbb9a18bcc7d971</guid>
+      <pubDate>Mon, 29 Sep 2025 23:00:54 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
