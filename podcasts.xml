@@ -3180,6 +3180,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250929___AN_LISIS_en_FR_O_del_BAR_A_2_1_REAL_SOCIEDAD___ESTE_BAR_A_METE_MIEDO___PSG_VAMOS_A_POR_TI_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250929___AN_LISIS_en_FR_O_del_BAR_A_2_1_REAL_SOCIEDAD___ESTE_BAR_A_METE_MIEDO___PSG_VAMOS_A_POR_TI_.mp3" length="11400245" type="audio/mpeg" />
+      <guid isPermaLink="false">a29ea21db61a6a5137778ddc17a4757311bd24cf</guid>
+      <pubDate>Mon, 29 Sep 2025 12:21:13 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
