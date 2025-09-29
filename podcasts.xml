@@ -3189,6 +3189,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250929_Lo_del_MADRID_es_VERGONZOSO__XABI_ALONSO_CUESTIONADO_y_el_PROYECTO_MADRID_EST__en_CRISIS_M_XIMA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250929_Lo_del_MADRID_es_VERGONZOSO__XABI_ALONSO_CUESTIONADO_y_el_PROYECTO_MADRID_EST__en_CRISIS_M_XIMA.mp3" length="10204867" type="audio/mpeg" />
+      <guid isPermaLink="false">2ee80e1d9e59afe04ad7a49c1af8090e6676a634</guid>
+      <pubDate>Mon, 29 Sep 2025 13:44:58 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250929_____SI_NO_LO_DIGO_REVIENTO___ESTE_MADRID_es_la_MISMA_MENTIRA_que_la_TEMPORADA_PASADA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250929_____SI_NO_LO_DIGO_REVIENTO___ESTE_MADRID_es_la_MISMA_MENTIRA_que_la_TEMPORADA_PASADA.mp3" length="11849751" type="audio/mpeg" />
+      <guid isPermaLink="false">92525523f90ee87ad377ac0c24c59e21754d5cb1</guid>
+      <pubDate>Mon, 29 Sep 2025 13:45:01 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
