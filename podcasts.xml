@@ -3207,6 +3207,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250929_EL_FC_BARCELONA_GANA_2_1_CONTRA_LA_REAL_SOCIEDAD.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250929_EL_FC_BARCELONA_GANA_2_1_CONTRA_LA_REAL_SOCIEDAD.mp3" length="12070342" type="audio/mpeg" />
+      <guid isPermaLink="false">582e61af1726ee163dece53e11539955b2003332</guid>
+      <pubDate>Mon, 29 Sep 2025 14:02:34 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
