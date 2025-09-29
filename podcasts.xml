@@ -3225,6 +3225,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250929____DRAMA_EN_EL_MADRID__NO_hay_LATERALES___Pero_yo_veo_una_OPORTUNIDAD.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250929____DRAMA_EN_EL_MADRID__NO_hay_LATERALES___Pero_yo_veo_una_OPORTUNIDAD.mp3" length="14719794" type="audio/mpeg" />
+      <guid isPermaLink="false">ee1aa68432519e202b958d4d9984dffadcfc3e24</guid>
+      <pubDate>Mon, 29 Sep 2025 17:11:24 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
