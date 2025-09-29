@@ -3252,6 +3252,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250929_BARTOMEU_LO_VUELVE_A_HACER__IMPUTADO_por_COMISIONES_ILEGALES_en_los_FICHAJES_DEL_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250929_BARTOMEU_LO_VUELVE_A_HACER__IMPUTADO_por_COMISIONES_ILEGALES_en_los_FICHAJES_DEL_BAR_A.mp3" length="7359080" type="audio/mpeg" />
+      <guid isPermaLink="false">01b1590518bf8a4d8f83f662108495f3687618ff</guid>
+      <pubDate>Mon, 29 Sep 2025 20:41:07 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
