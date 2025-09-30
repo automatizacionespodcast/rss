@@ -3279,6 +3279,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250930___FLICK_MANDA_UN_AVISO_A_LAMINE_YAMAL__NO_BASTA_CON_EL_TALENTO____RUEDA_DE_PRENSA_HANSI_FLICK.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250930___FLICK_MANDA_UN_AVISO_A_LAMINE_YAMAL__NO_BASTA_CON_EL_TALENTO____RUEDA_DE_PRENSA_HANSI_FLICK.mp3" length="6023217" type="audio/mpeg" />
+      <guid isPermaLink="false">3e0dbc9cc67abed05dd745c4dd48d431248ff49f</guid>
+      <pubDate>Tue, 30 Sep 2025 12:41:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
