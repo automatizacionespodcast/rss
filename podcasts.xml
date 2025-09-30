@@ -3333,6 +3333,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250930_HAT_TRICK_DE_MBAPP__Y_GOLEADA_DE_ESC_NDALO_DEL_REAL_MADRID_5_0_al_KAIRAT.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250930_HAT_TRICK_DE_MBAPP__Y_GOLEADA_DE_ESC_NDALO_DEL_REAL_MADRID_5_0_al_KAIRAT.mp3" length="6721787" type="audio/mpeg" />
+      <guid isPermaLink="false">0f256eb94cf4925a625a4535a8dcc26dd2cb4151</guid>
+      <pubDate>Tue, 30 Sep 2025 19:21:33 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
