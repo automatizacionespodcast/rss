@@ -3342,6 +3342,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250930_____ESC_NDALO_CONFIRMADO___el_CTA_ADMITE_la_ROJA_y_el_PENALTI___PERO_SE_EQUIVOCAN_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250930_____ESC_NDALO_CONFIRMADO___el_CTA_ADMITE_la_ROJA_y_el_PENALTI___PERO_SE_EQUIVOCAN_.mp3" length="6276315" type="audio/mpeg" />
+      <guid isPermaLink="false">144bb5dcb9e6ceab149da071b33ca62f08d98a2d</guid>
+      <pubDate>Tue, 30 Sep 2025 21:03:35 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20250930_EL_MADRID_GANA_0_5_CONTRA_EL_KAIRAT.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250930_EL_MADRID_GANA_0_5_CONTRA_EL_KAIRAT.mp3" length="9589137" type="audio/mpeg" />
+      <guid isPermaLink="false">1a1652a93bc9deee6b76593b4cfc54a1caac60e9</guid>
+      <pubDate>Tue, 30 Sep 2025 21:03:37 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
