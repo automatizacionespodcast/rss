@@ -3360,6 +3360,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250930_______OTRA_MANITA_del_ATLETI___5_1_al_FRANKFURT____EL_MADRID_TIENE_la_CULPA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250930_______OTRA_MANITA_del_ATLETI___5_1_al_FRANKFURT____EL_MADRID_TIENE_la_CULPA_.mp3" length="5708887" type="audio/mpeg" />
+      <guid isPermaLink="false">fd23955a32518f765e250bfda2735c0233c47ad6</guid>
+      <pubDate>Tue, 30 Sep 2025 22:40:33 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
