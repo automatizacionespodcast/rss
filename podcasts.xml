@@ -3270,6 +3270,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250930_KAIRAT_ALMATY_vs_REAL_MADRID__A_PASAR_P_GINA___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250930_KAIRAT_ALMATY_vs_REAL_MADRID__A_PASAR_P_GINA___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="10963203" type="audio/mpeg" />
+      <guid isPermaLink="false">41259c09d15c253a0319bab0f846e58cd791f76c</guid>
+      <pubDate>Tue, 30 Sep 2025 09:11:07 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
