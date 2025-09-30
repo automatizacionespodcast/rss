@@ -3324,6 +3324,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250930__REGRESO_HIST_RICO__EL_BAR_A_VUELVE_AL_CAMP_NOU_PARA_LALIGA_Y_CHAMPIONS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250930__REGRESO_HIST_RICO__EL_BAR_A_VUELVE_AL_CAMP_NOU_PARA_LALIGA_Y_CHAMPIONS.mp3" length="8101081" type="audio/mpeg" />
+      <guid isPermaLink="false">5d3fcee68fdfb81041e5ff2c643725abc685455a</guid>
+      <pubDate>Tue, 30 Sep 2025 14:42:03 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
