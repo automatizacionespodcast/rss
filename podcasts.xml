@@ -3315,6 +3315,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20250930___MI_ONCE_COMBINADO_del_BAR_A_vs_PSG.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20250930___MI_ONCE_COMBINADO_del_BAR_A_vs_PSG.mp3" length="21815611" type="audio/mpeg" />
+      <guid isPermaLink="false">19cf9d9b10e34c378101686ce4f7ea98dc7fe25e</guid>
+      <pubDate>Tue, 30 Sep 2025 14:18:07 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
