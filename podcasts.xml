@@ -3441,6 +3441,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251001__INCRE_BLE__FIGO_ESTAR__EN_EL_BAR_A___PSG_y_LAPORTA_DA_UNA_LECCI_N_HIST_RICA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251001__INCRE_BLE__FIGO_ESTAR__EN_EL_BAR_A___PSG_y_LAPORTA_DA_UNA_LECCI_N_HIST_RICA.mp3" length="8516913" type="audio/mpeg" />
+      <guid isPermaLink="false">9641e6eb9f8bedaa1e898b72d95af929dd0548c2</guid>
+      <pubDate>Wed, 01 Oct 2025 15:20:57 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
