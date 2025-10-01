@@ -3378,6 +3378,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251001_FC_BARCELONA_vs_PSG____FINAL_ANTICIPADA___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251001_FC_BARCELONA_vs_PSG____FINAL_ANTICIPADA___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="12706003" type="audio/mpeg" />
+      <guid isPermaLink="false">4e05f0e90f85e952f8d48a3efd14e5dd37539c95</guid>
+      <pubDate>Wed, 01 Oct 2025 10:12:25 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
