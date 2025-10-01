@@ -3423,6 +3423,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251001_CATACLISMO_EN_EL_MADRID__XABI_ALONSO_PIERDE_EL_CONTROL_DEL_VESTUARIO___VALVERDE_y_VINICIUS_EXPLOTAN.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251001_CATACLISMO_EN_EL_MADRID__XABI_ALONSO_PIERDE_EL_CONTROL_DEL_VESTUARIO___VALVERDE_y_VINICIUS_EXPLOTAN.mp3" length="7125520" type="audio/mpeg" />
+      <guid isPermaLink="false">5cc6fdbcc45caceb9f98810f02f04a01949c92e5</guid>
+      <pubDate>Wed, 01 Oct 2025 14:01:10 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
