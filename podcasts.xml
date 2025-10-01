@@ -3387,6 +3387,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251001__EL_BAR_A_TOMA_LA_DECISI_N_DE_NO_VOLVER_AL_CAMP_NOU_HASTA_NOVIEMBRE___ESTE_ES_EL_MOTIVO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251001__EL_BAR_A_TOMA_LA_DECISI_N_DE_NO_VOLVER_AL_CAMP_NOU_HASTA_NOVIEMBRE___ESTE_ES_EL_MOTIVO_.mp3" length="7995234" type="audio/mpeg" />
+      <guid isPermaLink="false">c9c7ff580a1b425d8e3596593d8a296a723eb0f8</guid>
+      <pubDate>Wed, 01 Oct 2025 12:00:45 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
