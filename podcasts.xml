@@ -3477,6 +3477,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251001_VERG_ENZA_HIST_RICA__BA_O_TOTAL_DEL_PSG_AL_BAR_A_1_2_____EXPLOTO_____ESTOY_HUNDIDO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251001_VERG_ENZA_HIST_RICA__BA_O_TOTAL_DEL_PSG_AL_BAR_A_1_2_____EXPLOTO_____ESTOY_HUNDIDO_.mp3" length="7717661" type="audio/mpeg" />
+      <guid isPermaLink="false">b883d65f285df8b8f2ded3f454c36f5d00c862f3</guid>
+      <pubDate>Wed, 01 Oct 2025 22:00:46 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
