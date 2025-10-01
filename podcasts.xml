@@ -3495,6 +3495,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251001_Lo_del_BAR_A_ha_sido_DECEPCIONANTE__RIDICUL0_PARTIDO__Y_LAMENTABLE_ACTITUD___BAR_A_1_2_PSG_REACCI_N.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251001_Lo_del_BAR_A_ha_sido_DECEPCIONANTE__RIDICUL0_PARTIDO__Y_LAMENTABLE_ACTITUD___BAR_A_1_2_PSG_REACCI_N.mp3" length="9350480" type="audio/mpeg" />
+      <guid isPermaLink="false">67348e4abe95fb3d07ba1d7ddcfbedc98375d317</guid>
+      <pubDate>Wed, 01 Oct 2025 23:01:00 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
