@@ -3369,6 +3369,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251001_LA_PREVIA_DEL_FC_BARCELONA___PSG.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251001_LA_PREVIA_DEL_FC_BARCELONA___PSG.mp3" length="9368736" type="audio/mpeg" />
+      <guid isPermaLink="false">b64d211471fdf216085edb028c931ac1880c1b95</guid>
+      <pubDate>Wed, 01 Oct 2025 06:22:07 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
