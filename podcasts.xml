@@ -3468,6 +3468,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251001___BAR_A_1_2_PSG__SOLO_LAMINE_YAMAL_BRILL__MEDIA_HORA__el_RESTO_fue_del_PSG.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251001___BAR_A_1_2_PSG__SOLO_LAMINE_YAMAL_BRILL__MEDIA_HORA__el_RESTO_fue_del_PSG.mp3" length="5917720" type="audio/mpeg" />
+      <guid isPermaLink="false">dbf2e23d387fef45a74e7c039ffc0f694d5e5bc0</guid>
+      <pubDate>Wed, 01 Oct 2025 21:40:40 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
