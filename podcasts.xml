@@ -3459,6 +3459,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251001_REACCIONES_DE_UN_HINCHA_al_Barcelona_vs_PSG_1_2__Son_de_OTRO_NIVEL____ByDiegoX10.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251001_REACCIONES_DE_UN_HINCHA_al_Barcelona_vs_PSG_1_2__Son_de_OTRO_NIVEL____ByDiegoX10.mp3" length="8428161" type="audio/mpeg" />
+      <guid isPermaLink="false">49e43bc6c7510758ce848355020fcca2ac31e185</guid>
+      <pubDate>Wed, 01 Oct 2025 21:11:43 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
