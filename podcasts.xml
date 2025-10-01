@@ -3432,6 +3432,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251001___HAY_ALGO_QUE_ME_PREOCUPA____KAIRAT_ALMATY_0_5_REAL_MADRID.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251001___HAY_ALGO_QUE_ME_PREOCUPA____KAIRAT_ALMATY_0_5_REAL_MADRID.mp3" length="20651810" type="audio/mpeg" />
+      <guid isPermaLink="false">ece3440c9e9157de4ba3e0532a6bab194dcbd1f6</guid>
+      <pubDate>Wed, 01 Oct 2025 14:13:22 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
