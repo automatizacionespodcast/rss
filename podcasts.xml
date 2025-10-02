@@ -3513,6 +3513,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251001____ROBO_al_BAR_A_en_CHAMPIONS__TODAS_las_POL_MICAS_del_BAR_A_PSG___FLICK_ESTALLA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251001____ROBO_al_BAR_A_en_CHAMPIONS__TODAS_las_POL_MICAS_del_BAR_A_PSG___FLICK_ESTALLA.mp3" length="7748836" type="audio/mpeg" />
+      <guid isPermaLink="false">cbc1541de0ed6ad9f4f55c868e3fe194377f5c38</guid>
+      <pubDate>Thu, 02 Oct 2025 00:00:45 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
