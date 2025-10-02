@@ -3558,6 +3558,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251002__BOMBAZO__EL_BAR_A_NO_VOLVER__AL_CAMP_NOU_HASTA_NOVIEMBRE___Y_CON_SUERTE_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251002__BOMBAZO__EL_BAR_A_NO_VOLVER__AL_CAMP_NOU_HASTA_NOVIEMBRE___Y_CON_SUERTE_.mp3" length="8774681" type="audio/mpeg" />
+      <guid isPermaLink="false">5e779293bb55ef6b24899147c7e6c91a44b94aad</guid>
+      <pubDate>Thu, 02 Oct 2025 14:40:51 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
