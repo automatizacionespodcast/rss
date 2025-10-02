@@ -3549,6 +3549,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251002__Qu__le_pas__al_BAR_A__An_lisis_del_FC_BARCELONA_1_2_PSG.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251002__Qu__le_pas__al_BAR_A__An_lisis_del_FC_BARCELONA_1_2_PSG.mp3" length="26187994" type="audio/mpeg" />
+      <guid isPermaLink="false">6b862ff5232af8ba7e7fe98a84171f9c1324e3f3</guid>
+      <pubDate>Thu, 02 Oct 2025 14:14:47 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
