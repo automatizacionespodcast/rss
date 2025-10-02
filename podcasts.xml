@@ -3576,6 +3576,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251002_LAS_NOTAS_DEL_FC_BARCELONA___PSG.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251002_LAS_NOTAS_DEL_FC_BARCELONA___PSG.mp3" length="10804404" type="audio/mpeg" />
+      <guid isPermaLink="false">a88d952a380766c90cf21b667e7d416955c4d6ca</guid>
+      <pubDate>Thu, 02 Oct 2025 16:21:39 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
