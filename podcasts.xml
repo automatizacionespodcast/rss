@@ -3612,6 +3612,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251002____INCRE_BLE_JORNADA_2__El_Liverpool_pincha_con_el_Galatasaray_y_el_Atleti_golea_con_otra_manita.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251002____INCRE_BLE_JORNADA_2__El_Liverpool_pincha_con_el_Galatasaray_y_el_Atleti_golea_con_otra_manita.mp3" length="13789059" type="audio/mpeg" />
+      <guid isPermaLink="false">edb870b828de8d43d3da696336f9e34a0dc8194f</guid>
+      <pubDate>Thu, 02 Oct 2025 19:11:14 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
