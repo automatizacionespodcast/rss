@@ -3531,6 +3531,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251002____AN_LISIS_en_FRIO_del_BAR_A_1_2_PSG____SI_NO_JUGAMOS_AL_100___NO_GANAREMOS_NADA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251002____AN_LISIS_en_FRIO_del_BAR_A_1_2_PSG____SI_NO_JUGAMOS_AL_100___NO_GANAREMOS_NADA_.mp3" length="11497163" type="audio/mpeg" />
+      <guid isPermaLink="false">b648a25f5d062fa5fcc97a37939f38c2d52b3b19</guid>
+      <pubDate>Thu, 02 Oct 2025 12:21:18 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
