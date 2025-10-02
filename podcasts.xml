@@ -3621,6 +3621,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251002_DESVELO_EL_PRINCIPAL_CULPABLE_DE_LA_DERROTA_DEL_BAR_A_CONTRA_EL_PSG__NO_ES_LA_DEFENSA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251002_DESVELO_EL_PRINCIPAL_CULPABLE_DE_LA_DERROTA_DEL_BAR_A_CONTRA_EL_PSG__NO_ES_LA_DEFENSA_.mp3" length="5614599" type="audio/mpeg" />
+      <guid isPermaLink="false">8f2eae56b090492872da4ecbba6298ad88410620</guid>
+      <pubDate>Thu, 02 Oct 2025 19:40:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
