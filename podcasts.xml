@@ -3540,6 +3540,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251002_SE_DESMONTA_LA_MENTIRA__EL_BAR_A_SE_REVALORIZA_y_el_MADRID_SE_HUNDE_EN_TRANSFERMARKT_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251002_SE_DESMONTA_LA_MENTIRA__EL_BAR_A_SE_REVALORIZA_y_el_MADRID_SE_HUNDE_EN_TRANSFERMARKT_.mp3" length="6626882" type="audio/mpeg" />
+      <guid isPermaLink="false">5a81ea8e1a37ac7bb82733536757c211c7a1f006</guid>
+      <pubDate>Thu, 02 Oct 2025 13:21:14 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
