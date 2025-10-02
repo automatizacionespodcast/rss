@@ -3522,6 +3522,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251002_EL_FC_BARCELONA_PIERDE_1_2_CONTRA_EL_PSG.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251002_EL_FC_BARCELONA_PIERDE_1_2_CONTRA_EL_PSG.mp3" length="14578924" type="audio/mpeg" />
+      <guid isPermaLink="false">1a4159ed94bcf7d00db4b0b93c793704ae9cf2da</guid>
+      <pubDate>Thu, 02 Oct 2025 01:03:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
