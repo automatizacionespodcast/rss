@@ -3585,6 +3585,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251002_ESTALLA_el_CASO_VALVERDE__DURO_COMUNICADO___Qu__pasa_en_el_Vestuario_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251002_ESTALLA_el_CASO_VALVERDE__DURO_COMUNICADO___Qu__pasa_en_el_Vestuario_.mp3" length="14231402" type="audio/mpeg" />
+      <guid isPermaLink="false">e579f92d2dfa680e9672b417c11cfd6c5ccacf99</guid>
+      <pubDate>Thu, 02 Oct 2025 17:11:12 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
