@@ -3693,6 +3693,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251003_ALERTA_TOTAL____LAMINE_YAMAL_LESIONADO_OTRA_VEZ____ESTAR__3_SEMANAS_FUERA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251003_ALERTA_TOTAL____LAMINE_YAMAL_LESIONADO_OTRA_VEZ____ESTAR__3_SEMANAS_FUERA_.mp3" length="5043814" type="audio/mpeg" />
+      <guid isPermaLink="false">e77febf9374dc980ac83e8202222e6ec3615b761</guid>
+      <pubDate>Fri, 03 Oct 2025 17:20:43 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
