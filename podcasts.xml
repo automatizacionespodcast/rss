@@ -3648,6 +3648,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251003_DESTROZAN_a_HANSI_FLICK_por_la_DERROTA_CONTRA_el_PSG__NO_LO_VOY_A_PERMITIR_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251003_DESTROZAN_a_HANSI_FLICK_por_la_DERROTA_CONTRA_el_PSG__NO_LO_VOY_A_PERMITIR_.mp3" length="7725202" type="audio/mpeg" />
+      <guid isPermaLink="false">b6a736459d9c79061f8eda69645c051410fe1913</guid>
+      <pubDate>Fri, 03 Oct 2025 13:00:40 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
