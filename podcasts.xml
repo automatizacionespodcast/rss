@@ -3702,6 +3702,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251003__LOCURA_TOTAL__JULI_N__LVAREZ_SE_MUERE_DE_GANAS_DE_FICHAR_POR_EL_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251003__LOCURA_TOTAL__JULI_N__LVAREZ_SE_MUERE_DE_GANAS_DE_FICHAR_POR_EL_BAR_A.mp3" length="5362040" type="audio/mpeg" />
+      <guid isPermaLink="false">29a11346fde3ac9a084fbf884326eb0b24e03f13</guid>
+      <pubDate>Fri, 03 Oct 2025 18:40:54 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
