@@ -3729,6 +3729,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251003_LAMINE_YAMAL_SE_LESIONA_Y_ES_BAJA_PARA_LA_SELECCIO_N.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251003_LAMINE_YAMAL_SE_LESIONA_Y_ES_BAJA_PARA_LA_SELECCIO_N.mp3" length="8160327" type="audio/mpeg" />
+      <guid isPermaLink="false">9caa593619da292932b7d1b6a2100fdbc07e9e26</guid>
+      <pubDate>Fri, 03 Oct 2025 20:20:50 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
