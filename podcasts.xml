@@ -3720,6 +3720,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251003____ADI_S_SUPERLIGA__El_BAR_A_DEJAR_A_TIRADO_al_MADRID___AS__SER_A_la_NUEVA_CHAMPIONS_2027.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251003____ADI_S_SUPERLIGA__El_BAR_A_DEJAR_A_TIRADO_al_MADRID___AS__SER_A_la_NUEVA_CHAMPIONS_2027.mp3" length="7702155" type="audio/mpeg" />
+      <guid isPermaLink="false">4b20e2b2a13ef802b125fd145a92330ffa0b3416</guid>
+      <pubDate>Fri, 03 Oct 2025 19:40:44 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
