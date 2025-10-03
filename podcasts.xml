@@ -3639,6 +3639,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251003___CONVOCATORIA_de_ESPA_A__MAYOR_A_del_BAR_A_y_SOLO_1_del_MADRID____AN_LISIS_SIN_FILTROS_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251003___CONVOCATORIA_de_ESPA_A__MAYOR_A_del_BAR_A_y_SOLO_1_del_MADRID____AN_LISIS_SIN_FILTROS_.mp3" length="5842746" type="audio/mpeg" />
+      <guid isPermaLink="false">980d7cb7cb56485640cc31fcfea154b38ea591a0</guid>
+      <pubDate>Fri, 03 Oct 2025 12:40:38 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
