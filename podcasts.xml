@@ -3711,6 +3711,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251003_LA_LIGA_Y_TEMPORADA_CASI_PERFECTA_DEL_BARCELONA_DE_HANSI_FLICK_EN_EL_2024_25___UBIETOO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251003_LA_LIGA_Y_TEMPORADA_CASI_PERFECTA_DEL_BARCELONA_DE_HANSI_FLICK_EN_EL_2024_25___UBIETOO.mp3" length="11978768" type="audio/mpeg" />
+      <guid isPermaLink="false">cc17173f3c812d4868f286b2127e9ba514f532d2</guid>
+      <pubDate>Fri, 03 Oct 2025 19:12:17 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
