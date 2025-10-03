@@ -3684,6 +3684,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251003____ENFADO_CUL___LUIS_DE_LA_FUENTE_convoca_a_LAMINE_YAMAL__Lio_a_la_vista_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251003____ENFADO_CUL___LUIS_DE_LA_FUENTE_convoca_a_LAMINE_YAMAL__Lio_a_la_vista_.mp3" length="12666451" type="audio/mpeg" />
+      <guid isPermaLink="false">ef2cc2f1c0acdc178af895158844305f273cc05d</guid>
+      <pubDate>Fri, 03 Oct 2025 17:10:48 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
