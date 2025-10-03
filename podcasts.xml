@@ -3657,6 +3657,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251003____FLORENTINO_TIENE_QUE_PARAR_ESTO__Demasiados_EGOS_en_el_Vestuario_del_Real_Madrid.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251003____FLORENTINO_TIENE_QUE_PARAR_ESTO__Demasiados_EGOS_en_el_Vestuario_del_Real_Madrid.mp3" length="20501109" type="audio/mpeg" />
+      <guid isPermaLink="false">2ce1920e41c7ce1d1b81ac0f696be9a4b4f792d1</guid>
+      <pubDate>Fri, 03 Oct 2025 14:13:14 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
