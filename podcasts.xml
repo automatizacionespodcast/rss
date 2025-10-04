@@ -3774,6 +3774,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251004_SEVILLA_vs_FC_BARCELONA__SIN_LAMINE_YAMAL___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251004_SEVILLA_vs_FC_BARCELONA__SIN_LAMINE_YAMAL___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="12156066" type="audio/mpeg" />
+      <guid isPermaLink="false">06873d1c9669f2257796fae1e603a5be1d3dbfd4</guid>
+      <pubDate>Sat, 04 Oct 2025 14:11:01 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
