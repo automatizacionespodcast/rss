@@ -3747,6 +3747,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251004___HANSI_FLICK_EXPLOTA_POR_LA_CONVOCATORIA_DE_MARC_BERNAL_PARA_LA_SUB_21__ES_LAMENTABLE.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251004___HANSI_FLICK_EXPLOTA_POR_LA_CONVOCATORIA_DE_MARC_BERNAL_PARA_LA_SUB_21__ES_LAMENTABLE.mp3" length="8655696" type="audio/mpeg" />
+      <guid isPermaLink="false">8e48013ea70d9cc57c33beae4eef39612caae97d</guid>
+      <pubDate>Sat, 04 Oct 2025 12:00:51 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
