@@ -3810,6 +3810,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251004_EL_REAL_MADRID_GANA_3_1_CONTRA_EL_VILLARREAL.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251004_EL_REAL_MADRID_GANA_3_1_CONTRA_EL_VILLARREAL.mp3" length="12363701" type="audio/mpeg" />
+      <guid isPermaLink="false">bcc2d4fc1706005b3b57ec181d58242927dc92b9</guid>
+      <pubDate>Sat, 04 Oct 2025 23:21:34 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
