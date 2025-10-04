@@ -3819,6 +3819,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251004_____ES_UN_ESC_NDALO_ARBITRAL___REAL_MADRID_3_1_VILLARREAL_con_PENALTIS_y_ROJAS_SURREALISTAS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251004_____ES_UN_ESC_NDALO_ARBITRAL___REAL_MADRID_3_1_VILLARREAL_con_PENALTIS_y_ROJAS_SURREALISTAS.mp3" length="5719654" type="audio/mpeg" />
+      <guid isPermaLink="false">a64809c9e463ec4765383324a22df29e18218655</guid>
+      <pubDate>Sat, 04 Oct 2025 23:51:04 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
