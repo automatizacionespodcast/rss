@@ -3783,6 +3783,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251004_ESTO_es_una_VERG_ENZA__ACUSAN_a_LAMINE_de_FINGIR_su_LESI_N_PARA_NO_JUGAR_con_ESPA_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251004_ESTO_es_una_VERG_ENZA__ACUSAN_a_LAMINE_de_FINGIR_su_LESI_N_PARA_NO_JUGAR_con_ESPA_A.mp3" length="5378356" type="audio/mpeg" />
+      <guid isPermaLink="false">f75a0e0a50a97d904e3216e8b1ad32c7af44881e</guid>
+      <pubDate>Sat, 04 Oct 2025 14:20:31 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
