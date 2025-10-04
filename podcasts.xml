@@ -3792,6 +3792,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251004_ESC_NDALO__ROBO_DEL_REAL_MADRID_AL_VILLARREAL_en_el_BERNAB_U___REAL_MADRID_3_1_VILLARREAL.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251004_ESC_NDALO__ROBO_DEL_REAL_MADRID_AL_VILLARREAL_en_el_BERNAB_U___REAL_MADRID_3_1_VILLARREAL.mp3" length="8086032" type="audio/mpeg" />
+      <guid isPermaLink="false">4bd378d2b1c7ba2ab5c0d180d839993e56bc6764</guid>
+      <pubDate>Sat, 04 Oct 2025 21:40:49 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
