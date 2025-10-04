@@ -3801,6 +3801,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251004___Y_APARECI__VIN_CIUS____el_MADRID_3_1_VILLARREAL_con_ESC_NDALO_ARBITRAL_y_REGRESO_al_LIDERATO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251004___Y_APARECI__VIN_CIUS____el_MADRID_3_1_VILLARREAL_con_ESC_NDALO_ARBITRAL_y_REGRESO_al_LIDERATO.mp3" length="5407231" type="audio/mpeg" />
+      <guid isPermaLink="false">a41f96bb34ca4816f9035ff9fbe18fb8a12220dd</guid>
+      <pubDate>Sat, 04 Oct 2025 21:50:43 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
