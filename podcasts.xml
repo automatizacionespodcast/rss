@@ -3855,6 +3855,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251005___EL_BAR_A_SE_LA_JUEGA_HOY___FLICK_NO_PERDONAR__m_s_ERRORES_____PREVIA_SEVILLA_vs_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251005___EL_BAR_A_SE_LA_JUEGA_HOY___FLICK_NO_PERDONAR__m_s_ERRORES_____PREVIA_SEVILLA_vs_BAR_A.mp3" length="8697873" type="audio/mpeg" />
+      <guid isPermaLink="false">692e3b24a0f5f5cef4b4c6363530f35a25231ea7</guid>
+      <pubDate>Sun, 05 Oct 2025 12:01:34 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
