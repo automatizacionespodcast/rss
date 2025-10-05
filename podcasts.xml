@@ -3837,6 +3837,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251005__PARTIDAZO_del_MADRID__REAL_MADRID_3_1_VILLARREAL___VOLVI__el_MEJOR_VINICIUS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251005__PARTIDAZO_del_MADRID__REAL_MADRID_3_1_VILLARREAL___VOLVI__el_MEJOR_VINICIUS.mp3" length="22731833" type="audio/mpeg" />
+      <guid isPermaLink="false">c17f5d553ae989f7a85d077ccafb6e8adcf6e97b</guid>
+      <pubDate>Sun, 05 Oct 2025 10:14:44 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
