@@ -3864,6 +3864,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251005____PELIGRA_el_BAR_A__DATO_DEMOLEDOR_vs_SEVILLA___VILLARREAL_es_un_SINVERG_ENZA___VALVERDE__DESPIERTA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251005____PELIGRA_el_BAR_A__DATO_DEMOLEDOR_vs_SEVILLA___VILLARREAL_es_un_SINVERG_ENZA___VALVERDE__DESPIERTA.mp3" length="7577017" type="audio/mpeg" />
+      <guid isPermaLink="false">d9dbc0bcc1404cdfc59e5da29855b6895fa5f8c3</guid>
+      <pubDate>Sun, 05 Oct 2025 12:31:33 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
