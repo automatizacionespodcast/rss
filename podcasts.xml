@@ -3927,6 +3927,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251005____BALDE_CULPA_al_CALOR_de_la_DERROTA_del_BAR_A_contra_el_SEVILLA_4_1____NO__BALDE__AS__NO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251005____BALDE_CULPA_al_CALOR_de_la_DERROTA_del_BAR_A_contra_el_SEVILLA_4_1____NO__BALDE__AS__NO_.mp3" length="6173146" type="audio/mpeg" />
+      <guid isPermaLink="false">a892d71b7ef2f061d9402fac1ffa673feda2a9ab</guid>
+      <pubDate>Sun, 05 Oct 2025 20:40:56 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
