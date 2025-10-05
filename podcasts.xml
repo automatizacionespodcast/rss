@@ -3873,6 +3873,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251005_BOCHORNO_HIST_RICO__EL_BAR_A_HACE_EL_RIDICUL0_y_es_APLASTADO_por_el_SEVILLA_1_4_DANDO_PENA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251005_BOCHORNO_HIST_RICO__EL_BAR_A_HACE_EL_RIDICUL0_y_es_APLASTADO_por_el_SEVILLA_1_4_DANDO_PENA.mp3" length="7130187" type="audio/mpeg" />
+      <guid isPermaLink="false">39d695cfc2c90ac03fbca794658c4558fdcb4c13</guid>
+      <pubDate>Sun, 05 Oct 2025 17:21:10 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
