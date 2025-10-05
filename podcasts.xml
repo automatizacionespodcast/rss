@@ -3891,6 +3891,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251005__PEDRI_DA_LA_CARA___RECONOCE_EL_DESASTRE_DEL_BAR_A_Y_PIDE_AUTOCR_TICA___SEVILLA_4_1_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251005__PEDRI_DA_LA_CARA___RECONOCE_EL_DESASTRE_DEL_BAR_A_Y_PIDE_AUTOCR_TICA___SEVILLA_4_1_BAR_A.mp3" length="8092347" type="audio/mpeg" />
+      <guid isPermaLink="false">0df7d1cd2deb677264ca786ce5d80501b4fcfff8</guid>
+      <pubDate>Sun, 05 Oct 2025 18:40:52 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
