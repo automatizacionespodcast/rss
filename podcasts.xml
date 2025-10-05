@@ -3846,6 +3846,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251005___AN_LISIS_en_FRIO_del_ROBO_del_REAL_MADRID_3_1_VILLARREAL___ATRAC0_MONUMENTAL_Y_VESTUARIO_EN_LLAMAS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251005___AN_LISIS_en_FRIO_del_ROBO_del_REAL_MADRID_3_1_VILLARREAL___ATRAC0_MONUMENTAL_Y_VESTUARIO_EN_LLAMAS.mp3" length="8076301" type="audio/mpeg" />
+      <guid isPermaLink="false">8f4f6893bc5748adeae3504a315f2716533d8fa5</guid>
+      <pubDate>Sun, 05 Oct 2025 11:20:51 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
