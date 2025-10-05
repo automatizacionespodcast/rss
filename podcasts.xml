@@ -3918,6 +3918,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251005_____ESC_NDALO_en_SEVILLA___el_BAR_A_se_SIENTE_ROBADO___POL_MICA_ARBITRAL_y_CAOS_TOTAL.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251005_____ESC_NDALO_en_SEVILLA___el_BAR_A_se_SIENTE_ROBADO___POL_MICA_ARBITRAL_y_CAOS_TOTAL.mp3" length="6767399" type="audio/mpeg" />
+      <guid isPermaLink="false">dd58ff7962af27406c2c4d53469af28b1392ab30</guid>
+      <pubDate>Sun, 05 Oct 2025 19:31:29 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
