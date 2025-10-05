@@ -3828,6 +3828,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251005_LA_PREVIA_DEL_SEVILLA___FC_BARCELONA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251005_LA_PREVIA_DEL_SEVILLA___FC_BARCELONA.mp3" length="10004057" type="audio/mpeg" />
+      <guid isPermaLink="false">e1cbfee9d48e4349bcfecbe0783541a66dd55fc4</guid>
+      <pubDate>Sun, 05 Oct 2025 07:01:31 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
