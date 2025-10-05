@@ -3900,6 +3900,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251005____PELIGRA_EL_CL_SICO__Mbapp__y_Mastantuono_LESIONADOS___Y_sus_SELECCIONES_los_LLAMAN_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251005____PELIGRA_EL_CL_SICO__Mbapp__y_Mastantuono_LESIONADOS___Y_sus_SELECCIONES_los_LLAMAN_.mp3" length="13314655" type="audio/mpeg" />
+      <guid isPermaLink="false">1dc8356d20bb47e5fc7d8492c0a7f1796446beae</guid>
+      <pubDate>Sun, 05 Oct 2025 19:28:49 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20251005_DESASTRE_ABSOLUTO__EL_FC_BARCELONA_PIERDE_4_1_CONTRA_EL_SEVILLA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251005_DESASTRE_ABSOLUTO__EL_FC_BARCELONA_PIERDE_4_1_CONTRA_EL_SEVILLA.mp3" length="18081134" type="audio/mpeg" />
+      <guid isPermaLink="false">a541cf25c7580dd8a9c71b258c3630f747d03b0c</guid>
+      <pubDate>Sun, 05 Oct 2025 19:28:52 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
