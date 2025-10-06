@@ -3972,6 +3972,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251006__DEBACLE_en_SEVILLA_del_BAR_A_4_1__EL_PEOR_PARTIDO_de_la_ERA_FLICK.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251006__DEBACLE_en_SEVILLA_del_BAR_A_4_1__EL_PEOR_PARTIDO_de_la_ERA_FLICK.mp3" length="15970758" type="audio/mpeg" />
+      <guid isPermaLink="false">8b2a589169e34770a4108bfdd29a4f3a84c2da22</guid>
+      <pubDate>Mon, 06 Oct 2025 14:11:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
