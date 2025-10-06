@@ -3990,6 +3990,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251006_AURONPLAY__T_XICO__con_el_BARCELONA_tras_LA_DERROTA_vs_SEVILLA___SEVILLA_4_1_BAR_A_MI_OPINI_N.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251006_AURONPLAY__T_XICO__con_el_BARCELONA_tras_LA_DERROTA_vs_SEVILLA___SEVILLA_4_1_BAR_A_MI_OPINI_N.mp3" length="6304997" type="audio/mpeg" />
+      <guid isPermaLink="false">3ed90cfafd619ff8520a6fa61d6dd6e47bcd8894</guid>
+      <pubDate>Mon, 06 Oct 2025 15:20:47 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
