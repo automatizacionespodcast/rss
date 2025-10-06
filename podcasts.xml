@@ -4035,6 +4035,24 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251006___SE_ESCUCHA_TODO__FILTRAN_el_AUDIO_del_VAR_del_PENALTI_a_ARA_JO__INCRE_BLE_REACCI_N__ESC_NDALO_MIAMI.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251006___SE_ESCUCHA_TODO__FILTRAN_el_AUDIO_del_VAR_del_PENALTI_a_ARA_JO__INCRE_BLE_REACCI_N__ESC_NDALO_MIAMI.mp3" length="5817611" type="audio/mpeg" />
+      <guid isPermaLink="false">69a45f27e47f4a668857d1d0ecc0ff2d4d913d58</guid>
+      <pubDate>Mon, 06 Oct 2025 19:16:22 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <title>20251006_Las_5_CLAVES_de_la_CRISIS_del_FC_BARCELONA_y_como_SOLUCIONARLA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251006_Las_5_CLAVES_de_la_CRISIS_del_FC_BARCELONA_y_como_SOLUCIONARLA.mp3" length="22660286" type="audio/mpeg" />
+      <guid isPermaLink="false">e97aff537e824b8f9849828fd51f8cd421c893e3</guid>
+      <pubDate>Mon, 06 Oct 2025 19:16:27 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
