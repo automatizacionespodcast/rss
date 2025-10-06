@@ -3981,6 +3981,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251006_LAS_PEORES_NOTAS_QUE_HE_PUESTO_NUNCA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251006_LAS_PEORES_NOTAS_QUE_HE_PUESTO_NUNCA.mp3" length="6110699" type="audio/mpeg" />
+      <guid isPermaLink="false">df927b1828c29298f5aa5d28b119acc0efc9eed1</guid>
+      <pubDate>Mon, 06 Oct 2025 14:30:34 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
