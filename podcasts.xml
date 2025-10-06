@@ -4026,6 +4026,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251006__HIST_RICO___EL_VILLARREAL_BAR_A_se_JUGAR__en_MIAMI__LA_UEFA_APRUEBA_EL_PARTIDO_de_MANERA_EXCEPCIONAL.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251006__HIST_RICO___EL_VILLARREAL_BAR_A_se_JUGAR__en_MIAMI__LA_UEFA_APRUEBA_EL_PARTIDO_de_MANERA_EXCEPCIONAL.mp3" length="5529551" type="audio/mpeg" />
+      <guid isPermaLink="false">820be46e1dde16bde3dc78923676fbfc48398f92</guid>
+      <pubDate>Mon, 06 Oct 2025 18:40:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
