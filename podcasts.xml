@@ -4017,6 +4017,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251006_MI_MENSAJE_A_LA_AFICI_N_TRAS_la_HUMILLACI_N_del_SEVILLA_4_1_BAR_A__NO_LE_VA_A_GUSTAR_A_TODOS_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251006_MI_MENSAJE_A_LA_AFICI_N_TRAS_la_HUMILLACI_N_del_SEVILLA_4_1_BAR_A__NO_LE_VA_A_GUSTAR_A_TODOS_.mp3" length="9036046" type="audio/mpeg" />
+      <guid isPermaLink="false">d2a7752533522de10a43f734919af991ac561294</guid>
+      <pubDate>Mon, 06 Oct 2025 17:21:39 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
