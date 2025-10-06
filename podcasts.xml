@@ -3945,6 +3945,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251006____AN_LISIS_en_FR_O_del_DESASTROSO_SEVILLA_4_1_BAR_A____HA_SIDO_HUMILLANTE__PERO_ESTO_TIENE_SOLUCI_N.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251006____AN_LISIS_en_FR_O_del_DESASTROSO_SEVILLA_4_1_BAR_A____HA_SIDO_HUMILLANTE__PERO_ESTO_TIENE_SOLUCI_N.mp3" length="8415026" type="audio/mpeg" />
+      <guid isPermaLink="false">2215a5eacd41677142991974c3236d3823a90776</guid>
+      <pubDate>Mon, 06 Oct 2025 12:20:50 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
