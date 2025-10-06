@@ -4053,6 +4053,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251006__HANSI_FLICK_EN_LA_CUERDA_FLOJA___EN_LAS_REDES_EMPIEZAN_a_DUDAR_de_su_PROYECTO___SE_EQUIVOCAN_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251006__HANSI_FLICK_EN_LA_CUERDA_FLOJA___EN_LAS_REDES_EMPIEZAN_a_DUDAR_de_su_PROYECTO___SE_EQUIVOCAN_.mp3" length="6840143" type="audio/mpeg" />
+      <guid isPermaLink="false">b10ba6afa1f750ee33b5d83fe3f5f9e6cc294a85</guid>
+      <pubDate>Mon, 06 Oct 2025 19:50:43 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
