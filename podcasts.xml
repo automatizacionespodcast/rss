@@ -4179,6 +4179,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251007___VIDEO_OFICIAL___LEWANDOWSKI___CANCI_N_A_ROBERTO_LE_VA_EL_WHISKY.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251007___VIDEO_OFICIAL___LEWANDOWSKI___CANCI_N_A_ROBERTO_LE_VA_EL_WHISKY.mp3" length="3283952" type="audio/mpeg" />
+      <guid isPermaLink="false">ed677e2f2ca165cefd0ae9144284bbb388a68a10</guid>
+      <pubDate>Tue, 07 Oct 2025 19:20:20 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
