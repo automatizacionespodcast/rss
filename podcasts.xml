@@ -4116,6 +4116,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251007_DECO_NO_SOPORTA_M_S_LA_ACTITUD_DE_LA_PLANTILLA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251007_DECO_NO_SOPORTA_M_S_LA_ACTITUD_DE_LA_PLANTILLA_.mp3" length="5361978" type="audio/mpeg" />
+      <guid isPermaLink="false">42000714ef503c7fdca6db9ce05a3a7aee2d77ad</guid>
+      <pubDate>Tue, 07 Oct 2025 15:20:49 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
