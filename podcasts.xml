@@ -4125,6 +4125,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251007____DECO_NO_SE_CALLA__RAJADA_a_los_JUGADORES_del_BAR_A___EL_BAR_A_CONFIRMA_su_RECUPERACI_N_ECON_MICA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251007____DECO_NO_SE_CALLA__RAJADA_a_los_JUGADORES_del_BAR_A___EL_BAR_A_CONFIRMA_su_RECUPERACI_N_ECON_MICA.mp3" length="5856556" type="audio/mpeg" />
+      <guid isPermaLink="false">b3083db76de8196ada375d14fb1c50c6b545e4ee</guid>
+      <pubDate>Tue, 07 Oct 2025 16:11:27 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
