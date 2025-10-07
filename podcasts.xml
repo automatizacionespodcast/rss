@@ -4089,6 +4089,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251007_____BOMBAZO___MATEU_ALEMANY_ficha_por_el_ATLETI___DOLO_CUL_____ESC_NDALO_FLORENTINO_P_REZ.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251007_____BOMBAZO___MATEU_ALEMANY_ficha_por_el_ATLETI___DOLO_CUL_____ESC_NDALO_FLORENTINO_P_REZ.mp3" length="5089362" type="audio/mpeg" />
+      <guid isPermaLink="false">4455a26738ade699212a0449d5a68a33183bc899</guid>
+      <pubDate>Tue, 07 Oct 2025 13:50:48 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
