@@ -4152,6 +4152,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251007_ENTREVISTA_XAVI__BRUTALES_PALABRAS_sobre_LAMINE_YAMAL___TIENE_COSAS_DE_NEYMAR_y_MESSI_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251007_ENTREVISTA_XAVI__BRUTALES_PALABRAS_sobre_LAMINE_YAMAL___TIENE_COSAS_DE_NEYMAR_y_MESSI_.mp3" length="6444913" type="audio/mpeg" />
+      <guid isPermaLink="false">633b0b09c66db8f33c7479dc47f8dede1e708f46</guid>
+      <pubDate>Tue, 07 Oct 2025 18:00:49 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
