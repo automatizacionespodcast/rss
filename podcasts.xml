@@ -4170,6 +4170,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251007___PALAZO_de_KROOS_al_BAR_A___CUALQUIERA_PUEDE_GANARLES_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251007___PALAZO_de_KROOS_al_BAR_A___CUALQUIERA_PUEDE_GANARLES_.mp3" length="12533445" type="audio/mpeg" />
+      <guid isPermaLink="false">8951c2b55a7f476d1861c5d67eaf477ce122f3c5</guid>
+      <pubDate>Tue, 07 Oct 2025 19:10:58 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
