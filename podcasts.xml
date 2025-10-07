@@ -4071,6 +4071,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251007__ALUCINO___DOS_DERROTAS_con_el_BAR_A_DESATAN_UNA_CRISIS_DE_REPUTACI_N_para_HANSI_FLICK.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251007__ALUCINO___DOS_DERROTAS_con_el_BAR_A_DESATAN_UNA_CRISIS_DE_REPUTACI_N_para_HANSI_FLICK.mp3" length="12481870" type="audio/mpeg" />
+      <guid isPermaLink="false">73ac11d32e199c9f24871840616bae6b2b31b096</guid>
+      <pubDate>Tue, 07 Oct 2025 12:42:19 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
