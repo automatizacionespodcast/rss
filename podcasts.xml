@@ -4098,6 +4098,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251007__BOMBAZO____EL_BAR_A_REVELA_LA_DEUDA_REAL_DEL_CLUB___DATOS_ECON_MICOS_AL_DESCUBIERTO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251007__BOMBAZO____EL_BAR_A_REVELA_LA_DEUDA_REAL_DEL_CLUB___DATOS_ECON_MICOS_AL_DESCUBIERTO_.mp3" length="8800080" type="audio/mpeg" />
+      <guid isPermaLink="false">b876e84fe3f8e600dc1e87a63410e4d2d79d6ccd</guid>
+      <pubDate>Tue, 07 Oct 2025 14:00:42 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
