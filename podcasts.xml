@@ -4143,6 +4143,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251007____EL_BAR_A_CIERRA_su_CRISIS_ECON_MICA__FICHAJAZO_del_ATL_TICO_de_MADRID__Mateu_Alemany.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251007____EL_BAR_A_CIERRA_su_CRISIS_ECON_MICA__FICHAJAZO_del_ATL_TICO_de_MADRID__Mateu_Alemany.mp3" length="12260143" type="audio/mpeg" />
+      <guid isPermaLink="false">d911aa2220aadf6a6c0831b2d30f02fd16de7a0f</guid>
+      <pubDate>Tue, 07 Oct 2025 17:11:12 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
