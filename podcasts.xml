@@ -4134,6 +4134,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251007_MARC_CASAD__PODRIA_SALIR_DEL_BAR_A_en_el_MERCADO_de_INVIERNO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251007_MARC_CASAD__PODRIA_SALIR_DEL_BAR_A_en_el_MERCADO_de_INVIERNO_.mp3" length="5361458" type="audio/mpeg" />
+      <guid isPermaLink="false">b9e0696bd08cfd32002f08cd7d355b1611db10f6</guid>
+      <pubDate>Tue, 07 Oct 2025 16:40:35 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
