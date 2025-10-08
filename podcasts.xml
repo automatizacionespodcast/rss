@@ -4287,6 +4287,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251008_ESTO_ES_FLIPANTE__LOS_DATOS_ECON_MICOS_LO_CONFIRMAN__XAVI_NO_POD_A_SEGUIR_EN_EL_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251008_ESTO_ES_FLIPANTE__LOS_DATOS_ECON_MICOS_LO_CONFIRMAN__XAVI_NO_POD_A_SEGUIR_EN_EL_BAR_A.mp3" length="8664613" type="audio/mpeg" />
+      <guid isPermaLink="false">1a6c9fa7bf22e8c6f6d9996abc9597b86acbc450</guid>
+      <pubDate>Wed, 08 Oct 2025 20:02:43 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
