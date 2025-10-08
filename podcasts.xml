@@ -4251,6 +4251,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251008_BOOM__LAPORTA_y_AL_KHELAIFI_SE_REUNEN_a_ESPALDAS_del_REAL_MADRID__ADI_S_SUPERLIGA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251008_BOOM__LAPORTA_y_AL_KHELAIFI_SE_REUNEN_a_ESPALDAS_del_REAL_MADRID__ADI_S_SUPERLIGA_.mp3" length="7567162" type="audio/mpeg" />
+      <guid isPermaLink="false">dd3e3ab131092c5851841ce14d6c6dfa2796218a</guid>
+      <pubDate>Wed, 08 Oct 2025 17:41:47 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
