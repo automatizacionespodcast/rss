@@ -4233,6 +4233,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251008____EXPLOTO__ESC_NDALO_en_el_CTA__PASAN_de_la_POL_MICA_del_MADRID_y_BAR_A____NOS_HAN_ENGA_ADO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251008____EXPLOTO__ESC_NDALO_en_el_CTA__PASAN_de_la_POL_MICA_del_MADRID_y_BAR_A____NOS_HAN_ENGA_ADO.mp3" length="6503512" type="audio/mpeg" />
+      <guid isPermaLink="false">5ba7c1ecaa69ea1aeb5d26e61ea8e9a7418e6ec5</guid>
+      <pubDate>Wed, 08 Oct 2025 16:02:33 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
