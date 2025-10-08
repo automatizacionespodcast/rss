@@ -4269,6 +4269,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251008____NICO_PAZ_y_CHEMA_ANDR_S_VOLVER_N_al_REAL_MADRID___SON_NECESARIOS_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251008____NICO_PAZ_y_CHEMA_ANDR_S_VOLVER_N_al_REAL_MADRID___SON_NECESARIOS_.mp3" length="17276063" type="audio/mpeg" />
+      <guid isPermaLink="false">349b0bf05ac439117ab3903ea2df573d4f774eee</guid>
+      <pubDate>Wed, 08 Oct 2025 19:11:55 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
