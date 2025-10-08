@@ -4260,6 +4260,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251008_CONFIRMADO_EL_MAYOR_BOMBAZO_EN_LA_HISTORIA_RECIENTE_DE_LALIGA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251008_CONFIRMADO_EL_MAYOR_BOMBAZO_EN_LA_HISTORIA_RECIENTE_DE_LALIGA.mp3" length="6108908" type="audio/mpeg" />
+      <guid isPermaLink="false">8acdd1957b2575835e5433344c8f0fa7a42194ab</guid>
+      <pubDate>Wed, 08 Oct 2025 18:41:44 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
