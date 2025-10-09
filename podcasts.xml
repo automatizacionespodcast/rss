@@ -4341,6 +4341,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251009__ENCONTRONAZO_TOTAL_entre_DE_JONG_y_LAPORTA___AS__REACCION__LAPORTA__y_NADIE_SE_LO_ESPERABA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251009__ENCONTRONAZO_TOTAL_entre_DE_JONG_y_LAPORTA___AS__REACCION__LAPORTA__y_NADIE_SE_LO_ESPERABA.mp3" length="5866787" type="audio/mpeg" />
+      <guid isPermaLink="false">51bb813762818d981b0d022cd241c01fffdfbda2</guid>
+      <pubDate>Thu, 09 Oct 2025 18:20:59 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
