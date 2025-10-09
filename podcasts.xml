@@ -4377,6 +4377,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251009___GUARDIOLA_ALUCINA_con_el_NUEVO_BAR_A_de_HANSI_FLICK____HA_RESUCITADO_ANSU____VINI_SE_PASA_de_L_MITE.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251009___GUARDIOLA_ALUCINA_con_el_NUEVO_BAR_A_de_HANSI_FLICK____HA_RESUCITADO_ANSU____VINI_SE_PASA_de_L_MITE.mp3" length="7362121" type="audio/mpeg" />
+      <guid isPermaLink="false">713c0a81a5208e0dbe6d02651bddae9211db2ddf</guid>
+      <pubDate>Thu, 09 Oct 2025 22:41:52 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
