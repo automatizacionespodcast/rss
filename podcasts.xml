@@ -4359,6 +4359,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251009__SITUACI_N_L_MITE__Endrick_NO_JUEGA_y_el_Madrid_le_propone_una_CESI_N_en_invierno.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251009__SITUACI_N_L_MITE__Endrick_NO_JUEGA_y_el_Madrid_le_propone_una_CESI_N_en_invierno.mp3" length="11567212" type="audio/mpeg" />
+      <guid isPermaLink="false">42b5d92e02b9a649603d8894436980ffa88cc81f</guid>
+      <pubDate>Thu, 09 Oct 2025 19:11:07 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
