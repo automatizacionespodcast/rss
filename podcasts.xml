@@ -4323,6 +4323,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251009_SE_HA_LIADO_PARDA_CON_LAMINE_YAMAL_Y_SU_PADRE_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251009_SE_HA_LIADO_PARDA_CON_LAMINE_YAMAL_Y_SU_PADRE_.mp3" length="5385842" type="audio/mpeg" />
+      <guid isPermaLink="false">34840a6151cca530f13f4e1b9342e05ca400c5f7</guid>
+      <pubDate>Thu, 09 Oct 2025 15:00:40 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
