@@ -4332,6 +4332,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251009___OFICIAL___VILLARREAL_vs_BAR_A_en_MIAMI__GUIRASSY_en_el_RADAR_del_BAR_A.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251009___OFICIAL___VILLARREAL_vs_BAR_A_en_MIAMI__GUIRASSY_en_el_RADAR_del_BAR_A.mp3" length="12271224" type="audio/mpeg" />
+      <guid isPermaLink="false">1acfc59c65dea38013a89d0c68cce01187846898</guid>
+      <pubDate>Thu, 09 Oct 2025 17:11:04 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
