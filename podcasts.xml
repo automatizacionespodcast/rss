@@ -4413,6 +4413,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251010___MBAPP__DEFIENDE_a_LAMINE_YAMAL_y_ACLARA_su_RELACI_N_con_VINICIUS.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251010___MBAPP__DEFIENDE_a_LAMINE_YAMAL_y_ACLARA_su_RELACI_N_con_VINICIUS.mp3" length="13058198" type="audio/mpeg" />
+      <guid isPermaLink="false">c89937c042ac0c1f423bccc946d19f49717da4f9</guid>
+      <pubDate>Fri, 10 Oct 2025 14:11:13 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
