@@ -4431,6 +4431,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251010___VIDEO_OFICIAL___PEDRI___CANCI_N__HAB_A_UNA_VEZ_UN_MAGO_DEL_BAL_N___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251010___VIDEO_OFICIAL___PEDRI___CANCI_N__HAB_A_UNA_VEZ_UN_MAGO_DEL_BAL_N___.mp3" length="2851405" type="audio/mpeg" />
+      <guid isPermaLink="false">3a13bf8b3bc0da0afd4c803f163e018880ca2519</guid>
+      <pubDate>Fri, 10 Oct 2025 17:00:30 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
