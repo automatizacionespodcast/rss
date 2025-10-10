@@ -4386,6 +4386,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251010__EXPLOTO_____DANI_OLMO_LESIONADO_con_la_SELECCI_N____DE_LA_FUENTE_SE_EST__CARGANDO_AL_BAR_A_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251010__EXPLOTO_____DANI_OLMO_LESIONADO_con_la_SELECCI_N____DE_LA_FUENTE_SE_EST__CARGANDO_AL_BAR_A_.mp3" length="8276207" type="audio/mpeg" />
+      <guid isPermaLink="false">01731dbc6b410f37f7e3b4b50e19ee0178fd8a99</guid>
+      <pubDate>Fri, 10 Oct 2025 12:00:54 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
