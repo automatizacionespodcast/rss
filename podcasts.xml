@@ -4395,6 +4395,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251010___MBAPP__DEFIENDE_a_LAMINE_YAMAL___DANI_OLMO_LESIONADO___ENDRICK_PODR_A_SALIR_del_MADRID.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251010___MBAPP__DEFIENDE_a_LAMINE_YAMAL___DANI_OLMO_LESIONADO___ENDRICK_PODR_A_SALIR_del_MADRID.mp3" length="6129504" type="audio/mpeg" />
+      <guid isPermaLink="false">60e245c42835954375dbfd0a30608d6b39e4e679</guid>
+      <pubDate>Fri, 10 Oct 2025 12:40:41 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
