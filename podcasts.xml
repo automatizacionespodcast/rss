@@ -4467,6 +4467,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251010__EST__LOCO___MARCOS_LLORENTE_PIERDE_LA_CABEZA_CON_SUS_TEOR_AS_CONSPIRAN_ICAS__LO_DESMONTO_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251010__EST__LOCO___MARCOS_LLORENTE_PIERDE_LA_CABEZA_CON_SUS_TEOR_AS_CONSPIRAN_ICAS__LO_DESMONTO_.mp3" length="10312344" type="audio/mpeg" />
+      <guid isPermaLink="false">fd2e544385f43d8b78fbc12d97d8665d837aa1a3</guid>
+      <pubDate>Fri, 10 Oct 2025 20:41:07 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
