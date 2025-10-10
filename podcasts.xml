@@ -4476,6 +4476,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251010_____ES_UN_ESC_NDALO___MBAPP__ACABA_LESIONADO_y_MASTANTUONO_TAMBI_N___CONFIRMADA_LESI_N_de_OLMO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251010_____ES_UN_ESC_NDALO___MBAPP__ACABA_LESIONADO_y_MASTANTUONO_TAMBI_N___CONFIRMADA_LESI_N_de_OLMO.mp3" length="5156336" type="audio/mpeg" />
+      <guid isPermaLink="false">d2277d2a8dc42d838593fb42acebbf3f65e075b1</guid>
+      <pubDate>Fri, 10 Oct 2025 22:40:52 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
