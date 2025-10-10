@@ -4449,6 +4449,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251010____EL_MADRID_FUE_EL_EQUIPO_del_R_GIMEN____EL_BAR_A_la_V_CTIMA____La_HISTORIA_REAL.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251010____EL_MADRID_FUE_EL_EQUIPO_del_R_GIMEN____EL_BAR_A_la_V_CTIMA____La_HISTORIA_REAL.mp3" length="10404510" type="audio/mpeg" />
+      <guid isPermaLink="false">58bc4ab9ec54d7679258e4c5c8de169977e0477d</guid>
+      <pubDate>Fri, 10 Oct 2025 19:04:49 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
