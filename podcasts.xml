@@ -4458,6 +4458,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251010_____HOY_NO_ESTOY_DE_ACUERDO_CON_HANSI_FLICK__.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251010_____HOY_NO_ESTOY_DE_ACUERDO_CON_HANSI_FLICK__.mp3" length="5477045" type="audio/mpeg" />
+      <guid isPermaLink="false">a67bd6cfaaae9fdcda4ee95cf85cad21a5f93c6d</guid>
+      <pubDate>Fri, 10 Oct 2025 19:50:52 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
