@@ -4404,6 +4404,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251010_UFFF___ME_QUITO_EL_SOMBRERO_ANTE_MBAPP____LO_QUE_HA_DICHO_SOBRE_LAMINE_ES_BRUTAL_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251010_UFFF___ME_QUITO_EL_SOMBRERO_ANTE_MBAPP____LO_QUE_HA_DICHO_SOBRE_LAMINE_ES_BRUTAL_.mp3" length="9226058" type="audio/mpeg" />
+      <guid isPermaLink="false">d97e26ea3c4b9ef9a477b7f20a6089db210c75ac</guid>
+      <pubDate>Fri, 10 Oct 2025 13:41:17 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
