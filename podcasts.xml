@@ -4440,6 +4440,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251010_HABLEMOS_CLARO_SOBRE_RAPHINHA_y_su_NIVEL_en_el_BAR_A___MI_OPINI_N.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251010_HABLEMOS_CLARO_SOBRE_RAPHINHA_y_su_NIVEL_en_el_BAR_A___MI_OPINI_N.mp3" length="8479066" type="audio/mpeg" />
+      <guid isPermaLink="false">21f749b8b5f47e7184c5a522e362ea060145ff10</guid>
+      <pubDate>Fri, 10 Oct 2025 18:21:39 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
