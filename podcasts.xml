@@ -4521,6 +4521,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251011____NACE_LA_SUPERCOPA_IB_RICA__Los_MUNDIALES_SER_N_en_INVIERNO___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251011____NACE_LA_SUPERCOPA_IB_RICA__Los_MUNDIALES_SER_N_en_INVIERNO___.mp3" length="12118887" type="audio/mpeg" />
+      <guid isPermaLink="false">a1ef1ed3815184899826a308e42d55df138b00a5</guid>
+      <pubDate>Sat, 11 Oct 2025 19:10:51 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
