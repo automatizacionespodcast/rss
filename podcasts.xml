@@ -4512,6 +4512,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251011____EL_VINICIUS_QUE_TODOS_QUER_AMOS__Exhibici_n_de_Brasil_0_5_ante_Corea_del_Sur.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251011____EL_VINICIUS_QUE_TODOS_QUER_AMOS__Exhibici_n_de_Brasil_0_5_ante_Corea_del_Sur.mp3" length="10244028" type="audio/mpeg" />
+      <guid isPermaLink="false">bc0d37dfdac5122e8480008c93b6f5115e0d93f4</guid>
+      <pubDate>Sat, 11 Oct 2025 17:11:06 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
