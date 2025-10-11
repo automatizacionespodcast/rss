@@ -4503,6 +4503,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251011_____ALERTA_M_XIMA_en_el_BAR_A__LAMINE_YAMAL_al_L_MITE_seg_n_la_FIFPRO___CRISIS_de_LESIONES_TOTAL.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251011_____ALERTA_M_XIMA_en_el_BAR_A__LAMINE_YAMAL_al_L_MITE_seg_n_la_FIFPRO___CRISIS_de_LESIONES_TOTAL.mp3" length="6112720" type="audio/mpeg" />
+      <guid isPermaLink="false">d17377d86b2efeac8ad463a62ec710ec68117dcd</guid>
+      <pubDate>Sat, 11 Oct 2025 14:00:41 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
