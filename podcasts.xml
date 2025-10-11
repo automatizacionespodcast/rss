@@ -4494,6 +4494,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251011____NOTICIONES_DE__LTIMA_HORA_EN_CAN_BAR_A___BUENAS_Y_MALAS___.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251011____NOTICIONES_DE__LTIMA_HORA_EN_CAN_BAR_A___BUENAS_Y_MALAS___.mp3" length="5281345" type="audio/mpeg" />
+      <guid isPermaLink="false">f3254ec958b6f71ceed1f77adb5344d9344842f6</guid>
+      <pubDate>Sat, 11 Oct 2025 13:20:53 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
