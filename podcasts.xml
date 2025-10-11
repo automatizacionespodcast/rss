@@ -4485,6 +4485,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251011__BOMBAZO___ANSU_FATI_PODR_A_IR_AL_MUNDIAL_CON_ESPA_A__ESTO_SI_ME_ILUSIONA_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251011__BOMBAZO___ANSU_FATI_PODR_A_IR_AL_MUNDIAL_CON_ESPA_A__ESTO_SI_ME_ILUSIONA_.mp3" length="6135997" type="audio/mpeg" />
+      <guid isPermaLink="false">0114cb33f7c3ebf47cd23774a5931c04f895dff0</guid>
+      <pubDate>Sat, 11 Oct 2025 11:40:44 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
