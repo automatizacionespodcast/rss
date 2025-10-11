@@ -4530,6 +4530,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251011___PEDRI_HACE_MAGIA__INCLUSO_CANSADO__ESPA_A_BARRE_F_CIL_a_GEORGIA_2_0___CASO_ASENCIO__IMPORTANTE____.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251011___PEDRI_HACE_MAGIA__INCLUSO_CANSADO__ESPA_A_BARRE_F_CIL_a_GEORGIA_2_0___CASO_ASENCIO__IMPORTANTE____.mp3" length="6911484" type="audio/mpeg" />
+      <guid isPermaLink="false">540edae00d06843b9b45103c036ec86847903e05</guid>
+      <pubDate>Sat, 11 Oct 2025 21:20:36 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
