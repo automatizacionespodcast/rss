@@ -129,6 +129,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251012___EL_BAR_A_TOMA_LA_DECISI_N_M_S_IMPORTANTE_SOBRE_EL_FUTURO_DE_LEWANDOWSKI.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251012___EL_BAR_A_TOMA_LA_DECISI_N_M_S_IMPORTANTE_SOBRE_EL_FUTURO_DE_LEWANDOWSKI.mp3" length="5155712" type="audio/mpeg" />
+      <guid isPermaLink="false">0826e08eb43f5908b50a69ca7178da20835294a3</guid>
+      <pubDate>Sun, 12 Oct 2025 13:21:05 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
