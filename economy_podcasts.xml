@@ -30,6 +30,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251012___La_BOLSA_no_parar__de_SUBIR__mientras_el_CONSUMIDOR_se_DESMORONA.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251012___La_BOLSA_no_parar__de_SUBIR__mientras_el_CONSUMIDOR_se_DESMORONA.mp3" length="10520301" type="audio/mpeg" />
+      <guid isPermaLink="false">c5776af5372d2d562d80495e7933a2bf4c44c9b4</guid>
+      <pubDate>Sun, 12 Oct 2025 17:50:01 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
