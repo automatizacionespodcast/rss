@@ -138,6 +138,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251012___LEWANDOWSKI_se_MARCHA_del_BAR_A__JULI_N__LVAREZ_en_la_LISTA_de_REEMPLAZOS___UPAMECANO___AL_MADRID_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251012___LEWANDOWSKI_se_MARCHA_del_BAR_A__JULI_N__LVAREZ_en_la_LISTA_de_REEMPLAZOS___UPAMECANO___AL_MADRID_.mp3" length="8745101" type="audio/mpeg" />
+      <guid isPermaLink="false">3b2c09e956ed0566663c58025c7e5ebfab0e8daa</guid>
+      <pubDate>Sun, 12 Oct 2025 14:01:03 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
