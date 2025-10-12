@@ -147,6 +147,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251012_PEDRI_y_PEDRO_PORRO_LIDERAN_a_una_ESPA_A_MUY_SUPERIOR_a_GEORGIA__2_0_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251012_PEDRI_y_PEDRO_PORRO_LIDERAN_a_una_ESPA_A_MUY_SUPERIOR_a_GEORGIA__2_0_.mp3" length="10739901" type="audio/mpeg" />
+      <guid isPermaLink="false">9a52b8c74902b9ef63d1c202c67d68da5f16ce8f</guid>
+      <pubDate>Sun, 12 Oct 2025 14:20:49 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
