@@ -165,6 +165,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <title>20251012____LTIMA_HORA___CUANDO_VUELVEN_los_LESIONADOS_del_BAR_A__PINTA_MAL_lo_de_DANI_OLMO.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/20251012____LTIMA_HORA___CUANDO_VUELVEN_los_LESIONADOS_del_BAR_A__PINTA_MAL_lo_de_DANI_OLMO.mp3" length="10846040" type="audio/mpeg" />
+      <guid isPermaLink="false">a29a0aa2b73c8b5074f443b29e00b752208b8cb3</guid>
+      <pubDate>Sun, 12 Oct 2025 17:00:45 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 </rss>
 
