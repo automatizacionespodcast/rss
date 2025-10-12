@@ -156,6 +156,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+      <item>
+        <title>20251012___MBAPP__REVELA_la_VERDAD_del_5_2_del_ATLETI_al_MADRID____y_SE_RINDE_a_MESSI_y_CRISTIANO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251012___MBAPP__REVELA_la_VERDAD_del_5_2_del_ATLETI_al_MADRID____y_SE_RINDE_a_MESSI_y_CRISTIANO.mp3" length="3407872" type="audio/mpeg" />
+        <guid isPermaLink="false">fa75860582d26a471b9b07d5a84a9657db4491be</guid>
+        <pubDate>Sun, 12 Oct 2025 22:16:57 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
