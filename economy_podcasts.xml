@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>EconomyYTChannels2Podcast</title>
+    <link>https://automatizacionespodcast.github.io/rss/economy_podcasts.xml</link>
+    <language>es-es</language>
+    <copyright>(c) 2025 Jaume Martínez Ara</copyright>
+    <itunes:author>Jaume Martínez Ara</itunes:author>
+    <itunes:summary>Podcasts de los videos de mis canales de YT favoritos.</itunes:summary>
+    <description>Podcasts de los videos de mis canales de YT favoritos.</description>
+    <itunes:owner>
+      <itunes:name>Jaume Martínez Ara</itunes:name>
+      <itunes:email>automatizacionespodcast@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://automatizacionespodcast.github.io/rss/podcast.jpg" />
+    <itunes:category text="Economy" />
+    <podcast:locked>no</podcast:locked>
+    <atom:link href="https://automatizacionespodcast.github.io/rss/economy_podcasts.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>20251012_Fondos_de_inversi_n__las_comisiones_que_no_ves__y_te_cuestan_dinero_.mp3</title>
+      <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251012_Fondos_de_inversi_n__las_comisiones_que_no_ves__y_te_cuestan_dinero_.mp3" length="1310720" type="audio/mpeg" />
+      <guid isPermaLink="false">7fe9ef76e8ff7259f5c5fad36e311ebb7959ae89</guid>
+      <pubDate>Sun, 12 Oct 2025 16:51:58 GMT</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
+</rss>
+
