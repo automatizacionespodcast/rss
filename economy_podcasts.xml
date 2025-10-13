@@ -48,6 +48,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251013__ALUCINO___FERRAN_TORRES_VUELVE_al_BAR_A____LESIONADO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251013__ALUCINO___FERRAN_TORRES_VUELVE_al_BAR_A____LESIONADO_.mp3" length="6298629" type="audio/mpeg" />
+        <guid isPermaLink="false">5a6dede30fafda7b22e393a2241c8da3dfd00c88</guid>
+        <pubDate>Mon, 13 Oct 2025 12:30:51 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
