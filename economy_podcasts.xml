@@ -75,6 +75,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251013_____La_BOLSA_se_ir__a_MARTE_____pero_el_MERCADO_es_un_CASINO__seg_n_trader_profesional.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251013_____La_BOLSA_se_ir__a_MARTE_____pero_el_MERCADO_es_un_CASINO__seg_n_trader_profesional.mp3" length="19192509" type="audio/mpeg" />
+        <guid isPermaLink="false">f286a5e3f8ae693d150a2fd6adcbbba8658d8bfb</guid>
+        <pubDate>Mon, 13 Oct 2025 17:20:29 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
