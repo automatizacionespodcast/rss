@@ -57,6 +57,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251013_REVELADO____ESTOS_JUGADORES_ESTAR_N_DISPONIBLES_PARA_JUGAR_EL_CL_SICO_CONTRA_EL_MADRID_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251013_REVELADO____ESTOS_JUGADORES_ESTAR_N_DISPONIBLES_PARA_JUGAR_EL_CL_SICO_CONTRA_EL_MADRID_.mp3" length="5487093" type="audio/mpeg" />
+        <guid isPermaLink="false">19b79f010e761b3587e9f5579e5a9a5c92ecc767</guid>
+        <pubDate>Mon, 13 Oct 2025 14:14:14 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
