@@ -39,6 +39,15 @@
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+      <item>
+        <title>20251013__LAPORTA_EN_ESTADO_PURO____ESTA_HA_SIDO_LA_ENTREVISTA_M_S_BRUTAL_QUE_HA_DADO___HA_SOLTADO_TODO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251013__LAPORTA_EN_ESTADO_PURO____ESTA_HA_SIDO_LA_ENTREVISTA_M_S_BRUTAL_QUE_HA_DADO___HA_SOLTADO_TODO_.mp3" length="9914853" type="audio/mpeg" />
+        <guid isPermaLink="false">72973808c30328fc7313b4d36abbf5ff82611408</guid>
+        <pubDate>Mon, 13 Oct 2025 11:11:54 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
