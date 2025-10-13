@@ -40,6 +40,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251013____BOMBAZO__El_PSG_prepara_una_OFERTA_HIST_RICA_por_Lamine_Yamal.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251013____BOMBAZO__El_PSG_prepara_una_OFERTA_HIST_RICA_por_Lamine_Yamal.mp3" length="12484941" type="audio/mpeg" />
+        <guid isPermaLink="false">46cc8f33c86aff119bedc1b0f63627feffbc5920</guid>
+        <pubDate>Mon, 13 Oct 2025 14:14:16 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
