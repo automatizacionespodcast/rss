@@ -58,6 +58,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251013___CONFIRMADO___LEWANDOWSKI_SE_VA_del_BAR_A__ESC_NDALO_LIMAK_con_el_NUEVO_CAMP_NOU.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251013___CONFIRMADO___LEWANDOWSKI_SE_VA_del_BAR_A__ESC_NDALO_LIMAK_con_el_NUEVO_CAMP_NOU.mp3" length="12824685" type="audio/mpeg" />
+        <guid isPermaLink="false">3fc6d623e277f07b7766153d3d34474f6f777eb4</guid>
+        <pubDate>Mon, 13 Oct 2025 17:20:14 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
