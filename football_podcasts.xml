@@ -76,6 +76,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251013___FRENKIE_DE_JONG_CONFIRMA_LA_DECISI_N_FINAL_SOBRE_SU_RENOVACI_N_CONTRACTUAL_CON_EL_BARCELONA_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251013___FRENKIE_DE_JONG_CONFIRMA_LA_DECISI_N_FINAL_SOBRE_SU_RENOVACI_N_CONTRACTUAL_CON_EL_BARCELONA_.mp3" length="6180621" type="audio/mpeg" />
+        <guid isPermaLink="false">d3ab1f5c8d036fae9fe1a1fb1a19b5e336695215</guid>
+        <pubDate>Mon, 13 Oct 2025 19:16:46 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251013____OPERACI_N_MEDIOCENTRO_2026__El_Madrid_va_con_TODO_a_por_su_nuevo_cerebro.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251013____OPERACI_N_MEDIOCENTRO_2026__El_Madrid_va_con_TODO_a_por_su_nuevo_cerebro.mp3" length="18880317" type="audio/mpeg" />
+        <guid isPermaLink="false">f660a11cf87d51fe200a52eb81f0243383e15e37</guid>
+        <pubDate>Mon, 13 Oct 2025 19:16:50 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
