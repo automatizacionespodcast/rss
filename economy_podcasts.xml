@@ -66,6 +66,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251013_Flash_CRASH_en_CRIPTO_____qu__pas__y_c_mo_te_afecta____.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251013_Flash_CRASH_en_CRIPTO_____qu__pas__y_c_mo_te_afecta____.mp3" length="11929317" type="audio/mpeg" />
+        <guid isPermaLink="false">34dea29d35122b2ebb4a51f232fb137811f98f48</guid>
+        <pubDate>Mon, 13 Oct 2025 16:11:45 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
