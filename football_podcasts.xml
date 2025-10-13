@@ -49,6 +49,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251013__BOCHORNO_TOTAL____LOS_ENGA_OS_EN_EL_CONTRATO_DEL_CAMP_NOU_DESVELADOS_POR_LA_CADENA_SER_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251013__BOCHORNO_TOTAL____LOS_ENGA_OS_EN_EL_CONTRATO_DEL_CAMP_NOU_DESVELADOS_POR_LA_CADENA_SER_.mp3" length="9916437" type="audio/mpeg" />
+        <guid isPermaLink="false">0a42f5e1cf4f3fc22fd6fe9f06b01b2cedf7aa20</guid>
+        <pubDate>Mon, 13 Oct 2025 16:51:50 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
