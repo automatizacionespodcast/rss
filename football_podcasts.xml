@@ -31,6 +31,15 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
 
+
+      <item>
+        <title>20251013____ALERTA_BAR_A__FERR_N_TORRES_con_SOBRECARGA_y_CONFIRMADA_LESI_N_de_DANI_OLMO___ESC_NDALO_CAMP_NOU.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251013____ALERTA_BAR_A__FERR_N_TORRES_con_SOBRECARGA_y_CONFIRMADA_LESI_N_de_DANI_OLMO___ESC_NDALO_CAMP_NOU.mp3" length="5867421" type="audio/mpeg" />
+        <guid isPermaLink="false">9c526bbfc75de05f91131db75a1b28dc20cf1a97</guid>
+        <pubDate>Mon, 13 Oct 2025 13:10:47 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
