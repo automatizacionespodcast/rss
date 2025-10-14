@@ -84,6 +84,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251014__Qu__CONSEJOS_dan_los_EXPERTOS_en_el_segundo_encuentro_de_FINECT_TALENT____.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251014__Qu__CONSEJOS_dan_los_EXPERTOS_en_el_segundo_encuentro_de_FINECT_TALENT____.mp3" length="3925125" type="audio/mpeg" />
+        <guid isPermaLink="false">35601dff8fa26cc46bf76e19a8db5be23bb993e3</guid>
+        <pubDate>Tue, 14 Oct 2025 16:30:38 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
