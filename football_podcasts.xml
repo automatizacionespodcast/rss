@@ -121,6 +121,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251014____BOMBAZO_DE__LTIMA_HORA_PARA_EL_CL_SICO_MADRID___BAR_A___NO_ES_LO_QUE_CREES_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251014____BOMBAZO_DE__LTIMA_HORA_PARA_EL_CL_SICO_MADRID___BAR_A___NO_ES_LO_QUE_CREES_.mp3" length="6149781" type="audio/mpeg" />
+        <guid isPermaLink="false">5bf774819878c9130c5eda0d3fc43fe62cad257d</guid>
+        <pubDate>Tue, 14 Oct 2025 14:50:47 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
