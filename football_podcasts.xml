@@ -139,6 +139,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251014___El_GR_FICO_que_eriza_la_piel_a_WALL_STREET___La_BOLSA_se_DISPARAR_A_hasta_2027_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251014___El_GR_FICO_que_eriza_la_piel_a_WALL_STREET___La_BOLSA_se_DISPARAR_A_hasta_2027_.mp3" length="18871725" type="audio/mpeg" />
+        <guid isPermaLink="false">7cd026a23b4dbb4fe3ee599252b37af583cdcb90</guid>
+        <pubDate>Tue, 14 Oct 2025 17:14:06 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
