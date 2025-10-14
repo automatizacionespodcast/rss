@@ -175,6 +175,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251014___PARTIDAZO_DE_ESPA_A_GOLEANDO_4_0_a_BULGARIA__ILUSI_N_TOTAL_de_CARA_AL_MUNDIAL____ESPA_A_4_0_BULGARIA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251014___PARTIDAZO_DE_ESPA_A_GOLEANDO_4_0_a_BULGARIA__ILUSI_N_TOTAL_de_CARA_AL_MUNDIAL____ESPA_A_4_0_BULGARIA.mp3" length="5645133" type="audio/mpeg" />
+        <guid isPermaLink="false">b37c3ca7f0399777a3a43287534c42596cb45fb8</guid>
+        <pubDate>Tue, 14 Oct 2025 21:30:57 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
