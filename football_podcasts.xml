@@ -157,6 +157,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251014_DECEPCI_N____FLICK_ESTARIA_PERMITIENDO_un_CLUB_de_AMIGOS_con_LAMINE_YAMAL__ESPERO_NO_SEA_CIERTO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251014_DECEPCI_N____FLICK_ESTARIA_PERMITIENDO_un_CLUB_de_AMIGOS_con_LAMINE_YAMAL__ESPERO_NO_SEA_CIERTO_.mp3" length="9301965" type="audio/mpeg" />
+        <guid isPermaLink="false">4fb130a7a602f9e3839abdffe5a85db385ac4951</guid>
+        <pubDate>Tue, 14 Oct 2025 18:11:33 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
