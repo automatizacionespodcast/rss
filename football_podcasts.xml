@@ -130,6 +130,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251014___MESSI_vs_LAMINE_YAMAL___Qui_n_es_mejor_______ARGENTINA_vs_ESPA_A__los_11_TITULARES_UNO_a_UNO__.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251014___MESSI_vs_LAMINE_YAMAL___Qui_n_es_mejor_______ARGENTINA_vs_ESPA_A__los_11_TITULARES_UNO_a_UNO__.mp3" length="6331101" type="audio/mpeg" />
+        <guid isPermaLink="false">76be04dba3aab79bbdedf3e95d81afd2065b7eca</guid>
+        <pubDate>Tue, 14 Oct 2025 15:50:47 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
