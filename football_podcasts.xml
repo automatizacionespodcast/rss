@@ -112,6 +112,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251014_ZIDANE_SE_RINDE_a_LAMINE_YAMAL___NUNCA_VI_ALGO_ASI_EN_MI_VIDA_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251014_ZIDANE_SE_RINDE_a_LAMINE_YAMAL___NUNCA_VI_ALGO_ASI_EN_MI_VIDA_.mp3" length="13823949" type="audio/mpeg" />
+        <guid isPermaLink="false">527a5142332fe4d29888e12fc016f6dedd06034e</guid>
+        <pubDate>Tue, 14 Oct 2025 14:11:38 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
