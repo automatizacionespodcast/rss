@@ -166,6 +166,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251014____OPERACI_N_EN_MARCHA__El_REAL_MADRID_ir__a_por_KONAT__en_ENERO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251014____OPERACI_N_EN_MARCHA__El_REAL_MADRID_ir__a_por_KONAT__en_ENERO.mp3" length="12191325" type="audio/mpeg" />
+        <guid isPermaLink="false">715d9367b8318ec11eddcc7d8bc25ea3cf783a3b</guid>
+        <pubDate>Tue, 14 Oct 2025 19:11:13 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
