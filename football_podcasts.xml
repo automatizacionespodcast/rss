@@ -103,6 +103,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251014_SE_EST__LIANDO_PARDA_CON_ANSU_FATI_y_EL_BAR_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251014_SE_EST__LIANDO_PARDA_CON_ANSU_FATI_y_EL_BAR_A_.mp3" length="6680157" type="audio/mpeg" />
+        <guid isPermaLink="false">11553f3d3589a4ca681a8f2611815281ec541526</guid>
+        <pubDate>Tue, 14 Oct 2025 14:00:27 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
