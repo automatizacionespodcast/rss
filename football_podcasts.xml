@@ -148,6 +148,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251014___VIDEO_OFICIAL___FERR_N_TORRES___CANCI_N__FERR_N_TIBUR_N__TIBUR_N___.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251014___VIDEO_OFICIAL___FERR_N_TORRES___CANCI_N__FERR_N_TIBUR_N__TIBUR_N___.mp3" length="2340837" type="audio/mpeg" />
+        <guid isPermaLink="false">1d3db6a12da9289e7e23c17a2ee194c2c1aef043</guid>
+        <pubDate>Tue, 14 Oct 2025 17:30:35 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
