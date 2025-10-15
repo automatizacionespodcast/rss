@@ -220,6 +220,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251015__NUEVO_R_CORD_CRISTIANO_RONALDO__ESPA_A_ARRASA_a_BULGARIA__4_0__con_un_gran_PEDRI_y_MIKEL_MERINO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251015__NUEVO_R_CORD_CRISTIANO_RONALDO__ESPA_A_ARRASA_a_BULGARIA__4_0__con_un_gran_PEDRI_y_MIKEL_MERINO.mp3" length="15422109" type="audio/mpeg" />
+        <guid isPermaLink="false">65d362f4945dac1811adc465e80b400a27c5c389</guid>
+        <pubDate>Wed, 15 Oct 2025 14:12:01 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
