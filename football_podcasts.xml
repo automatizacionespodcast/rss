@@ -292,6 +292,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251015____YA_BASTA__LAMINE_YAMAL_bajo_ATAQUE___SOY_MADRIDISTA_y_S__LLEVAR_A_su_CAMISETA________GABRI_VALERO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251015____YA_BASTA__LAMINE_YAMAL_bajo_ATAQUE___SOY_MADRIDISTA_y_S__LLEVAR_A_su_CAMISETA________GABRI_VALERO.mp3" length="8067141" type="audio/mpeg" />
+        <guid isPermaLink="false">f07f93257d85bb03f4b5d79a1d6ec0ed4d59ff7a</guid>
+        <pubDate>Wed, 15 Oct 2025 22:41:07 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
