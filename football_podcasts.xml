@@ -193,6 +193,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251015__BOMBAZO____FLICK_PREPARA_UNA_REVOLUCI_N_de_CARA_AL_CL_SICO___ESTOS_JUGADORES_TENDR_N_OPORTUNIDADES_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251015__BOMBAZO____FLICK_PREPARA_UNA_REVOLUCI_N_de_CARA_AL_CL_SICO___ESTOS_JUGADORES_TENDR_N_OPORTUNIDADES_.mp3" length="6314157" type="audio/mpeg" />
+        <guid isPermaLink="false">5ab14d729493b775d25cbf37d9a4f97e8d95b152</guid>
+        <pubDate>Wed, 15 Oct 2025 11:50:58 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
