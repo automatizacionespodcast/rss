@@ -229,6 +229,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251015__EL_BAR_A_LO_LOGRA_____FRENKIE_DE_JONG_RENUEVA_HASTA_2029__TODOS_LOS_DETALLES_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251015__EL_BAR_A_LO_LOGRA_____FRENKIE_DE_JONG_RENUEVA_HASTA_2029__TODOS_LOS_DETALLES_.mp3" length="4972125" type="audio/mpeg" />
+        <guid isPermaLink="false">7195295f1aeaec6cdf28a5a93308e9ada3dadd0d</guid>
+        <pubDate>Wed, 15 Oct 2025 14:30:48 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
