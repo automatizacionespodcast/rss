@@ -238,6 +238,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251015_ALUCINO___RAPHINHA_REVELA_QUE_ESTUVO_A_PUNTO_DE_IRSE_a_ARABIA_POR_UNA_MILLONADA___FUE_MI_CULPA_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251015_ALUCINO___RAPHINHA_REVELA_QUE_ESTUVO_A_PUNTO_DE_IRSE_a_ARABIA_POR_UNA_MILLONADA___FUE_MI_CULPA_.mp3" length="4810365" type="audio/mpeg" />
+        <guid isPermaLink="false">006cbcb00da914e568a0a21b1fabfa883d2bc13a</guid>
+        <pubDate>Wed, 15 Oct 2025 15:50:50 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
