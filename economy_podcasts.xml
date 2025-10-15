@@ -102,6 +102,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251015__D_nde_invertir____Los_diferentes_Tipos_de_Activos___La_pizarra_de_Invertir_desde_Cero_Ep_3.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251015__D_nde_invertir____Los_diferentes_Tipos_de_Activos___La_pizarra_de_Invertir_desde_Cero_Ep_3.mp3" length="23176605" type="audio/mpeg" />
+        <guid isPermaLink="false">163ca84e9862a7853a3c9f3a1e9d1e3001931d77</guid>
+        <pubDate>Wed, 15 Oct 2025 19:25:58 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251015__Me_da_V_RTIGO_la_VALORACI_N_de_la_IA_______Entrevista_a_Pablo_Gil.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251015__Me_da_V_RTIGO_la_VALORACI_N_de_la_IA_______Entrevista_a_Pablo_Gil.mp3" length="10223616" type="audio/mpeg" />
+        <guid isPermaLink="false">8b76cdd91329843f629a25e86152640be12f5b6d</guid>
+        <pubDate>Wed, 15 Oct 2025 19:26:11 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
