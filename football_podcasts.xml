@@ -283,6 +283,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251015_BRUTAL___ERIC_GARCIA_CONTRADICE_A_XAVI_HERN_NDEZ_SOBRE_EL_ESTILO_DE_JUEGO_DEL_BAR_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251015_BRUTAL___ERIC_GARCIA_CONTRADICE_A_XAVI_HERN_NDEZ_SOBRE_EL_ESTILO_DE_JUEGO_DEL_BAR_A_.mp3" length="6323589" type="audio/mpeg" />
+        <guid isPermaLink="false">8e9bdcdf098daa4069330591bdd1193b40b61c1f</guid>
+        <pubDate>Wed, 15 Oct 2025 20:51:07 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
