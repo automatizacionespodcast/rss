@@ -247,6 +247,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251015_SE_LES_HA_IDO_LA_PINZA_COMPLETAMENTE_CON_EL_CAMP_NOU_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251015_SE_LES_HA_IDO_LA_PINZA_COMPLETAMENTE_CON_EL_CAMP_NOU_.mp3" length="12806493" type="audio/mpeg" />
+        <guid isPermaLink="false">624cc5ed48c0ed01295484a3b52a219fa8b08343</guid>
+        <pubDate>Wed, 15 Oct 2025 17:17:13 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251015____MBAPP__y_MASTANTUONOS_ENTRENAN_sin_PROBLEMAS___CUIDADO_con_HUIJSEN_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251015____MBAPP__y_MASTANTUONOS_ENTRENAN_sin_PROBLEMAS___CUIDADO_con_HUIJSEN_.mp3" length="10448493" type="audio/mpeg" />
+        <guid isPermaLink="false">63c792a2f1e046825c3e109e6a3bd67b4aa7b0bf</guid>
+        <pubDate>Wed, 15 Oct 2025 17:17:17 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
