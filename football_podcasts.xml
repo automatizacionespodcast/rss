@@ -265,6 +265,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251015_EL_TOP_10_de_MESSI_de_MAYORES_PROMESAS_del_F_TBOL__Te_Sorprender__.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251015_EL_TOP_10_de_MESSI_de_MAYORES_PROMESAS_del_F_TBOL__Te_Sorprender__.mp3" length="10425045" type="audio/mpeg" />
+        <guid isPermaLink="false">40bacabb86ab29d0df7a7812a6a72351201c21c5</guid>
+        <pubDate>Wed, 15 Oct 2025 19:25:41 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
