@@ -274,6 +274,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251015___VINICIUS_PROCESADO_en_BRASIL___NOMINADOS_GOLDEN_BOY___BAR_A_SE_INTERESA_en_YILDIZ.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251015___VINICIUS_PROCESADO_en_BRASIL___NOMINADOS_GOLDEN_BOY___BAR_A_SE_INTERESA_en_YILDIZ.mp3" length="5380293" type="audio/mpeg" />
+        <guid isPermaLink="false">269ae00a1c0b9b40243eea22b5d05e9aebe8c24e</guid>
+        <pubDate>Wed, 15 Oct 2025 19:31:04 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
