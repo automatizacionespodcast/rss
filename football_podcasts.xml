@@ -211,6 +211,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251015___LOS_10_ELEGIDOS_de_MESSI______CRISTIANO_NO_PARA_de_ROMPER_R_CORDS_____DE_JONG_RENUEVA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251015___LOS_10_ELEGIDOS_de_MESSI______CRISTIANO_NO_PARA_de_ROMPER_R_CORDS_____DE_JONG_RENUEVA.mp3" length="6385941" type="audio/mpeg" />
+        <guid isPermaLink="false">cb5a638ac4173bba9384e63c6781171bbab82041</guid>
+        <pubDate>Wed, 15 Oct 2025 13:50:51 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
