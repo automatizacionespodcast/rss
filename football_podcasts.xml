@@ -202,6 +202,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251015__NO_AGUANTO_M_S____TENGO_UN_MENSAJE_CLAR_SIMO_PARA_HANSI_FLICK_y_TODO_EL_BARCELONISMO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251015__NO_AGUANTO_M_S____TENGO_UN_MENSAJE_CLAR_SIMO_PARA_HANSI_FLICK_y_TODO_EL_BARCELONISMO_.mp3" length="5229861" type="audio/mpeg" />
+        <guid isPermaLink="false">3511a769f92cf0c371ab810347d119b1c37fdacd</guid>
+        <pubDate>Wed, 15 Oct 2025 13:20:43 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
