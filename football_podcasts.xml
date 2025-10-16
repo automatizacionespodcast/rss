@@ -328,6 +328,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251016__ES_FALSO__EL_MITO_de_FLICK_y_su_2__TEMPORADA__Corre_PELIGRO_el_BAR_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251016__ES_FALSO__EL_MITO_de_FLICK_y_su_2__TEMPORADA__Corre_PELIGRO_el_BAR_A_.mp3" length="18394077" type="audio/mpeg" />
+        <guid isPermaLink="false">11667a703e9ebe6c3be0f033470c1e5abb93a10d</guid>
+        <pubDate>Thu, 16 Oct 2025 14:03:29 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
