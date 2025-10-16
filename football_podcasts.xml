@@ -373,6 +373,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251016____BOMBAZO__EL_BAR_A_NEGOCIA_por_VLAHOVIC______LEWANDOWSKI_PODR_A_IR_al_ATL_TICO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251016____BOMBAZO__EL_BAR_A_NEGOCIA_por_VLAHOVIC______LEWANDOWSKI_PODR_A_IR_al_ATL_TICO.mp3" length="4759077" type="audio/mpeg" />
+        <guid isPermaLink="false">bf912e169882c9efc48770241c9811920b4834d1</guid>
+        <pubDate>Thu, 16 Oct 2025 19:42:17 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
