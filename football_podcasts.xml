@@ -355,6 +355,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251016_ESC_NDALO_TOTAL___UNA_NUEVA_INVESTIGACI_N_DETECTA_DELITOS_EN_EL_FICHAJE_DE_GRIEZMANN_POR_EL_BAR_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251016_ESC_NDALO_TOTAL___UNA_NUEVA_INVESTIGACI_N_DETECTA_DELITOS_EN_EL_FICHAJE_DE_GRIEZMANN_POR_EL_BAR_A_.mp3" length="7637301" type="audio/mpeg" />
+        <guid isPermaLink="false">435b7bf4bb9ce784d6476eac2caf618f61edc161</guid>
+        <pubDate>Thu, 16 Oct 2025 18:00:48 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
