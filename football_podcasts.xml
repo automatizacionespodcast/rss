@@ -301,6 +301,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251016__CAMBIO_RADICAL_____EL_BAR_A_CONTACTA_A_VLAHOVI__PARA_REEMPLAZAR_A_LEWANDOWSKI_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251016__CAMBIO_RADICAL_____EL_BAR_A_CONTACTA_A_VLAHOVI__PARA_REEMPLAZAR_A_LEWANDOWSKI_.mp3" length="9723957" type="audio/mpeg" />
+        <guid isPermaLink="false">f0b16b3213b5add4b5418ee02dc34c676cb0ecba</guid>
+        <pubDate>Thu, 16 Oct 2025 12:01:16 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
