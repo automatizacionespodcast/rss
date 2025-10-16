@@ -319,6 +319,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251016_ALUCINO__MARCOS_LLORENTE_LA_VUELVE_A_LIAR_con_su_TEOR_A_de_las_GAFAS_AMARILLAS__LO_DESMONTO_OTRA_VEZ_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251016_ALUCINO__MARCOS_LLORENTE_LA_VUELVE_A_LIAR_con_su_TEOR_A_de_las_GAFAS_AMARILLAS__LO_DESMONTO_OTRA_VEZ_.mp3" length="12342933" type="audio/mpeg" />
+        <guid isPermaLink="false">2ae59f4bf98d1821392fd978bf597d54b8b5ad87</guid>
+        <pubDate>Thu, 16 Oct 2025 13:42:20 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
