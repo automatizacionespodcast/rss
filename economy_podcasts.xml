@@ -129,6 +129,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251016__Qu__renta_hoy_en_renta_fija__Finect_Alpha_con_Gonzalo_Ram_n_Borja__F_lix_L_pez_y_Conrado_La_Roche.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251016__Qu__renta_hoy_en_renta_fija__Finect_Alpha_con_Gonzalo_Ram_n_Borja__F_lix_L_pez_y_Conrado_La_Roche.mp3" length="32587533" type="audio/mpeg" />
+        <guid isPermaLink="false">a137cd145d51ea61df6a30f2f5c7b2e9eb6b44e7</guid>
+        <pubDate>Thu, 16 Oct 2025 19:39:27 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
