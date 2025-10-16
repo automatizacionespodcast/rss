@@ -310,6 +310,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251016____P_NICO_en_el_MADRID__HUIJSEN_PODR_A_CAERSE_del_CL_SICO___ESC_NDALO_GRIEZMANN___BAR_A___FERR_N_DUDA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251016____P_NICO_en_el_MADRID__HUIJSEN_PODR_A_CAERSE_del_CL_SICO___ESC_NDALO_GRIEZMANN___BAR_A___FERR_N_DUDA.mp3" length="6034581" type="audio/mpeg" />
+        <guid isPermaLink="false">1de2bd0456d87dbe6e2a337d864ae679d43f7a72</guid>
+        <pubDate>Thu, 16 Oct 2025 13:00:59 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
