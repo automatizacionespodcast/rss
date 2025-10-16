@@ -337,6 +337,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251016_VITOR_ROQUE_SE_SALE_EN_BRASIL_PERO___.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251016_VITOR_ROQUE_SE_SALE_EN_BRASIL_PERO___.mp3" length="9371637" type="audio/mpeg" />
+        <guid isPermaLink="false">301b152ebdce9a5b273ca15de598bfe37b8fe006</guid>
+        <pubDate>Thu, 16 Oct 2025 16:21:48 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
