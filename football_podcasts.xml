@@ -364,6 +364,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251016____ECHALE_HUEV_S_XABI__DELITO_del_BAR_A_en_el_FICHAJE_de_GRIEZMANN.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251016____ECHALE_HUEV_S_XABI__DELITO_del_BAR_A_en_el_FICHAJE_de_GRIEZMANN.mp3" length="11115309" type="audio/mpeg" />
+        <guid isPermaLink="false">13c67d84621803de329e29dba09df404fd7192b9</guid>
+        <pubDate>Thu, 16 Oct 2025 19:00:42 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
