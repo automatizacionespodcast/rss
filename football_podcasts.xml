@@ -391,6 +391,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251016____LO_QUE_EXIGE_VINICIUS_al_MADRID_para_RENOVAR____SE_CONFIRMA_el_POSIBLE_GRAN_CAMBIO_del_MADRID___.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251016____LO_QUE_EXIGE_VINICIUS_al_MADRID_para_RENOVAR____SE_CONFIRMA_el_POSIBLE_GRAN_CAMBIO_del_MADRID___.mp3" length="7111509" type="audio/mpeg" />
+        <guid isPermaLink="false">84886a46228b3717e0a61d89e1281e694b779ff1</guid>
+        <pubDate>Thu, 16 Oct 2025 21:40:42 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
