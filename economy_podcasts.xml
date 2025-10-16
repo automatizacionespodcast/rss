@@ -120,6 +120,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251016___Huida_en_MASA_del_INVERSOR__el_SISTEMA_de_la_ECONOM_A_bajo_la_MAYOR_PRESI_N_en_D_CADAS.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251016___Huida_en_MASA_del_INVERSOR__el_SISTEMA_de_la_ECONOM_A_bajo_la_MAYOR_PRESI_N_en_D_CADAS.mp3" length="23592789" type="audio/mpeg" />
+        <guid isPermaLink="false">ea7b6a2234efb5c0ec11420018e38776f65e142b</guid>
+        <pubDate>Thu, 16 Oct 2025 17:12:02 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
