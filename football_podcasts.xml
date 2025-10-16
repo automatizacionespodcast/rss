@@ -382,6 +382,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251016____FILTRAN_el_INS_LITO_MOTIVO_de_las_LESIONES_del_BAR_A___SE_ACAB__EL_RELATO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251016____FILTRAN_el_INS_LITO_MOTIVO_de_las_LESIONES_del_BAR_A___SE_ACAB__EL_RELATO_.mp3" length="8900517" type="audio/mpeg" />
+        <guid isPermaLink="false">8e606d88a05f5e36608b469177ab35c992bdca72</guid>
+        <pubDate>Thu, 16 Oct 2025 20:01:11 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
