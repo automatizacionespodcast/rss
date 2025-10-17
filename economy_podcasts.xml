@@ -147,6 +147,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251017__Va_Explotar_la_Burbuja_de_las_Empresas_Tecnol_gicas_Este_2025__Charla_con_Gestor__300_MILLONES.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251017__Va_Explotar_la_Burbuja_de_las_Empresas_Tecnol_gicas_Este_2025__Charla_con_Gestor__300_MILLONES.mp3" length="30408704" type="audio/mpeg" />
+        <guid isPermaLink="false">063d32f167516d93501578c7371d2ec1774d0583</guid>
+        <pubDate>Fri, 17 Oct 2025 17:52:05 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
