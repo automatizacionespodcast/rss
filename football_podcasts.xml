@@ -454,6 +454,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251017___CONFIRMADO__FLORENTINO__VENDER___el_REAL_MADRID__Que_est__pasando_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251017___CONFIRMADO__FLORENTINO__VENDER___el_REAL_MADRID__Que_est__pasando_.mp3" length="14373909" type="audio/mpeg" />
+        <guid isPermaLink="false">b5c362e66c1fef06eb389422d2879da9b3855cba</guid>
+        <pubDate>Fri, 17 Oct 2025 17:01:50 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
