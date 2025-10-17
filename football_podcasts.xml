@@ -445,6 +445,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251017_BOMBAZO___EL_BAR_A_RECIBE_LA_LICENCIA_PARA_VOLVER_AL_CAMP_NOU___PERO_NO_LA_USAR__DE_MOMENTO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251017_BOMBAZO___EL_BAR_A_RECIBE_LA_LICENCIA_PARA_VOLVER_AL_CAMP_NOU___PERO_NO_LA_USAR__DE_MOMENTO_.mp3" length="8376597" type="audio/mpeg" />
+        <guid isPermaLink="false">cb25b55d5ca81c2144f6830cc7aacd31681827a4</guid>
+        <pubDate>Fri, 17 Oct 2025 16:40:44 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
