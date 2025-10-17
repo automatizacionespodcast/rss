@@ -409,6 +409,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251017_MI_PREDICCI_N_DE_LA_JORNADA_9____CU_NTOS_PUNTOS_HAR____QUINIELAS_GRATIS_CON_UBIETOO___LALIGA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251017_MI_PREDICCI_N_DE_LA_JORNADA_9____CU_NTOS_PUNTOS_HAR____QUINIELAS_GRATIS_CON_UBIETOO___LALIGA.mp3" length="6693189" type="audio/mpeg" />
+        <guid isPermaLink="false">33fa6474021c4b72cec07941ed69e094741e95b7</guid>
+        <pubDate>Fri, 17 Oct 2025 13:20:37 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
