@@ -436,6 +436,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251017__C_mo_INVERTIR_para_la_JUBILACI_N_______Finect_Talks_con_Silvia_Mart_n__La_Consultora_Financiera_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251017__C_mo_INVERTIR_para_la_JUBILACI_N_______Finect_Talks_con_Silvia_Mart_n__La_Consultora_Financiera_.mp3" length="21139509" type="audio/mpeg" />
+        <guid isPermaLink="false">fd09fb6d552005935aec697bf5ff69ccafaa47c3</guid>
+        <pubDate>Fri, 17 Oct 2025 14:45:41 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
