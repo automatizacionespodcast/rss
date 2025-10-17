@@ -400,6 +400,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251017__ALARMA____LAMINE_YAMAL_DESOBEDECE_a_FLICK_y_DECO_INTERVIENE_de_URGENCIA___HANSI_DESMIENTE_TODO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251017__ALARMA____LAMINE_YAMAL_DESOBEDECE_a_FLICK_y_DECO_INTERVIENE_de_URGENCIA___HANSI_DESMIENTE_TODO_.mp3" length="6846333" type="audio/mpeg" />
+        <guid isPermaLink="false">155fc16c4925731c0072d1ee811d32105dc671ce</guid>
+        <pubDate>Fri, 17 Oct 2025 12:20:41 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
