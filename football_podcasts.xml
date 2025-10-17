@@ -418,6 +418,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251017_____EXPLOTA_HANSI_FLICK_COMO_NUNCA_por_el_l_o_LAMINE_YAMAL___y_OJO_a_la_PROTESTA_del_PARTIDO_en_MIAMI.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251017_____EXPLOTA_HANSI_FLICK_COMO_NUNCA_por_el_l_o_LAMINE_YAMAL___y_OJO_a_la_PROTESTA_del_PARTIDO_en_MIAMI.mp3" length="10233429" type="audio/mpeg" />
+        <guid isPermaLink="false">484c41200a8fc7201a904d39b2e106bec1c06c5a</guid>
+        <pubDate>Fri, 17 Oct 2025 13:41:05 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
