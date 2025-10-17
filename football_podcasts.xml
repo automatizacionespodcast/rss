@@ -427,6 +427,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251017___BOMBAZO___DECO_OBLIG__a_FLICK_a_poner_a_LAMINE_tras_LLEGAR_TARDE_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251017___BOMBAZO___DECO_OBLIG__a_FLICK_a_poner_a_LAMINE_tras_LLEGAR_TARDE_.mp3" length="14545197" type="audio/mpeg" />
+        <guid isPermaLink="false">049bf08724adb5957599046159d346db10c636b7</guid>
+        <pubDate>Fri, 17 Oct 2025 14:21:43 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
