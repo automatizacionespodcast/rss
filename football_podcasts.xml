@@ -499,6 +499,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251017_TENSI_N___LAPORTA_se_ENFRENTAR__a_DURAS_CR_TICAS_de_la_OPOSICI_N_en_la_ASAMBLEA_del_BAR_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251017_TENSI_N___LAPORTA_se_ENFRENTAR__a_DURAS_CR_TICAS_de_la_OPOSICI_N_en_la_ASAMBLEA_del_BAR_A_.mp3" length="6793053" type="audio/mpeg" />
+        <guid isPermaLink="false">e0f2e3f1a4fc97d5b71be84163f77d42599805ff</guid>
+        <pubDate>Fri, 17 Oct 2025 21:23:14 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251017____VERG_ENZA_HIST_RICA__LALIGA_CENSURA_la_PROTESTA_de_los_JUGADORES_y_OCULTA_las_IM_GENES.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251017____VERG_ENZA_HIST_RICA__LALIGA_CENSURA_la_PROTESTA_de_los_JUGADORES_y_OCULTA_las_IM_GENES.mp3" length="5564325" type="audio/mpeg" />
+        <guid isPermaLink="false">5e42e55d27116f2d833d8fe9b202f6635330dbd5</guid>
+        <pubDate>Fri, 17 Oct 2025 21:23:16 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
