@@ -463,6 +463,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251017____ESC_NDALO_con_LEWANDOWSKI_______INTER_S_del_BAR_A_en_ASLLANI___CEBALLOS_y_FERR_N_LESIONADOS.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251017____ESC_NDALO_con_LEWANDOWSKI_______INTER_S_del_BAR_A_en_ASLLANI___CEBALLOS_y_FERR_N_LESIONADOS.mp3" length="6766029" type="audio/mpeg" />
+        <guid isPermaLink="false">92bc46213481368b8cc883568b9bbcf77c8c2dee</guid>
+        <pubDate>Fri, 17 Oct 2025 18:06:36 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
