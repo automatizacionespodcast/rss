@@ -481,6 +481,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251017__MUCHAS_BAJAS__FC_BARCELONA_vs_GIRONA__PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251017__MUCHAS_BAJAS__FC_BARCELONA_vs_GIRONA__PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="12217437" type="audio/mpeg" />
+        <guid isPermaLink="false">c8ff372b2392746240a875a477510d8d45878942</guid>
+        <pubDate>Fri, 17 Oct 2025 19:00:55 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
