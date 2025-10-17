@@ -490,6 +490,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251017__SE_LIA_PARDA___TER_STEGEN_OBLIGADO_A_IRSE_DEL_BAR_A_PARA_NO_PERDER_EL_MUNDIAL.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251017__SE_LIA_PARDA___TER_STEGEN_OBLIGADO_A_IRSE_DEL_BAR_A_PARA_NO_PERDER_EL_MUNDIAL.mp3" length="5917173" type="audio/mpeg" />
+        <guid isPermaLink="false">1b5f4193399b1f3fcf8b42ea382de0a7e09f7846</guid>
+        <pubDate>Fri, 17 Oct 2025 20:00:33 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
