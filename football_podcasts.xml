@@ -472,6 +472,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251017____IMPRESIONANTE_NOTICIA_de__LTIMA_HORA_en_CAN_BAR_A___NUEVO_ACUERDO_CERRADO__.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251017____IMPRESIONANTE_NOTICIA_de__LTIMA_HORA_en_CAN_BAR_A___NUEVO_ACUERDO_CERRADO__.mp3" length="8220069" type="audio/mpeg" />
+        <guid isPermaLink="false">36a2bdd38032458b2b5a166af5160c1a168fb0b2</guid>
+        <pubDate>Fri, 17 Oct 2025 18:40:55 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
