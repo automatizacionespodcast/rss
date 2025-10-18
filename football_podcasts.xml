@@ -517,6 +517,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251017_____VUELVE_el_DATO_DEMOLEDOR_____El_BAR_A_REGRESA_con_MUCHAS_BAJAS_ante_el_GIRONA__GOLEADA_o_SORPRESA_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251017_____VUELVE_el_DATO_DEMOLEDOR_____El_BAR_A_REGRESA_con_MUCHAS_BAJAS_ante_el_GIRONA__GOLEADA_o_SORPRESA_.mp3" length="7199757" type="audio/mpeg" />
+        <guid isPermaLink="false">5374f820c25f38f1eb00f52f99fd72a2f035213e</guid>
+        <pubDate>Sat, 18 Oct 2025 00:00:38 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
