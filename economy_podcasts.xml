@@ -156,6 +156,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251018____La_narrativa_es_CALCADA_al_2008_en_ECONOM_A_y_BOLSA____Oportunidades_en_m_ximos____.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251018____La_narrativa_es_CALCADA_al_2008_en_ECONOM_A_y_BOLSA____Oportunidades_en_m_ximos____.mp3" length="20804853" type="audio/mpeg" />
+        <guid isPermaLink="false">c09a061ef4658d44cfcd1b33f83e347a4b2a8162</guid>
+        <pubDate>Sat, 18 Oct 2025 17:15:16 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
