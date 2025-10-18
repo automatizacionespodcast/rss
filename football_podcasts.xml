@@ -553,6 +553,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251018_____NO_ME_LO_CREO___BAR_A_GANA_con_GOL_de_ARA_JO_de_DELANTERO_en_el_93____GOLAZOS_de_PEDRI_y_WITSEL.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251018_____NO_ME_LO_CREO___BAR_A_GANA_con_GOL_de_ARA_JO_de_DELANTERO_en_el_93____GOLAZOS_de_PEDRI_y_WITSEL.mp3" length="10229853" type="audio/mpeg" />
+        <guid isPermaLink="false">eb3c040205f6d84585deb4445fa0053b1e9d2f97</guid>
+        <pubDate>Sat, 18 Oct 2025 17:26:02 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251018_PEDRI_ESPECTACULAR__ARAUJO_SALVADOR_Y_TRIUNFO_DEL_FC_BARCELONA_2_1_AL_GIRONA___LALIGA___Ubietoo.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251018_PEDRI_ESPECTACULAR__ARAUJO_SALVADOR_Y_TRIUNFO_DEL_FC_BARCELONA_2_1_AL_GIRONA___LALIGA___Ubietoo.mp3" length="9776637" type="audio/mpeg" />
+        <guid isPermaLink="false">1981a9be9835283f86c330832bb2ebcceda93bb2</guid>
+        <pubDate>Sat, 18 Oct 2025 17:26:05 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
