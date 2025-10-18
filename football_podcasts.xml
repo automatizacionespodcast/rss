@@ -607,6 +607,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251018_____QU__VERG_ENZA___El_ATL_TICO_SOLO_SE_MOTIVA_vs_MADRID______POL_MICA__EUFORIA_y_SALVADOS_al_FINAL.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251018_____QU__VERG_ENZA___El_ATL_TICO_SOLO_SE_MOTIVA_vs_MADRID______POL_MICA__EUFORIA_y_SALVADOS_al_FINAL.mp3" length="6794493" type="audio/mpeg" />
+        <guid isPermaLink="false">3fd20ee800f9eabfc7e0f5a38eecc4553c372367</guid>
+        <pubDate>Sat, 18 Oct 2025 22:00:33 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
