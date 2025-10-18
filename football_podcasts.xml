@@ -571,6 +571,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251018____FLICK_EXPLICA_el_GESTO_QUE_PUEDE_COSTARLE_UNA_SANCI_N______DECLARACIONES_POST_BAR_A_2_1_GIRONA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251018____FLICK_EXPLICA_el_GESTO_QUE_PUEDE_COSTARLE_UNA_SANCI_N______DECLARACIONES_POST_BAR_A_2_1_GIRONA.mp3" length="6434301" type="audio/mpeg" />
+        <guid isPermaLink="false">2e6100d55bb66c100a817ad018100b12b5e22447</guid>
+        <pubDate>Sat, 18 Oct 2025 18:20:32 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
