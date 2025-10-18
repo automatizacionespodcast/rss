@@ -544,6 +544,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251018_REACCIONES_DE_UN_HINCHA_al_Barcelona_vs_Girona_2_1__EN_LA__LTIMA_JUGADA____ByDiegoX10.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251018_REACCIONES_DE_UN_HINCHA_al_Barcelona_vs_Girona_2_1__EN_LA__LTIMA_JUGADA____ByDiegoX10.mp3" length="11057373" type="audio/mpeg" />
+        <guid isPermaLink="false">2787df7a12a5df50cce76bdfae78e48669cd1fdf</guid>
+        <pubDate>Sat, 18 Oct 2025 16:51:49 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
