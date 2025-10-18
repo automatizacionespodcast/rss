@@ -580,6 +580,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251018_El_Rompecabezas_de_Xabi_Alonso___C_mo_Encajar_a_Bellingham_en_su_Sistema_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251018_El_Rompecabezas_de_Xabi_Alonso___C_mo_Encajar_a_Bellingham_en_su_Sistema_.mp3" length="17232141" type="audio/mpeg" />
+        <guid isPermaLink="false">aefe957cb263de34b2cb303591829629d1f0cb10</guid>
+        <pubDate>Sat, 18 Oct 2025 19:12:25 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
