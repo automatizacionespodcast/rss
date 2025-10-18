@@ -535,6 +535,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251018___PREVIA_BAR_A_vs_GIRONA____HOY_HABR__SORPRESAS_AS__QUE_DADLO_TODO____SIN_EXCUSAS__.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251018___PREVIA_BAR_A_vs_GIRONA____HOY_HABR__SORPRESAS_AS__QUE_DADLO_TODO____SIN_EXCUSAS__.mp3" length="8826237" type="audio/mpeg" />
+        <guid isPermaLink="false">5e9055a98e91348c74c4411aa875e83829d53248</guid>
+        <pubDate>Sat, 18 Oct 2025 11:20:52 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
