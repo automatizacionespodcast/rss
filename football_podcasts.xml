@@ -589,6 +589,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251018___EL_ESC_NDALO_NO_PARA_con_GIL_MANZANO_en_el_BAR_A_2_1_GIRONA_con_DOS_GRAVES_ERRORES__FLICK_EXPLOT__.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251018___EL_ESC_NDALO_NO_PARA_con_GIL_MANZANO_en_el_BAR_A_2_1_GIRONA_con_DOS_GRAVES_ERRORES__FLICK_EXPLOT__.mp3" length="7782525" type="audio/mpeg" />
+        <guid isPermaLink="false">704f113cb9fe930db4bc3dbf6719af17c17e0262</guid>
+        <pubDate>Sat, 18 Oct 2025 19:20:36 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
