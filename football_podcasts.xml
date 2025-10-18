@@ -526,6 +526,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251018____VERGONZOSO__LA_LIGA_CENSURA_la_PROTESTA_por_el_PARTIDO_de_MIAMI.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251018____VERGONZOSO__LA_LIGA_CENSURA_la_PROTESTA_por_el_PARTIDO_de_MIAMI.mp3" length="13643757" type="audio/mpeg" />
+        <guid isPermaLink="false">1fe1908fbb050c8567450b7efb3eb6c4ce58ad46</guid>
+        <pubDate>Sat, 18 Oct 2025 10:51:24 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
