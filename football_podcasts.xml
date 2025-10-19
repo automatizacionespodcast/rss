@@ -697,6 +697,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251019_VAYA_VERG_ENZA_de_EQUIPO____EL_MADRID_SALVADO_ante_un_GETAFE_que_ACAB__con_DOS_MENOS_0_1____L_DERES_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251019_VAYA_VERG_ENZA_de_EQUIPO____EL_MADRID_SALVADO_ante_un_GETAFE_que_ACAB__con_DOS_MENOS_0_1____L_DERES_.mp3" length="5198829" type="audio/mpeg" />
+        <guid isPermaLink="false">701c636415eb0ccdb0009a61c10f054e3530b8c3</guid>
+        <pubDate>Sun, 19 Oct 2025 22:00:28 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
