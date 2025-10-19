@@ -670,6 +670,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251019___AS__SE_DESMONTA_LA_COMPARACI_N_ENTRE_V_TOR_ROQUE__VINICIUS_Y_ANSU_FATI.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251019___AS__SE_DESMONTA_LA_COMPARACI_N_ENTRE_V_TOR_ROQUE__VINICIUS_Y_ANSU_FATI.mp3" length="9169149" type="audio/mpeg" />
+        <guid isPermaLink="false">29312447d8dabace6db604df34bcfed9a4961f80</guid>
+        <pubDate>Sun, 19 Oct 2025 14:21:03 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
