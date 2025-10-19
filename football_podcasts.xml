@@ -643,6 +643,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251019____ARBITRAJE_LAMENTABLE_de_GIL_MANZANO_en_el_BAR_A_2_1_GIRONA___INJUSTA_EXPULSI_N_A_HANSI_FLICK_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251019____ARBITRAJE_LAMENTABLE_de_GIL_MANZANO_en_el_BAR_A_2_1_GIRONA___INJUSTA_EXPULSI_N_A_HANSI_FLICK_.mp3" length="15167517" type="audio/mpeg" />
+        <guid isPermaLink="false">fa1a139e97d4ca741e9d8055eae41f9843865f8d</guid>
+        <pubDate>Sun, 19 Oct 2025 13:03:18 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
