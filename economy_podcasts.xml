@@ -183,6 +183,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251019_C_mo_INVERTIR_con_la_Bolsa_en_M_XIMOS__Vender__Esperar_o_Seguir_Comprando_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251019_C_mo_INVERTIR_con_la_Bolsa_en_M_XIMOS__Vender__Esperar_o_Seguir_Comprando_.mp3" length="9776133" type="audio/mpeg" />
+        <guid isPermaLink="false">fa246b0dd1da49b1ae58a9b87adfcf0f7b5fb070</guid>
+        <pubDate>Sun, 19 Oct 2025 16:21:07 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
