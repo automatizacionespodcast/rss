@@ -192,6 +192,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251019__Cuenta_bancaria_para_ni_os__El_ERROR_que_todos_cometen_al_abrirla.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251019__Cuenta_bancaria_para_ni_os__El_ERROR_que_todos_cometen_al_abrirla.mp3" length="7038765" type="audio/mpeg" />
+        <guid isPermaLink="false">08fd464d889cb6b67ed3daf84867b741728ec69f</guid>
+        <pubDate>Sun, 19 Oct 2025 16:50:35 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
