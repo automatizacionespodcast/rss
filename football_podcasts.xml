@@ -688,6 +688,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251019_ESC_NDALO___EL_MADRID_GANA_POR_LA_MINIMA_0_1_AL_GETAFE_CON_AYUDA_DEL__RBITRO____GETAFE_0_1_REAL_MADRID.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251019_ESC_NDALO___EL_MADRID_GANA_POR_LA_MINIMA_0_1_AL_GETAFE_CON_AYUDA_DEL__RBITRO____GETAFE_0_1_REAL_MADRID.mp3" length="8479941" type="audio/mpeg" />
+        <guid isPermaLink="false">e97afaf4b24b51bb52c148e3526c4287233aee9e</guid>
+        <pubDate>Sun, 19 Oct 2025 21:40:44 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
