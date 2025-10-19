@@ -616,6 +616,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251019_Mi_REACCI_N_MADRIDISTA_al_GOL_de_ARA_JO_en_la_VICTORIA_del_BAR_A_2_1_GIRONA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251019_Mi_REACCI_N_MADRIDISTA_al_GOL_de_ARA_JO_en_la_VICTORIA_del_BAR_A_2_1_GIRONA.mp3" length="7231245" type="audio/mpeg" />
+        <guid isPermaLink="false">9c12251c2ec4a49f583e728d128c21eaf3a4cb19</guid>
+        <pubDate>Sun, 19 Oct 2025 00:20:33 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
