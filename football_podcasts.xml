@@ -625,6 +625,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251019_GETAFE_vs_REAL_MADRID____CUIDADO_con_BORDAL_S___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251019_GETAFE_vs_REAL_MADRID____CUIDADO_con_BORDAL_S___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="10668693" type="audio/mpeg" />
+        <guid isPermaLink="false">bc6854ca8e8387cb7707c944e4fee12fd6d43c77</guid>
+        <pubDate>Sun, 19 Oct 2025 10:50:48 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
