@@ -201,6 +201,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251019_____El_problema_REAL_de_la_VIVIENDA_del_que_NADIE_HABLA___Preparaos__Va_a_pasar_SEGURO____.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251019_____El_problema_REAL_de_la_VIVIENDA_del_que_NADIE_HABLA___Preparaos__Va_a_pasar_SEGURO____.mp3" length="17125341" type="audio/mpeg" />
+        <guid isPermaLink="false">628df279a3cfb850f357981148dd77c5bcac9e0d</guid>
+        <pubDate>Sun, 19 Oct 2025 17:13:55 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
