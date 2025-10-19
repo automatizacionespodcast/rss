@@ -679,6 +679,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251019_REACCIONES_DE_UN_HINCHA_al_Getafe_vs_Real_Madrid_0_1__VERGONZOSO____ByDiegoX10.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251019_REACCIONES_DE_UN_HINCHA_al_Getafe_vs_Real_Madrid_0_1__VERGONZOSO____ByDiegoX10.mp3" length="9325797" type="audio/mpeg" />
+        <guid isPermaLink="false">99d7f7d95ec0416c805ea1e0125f0317acaed4a3</guid>
+        <pubDate>Sun, 19 Oct 2025 21:30:43 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
