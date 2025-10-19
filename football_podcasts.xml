@@ -634,6 +634,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251019____AN_LISIS_EN_FR_O_del_BAR_A_2_1_GIRONA_____EL_EQUIPO__SALV__LOS_MUEBLES__PERO_AS__NO_PODEMOS_SEGUIR.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251019____AN_LISIS_EN_FR_O_del_BAR_A_2_1_GIRONA_____EL_EQUIPO__SALV__LOS_MUEBLES__PERO_AS__NO_PODEMOS_SEGUIR.mp3" length="10523997" type="audio/mpeg" />
+        <guid isPermaLink="false">a9eefe704d8aa9b7f87c0b62be7337b33524b2ae</guid>
+        <pubDate>Sun, 19 Oct 2025 11:21:37 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
