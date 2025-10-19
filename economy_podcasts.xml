@@ -165,6 +165,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251019_Ferrari_se_DESPLOMA_en_BOLSA__Oportunidad_de_Inversi_n_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251019_Ferrari_se_DESPLOMA_en_BOLSA__Oportunidad_de_Inversi_n_.mp3" length="9364509" type="audio/mpeg" />
+        <guid isPermaLink="false">8e2062269081447a95c173c3899a2fceea3b9b73</guid>
+        <pubDate>Sun, 19 Oct 2025 15:30:41 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
