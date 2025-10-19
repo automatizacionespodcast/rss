@@ -661,6 +661,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251019___PICA_VICTORIA_del_BAR_A__ARAUJO_marca_en_el_92___FLICK_EXPULSADO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251019___PICA_VICTORIA_del_BAR_A__ARAUJO_marca_en_el_92___FLICK_EXPULSADO_.mp3" length="18870933" type="audio/mpeg" />
+        <guid isPermaLink="false">8f05f3a5dd48926683c78af452578a8ed364eab0</guid>
+        <pubDate>Sun, 19 Oct 2025 14:12:55 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
