@@ -652,6 +652,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251019____HOY_NO_ME_FALL_IS__XABI__EL_MADRID_sufre_en_GETAFE____DATO_que_ASUSTA_antes_del_CL_SICO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251019____HOY_NO_ME_FALL_IS__XABI__EL_MADRID_sufre_en_GETAFE____DATO_que_ASUSTA_antes_del_CL_SICO_.mp3" length="9357381" type="audio/mpeg" />
+        <guid isPermaLink="false">462ba483638b7d65aa46720dff6a131e8a0dcc30</guid>
+        <pubDate>Sun, 19 Oct 2025 13:20:45 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
