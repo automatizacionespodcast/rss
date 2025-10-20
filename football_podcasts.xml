@@ -760,6 +760,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251020___ESC_NDALO_en_el_BAR_A______POL_MICA_en_el_MADRID__DOS_VICTORIAS_con_SABOR_AMARGO___QUI_N_FUE_MEJOR_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251020___ESC_NDALO_en_el_BAR_A______POL_MICA_en_el_MADRID__DOS_VICTORIAS_con_SABOR_AMARGO___QUI_N_FUE_MEJOR_.mp3" length="6863469" type="audio/mpeg" />
+        <guid isPermaLink="false">a25599056613059a2adb569c1327af2129f6617c</guid>
+        <pubDate>Mon, 20 Oct 2025 16:30:35 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
