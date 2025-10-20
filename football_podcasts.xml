@@ -715,6 +715,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251020_TENEMOS_QUE_HABLAR_de_lo_que_PAS__AYER_EN_LA_ASAMBLEA_del_BAR_A_2025.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251020_TENEMOS_QUE_HABLAR_de_lo_que_PAS__AYER_EN_LA_ASAMBLEA_del_BAR_A_2025.mp3" length="15752589" type="audio/mpeg" />
+        <guid isPermaLink="false">ac27f134cdeb5fb5e346f99950be953497fbe1f6</guid>
+        <pubDate>Mon, 20 Oct 2025 11:33:48 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
