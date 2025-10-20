@@ -805,6 +805,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251020___OTRA_CHAPUZA_del_BERNAB_U__La_JUSTICIA_TUMBA_los_PARKINGS_del_MADRID___EL_BAR_A_RAJA_del_ARBITRAJE.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251020___OTRA_CHAPUZA_del_BERNAB_U__La_JUSTICIA_TUMBA_los_PARKINGS_del_MADRID___EL_BAR_A_RAJA_del_ARBITRAJE.mp3" length="5679717" type="audio/mpeg" />
+        <guid isPermaLink="false">9052acdcd022ae476ec8483935e567094e9f5074</guid>
+        <pubDate>Mon, 20 Oct 2025 21:30:35 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
