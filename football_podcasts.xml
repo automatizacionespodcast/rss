@@ -733,6 +733,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251020__S___FERMIN__AS__S_______BRUTAL_AUTOCRITICA_de_FERMIN_en_RUEDA_de_PRENSA___RETRATA_A_LOS_PALMEROS_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251020__S___FERMIN__AS__S_______BRUTAL_AUTOCRITICA_de_FERMIN_en_RUEDA_de_PRENSA___RETRATA_A_LOS_PALMEROS_.mp3" length="8412093" type="audio/mpeg" />
+        <guid isPermaLink="false">14634221ae2426fe7e9376350ecaa15f6768c27a</guid>
+        <pubDate>Mon, 20 Oct 2025 13:50:37 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
