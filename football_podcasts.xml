@@ -742,6 +742,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251020_Un_MADRID_MUY_GRIS_se_SALVA_de_MILAGRO_ante_9_JUGADORES_del_GETAFE.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251020_Un_MADRID_MUY_GRIS_se_SALVA_de_MILAGRO_ante_9_JUGADORES_del_GETAFE.mp3" length="23263821" type="audio/mpeg" />
+        <guid isPermaLink="false">4fb2fd2b39e68ea85bed64559488f872221f97ee</guid>
+        <pubDate>Mon, 20 Oct 2025 14:14:24 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
