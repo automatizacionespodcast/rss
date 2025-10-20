@@ -210,6 +210,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251020____La_BOLSA_activar__el_GRAN_COHETE_____Se_avanza_a_un_PELIGRO_a_futuro_M_S_EXTREMO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251020____La_BOLSA_activar__el_GRAN_COHETE_____Se_avanza_a_un_PELIGRO_a_futuro_M_S_EXTREMO.mp3" length="16287405" type="audio/mpeg" />
+        <guid isPermaLink="false">73b6a1b9b4a7ca41e62b0cf8a486d54302eca830</guid>
+        <pubDate>Mon, 20 Oct 2025 17:19:10 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
