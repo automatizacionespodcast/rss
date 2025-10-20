@@ -724,6 +724,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251020___AN_LISIS_EN_FR_O_del_ESC_NDALOSO_GETAFE_0_1_REAL_MADRID____VIN_CIUS_ES_INSOPORTABLE_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251020___AN_LISIS_EN_FR_O_del_ESC_NDALOSO_GETAFE_0_1_REAL_MADRID____VIN_CIUS_ES_INSOPORTABLE_.mp3" length="11654709" type="audio/mpeg" />
+        <guid isPermaLink="false">30af494505c9561d7c82d604dfdac8c0831ae35d</guid>
+        <pubDate>Mon, 20 Oct 2025 12:32:02 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
