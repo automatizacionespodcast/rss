@@ -706,6 +706,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251019____HAY_ESC_NDALO_REAL__La_ROJA_a_NYOM_ANALIZADA_sin_FILTROS___VINICIUS_VACILA_a_BORDAL_S.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251019____HAY_ESC_NDALO_REAL__La_ROJA_a_NYOM_ANALIZADA_sin_FILTROS___VINICIUS_VACILA_a_BORDAL_S.mp3" length="8035461" type="audio/mpeg" />
+        <guid isPermaLink="false">7e806552d6f86b7593be1f74e35f6f9ad9e44f21</guid>
+        <pubDate>Mon, 20 Oct 2025 00:00:37 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
