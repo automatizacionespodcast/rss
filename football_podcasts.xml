@@ -787,6 +787,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251020____EL_LIVERPOOL_SE_HUNDE__4_derrotas_seguidas_tras_gastar_500_millones.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251020____EL_LIVERPOOL_SE_HUNDE__4_derrotas_seguidas_tras_gastar_500_millones.mp3" length="19132173" type="audio/mpeg" />
+        <guid isPermaLink="false">40230306019f40c65ccafe5f860ebaba12ff5e7f</guid>
+        <pubDate>Mon, 20 Oct 2025 19:13:03 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
