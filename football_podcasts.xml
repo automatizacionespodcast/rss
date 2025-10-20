@@ -778,6 +778,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251020_ESTE_ES_MI_MENSAJE_A_TODO_EL_BARCELONISMO__ESC_CHALO_HASTA_EL_FINAL_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251020_ESTE_ES_MI_MENSAJE_A_TODO_EL_BARCELONISMO__ESC_CHALO_HASTA_EL_FINAL_.mp3" length="6663573" type="audio/mpeg" />
+        <guid isPermaLink="false">a5f138fd3e6146816877717344c4b50b2b561d3f</guid>
+        <pubDate>Mon, 20 Oct 2025 17:30:40 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
