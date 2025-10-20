@@ -769,6 +769,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251020_As__CAMBIAR__el_F_TBOL_con_la_NUEVA_norma_del_FUERA_DE_JUEGO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251020_As__CAMBIAR__el_F_TBOL_con_la_NUEVA_norma_del_FUERA_DE_JUEGO.mp3" length="13828845" type="audio/mpeg" />
+        <guid isPermaLink="false">dfe20d14be26d90e6926a3297d685f7b2439d905</guid>
+        <pubDate>Mon, 20 Oct 2025 17:19:07 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
