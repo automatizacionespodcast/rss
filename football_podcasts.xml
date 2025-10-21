@@ -850,6 +850,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251021_MI_MEJOR_PREDICCI_N____RESULTADOS_JORNADA_9_Y_PREDICCI_N_JORNADA_10___QUINIELA_GRATIS___Ubietoo.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251021_MI_MEJOR_PREDICCI_N____RESULTADOS_JORNADA_9_Y_PREDICCI_N_JORNADA_10___QUINIELA_GRATIS___Ubietoo.mp3" length="11248653" type="audio/mpeg" />
+        <guid isPermaLink="false">f864bf17aece1ade64d67033abce0a1244bfac04</guid>
+        <pubDate>Tue, 21 Oct 2025 13:51:47 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
