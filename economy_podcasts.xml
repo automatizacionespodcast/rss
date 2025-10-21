@@ -219,6 +219,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251021___Nervios_en_Wall_Street___Esto_REVENTAR__COMO_NUNCA____Queda_el_cohete_m_s_APOTE_SICO_en_BOLSA___.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251021___Nervios_en_Wall_Street___Esto_REVENTAR__COMO_NUNCA____Queda_el_cohete_m_s_APOTE_SICO_en_BOLSA___.mp3" length="17885781" type="audio/mpeg" />
+        <guid isPermaLink="false">326f8a536b847242e735181d083b5bb204138776</guid>
+        <pubDate>Tue, 21 Oct 2025 17:40:13 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
