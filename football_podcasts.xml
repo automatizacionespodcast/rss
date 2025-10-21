@@ -841,6 +841,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251021__BOFETADA_HIST_RICA_A_FLORENTINO___LA_JUSTICIA_HUMILLA_al_REAL_MADRID_POR_LOS_PARKINGS_del_BERNAB_U.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251021__BOFETADA_HIST_RICA_A_FLORENTINO___LA_JUSTICIA_HUMILLA_al_REAL_MADRID_POR_LOS_PARKINGS_del_BERNAB_U.mp3" length="9541701" type="audio/mpeg" />
+        <guid isPermaLink="false">4ee65574b4fd26c04b102da63dead90252417a1c</guid>
+        <pubDate>Tue, 21 Oct 2025 13:32:06 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
