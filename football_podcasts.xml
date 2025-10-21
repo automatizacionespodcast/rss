@@ -886,6 +886,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251021____CRUCE_DE_DECLARACIONES_MENDILIBAR___FLICK_TRAS_LA_P_LEMICA_EN_EL_BAR_A_6_1_OLYMPIACOS_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251021____CRUCE_DE_DECLARACIONES_MENDILIBAR___FLICK_TRAS_LA_P_LEMICA_EN_EL_BAR_A_6_1_OLYMPIACOS_.mp3" length="9318837" type="audio/mpeg" />
+        <guid isPermaLink="false">9e155305d5356ba32d22826dc789202d33ccfe62</guid>
+        <pubDate>Tue, 21 Oct 2025 21:51:00 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
