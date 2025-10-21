@@ -877,6 +877,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251021_SPIDERCUL__OPINA_SIN_FILTROS_sobre_LAS_P_LEMICAS_del_BAR_A_6_1_OLYMPIACOS.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251021_SPIDERCUL__OPINA_SIN_FILTROS_sobre_LAS_P_LEMICAS_del_BAR_A_6_1_OLYMPIACOS.mp3" length="6765069" type="audio/mpeg" />
+        <guid isPermaLink="false">dd1e65f3bfd6ac71455e60969dabc1cb18285a48</guid>
+        <pubDate>Tue, 21 Oct 2025 21:10:40 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
