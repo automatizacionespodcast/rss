@@ -868,6 +868,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251021___HAT_TRICK_DE_FERMIN__DOBLETE_DE_RASHFORD_Y_GOLEADA_INFERNAL_DEL_BAR_A_6_1_al_OLYMPIACOS.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251021___HAT_TRICK_DE_FERMIN__DOBLETE_DE_RASHFORD_Y_GOLEADA_INFERNAL_DEL_BAR_A_6_1_al_OLYMPIACOS.mp3" length="8753613" type="audio/mpeg" />
+        <guid isPermaLink="false">7e31a00d9182a2d1178a8940d8a195de6c47f63c</guid>
+        <pubDate>Tue, 21 Oct 2025 19:52:32 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
