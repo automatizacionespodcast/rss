@@ -832,6 +832,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251021____NO_HAY_EXCUSAS_que_VALGAN_HOY___TENEMOS_QUE_GANAR_SI_O_SI_____PREVIA_BAR_A___OLYMPIACOS.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251021____NO_HAY_EXCUSAS_que_VALGAN_HOY___TENEMOS_QUE_GANAR_SI_O_SI_____PREVIA_BAR_A___OLYMPIACOS.mp3" length="11616165" type="audio/mpeg" />
+        <guid isPermaLink="false">3250c9f8bfef3675e29fc052e95d9b33f77897c0</guid>
+        <pubDate>Tue, 21 Oct 2025 12:42:14 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
