@@ -895,6 +895,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251021____ESC_NDALO_en_el_BAR_A___OLYMPIACOS__Los__RBITROS_son_MAL_SIMOS___ATLETI_HUMILLADO_4_0_ante_ARSENAL.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251021____ESC_NDALO_en_el_BAR_A___OLYMPIACOS__Los__RBITROS_son_MAL_SIMOS___ATLETI_HUMILLADO_4_0_ante_ARSENAL.mp3" length="10588773" type="audio/mpeg" />
+        <guid isPermaLink="false">9ed0c7064a3002b12fb567d22f791ffdb0eb1333</guid>
+        <pubDate>Tue, 21 Oct 2025 23:11:31 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
