@@ -823,6 +823,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251021__C_mo_INVERTIR_en_TIERRAS_RARAS_a_trav_s_de_ETFs_____Finect.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251021__C_mo_INVERTIR_en_TIERRAS_RARAS_a_trav_s_de_ETFs_____Finect.mp3" length="8985189" type="audio/mpeg" />
+        <guid isPermaLink="false">fb00ee14ef7b79ef2315c49af66184a1d08b4645</guid>
+        <pubDate>Tue, 21 Oct 2025 12:10:42 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
