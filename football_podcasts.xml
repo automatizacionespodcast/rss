@@ -859,6 +859,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251021___OTRA_DERROTA_de_FLORENTINO__LA_JUSTICIA_ANULA_los_PARKINGS_del_MADRID___ENFADO_de_ENDRICK.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251021___OTRA_DERROTA_de_FLORENTINO__LA_JUSTICIA_ANULA_los_PARKINGS_del_MADRID___ENFADO_de_ENDRICK.mp3" length="14888733" type="audio/mpeg" />
+        <guid isPermaLink="false">ea65a62000844ad4eae0395aa268c363528b38e9</guid>
+        <pubDate>Tue, 21 Oct 2025 14:42:06 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
