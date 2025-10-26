@@ -913,6 +913,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251026___SIN_ACTITUD_NO_HAY_BAR_A__REACCION_en_CALIENTE_del_SPIDERCUL__al_R_MADRID_2_1_BAR_A.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251026___SIN_ACTITUD_NO_HAY_BAR_A__REACCION_en_CALIENTE_del_SPIDERCUL__al_R_MADRID_2_1_BAR_A.mp3" length="8571453" type="audio/mpeg" />
+        <guid isPermaLink="false">47d75ad188f23373a467a1710e11ef237e5d717c</guid>
+        <pubDate>Sun, 26 Oct 2025 22:20:16 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
