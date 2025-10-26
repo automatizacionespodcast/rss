@@ -904,6 +904,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251026____ENFADO_MONUMENTAL_de_VINICIUS_JR__por_su_CAMBIO_por_RODRYGO_en_el_REAL_MADRID_2_1_BAR_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251026____ENFADO_MONUMENTAL_de_VINICIUS_JR__por_su_CAMBIO_por_RODRYGO_en_el_REAL_MADRID_2_1_BAR_A_.mp3" length="5928213" type="audio/mpeg" />
+        <guid isPermaLink="false">1aaa9f20a2bd262cd8c7fadd583418030ff3f58a</guid>
+        <pubDate>Sun, 26 Oct 2025 21:28:15 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
