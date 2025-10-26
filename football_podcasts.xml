@@ -922,6 +922,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251026____CAOS_TOTAL_en_el_CL_SICO_____SOTO_GRADO_y_el_VAR_DESATAN_la_LOCURA___PENALTIS_y_GOLES_ANULADOS.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251026____CAOS_TOTAL_en_el_CL_SICO_____SOTO_GRADO_y_el_VAR_DESATAN_la_LOCURA___PENALTIS_y_GOLES_ANULADOS.mp3" length="8343285" type="audio/mpeg" />
+        <guid isPermaLink="false">3c49fa01c61514c9a29090637bc89c412bc6dfb4</guid>
+        <pubDate>Sun, 26 Oct 2025 23:00:44 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
