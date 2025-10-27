@@ -940,6 +940,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251027___LAMINE_YAMAL__ESTOY_CONTIGO__NO_CAMBIES_NUNCA__AS__ESTALL__la_TANGANA_del_CL_SICO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251027___LAMINE_YAMAL__ESTOY_CONTIGO__NO_CAMBIES_NUNCA__AS__ESTALL__la_TANGANA_del_CL_SICO_.mp3" length="8857653" type="audio/mpeg" />
+        <guid isPermaLink="false">c64537d0b187892bb8550a6927b325f2feed2d6a</guid>
+        <pubDate>Mon, 27 Oct 2025 13:20:51 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
