@@ -1003,6 +1003,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251027_LAMINE_YAMAL_Y_VINICIUS_JR_NO_SON_LO_MISMO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251027_LAMINE_YAMAL_Y_VINICIUS_JR_NO_SON_LO_MISMO_.mp3" length="6229149" type="audio/mpeg" />
+        <guid isPermaLink="false">f58d36c4adce599e419b128bb3ed80aa698faaa3</guid>
+        <pubDate>Mon, 27 Oct 2025 19:40:51 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
