@@ -228,6 +228,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251027____Causar__un_EFECTO_DOMIN__en_la_ECONOM_A___el_GRAN_riesgo_del_sistema_y_del_que_nadie_habla.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251027____Causar__un_EFECTO_DOMIN__en_la_ECONOM_A___el_GRAN_riesgo_del_sistema_y_del_que_nadie_habla.mp3" length="16422909" type="audio/mpeg" />
+        <guid isPermaLink="false">7972af88eb2542f5a59fff34954f54729c5609f6</guid>
+        <pubDate>Mon, 27 Oct 2025 18:26:33 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
