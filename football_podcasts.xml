@@ -931,6 +931,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251027___ANALISIS_en_FRIO_del_MADRID_2_1_BAR_A____LO_QUE_OS_HAN_DICHO_DEL_CLASICO_ES_MENTIRA_MENOS_UNA_COSA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251027___ANALISIS_en_FRIO_del_MADRID_2_1_BAR_A____LO_QUE_OS_HAN_DICHO_DEL_CLASICO_ES_MENTIRA_MENOS_UNA_COSA.mp3" length="11333925" type="audio/mpeg" />
+        <guid isPermaLink="false">29ed5cebba10f0bcdf0d15eae0d5047256a77ac7</guid>
+        <pubDate>Mon, 27 Oct 2025 13:01:02 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
