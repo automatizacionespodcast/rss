@@ -237,6 +237,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251027__Cu_nto_CUESTA_en_ASESOR_FINANCIERO_en_ESPA_A_____Finect.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251027__Cu_nto_CUESTA_en_ASESOR_FINANCIERO_en_ESPA_A_____Finect.mp3" length="2573853" type="audio/mpeg" />
+        <guid isPermaLink="false">a5263d1f199294c8ec8e4ccf12457a347197552d</guid>
+        <pubDate>Mon, 27 Oct 2025 20:20:29 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
