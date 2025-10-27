@@ -1012,6 +1012,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251027__AHORA_SI_ARRANCA_el_PROYECTO_XABI__QUE_NECESARIO_era_ESTO_para_el_REAL_MADRID.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251027__AHORA_SI_ARRANCA_el_PROYECTO_XABI__QUE_NECESARIO_era_ESTO_para_el_REAL_MADRID.mp3" length="18036477" type="audio/mpeg" />
+        <guid isPermaLink="false">f65bd5ec1006024a831493817ad8b3f1810dd85f</guid>
+        <pubDate>Mon, 27 Oct 2025 20:01:53 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
