@@ -985,6 +985,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251027__QU__LE_PAS__AL_BAR_A__DURA_DERROTA_2_1_ANTE_el_MADRID.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251027__QU__LE_PAS__AL_BAR_A__DURA_DERROTA_2_1_ANTE_el_MADRID.mp3" length="17052093" type="audio/mpeg" />
+        <guid isPermaLink="false">b3c1bd2060c875fc0629a778aeb5681be1df1037</guid>
+        <pubDate>Mon, 27 Oct 2025 18:01:28 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
