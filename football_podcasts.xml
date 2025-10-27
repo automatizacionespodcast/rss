@@ -967,6 +967,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251027_IBAI_ADMITE_QUE_TODO_EL_LIO_CON_LAMINE_YAMAL_FUE_CULPA_SUYA_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251027_IBAI_ADMITE_QUE_TODO_EL_LIO_CON_LAMINE_YAMAL_FUE_CULPA_SUYA_.mp3" length="9236973" type="audio/mpeg" />
+        <guid isPermaLink="false">c324de026dc89389645a0a8bfd1989cd3661476b</guid>
+        <pubDate>Mon, 27 Oct 2025 15:40:55 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
