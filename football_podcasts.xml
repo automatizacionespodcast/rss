@@ -949,6 +949,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251027_SORPRENDENTES_PALABRAS_de_DAVOO_XENEIZE_sobre_el_CL_SICO_REAL_MADRID_2_1_BAR_A__REACCIONO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251027_SORPRENDENTES_PALABRAS_de_DAVOO_XENEIZE_sobre_el_CL_SICO_REAL_MADRID_2_1_BAR_A__REACCIONO_.mp3" length="8236605" type="audio/mpeg" />
+        <guid isPermaLink="false">1f8fff39bce124c23c3bc17fa445a958f9bd0435</guid>
+        <pubDate>Mon, 27 Oct 2025 14:20:46 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
