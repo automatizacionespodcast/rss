@@ -1021,6 +1021,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251027___EL_PENALTI_de_CARVAJAL_a_ARA_JO_____POR_QU__NO_SE_PIT_____FILTRADO_AUDIO_del_VAR_y_el_ACTA_ARBITRAL.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251027___EL_PENALTI_de_CARVAJAL_a_ARA_JO_____POR_QU__NO_SE_PIT_____FILTRADO_AUDIO_del_VAR_y_el_ACTA_ARBITRAL.mp3" length="7024125" type="audio/mpeg" />
+        <guid isPermaLink="false">c5675186013f72b93ba3b13b0fca339610a1877f</guid>
+        <pubDate>Mon, 27 Oct 2025 20:40:43 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
