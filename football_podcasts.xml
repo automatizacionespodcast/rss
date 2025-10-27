@@ -976,6 +976,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251027___VINICIUS_EXPLOTA_contra_XABI_ALONSO_y_lo_MANDA_a_TOMAR_por_CU_______ME_PARECE_VERGONZOSO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251027___VINICIUS_EXPLOTA_contra_XABI_ALONSO_y_lo_MANDA_a_TOMAR_por_CU_______ME_PARECE_VERGONZOSO.mp3" length="6645669" type="audio/mpeg" />
+        <guid isPermaLink="false">b6e1814a7852b1895ba20f567e4006dccffe9342</guid>
+        <pubDate>Mon, 27 Oct 2025 17:20:47 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
