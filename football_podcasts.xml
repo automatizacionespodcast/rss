@@ -958,6 +958,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251027__PUDO_ACABAR_en_GOLEADA__REAL_MADRID_2_1_FC_BARCELONA__XABI_se_COMI__a_FLICK_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251027__PUDO_ACABAR_en_GOLEADA__REAL_MADRID_2_1_FC_BARCELONA__XABI_se_COMI__a_FLICK_.mp3" length="27477981" type="audio/mpeg" />
+        <guid isPermaLink="false">5cfea2d4670def281fd6bb86389faf851613d004</guid>
+        <pubDate>Mon, 27 Oct 2025 15:04:15 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
