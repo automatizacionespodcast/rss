@@ -255,6 +255,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251028___BANK_OF_AMERICA_YA_ve_el_GRAN_PELIGRO_en_BOLSA___Ser__muy_DRAM_TICO____.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251028___BANK_OF_AMERICA_YA_ve_el_GRAN_PELIGRO_en_BOLSA___Ser__muy_DRAM_TICO____.mp3" length="21230901" type="audio/mpeg" />
+        <guid isPermaLink="false">be7d51598fc5dc7956537cd39ea2c1af7f7984f8</guid>
+        <pubDate>Tue, 28 Oct 2025 18:27:09 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
