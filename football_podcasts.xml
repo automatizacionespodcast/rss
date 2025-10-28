@@ -1102,6 +1102,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251028____FLORENTINO_VENDER__a_VINICIUS___SIEMPRE_YO__ME_VOY_del_EQUIPO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251028____FLORENTINO_VENDER__a_VINICIUS___SIEMPRE_YO__ME_VOY_del_EQUIPO_.mp3" length="13853133" type="audio/mpeg" />
+        <guid isPermaLink="false">632e04cf4e87abdc236081d960289fd6f0895c8e</guid>
+        <pubDate>Tue, 28 Oct 2025 18:27:06 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
