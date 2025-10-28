@@ -1111,6 +1111,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251028___EL_CL_SICO_DESTAP__el_GRAN_PROBLEMA_del_BAR_A__ESPERO_LOS_JUGADORES_TOMEN_NOTA_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251028___EL_CL_SICO_DESTAP__el_GRAN_PROBLEMA_del_BAR_A__ESPERO_LOS_JUGADORES_TOMEN_NOTA_.mp3" length="6158853" type="audio/mpeg" />
+        <guid isPermaLink="false">ee6916a447656de9a4d4e46d864a37602910d8d6</guid>
+        <pubDate>Tue, 28 Oct 2025 19:20:51 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
