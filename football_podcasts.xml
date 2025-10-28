@@ -1048,6 +1048,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251028___ESTO_ME_REVIENTA__EL_BAR_A_HACE_ALGO_que_el_MADRID_NUNCA_HACE____CON_SUS_BAJAS_y_JUEGO___S_LO_2_1_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251028___ESTO_ME_REVIENTA__EL_BAR_A_HACE_ALGO_que_el_MADRID_NUNCA_HACE____CON_SUS_BAJAS_y_JUEGO___S_LO_2_1_.mp3" length="8955789" type="audio/mpeg" />
+        <guid isPermaLink="false">8e25ef25bafbe5d9a44496e3db7c3d2c54792fc4</guid>
+        <pubDate>Tue, 28 Oct 2025 14:20:51 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
