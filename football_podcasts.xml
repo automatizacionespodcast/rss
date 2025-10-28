@@ -1039,6 +1039,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251028_ESTE_ES_EL_MAYOR_ERROR_DEL_BAR_A_TRAS_EL_CL_SICO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251028_ESTE_ES_EL_MAYOR_ERROR_DEL_BAR_A_TRAS_EL_CL_SICO_.mp3" length="7489413" type="audio/mpeg" />
+        <guid isPermaLink="false">cda3941bfbb340f1a6f2b7865921f03169e16633</guid>
+        <pubDate>Tue, 28 Oct 2025 13:40:52 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
