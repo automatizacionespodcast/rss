@@ -1066,6 +1066,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251028____CARVAJAL_VUELVE_a_ROMPERSE___2_MESES_FUERA__Las__BUENAS__NOTICIAS_de_su_LESI_N.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251028____CARVAJAL_VUELVE_a_ROMPERSE___2_MESES_FUERA__Las__BUENAS__NOTICIAS_de_su_LESI_N.mp3" length="11935197" type="audio/mpeg" />
+        <guid isPermaLink="false">1af6dc72e5c89daf98af4d02ae06aefd64d72591</guid>
+        <pubDate>Tue, 28 Oct 2025 15:00:45 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
