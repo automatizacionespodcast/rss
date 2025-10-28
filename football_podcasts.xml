@@ -1075,6 +1075,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251028_____LTIMA_HORA__NUEVOS_DETALLES_SOBRE_EL_CASO_NEGREIRA____EL_BAR_A_EN_PROBLEMAS_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251028_____LTIMA_HORA__NUEVOS_DETALLES_SOBRE_EL_CASO_NEGREIRA____EL_BAR_A_EN_PROBLEMAS_.mp3" length="6321957" type="audio/mpeg" />
+        <guid isPermaLink="false">e035731c8dda2e615952639db51f4042cea9a455</guid>
+        <pubDate>Tue, 28 Oct 2025 16:00:43 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
