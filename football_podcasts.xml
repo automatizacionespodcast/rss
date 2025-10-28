@@ -1138,6 +1138,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251028_____ESC_NDALO___OFICIAL__GRAVE_ERROR_de_SOTO_GRADO_en_el_CL_SICO__Y_GRAVE_lo_del_CTA_____REVOLUCI_N_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251028_____ESC_NDALO___OFICIAL__GRAVE_ERROR_de_SOTO_GRADO_en_el_CL_SICO__Y_GRAVE_lo_del_CTA_____REVOLUCI_N_.mp3" length="6489381" type="audio/mpeg" />
+        <guid isPermaLink="false">543d2480abedba892089ae32a519b93a07e402f9</guid>
+        <pubDate>Tue, 28 Oct 2025 22:30:45 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
