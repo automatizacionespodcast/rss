@@ -1120,6 +1120,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251028__TEN_A_QUE_HACER_ESTE_V_DEO__Los_HATERS_del_MADRID_quedaron_RETRATADOS.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251028__TEN_A_QUE_HACER_ESTE_V_DEO__Los_HATERS_del_MADRID_quedaron_RETRATADOS.mp3" length="19291989" type="audio/mpeg" />
+        <guid isPermaLink="false">199b6c673e9c357d001cb90a1ff2236d940bef5e</guid>
+        <pubDate>Tue, 28 Oct 2025 20:12:09 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
