@@ -1057,6 +1057,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251028___LAPORTA_ROMPE_una_NORMA_SAGRADA_del_BAR_A_seg_n_CRUYFF.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251028___LAPORTA_ROMPE_una_NORMA_SAGRADA_del_BAR_A_seg_n_CRUYFF.mp3" length="6812253" type="audio/mpeg" />
+        <guid isPermaLink="false">e67f12964bd4458ae24733450f72fd9245061e4d</guid>
+        <pubDate>Tue, 28 Oct 2025 14:40:45 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
