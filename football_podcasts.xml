@@ -1084,6 +1084,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251028____VINICIUS_ADVIERTE_QUE_SE_IR__DEL_MADRID_SI_XABI_NO_CAMBIA____LAMINE_LESIONADO___BAR_A_a_DECLARAR.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251028____VINICIUS_ADVIERTE_QUE_SE_IR__DEL_MADRID_SI_XABI_NO_CAMBIA____LAMINE_LESIONADO___BAR_A_a_DECLARAR.mp3" length="8840973" type="audio/mpeg" />
+        <guid isPermaLink="false">042d3cd9dbe89660518f20fdd7668c4e1a7c62eb</guid>
+        <pubDate>Tue, 28 Oct 2025 16:40:47 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
