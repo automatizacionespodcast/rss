@@ -1129,6 +1129,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251028_SPIDER_MENSAJE_A_TODOS_LOS_BARCELONISTAS_TRAS_EL_CL_SICO__MUY_IMPORTANTE_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251028_SPIDER_MENSAJE_A_TODOS_LOS_BARCELONISTAS_TRAS_EL_CL_SICO__MUY_IMPORTANTE_.mp3" length="7957557" type="audio/mpeg" />
+        <guid isPermaLink="false">1849d9c7e513b5128d0581ede18397220db8ec7c</guid>
+        <pubDate>Tue, 28 Oct 2025 20:40:52 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
