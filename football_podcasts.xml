@@ -1174,6 +1174,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251029____ALUCINO__JUGADORES_del_MADRID_DISCONFORMES_con_XABI_por_sus_M_TODOS.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251029____ALUCINO__JUGADORES_del_MADRID_DISCONFORMES_con_XABI_por_sus_M_TODOS.mp3" length="17704245" type="audio/mpeg" />
+        <guid isPermaLink="false">1cbbd0f715461507ecb724d99893fcdbed598651</guid>
+        <pubDate>Wed, 29 Oct 2025 15:12:13 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
