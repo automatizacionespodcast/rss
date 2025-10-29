@@ -1156,6 +1156,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251029__VERG_ENZA____EL_CTA_OCULTA_el_PENALTI_CLARISIMO_de_CARVAJAL_a_ARAUJO_en_el_CL_SICO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251029__VERG_ENZA____EL_CTA_OCULTA_el_PENALTI_CLARISIMO_de_CARVAJAL_a_ARAUJO_en_el_CL_SICO_.mp3" length="7417965" type="audio/mpeg" />
+        <guid isPermaLink="false">6d3831740d55122148e53ac3bc81cfe8b411bd34</guid>
+        <pubDate>Wed, 29 Oct 2025 13:40:46 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
