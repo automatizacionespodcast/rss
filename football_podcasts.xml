@@ -1183,6 +1183,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251029____VINICIUS_ROMPE_su_SILENCIO_y_es_OBLIGADO_a_PEDIR_PERD_N_P_BLICAMENTE_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251029____VINICIUS_ROMPE_su_SILENCIO_y_es_OBLIGADO_a_PEDIR_PERD_N_P_BLICAMENTE_.mp3" length="6512493" type="audio/mpeg" />
+        <guid isPermaLink="false">dea00ca1898a87bf4e3fe9f611da7a5224dc3e36</guid>
+        <pubDate>Wed, 29 Oct 2025 15:40:41 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
