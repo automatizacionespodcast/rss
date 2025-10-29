@@ -1210,6 +1210,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251029_EXPLICACI_N_DEFINITIVA_DE_POR_QU__HAY_TANTOS_LESIONADOS_EN_EL_BAR_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251029_EXPLICACI_N_DEFINITIVA_DE_POR_QU__HAY_TANTOS_LESIONADOS_EN_EL_BAR_A_.mp3" length="9566469" type="audio/mpeg" />
+        <guid isPermaLink="false">8ac2fe089a830037a195b2c5cfb2e133a995e01c</guid>
+        <pubDate>Wed, 29 Oct 2025 19:40:57 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
