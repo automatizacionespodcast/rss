@@ -1219,6 +1219,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251029__EL_BAR_A_FRENA_a_LAMINE_YAMAL__SE_ACAB____ENDRICK_al_LYON__MUY_PROBABLE____EL_MADRID_RECLAMA_a_UEFA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251029__EL_BAR_A_FRENA_a_LAMINE_YAMAL__SE_ACAB____ENDRICK_al_LYON__MUY_PROBABLE____EL_MADRID_RECLAMA_a_UEFA.mp3" length="7984389" type="audio/mpeg" />
+        <guid isPermaLink="false">409eccec9f846f0742101d2a31a8d0f5b17749be</guid>
+        <pubDate>Wed, 29 Oct 2025 20:12:42 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251029_VINICIUS_PIDE_PERD_N____PERO_NO_A_XABI_ALONSO___HABR__LIO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251029_VINICIUS_PIDE_PERD_N____PERO_NO_A_XABI_ALONSO___HABR__LIO_.mp3" length="10345533" type="audio/mpeg" />
+        <guid isPermaLink="false">6210077fb21f48f9fdd5fd48088a6638205362b6</guid>
+        <pubDate>Wed, 29 Oct 2025 20:12:45 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
