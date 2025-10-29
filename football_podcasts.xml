@@ -1201,6 +1201,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251029___BOMBAZO___FLICK_MEDITA_IRSE_del_BAR_A__APUNTAN_a_un_DESGASTE_ELEVADO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251029___BOMBAZO___FLICK_MEDITA_IRSE_del_BAR_A__APUNTAN_a_un_DESGASTE_ELEVADO.mp3" length="13893549" type="audio/mpeg" />
+        <guid isPermaLink="false">d2d941f9b2b3f95ae95a48c438b1f0a2480444de</guid>
+        <pubDate>Wed, 29 Oct 2025 18:11:21 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
