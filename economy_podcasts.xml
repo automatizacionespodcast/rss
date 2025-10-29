@@ -273,6 +273,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251029_NVIDIA_en_5_BILLONES_de_D_LARES_____Una_REVOLUCI_N_que_da_V_RTIGO________Diego_Puertas___Finect.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251029_NVIDIA_en_5_BILLONES_de_D_LARES_____Una_REVOLUCI_N_que_da_V_RTIGO________Diego_Puertas___Finect.mp3" length="22358709" type="audio/mpeg" />
+        <guid isPermaLink="false">36f5a08bf05e3f384266688fe1804d3b02f14d3e</guid>
+        <pubDate>Wed, 29 Oct 2025 20:35:11 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
