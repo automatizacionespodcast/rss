@@ -1165,6 +1165,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251029_____PEDRI_LESIONADO___SE_ROMPE___CU_NTO_de_BAJA____VINICIUS_PIDE_PERD_N____PERO_NO_a_XABI_ALONSO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251029_____PEDRI_LESIONADO___SE_ROMPE___CU_NTO_de_BAJA____VINICIUS_PIDE_PERD_N____PERO_NO_a_XABI_ALONSO.mp3" length="5719629" type="audio/mpeg" />
+        <guid isPermaLink="false">c34768e9d7a997bd2e8d3cdc393fa640ba5c8d7a</guid>
+        <pubDate>Wed, 29 Oct 2025 14:30:38 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
