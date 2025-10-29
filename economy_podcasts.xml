@@ -264,6 +264,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251029____Los_niveles_son_YA_una_VOZ_DE_ALERTA___La_BOLSA_y_la_ECONOM_A_van_AL_L_MITE___Con_Pablo_Gil.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251029____Los_niveles_son_YA_una_VOZ_DE_ALERTA___La_BOLSA_y_la_ECONOM_A_van_AL_L_MITE___Con_Pablo_Gil.mp3" length="25753701" type="audio/mpeg" />
+        <guid isPermaLink="false">08fb222cda81ee8fab5deb419146236ce8f67504</guid>
+        <pubDate>Wed, 29 Oct 2025 18:25:46 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
