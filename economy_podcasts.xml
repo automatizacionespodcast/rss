@@ -318,6 +318,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251030_La_Inversi_n_en_ETFs_y_Fondos_Indexados___La_pizarra_de_Invertir_desde_Cero_Ep_4.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251030_La_Inversi_n_en_ETFs_y_Fondos_Indexados___La_pizarra_de_Invertir_desde_Cero_Ep_4.mp3" length="15291789" type="audio/mpeg" />
+        <guid isPermaLink="false">9ac1bd5084b5d860a64dd73a3ce18f30f3d60242</guid>
+        <pubDate>Thu, 30 Oct 2025 19:21:56 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
