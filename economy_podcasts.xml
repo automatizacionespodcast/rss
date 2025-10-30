@@ -282,6 +282,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251030__Gran_Incertidumbre_del_Futuro_de_los_Mercados___Qu__Esperar__An_lisis_Discurso_Powell.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251030__Gran_Incertidumbre_del_Futuro_de_los_Mercados___Qu__Esperar__An_lisis_Discurso_Powell.mp3" length="8604813" type="audio/mpeg" />
+        <guid isPermaLink="false">45cde34f1baa38e53172a6722402b01c242199a9</guid>
+        <pubDate>Thu, 30 Oct 2025 13:50:51 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
