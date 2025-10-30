@@ -309,6 +309,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251030______PETARDAZO_FINAL_en_la_BOLSA___La_tendencia_puede_ser_MUY_VERTICAL_en_esta_fase.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251030______PETARDAZO_FINAL_en_la_BOLSA___La_tendencia_puede_ser_MUY_VERTICAL_en_esta_fase.mp3" length="23838093" type="audio/mpeg" />
+        <guid isPermaLink="false">b1265ca790bd8ee55d2648aa400eeffdd699a246</guid>
+        <pubDate>Thu, 30 Oct 2025 18:25:15 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
