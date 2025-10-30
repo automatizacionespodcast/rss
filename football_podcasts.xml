@@ -1273,6 +1273,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251030_____BOMBAZO___El_MADRID_RECLAMA_4_500_MILLONES_a_la_UEFA_______VINICIUS_SUPLENTE_EN_EL_MADRID_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251030_____BOMBAZO___El_MADRID_RECLAMA_4_500_MILLONES_a_la_UEFA_______VINICIUS_SUPLENTE_EN_EL_MADRID_.mp3" length="7693149" type="audio/mpeg" />
+        <guid isPermaLink="false">75618f298e29f9c0315d932fd99666588d370c98</guid>
+        <pubDate>Thu, 30 Oct 2025 15:30:45 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
