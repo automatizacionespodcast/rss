@@ -1282,6 +1282,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251030__MOVIMIENTO_HIST_RICO___El_MADRID_PLANEA_VENDER_a_VIN_CIUS_para_fichar_a_HAALAND.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251030__MOVIMIENTO_HIST_RICO___El_MADRID_PLANEA_VENDER_a_VIN_CIUS_para_fichar_a_HAALAND.mp3" length="5299341" type="audio/mpeg" />
+        <guid isPermaLink="false">f28dfa1d190cacd462b2de9a5614ea6ca426c99c</guid>
+        <pubDate>Thu, 30 Oct 2025 16:00:38 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
