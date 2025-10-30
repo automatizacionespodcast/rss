@@ -1300,6 +1300,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251030____MANIPULARON_la_FRASE_de_LAMINE_YAMAL_a_VINICIUS_____AS__LO_ASEGURAN___ETTA__EYONG_al_BAR_A.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251030____MANIPULARON_la_FRASE_de_LAMINE_YAMAL_a_VINICIUS_____AS__LO_ASEGURAN___ETTA__EYONG_al_BAR_A.mp3" length="6359901" type="audio/mpeg" />
+        <guid isPermaLink="false">9ef93485048928dea718c556ddef4e942a2b10e0</guid>
+        <pubDate>Thu, 30 Oct 2025 18:30:52 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
