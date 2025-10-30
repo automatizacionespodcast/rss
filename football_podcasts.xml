@@ -1309,6 +1309,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251030____BOMBAZOS_DE__LTIMA_HORA_EN_CAN_BAR_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251030____BOMBAZOS_DE__LTIMA_HORA_EN_CAN_BAR_A_.mp3" length="5343597" type="audio/mpeg" />
+        <guid isPermaLink="false">2a97fc78ad5d292811f02b65af28291c31afd85c</guid>
+        <pubDate>Thu, 30 Oct 2025 19:00:48 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
