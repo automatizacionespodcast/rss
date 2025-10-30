@@ -1246,6 +1246,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251030___LAMENTABLE____MI_PEOR_PUNTAJE___RESULTADOS_J10_Y_PREDICCI_N_JORNADA_11___Ubietoo___QUNIELAS.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251030___LAMENTABLE____MI_PEOR_PUNTAJE___RESULTADOS_J10_Y_PREDICCI_N_JORNADA_11___Ubietoo___QUNIELAS.mp3" length="7928421" type="audio/mpeg" />
+        <guid isPermaLink="false">3fb5176f0ff6f5d6b9012dfb328eb6c51c67e103</guid>
+        <pubDate>Thu, 30 Oct 2025 14:10:49 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
