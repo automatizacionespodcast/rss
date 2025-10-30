@@ -1255,6 +1255,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251030__VESTUARIO_ROTO____PESOS_PESADOS_del_MADRID_se_HARTAN_de_XABI_ALONSO_y_LO_QUIEREN_FUERA_YA_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251030__VESTUARIO_ROTO____PESOS_PESADOS_del_MADRID_se_HARTAN_de_XABI_ALONSO_y_LO_QUIEREN_FUERA_YA_.mp3" length="6338469" type="audio/mpeg" />
+        <guid isPermaLink="false">e80510871599d96d0847922ee92afd0a704c3a2f</guid>
+        <pubDate>Thu, 30 Oct 2025 14:40:44 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
