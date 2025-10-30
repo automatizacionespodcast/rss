@@ -1264,6 +1264,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251030____PEDRI_LESIONADO_MES_Y_MEDIO___PODR__SOBREVIVIR_el_BAR_A_SIN__L_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251030____PEDRI_LESIONADO_MES_Y_MEDIO___PODR__SOBREVIVIR_el_BAR_A_SIN__L_.mp3" length="17899917" type="audio/mpeg" />
+        <guid isPermaLink="false">4159692c3ca0836096df024a4d5222dd2afdc0e3</guid>
+        <pubDate>Thu, 30 Oct 2025 15:11:48 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
