@@ -291,6 +291,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251030_C_mo_Ganar_INGRESOS_PASIVOS_con_los_DIVIDENDOS__y_Cu_ndo_NO_Compensa_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251030_C_mo_Ganar_INGRESOS_PASIVOS_con_los_DIVIDENDOS__y_Cu_ndo_NO_Compensa_.mp3" length="13942461" type="audio/mpeg" />
+        <guid isPermaLink="false">ea0840c41e334a85bdb48cb7816d209b5597f291</guid>
+        <pubDate>Thu, 30 Oct 2025 17:21:52 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251030_Mercados_privados___Demasiado__p_blicos______Finect_Alpha_con_Raquel_Bl_zquez_y_David_Azcona.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251030_Mercados_privados___Demasiado__p_blicos______Finect_Alpha_con_Raquel_Bl_zquez_y_David_Azcona.mp3" length="26214400" type="audio/mpeg" />
+        <guid isPermaLink="false">b05edefb346767777b18b24dec021821aa94ee53</guid>
+        <pubDate>Thu, 30 Oct 2025 17:22:10 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
