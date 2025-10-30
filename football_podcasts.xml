@@ -1327,6 +1327,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251030___EL_MADRID_y_su__SUERTE______JUGAR__ante_PEOR_LIVERPOOL____HAALAND_por_VINICIUS__POSIBLE_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251030___EL_MADRID_y_su__SUERTE______JUGAR__ante_PEOR_LIVERPOOL____HAALAND_por_VINICIUS__POSIBLE_.mp3" length="9919365" type="audio/mpeg" />
+        <guid isPermaLink="false">97ea88d4aed8d6e4e074d465c1265732118f9115</guid>
+        <pubDate>Thu, 30 Oct 2025 21:51:04 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
