@@ -1237,6 +1237,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251030_BOMBAZO___FLORENTINO_PREPARA_UNA_DEMANDA_MULTIMILLONARIA_CONTRA_LA_UEFA_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251030_BOMBAZO___FLORENTINO_PREPARA_UNA_DEMANDA_MULTIMILLONARIA_CONTRA_LA_UEFA_.mp3" length="9567573" type="audio/mpeg" />
+        <guid isPermaLink="false">52765773473cd0be84a7522a5b8f15e85b19ebf2</guid>
+        <pubDate>Thu, 30 Oct 2025 13:21:01 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
