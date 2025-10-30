@@ -1291,6 +1291,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251030____La_SUPERLIGA_DEMANDA_4_500_MILLONES_a_la_UEFA___FLORENTINO_al_ATAQUE_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251030____La_SUPERLIGA_DEMANDA_4_500_MILLONES_a_la_UEFA___FLORENTINO_al_ATAQUE_.mp3" length="13142157" type="audio/mpeg" />
+        <guid isPermaLink="false">69038c0e8115affcbf36eababfcd3ef77df9ca28</guid>
+        <pubDate>Thu, 30 Oct 2025 18:11:06 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
