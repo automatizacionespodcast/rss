@@ -1318,6 +1318,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251030____HAALAND_SE_IR__al_MADRID_en_2026__EL_SUE_O_de_FLORENTINO_M_S_CERCA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251030____HAALAND_SE_IR__al_MADRID_en_2026__EL_SUE_O_de_FLORENTINO_M_S_CERCA.mp3" length="16987869" type="audio/mpeg" />
+        <guid isPermaLink="false">fb0033832392773826d69972a55f8889390c8b7c</guid>
+        <pubDate>Thu, 30 Oct 2025 20:11:51 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
