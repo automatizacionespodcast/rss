@@ -1354,6 +1354,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251031___ACOSO_a_XABI_ALONSO_____LE_PIDI__PERD_N_VINICIUS_o_NO_____QU__PASA_con_ENDRICK_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251031___ACOSO_a_XABI_ALONSO_____LE_PIDI__PERD_N_VINICIUS_o_NO_____QU__PASA_con_ENDRICK_.mp3" length="8103333" type="audio/mpeg" />
+        <guid isPermaLink="false">10d74d574bd870ddc1f2a2031e7cf749325cb92e</guid>
+        <pubDate>Fri, 31 Oct 2025 14:13:04 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
