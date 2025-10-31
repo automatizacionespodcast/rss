@@ -1336,6 +1336,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251031_CONFIRMADO__EL_BAR_A_VUELVE_AL_CAMP_NOU_EN_NOVIEMBRE__PERO_NO_ES_COMO_CREES_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251031_CONFIRMADO__EL_BAR_A_VUELVE_AL_CAMP_NOU_EN_NOVIEMBRE__PERO_NO_ES_COMO_CREES_.mp3" length="5300781" type="audio/mpeg" />
+        <guid isPermaLink="false">583861106086530e74dc6bbc55e39ba45e5ad93f</guid>
+        <pubDate>Fri, 31 Oct 2025 12:20:52 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
