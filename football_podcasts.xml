@@ -1372,6 +1372,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251031___MBAPP__HACE_HISTORIA_Y_GANA_SU_PRIMERA_BOTA_DE_ORO__REALMENTE_LA_MEREC_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251031___MBAPP__HACE_HISTORIA_Y_GANA_SU_PRIMERA_BOTA_DE_ORO__REALMENTE_LA_MEREC_A_.mp3" length="6147213" type="audio/mpeg" />
+        <guid isPermaLink="false">6551166b907d783beb5f169be811f6067317c249</guid>
+        <pubDate>Fri, 31 Oct 2025 15:20:49 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
