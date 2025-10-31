@@ -336,6 +336,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251031___Se_ACAB__LA_FIESTA__el_Rey_de_los_Bonos_ve_el_ocaso_del_ORO_con_el_furor_por_la_ECONOM_A.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251031___Se_ACAB__LA_FIESTA__el_Rey_de_los_Bonos_ve_el_ocaso_del_ORO_con_el_furor_por_la_ECONOM_A.mp3" length="16445493" type="audio/mpeg" />
+        <guid isPermaLink="false">84b39f32bc181564fb7a4607f62911e3e830ea04</guid>
+        <pubDate>Fri, 31 Oct 2025 18:21:49 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
