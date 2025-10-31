@@ -1390,6 +1390,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251031___MBAPP__RECIBE_la_BOTA_de_ORO___HAR_MOS_GRANDES_COSAS__MASTANTUONO_ROMPI__el_MERCADO_en_ARGENTINA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251031___MBAPP__RECIBE_la_BOTA_de_ORO___HAR_MOS_GRANDES_COSAS__MASTANTUONO_ROMPI__el_MERCADO_en_ARGENTINA.mp3" length="13784157" type="audio/mpeg" />
+        <guid isPermaLink="false">6712a3ee358bd5ea5cdec709b8ed346423a83676</guid>
+        <pubDate>Fri, 31 Oct 2025 18:10:59 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
