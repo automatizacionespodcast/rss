@@ -1381,6 +1381,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251031____DESVELAN_LOS_MOTIVOS_REALES_DEL_BAJ_N_DE_RENDIMIENTO_DEL_BAR_A___SEG_N_SPORT_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251031____DESVELAN_LOS_MOTIVOS_REALES_DEL_BAJ_N_DE_RENDIMIENTO_DEL_BAR_A___SEG_N_SPORT_.mp3" length="9222093" type="audio/mpeg" />
+        <guid isPermaLink="false">f108e8c4151723eb3d48e05197dedbf9d2683272</guid>
+        <pubDate>Fri, 31 Oct 2025 17:41:03 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
