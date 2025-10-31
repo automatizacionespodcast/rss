@@ -1345,6 +1345,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251031____EL_BAR_A_ABANDONA_AL_REAL_MADRID_y_NO_DEMANDAR__A_LA_UEFA_POR_LA_SUPERLIGA_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251031____EL_BAR_A_ABANDONA_AL_REAL_MADRID_y_NO_DEMANDAR__A_LA_UEFA_POR_LA_SUPERLIGA_.mp3" length="7552509" type="audio/mpeg" />
+        <guid isPermaLink="false">728f8d9a0fc9ddd63fa6a3bd865842b85e2ff0f9</guid>
+        <pubDate>Fri, 31 Oct 2025 13:40:58 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
