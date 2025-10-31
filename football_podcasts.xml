@@ -1417,6 +1417,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251031____0_VICTORIAS_en_los_3_PR_XIMOS_PARTIDOS__EL_PELIGRO_al_que_se_ENFRENTA_el_REAL_MADRID.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251031____0_VICTORIAS_en_los_3_PR_XIMOS_PARTIDOS__EL_PELIGRO_al_que_se_ENFRENTA_el_REAL_MADRID.mp3" length="16160277" type="audio/mpeg" />
+        <guid isPermaLink="false">06db424242cec574a4cf2cf3aa73a4af730c9ade</guid>
+        <pubDate>Fri, 31 Oct 2025 20:11:20 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
