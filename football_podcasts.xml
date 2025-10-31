@@ -1408,6 +1408,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251031__BOMBAZO____MESSI_PUEDE_DECIDIR_QUI_N_SER__el_PR_XIMO_PRESIDENTE_del_BAR_A___APOYAR__A_LAPORTA_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251031__BOMBAZO____MESSI_PUEDE_DECIDIR_QUI_N_SER__el_PR_XIMO_PRESIDENTE_del_BAR_A___APOYAR__A_LAPORTA_.mp3" length="5591829" type="audio/mpeg" />
+        <guid isPermaLink="false">1f40f2ef20e5056addc0d0b81edad1a81020900b</guid>
+        <pubDate>Fri, 31 Oct 2025 20:00:47 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
