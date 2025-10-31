@@ -327,6 +327,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251031_As__es_el_ETF_WisdomTree_Physical_Gold_para_INVERTIR_EN_ORO___El_fondo_del_mes_by_SelfBank___.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251031_As__es_el_ETF_WisdomTree_Physical_Gold_para_INVERTIR_EN_ORO___El_fondo_del_mes_by_SelfBank___.mp3" length="8493933" type="audio/mpeg" />
+        <guid isPermaLink="false">a95a0efdc101edfc6f0e3f91ce5256194268e90f</guid>
+        <pubDate>Fri, 31 Oct 2025 14:13:07 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
