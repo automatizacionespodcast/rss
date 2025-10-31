@@ -1399,6 +1399,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251031___ALARMA_en_el_BAR_A____LAMINE_YAMAL_entre_DOLOR_y_RIESGO___OFICIAL_CAMP_NOU___MBAPP__BOTA_de_ORO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251031___ALARMA_en_el_BAR_A____LAMINE_YAMAL_entre_DOLOR_y_RIESGO___OFICIAL_CAMP_NOU___MBAPP__BOTA_de_ORO.mp3" length="5572557" type="audio/mpeg" />
+        <guid isPermaLink="false">64d4bfdd374a633eb3a39392452a1e8a9206f4c4</guid>
+        <pubDate>Fri, 31 Oct 2025 19:50:46 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
