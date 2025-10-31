@@ -1363,6 +1363,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251031_XABI_ACABA_con_la_POL_MICA_con_VINICIUS___DE_MOMENTO__A_VER_MA_ANA_QUE_PASA_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251031_XABI_ACABA_con_la_POL_MICA_con_VINICIUS___DE_MOMENTO__A_VER_MA_ANA_QUE_PASA_.mp3" length="12610893" type="audio/mpeg" />
+        <guid isPermaLink="false">68e4c3234b28c407b3b3186ffad690a38d7a57ce</guid>
+        <pubDate>Fri, 31 Oct 2025 15:11:02 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
