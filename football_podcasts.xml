@@ -1507,6 +1507,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251101___DOBLETE_DE_MBAPP__y_GOLEADA_MONUMENTAL_DEL_MADRID_4_0_AL_VALENCIA_PARA_PONERSE_a_8_PUNTOS_DEL_BAR_A.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251101___DOBLETE_DE_MBAPP__y_GOLEADA_MONUMENTAL_DEL_MADRID_4_0_AL_VALENCIA_PARA_PONERSE_a_8_PUNTOS_DEL_BAR_A.mp3" length="7130733" type="audio/mpeg" />
+        <guid isPermaLink="false">46eaa00e26eb234c0798429099f5271a99a419dd</guid>
+        <pubDate>Sat, 01 Nov 2025 22:40:56 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
