@@ -1462,6 +1462,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251101__BOMBAZO___LAMINE_YAMAL_Y_NICKI_NICOLE_HAN_ROTO__CONFIRMADO_POR_JAVI_HOYOS_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251101__BOMBAZO___LAMINE_YAMAL_Y_NICKI_NICOLE_HAN_ROTO__CONFIRMADO_POR_JAVI_HOYOS_.mp3" length="6063213" type="audio/mpeg" />
+        <guid isPermaLink="false">f4cb013214069fe317de7ff25c1d5a6306f2876a</guid>
+        <pubDate>Sat, 01 Nov 2025 16:20:49 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
