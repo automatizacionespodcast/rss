@@ -1498,6 +1498,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251101_REACCIONES_DE_UN_HINCHA_al_Real_Madrid_vs_Valencia_4_0__QUE_ESPECT_CULO____ByDiegoX10.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251101_REACCIONES_DE_UN_HINCHA_al_Real_Madrid_vs_Valencia_4_0__QUE_ESPECT_CULO____ByDiegoX10.mp3" length="9741765" type="audio/mpeg" />
+        <guid isPermaLink="false">b5ac08b9ae15cbae0bee5ba1d8855d65d96c5264</guid>
+        <pubDate>Sat, 01 Nov 2025 22:31:23 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
