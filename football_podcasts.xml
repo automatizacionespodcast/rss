@@ -1480,6 +1480,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251101_MI_OPINION_SOBRE_LA_RUPTURA_DE_LAMINE_Y_NICKI_NICOLE___ROONY_DEBE_SER_TITULAR_y_LAMINE_DESCANSAR.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251101_MI_OPINION_SOBRE_LA_RUPTURA_DE_LAMINE_Y_NICKI_NICOLE___ROONY_DEBE_SER_TITULAR_y_LAMINE_DESCANSAR.mp3" length="5211093" type="audio/mpeg" />
+        <guid isPermaLink="false">03388e883dd26817a828e0660d6c7d2276e78320</guid>
+        <pubDate>Sat, 01 Nov 2025 18:24:53 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
