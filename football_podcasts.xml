@@ -1435,6 +1435,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251101____FILTRAN_QUE_EL_BAR_A_QUIERE_FICHAR_YA_A_MARCUS_RASHFORD__.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251101____FILTRAN_QUE_EL_BAR_A_QUIERE_FICHAR_YA_A_MARCUS_RASHFORD__.mp3" length="9306813" type="audio/mpeg" />
+        <guid isPermaLink="false">8583ff2d5223bee9b335755d830eda9f811fb30b</guid>
+        <pubDate>Sat, 01 Nov 2025 12:41:02 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
