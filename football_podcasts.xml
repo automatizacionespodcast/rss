@@ -1471,6 +1471,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251101____PINCHAZO_del_MADRID_ante_el_VALENCIA__DATO_DEMOLEDOR___HANSI_FLICK_quiere_CUIDAR_de_LAMINE_YAMAL.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251101____PINCHAZO_del_MADRID_ante_el_VALENCIA__DATO_DEMOLEDOR___HANSI_FLICK_quiere_CUIDAR_de_LAMINE_YAMAL.mp3" length="5504685" type="audio/mpeg" />
+        <guid isPermaLink="false">d7b1132b2cafda48207d650f842a47864d9bced3</guid>
+        <pubDate>Sat, 01 Nov 2025 16:50:53 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
