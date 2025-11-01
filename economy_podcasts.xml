@@ -345,6 +345,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251101___GOLDMAN_SACHS_advierte_del__TIC_TAC__en_BOLSA___haz_mucho_DINERO_antes_de_que_sea_demasiado_TARDE_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251101___GOLDMAN_SACHS_advierte_del__TIC_TAC__en_BOLSA___haz_mucho_DINERO_antes_de_que_sea_demasiado_TARDE_.mp3" length="16312461" type="audio/mpeg" />
+        <guid isPermaLink="false">3761f14c4d287c67827c87133c8db49b2936dad8</guid>
+        <pubDate>Sat, 01 Nov 2025 18:24:55 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
