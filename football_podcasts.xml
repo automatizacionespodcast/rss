@@ -1489,6 +1489,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251101__YA_BASTA_DE_DRAMAS____OS_EXPLICO_qu__PASAR__si_el_BAR_A_HACE_UNA_MALA_TEMPORADA_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251101__YA_BASTA_DE_DRAMAS____OS_EXPLICO_qu__PASAR__si_el_BAR_A_HACE_UNA_MALA_TEMPORADA_.mp3" length="6544845" type="audio/mpeg" />
+        <guid isPermaLink="false">92029aa902e538d80b1ff1f1f1ce442b3c4348d9</guid>
+        <pubDate>Sat, 01 Nov 2025 19:20:56 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
