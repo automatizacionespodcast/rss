@@ -1453,6 +1453,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251101____LAMINE_YAMAL_EN_RIESGO__La_PUBALGIA_podr_a_EMPEORAR_si_no_se_DETIENE.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251101____LAMINE_YAMAL_EN_RIESGO__La_PUBALGIA_podr_a_EMPEORAR_si_no_se_DETIENE.mp3" length="10650213" type="audio/mpeg" />
+        <guid isPermaLink="false">06f99e982cda2e4761d0db1218ce3deef331db95</guid>
+        <pubDate>Sat, 01 Nov 2025 15:10:57 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
