@@ -1426,6 +1426,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251101_REAL_MADRID_vs_VALENCIA__VINICIUS_SUPLENTE___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251101_REAL_MADRID_vs_VALENCIA__VINICIUS_SUPLENTE___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="13927821" type="audio/mpeg" />
+        <guid isPermaLink="false">27bdcfa80c0185782ca0d8e9a5c0e57cb3c703cc</guid>
+        <pubDate>Sat, 01 Nov 2025 11:11:05 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
