@@ -1516,6 +1516,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251101___EL_MEJOR_MADRID_del_A_O____4_0_con_BA_O_de_F_TBOL____y_DOS_PENALTIS___DOBLETE_MBAPP__y_DEBUTA_ENDRICK.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251101___EL_MEJOR_MADRID_del_A_O____4_0_con_BA_O_de_F_TBOL____y_DOS_PENALTIS___DOBLETE_MBAPP__y_DEBUTA_ENDRICK.mp3" length="4537485" type="audio/mpeg" />
+        <guid isPermaLink="false">c295bbcd1eb0a7fe12f531ee2b5ff8cbf0fe6fe7</guid>
+        <pubDate>Sat, 01 Nov 2025 23:30:49 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
