@@ -1606,6 +1606,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251102__NO__FERRAN__ESTE_BAR_A_NO_ES_EL_MISMO_DEL_A_O_PASADO_____FLICK_REVELA_EL_PROBLEMA_REAL_DEL_EQUIPO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251102__NO__FERRAN__ESTE_BAR_A_NO_ES_EL_MISMO_DEL_A_O_PASADO_____FLICK_REVELA_EL_PROBLEMA_REAL_DEL_EQUIPO_.mp3" length="6405117" type="audio/mpeg" />
+        <guid isPermaLink="false">8275ac2df21569587fc4f89361e24b6a0747ced2</guid>
+        <pubDate>Sun, 02 Nov 2025 21:20:58 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
