@@ -1597,6 +1597,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251102_GOLAZOS_DE_LAMINE_Y_RASHFORD___EL_BAR_A_RECORTA_PUNTOS___FC_BARCELONA_3_1_ELCHE_CF___LALIGA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251102_GOLAZOS_DE_LAMINE_Y_RASHFORD___EL_BAR_A_RECORTA_PUNTOS___FC_BARCELONA_3_1_ELCHE_CF___LALIGA.mp3" length="8090805" type="audio/mpeg" />
+        <guid isPermaLink="false">538a850d9b283b03471fbe845bb85a3709a67f6c</guid>
+        <pubDate>Sun, 02 Nov 2025 20:41:01 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
