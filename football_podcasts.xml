@@ -1552,6 +1552,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251102_BRUTAL_MADRID_que_APLASTA_al_VALENCIA_4_0__VOLVI__el_MEJOR_BELLINGHAM_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251102_BRUTAL_MADRID_que_APLASTA_al_VALENCIA_4_0__VOLVI__el_MEJOR_BELLINGHAM_.mp3" length="19929645" type="audio/mpeg" />
+        <guid isPermaLink="false">d4ab7fb8ca4ba0e0a22b17adaaa874eb38b65787</guid>
+        <pubDate>Sun, 02 Nov 2025 15:03:13 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
