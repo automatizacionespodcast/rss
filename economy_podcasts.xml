@@ -381,6 +381,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251102__Qu__hace_un_Roboadvisor_con_tu_inversi_n__Mira_dentro.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251102__Qu__hace_un_Roboadvisor_con_tu_inversi_n__Mira_dentro.mp3" length="33030144" type="audio/mpeg" />
+        <guid isPermaLink="false">9410b77ed0c2c32bf251855489f424c0ca3ec46c</guid>
+        <pubDate>Sun, 02 Nov 2025 19:11:54 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
