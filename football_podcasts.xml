@@ -1615,6 +1615,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251102_IMPECABLE____RASHFORD_HACE_AUTOCRITICA_TRAS_RECIBIR_EL_MVP_DEL_PARTIDO____DECLARACIONES_BAR_A_3_1_ELCHE.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251102_IMPECABLE____RASHFORD_HACE_AUTOCRITICA_TRAS_RECIBIR_EL_MVP_DEL_PARTIDO____DECLARACIONES_BAR_A_3_1_ELCHE.mp3" length="6187557" type="audio/mpeg" />
+        <guid isPermaLink="false">8c4a5b3441b69e4494684c101bb729f2126ce44a</guid>
+        <pubDate>Sun, 02 Nov 2025 22:20:55 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
