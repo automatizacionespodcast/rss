@@ -1543,6 +1543,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251102____PUEDE_PASAR_ALGO_HIST_RICO__EL_BAR_A_SE_JUEGA_LALIGA__JUGAR__LAMINE____DATO_DEMOLEDOR_BESTIAL.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251102____PUEDE_PASAR_ALGO_HIST_RICO__EL_BAR_A_SE_JUEGA_LALIGA__JUGAR__LAMINE____DATO_DEMOLEDOR_BESTIAL.mp3" length="6408141" type="audio/mpeg" />
+        <guid isPermaLink="false">2a55b5447276f85dbeb1f533c896a544a968edc1</guid>
+        <pubDate>Sun, 02 Nov 2025 14:40:51 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
