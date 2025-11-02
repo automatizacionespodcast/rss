@@ -1525,6 +1525,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251102_FC_BARCELONA_vs_ELCHE__CUIDADO_con_la_SORPRESA___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251102_FC_BARCELONA_vs_ELCHE__CUIDADO_con_la_SORPRESA___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="14719149" type="audio/mpeg" />
+        <guid isPermaLink="false">2825d88e2b6b226b95b7ba3cf2a68c5cf76e4962</guid>
+        <pubDate>Sun, 02 Nov 2025 10:01:46 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
