@@ -1570,6 +1570,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251102___QU__SUFRIMIENTO____LAMINE_y_RASHFORD_DESPIERTAN_a_un_BAR_A_que_se_ENGANCHA_a_LALIGA_3_1_vs_ELCHE.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251102___QU__SUFRIMIENTO____LAMINE_y_RASHFORD_DESPIERTAN_a_un_BAR_A_que_se_ENGANCHA_a_LALIGA_3_1_vs_ELCHE.mp3" length="5928933" type="audio/mpeg" />
+        <guid isPermaLink="false">acf899cd9f55ebfb991b28d122b7a76a0dab098c</guid>
+        <pubDate>Sun, 02 Nov 2025 20:03:25 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251102_REACCIONES_DE_UN_HINCHA_al_Barcelona_vs_Elche_3_1__VUELVEN_A_GANAR____ByDiegoX10.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251102_REACCIONES_DE_UN_HINCHA_al_Barcelona_vs_Elche_3_1__VUELVEN_A_GANAR____ByDiegoX10.mp3" length="7438653" type="audio/mpeg" />
+        <guid isPermaLink="false">7f074a270e70ecd581920aee8e2aa5c0877e9ebe</guid>
+        <pubDate>Sun, 02 Nov 2025 20:03:26 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
