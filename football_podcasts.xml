@@ -1534,6 +1534,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251102___EL_VERDADERO_CAMBIO_EMPIEZA_HOY__HAY_QUE_GANAR__COMO_SEA_____PREVIA_BAR_A_VS_ELCHE.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251102___EL_VERDADERO_CAMBIO_EMPIEZA_HOY__HAY_QUE_GANAR__COMO_SEA_____PREVIA_BAR_A_VS_ELCHE.mp3" length="10274421" type="audio/mpeg" />
+        <guid isPermaLink="false">6f06f19f4cec4bcd122461775979f512cb5c7c22</guid>
+        <pubDate>Sun, 02 Nov 2025 12:01:31 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
