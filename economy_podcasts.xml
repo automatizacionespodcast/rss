@@ -363,6 +363,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251102___BILL_GATES_da_un_GIRO_INESPERADO_sobre_la_ECONOM_A_y_no_se_f_a_de_la_IA___Quem_is_el_dinero_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251102___BILL_GATES_da_un_GIRO_INESPERADO_sobre_la_ECONOM_A_y_no_se_f_a_de_la_IA___Quem_is_el_dinero_.mp3" length="13512573" type="audio/mpeg" />
+        <guid isPermaLink="false">cc782c55137ce9961379b3a89abe65b5a0b6a364</guid>
+        <pubDate>Sun, 02 Nov 2025 18:25:32 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251102__Cu_nto_HE_GANADO_con_Mis_Inversiones_en_Octubre____Cartera_del_Canal.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251102__Cu_nto_HE_GANADO_con_Mis_Inversiones_en_Octubre____Cartera_del_Canal.mp3" length="8779845" type="audio/mpeg" />
+        <guid isPermaLink="false">d57a09cb320fde9a3dd5d99efca97b7c164e81c5</guid>
+        <pubDate>Sun, 02 Nov 2025 18:25:35 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
