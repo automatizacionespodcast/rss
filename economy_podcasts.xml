@@ -354,6 +354,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251102_5_Errores_B_sicos_al_INVERTIR_con_DCA_que_Reducen_tu_Rentabilidad.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251102_5_Errores_B_sicos_al_INVERTIR_con_DCA_que_Reducen_tu_Rentabilidad.mp3" length="8940237" type="audio/mpeg" />
+        <guid isPermaLink="false">8fb766a8eb6a2dbc1a155ea0dbfa9c9ba7e94f88</guid>
+        <pubDate>Sun, 02 Nov 2025 17:21:07 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
