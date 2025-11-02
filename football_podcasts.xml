@@ -1588,6 +1588,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251102___UN_BAR_A_SIN_IDEAS_y_MUY_FLOJO_GANA_3_1_AL_ELCHE__NO_PODEMOS_SEGUIR_AS______BAR_A_3_1_ELCHE.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251102___UN_BAR_A_SIN_IDEAS_y_MUY_FLOJO_GANA_3_1_AL_ELCHE__NO_PODEMOS_SEGUIR_AS______BAR_A_3_1_ELCHE.mp3" length="8466573" type="audio/mpeg" />
+        <guid isPermaLink="false">5e3d7b8d32fc8a0a4e75f0df44c4a7a3f4498ad0</guid>
+        <pubDate>Sun, 02 Nov 2025 20:21:05 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
