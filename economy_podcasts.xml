@@ -390,6 +390,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251103___MICHAEL_BURRY_rompe_su_silencio_y_advierte_de_la_GRAN_BURBUJA_en_la_BOLSA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251103___MICHAEL_BURRY_rompe_su_silencio_y_advierte_de_la_GRAN_BURBUJA_en_la_BOLSA.mp3" length="11916381" type="audio/mpeg" />
+        <guid isPermaLink="false">815cfab3f8de71a0c0fb1801a0b15a0da981eda5</guid>
+        <pubDate>Mon, 03 Nov 2025 18:21:09 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
