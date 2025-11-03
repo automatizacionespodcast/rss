@@ -1696,6 +1696,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251103__El_ONCE_IDEAL_del_LIVERPOOL_vs_REAL_MADRID___Qui_n_domina_el_XI_combinado_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251103__El_ONCE_IDEAL_del_LIVERPOOL_vs_REAL_MADRID___Qui_n_domina_el_XI_combinado_.mp3" length="12971517" type="audio/mpeg" />
+        <guid isPermaLink="false">c866d6d630667e9751cc1f92fe9c767d6d148fa1</guid>
+        <pubDate>Mon, 03 Nov 2025 20:21:04 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
