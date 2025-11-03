@@ -1660,6 +1660,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251103____ASEGURAN_que_RAPHINHA_es_la_SOLUCI_N_DEFINITIVA_al_BAJ_N_DEL_BAR_A___Y_SE_EQUIVOCAN_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251103____ASEGURAN_que_RAPHINHA_es_la_SOLUCI_N_DEFINITIVA_al_BAJ_N_DEL_BAR_A___Y_SE_EQUIVOCAN_.mp3" length="11927589" type="audio/mpeg" />
+        <guid isPermaLink="false">bd4b5f650ad385cfd262098ac77c76c84f4d9b88</guid>
+        <pubDate>Mon, 03 Nov 2025 16:43:08 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
