@@ -1633,6 +1633,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251103__BRUTAL____ALEJANDRO_BALDE_SALE_en_DEFENSA_de_LAMINE_YAMAL_y_CIERRA_BOCAS_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251103__BRUTAL____ALEJANDRO_BALDE_SALE_en_DEFENSA_de_LAMINE_YAMAL_y_CIERRA_BOCAS_.mp3" length="6515661" type="audio/mpeg" />
+        <guid isPermaLink="false">bf1c207c1ff02c9b5f3784ef384797c12b8f4d2a</guid>
+        <pubDate>Mon, 03 Nov 2025 14:20:57 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
