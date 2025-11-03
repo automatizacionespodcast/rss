@@ -1678,6 +1678,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251103____MASTANTUONO_LESIONADO_con_PUBALGIA_como_LAMINE__EL_BAYERN_METE_MIEDO_con_15_de_15_VICTORIAS.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251103____MASTANTUONO_LESIONADO_con_PUBALGIA_como_LAMINE__EL_BAYERN_METE_MIEDO_con_15_de_15_VICTORIAS.mp3" length="19933701" type="audio/mpeg" />
+        <guid isPermaLink="false">3d37296d6b9301a88a011c93b3e3be72b7d01b34</guid>
+        <pubDate>Mon, 03 Nov 2025 18:02:32 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
