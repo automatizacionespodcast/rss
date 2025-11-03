@@ -1705,6 +1705,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251103____BOMBAZO__ENDRICK_QUIERE_MARCHARSE_del_MADRID_al_LYON___YA_____CRISTIANO_SE_CREE_MEJOR_QUE_MESSI.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251103____BOMBAZO__ENDRICK_QUIERE_MARCHARSE_del_MADRID_al_LYON___YA_____CRISTIANO_SE_CREE_MEJOR_QUE_MESSI.mp3" length="5481117" type="audio/mpeg" />
+        <guid isPermaLink="false">88c1171768c0a872f211911e762df2ee9084556b</guid>
+        <pubDate>Mon, 03 Nov 2025 21:40:47 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
