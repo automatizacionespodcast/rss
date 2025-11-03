@@ -1624,6 +1624,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251103____ANALISIS_EN_FRIO_del_BAR_A_3_1_ELCHE_____AHORA_SI_SE_PUEDE_CRITICAR__NO__HIP0CRIT4S.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251103____ANALISIS_EN_FRIO_del_BAR_A_3_1_ELCHE_____AHORA_SI_SE_PUEDE_CRITICAR__NO__HIP0CRIT4S.mp3" length="9195357" type="audio/mpeg" />
+        <guid isPermaLink="false">6eeff322cdc9422234f5a021d513ed74a6d84280</guid>
+        <pubDate>Mon, 03 Nov 2025 13:01:16 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
