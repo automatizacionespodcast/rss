@@ -1687,6 +1687,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251103___POL_MICA_en_EL_ONCE_MUNDIAL_de_FIFPRO__SE_QUEDA_FUERA_RAPHINHA__LAMINE__PEDRI_y_MBAPP__ENTRAN.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251103___POL_MICA_en_EL_ONCE_MUNDIAL_de_FIFPRO__SE_QUEDA_FUERA_RAPHINHA__LAMINE__PEDRI_y_MBAPP__ENTRAN.mp3" length="5086653" type="audio/mpeg" />
+        <guid isPermaLink="false">d6c08cc80a5fd68a726574f8b5a4379f50db1672</guid>
+        <pubDate>Mon, 03 Nov 2025 19:20:53 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
