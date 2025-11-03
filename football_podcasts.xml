@@ -1669,6 +1669,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251103_TENEMOS_QUE_HABLAR_DE_FERM_N_L_PEZ_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251103_TENEMOS_QUE_HABLAR_DE_FERM_N_L_PEZ_.mp3" length="5759541" type="audio/mpeg" />
+        <guid isPermaLink="false">747886046fe7136795a776c130cc904d369f325a</guid>
+        <pubDate>Mon, 03 Nov 2025 17:40:49 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
