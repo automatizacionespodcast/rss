@@ -1642,6 +1642,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251103____NO_PUEDE_SER__MASTANTUONO_a_lo_LAMINE_YAMAL____LESIONADO_por_PUBALGIA___SIN_ILUSIONES_con_ENDRICK.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251103____NO_PUEDE_SER__MASTANTUONO_a_lo_LAMINE_YAMAL____LESIONADO_por_PUBALGIA___SIN_ILUSIONES_con_ENDRICK.mp3" length="5284341" type="audio/mpeg" />
+        <guid isPermaLink="false">0d83e12b66fecac1c72d06ad630af815ede39e2e</guid>
+        <pubDate>Mon, 03 Nov 2025 15:03:47 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251103_EL_BAR_A_SIGUE_LA_LUCHA_por_la_LIGA_GANANDO__3_1__COMODAMENTE_al_ELCHE.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251103_EL_BAR_A_SIGUE_LA_LUCHA_por_la_LIGA_GANANDO__3_1__COMODAMENTE_al_ELCHE.mp3" length="16984221" type="audio/mpeg" />
+        <guid isPermaLink="false">db2ea65df0a866bd685853054bb81ffc58952baf</guid>
+        <pubDate>Mon, 03 Nov 2025 15:03:49 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
