@@ -399,6 +399,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251104____El_petardo_har__BOOM___El_gr_fico_que_revela_la_MAYOR_EXPLOSI_N_que_viene_en_la_BOLSA_ahora.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251104____El_petardo_har__BOOM___El_gr_fico_que_revela_la_MAYOR_EXPLOSI_N_que_viene_en_la_BOLSA_ahora.mp3" length="15840501" type="audio/mpeg" />
+        <guid isPermaLink="false">33f0dd02134200f1ce935128f256201724ab1753</guid>
+        <pubDate>Tue, 04 Nov 2025 18:33:12 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251104_La_Herramienta_que_Utilizan_los_Inversores_Profesionales__Tutorial_Investing_PRO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251104_La_Herramienta_que_Utilizan_los_Inversores_Profesionales__Tutorial_Investing_PRO.mp3" length="14155776" type="audio/mpeg" />
+        <guid isPermaLink="false">676b9eb5d4254c9646f9a3a234ff31d5d3204ddf</guid>
+        <pubDate>Tue, 04 Nov 2025 18:33:29 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
