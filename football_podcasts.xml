@@ -1732,6 +1732,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251104_PREVIA__LIVERPOOL_FC_VS_REAL_MADRID___PARTIDAZO_DE_CHAMPIONS_CON_MUCHOS_CRACKS___Ubietoo.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251104_PREVIA__LIVERPOOL_FC_VS_REAL_MADRID___PARTIDAZO_DE_CHAMPIONS_CON_MUCHOS_CRACKS___Ubietoo.mp3" length="8083053" type="audio/mpeg" />
+        <guid isPermaLink="false">7a2b4a5de106673d6a35dfba1d471a8e92865904</guid>
+        <pubDate>Tue, 04 Nov 2025 14:20:58 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
