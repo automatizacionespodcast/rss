@@ -1741,6 +1741,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251104_BOCHORNO___MBAPP__DEJA_AFUERA_A_RAPHINHA_DEL_FIFAPRO___ES_ALUCINANTE__.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251104_BOCHORNO___MBAPP__DEJA_AFUERA_A_RAPHINHA_DEL_FIFAPRO___ES_ALUCINANTE__.mp3" length="6404709" type="audio/mpeg" />
+        <guid isPermaLink="false">ff6622ff21dcd6c5759f6e6ba8dd4ab1c202c71c</guid>
+        <pubDate>Tue, 04 Nov 2025 15:01:00 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
