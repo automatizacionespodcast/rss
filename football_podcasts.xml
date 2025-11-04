@@ -1714,6 +1714,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251104_LIVERPOOL_vs_REAL_MADRID____PARTIDAZO_de_CHAMPIONS___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251104_LIVERPOOL_vs_REAL_MADRID____PARTIDAZO_de_CHAMPIONS___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="14950965" type="audio/mpeg" />
+        <guid isPermaLink="false">0a38e4b8232252733f6691fcc600d6ea3a2364ce</guid>
+        <pubDate>Tue, 04 Nov 2025 11:02:07 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
