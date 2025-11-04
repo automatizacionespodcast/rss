@@ -1777,6 +1777,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251104____BASTA_YA_con_los_PENALTIS_del_REAL_MADRID____RAPHINHA_INFRAVALORADO___el_FIN_de_CRISTIANO___PRONTO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251104____BASTA_YA_con_los_PENALTIS_del_REAL_MADRID____RAPHINHA_INFRAVALORADO___el_FIN_de_CRISTIANO___PRONTO.mp3" length="7425525" type="audio/mpeg" />
+        <guid isPermaLink="false">01bdd4d252f3701f1d9702ecf12a5a2386a0e77d</guid>
+        <pubDate>Tue, 04 Nov 2025 18:32:54 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
