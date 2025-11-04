@@ -1723,6 +1723,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251104_LOCURA_TOTAL____VITOR_ROQUE_PODRIA_VOLVER_a_EUROPA_FICHANDO_POR_UN_GIGANTE_EUROPEO___ERROR_del_BAR_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251104_LOCURA_TOTAL____VITOR_ROQUE_PODRIA_VOLVER_a_EUROPA_FICHANDO_POR_UN_GIGANTE_EUROPEO___ERROR_del_BAR_A_.mp3" length="11406045" type="audio/mpeg" />
+        <guid isPermaLink="false">754607df56648c4777b2449b1df0601f7618c85a</guid>
+        <pubDate>Tue, 04 Nov 2025 13:01:41 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
