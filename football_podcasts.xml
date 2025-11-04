@@ -1768,6 +1768,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251104__ME_DUELE_DECIRLO____ANSU_FATI_SENTENCIADO_por_el_NUEVO_ENTRENADOR_del_MONACO___DRAMA_TOTAL_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251104__ME_DUELE_DECIRLO____ANSU_FATI_SENTENCIADO_por_el_NUEVO_ENTRENADOR_del_MONACO___DRAMA_TOTAL_.mp3" length="6611013" type="audio/mpeg" />
+        <guid isPermaLink="false">3149bb3810d07f27cc37839b4b81c68a8e67ed18</guid>
+        <pubDate>Tue, 04 Nov 2025 16:00:56 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
