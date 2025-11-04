@@ -1786,6 +1786,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251104_REACCIONES_DE_UN_HINCHA_al_Liverpool_vs_Real_Madrid_1_0__OTRA_VEZ_LO_MISMO_DE_SIEMPRE____ByDiegoX10.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251104_REACCIONES_DE_UN_HINCHA_al_Liverpool_vs_Real_Madrid_1_0__OTRA_VEZ_LO_MISMO_DE_SIEMPRE____ByDiegoX10.mp3" length="9794181" type="audio/mpeg" />
+        <guid isPermaLink="false">1fb3642b12d0dd03c1919dbea31d96b4238197d5</guid>
+        <pubDate>Tue, 04 Nov 2025 22:21:49 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
