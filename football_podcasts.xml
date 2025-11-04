@@ -1804,6 +1804,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251104___TREMENDO_BA_O_de_F_TBOL_del_LIVERPOOL_al_MADRID___COURTOIS_SALV__una_GOLEADA_HIST_RICA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251104___TREMENDO_BA_O_de_F_TBOL_del_LIVERPOOL_al_MADRID___COURTOIS_SALV__una_GOLEADA_HIST_RICA.mp3" length="5632317" type="audio/mpeg" />
+        <guid isPermaLink="false">93a4dea8d554859d4908bf7396f7e30659545dc7</guid>
+        <pubDate>Tue, 04 Nov 2025 23:01:37 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
