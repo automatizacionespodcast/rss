@@ -1813,6 +1813,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251105_BRUJAS_vs_FC_BARCELONA____OBLIGATORIO_GANAR___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251105_BRUJAS_vs_FC_BARCELONA____OBLIGATORIO_GANAR___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="10551789" type="audio/mpeg" />
+        <guid isPermaLink="false">1ea911e9498e7ac6998dcc7dd97cf3c530efd383</guid>
+        <pubDate>Wed, 05 Nov 2025 11:01:41 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
