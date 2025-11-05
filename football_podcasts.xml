@@ -1822,6 +1822,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251105____ANALISIS_en_FRIO_del_LIVERPOOL_1_0_REAL_MADRID____EL_PROYECTO_XABI_ALONSO_se_HUNDE_en_EUROPA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251105____ANALISIS_en_FRIO_del_LIVERPOOL_1_0_REAL_MADRID____EL_PROYECTO_XABI_ALONSO_se_HUNDE_en_EUROPA.mp3" length="9107925" type="audio/mpeg" />
+        <guid isPermaLink="false">5a1898e347e4809daad6c372bf4a718759b1fdb3</guid>
+        <pubDate>Wed, 05 Nov 2025 12:11:37 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
