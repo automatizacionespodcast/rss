@@ -435,6 +435,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251105_____Si_te_perdiste_NVIDIA_o_PALANTIR__3_ACCIONES_de_BOLSA_listas_para_DESPEGAR__seg_n_Wall_Street_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251105_____Si_te_perdiste_NVIDIA_o_PALANTIR__3_ACCIONES_de_BOLSA_listas_para_DESPEGAR__seg_n_Wall_Street_.mp3" length="23442165" type="audio/mpeg" />
+        <guid isPermaLink="false">3bf334e520d1f76650d07f4de5915cfb05fc59f3</guid>
+        <pubDate>Wed, 05 Nov 2025 18:16:16 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
