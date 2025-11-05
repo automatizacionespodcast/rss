@@ -1840,6 +1840,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251105__PARTIDO_TRAMPA___SI_FALLAMOS_HOY_EL_FUTURO_EN_CHAMPIONS_PUEDE_SER_DIFICIL___PREVIA_C_BRUJAS_VS_BAR_A.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251105__PARTIDO_TRAMPA___SI_FALLAMOS_HOY_EL_FUTURO_EN_CHAMPIONS_PUEDE_SER_DIFICIL___PREVIA_C_BRUJAS_VS_BAR_A.mp3" length="10427589" type="audio/mpeg" />
+        <guid isPermaLink="false">1b9e91da6f7efa00059a5903e2f91dec18f3a001</guid>
+        <pubDate>Wed, 05 Nov 2025 13:32:00 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
