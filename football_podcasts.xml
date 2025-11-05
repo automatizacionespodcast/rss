@@ -1867,6 +1867,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251105____HANSI_FLICK_ESTALLA_CONTRA_LOS_RUMORES_SOBRE_SU_FUTURO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251105____HANSI_FLICK_ESTALLA_CONTRA_LOS_RUMORES_SOBRE_SU_FUTURO_.mp3" length="7156917" type="audio/mpeg" />
+        <guid isPermaLink="false">055054f23671e12ec6040570b842cb4a45bf77dc</guid>
+        <pubDate>Wed, 05 Nov 2025 16:11:42 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
