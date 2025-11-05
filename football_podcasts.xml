@@ -1903,6 +1903,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251105__NO_AGUANTO___EL_BAR_A_HACE_EL_RIDICUL0_Y_EMPATA_3_3_CONTRA_EL_BRUJAS__NOS_HEMOS_SALVADO_DE_PERDER_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251105__NO_AGUANTO___EL_BAR_A_HACE_EL_RIDICUL0_Y_EMPATA_3_3_CONTRA_EL_BRUJAS__NOS_HEMOS_SALVADO_DE_PERDER_.mp3" length="7862709" type="audio/mpeg" />
+        <guid isPermaLink="false">ee884a541b87c8858ddbf684c8a9279086cab9b0</guid>
+        <pubDate>Wed, 05 Nov 2025 23:11:36 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
