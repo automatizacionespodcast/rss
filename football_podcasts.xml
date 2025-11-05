@@ -1894,6 +1894,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251105___La_DEFENSA_del_BAR_A_AMARGA_la_EXHIBICI_N_de_LAMINE_YAMAL___PINCHAZO_ante_el_BRUJAS_3_3.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251105___La_DEFENSA_del_BAR_A_AMARGA_la_EXHIBICI_N_de_LAMINE_YAMAL___PINCHAZO_ante_el_BRUJAS_3_3.mp3" length="6622005" type="audio/mpeg" />
+        <guid isPermaLink="false">d9fd66aca170f41a7ccf13d24c17a0f9296c6814</guid>
+        <pubDate>Wed, 05 Nov 2025 22:41:36 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
