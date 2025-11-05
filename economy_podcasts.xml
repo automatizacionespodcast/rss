@@ -417,6 +417,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251105_MERCADOS_LOCOS__La_Bolsa_Sube__Bitcoin_se_Desploma_y_EEUU_No_Reacciona___S45.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251105_MERCADOS_LOCOS__La_Bolsa_Sube__Bitcoin_se_Desploma_y_EEUU_No_Reacciona___S45.mp3" length="14772597" type="audio/mpeg" />
+        <guid isPermaLink="false">16780b855c6398be899182a2144db00eef7d9c94</guid>
+        <pubDate>Wed, 05 Nov 2025 17:29:26 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251105__CRISIS_en_los_MERCADOS_en_2026___Hay_que_VENDER_el_ORO_____Finect___Gustavo_Mart_nez.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251105__CRISIS_en_los_MERCADOS_en_2026___Hay_que_VENDER_el_ORO_____Finect___Gustavo_Mart_nez.mp3" length="12721101" type="audio/mpeg" />
+        <guid isPermaLink="false">44b9930a36a6c2e674dff346004f33c778044e11</guid>
+        <pubDate>Wed, 05 Nov 2025 17:29:30 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
