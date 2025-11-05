@@ -1858,6 +1858,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251105_LIVERPOOL_1_0_REAL_MADRID__COURTOIS_NOS_SALVA_de_OTRA_GOLEADA_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251105_LIVERPOOL_1_0_REAL_MADRID__COURTOIS_NOS_SALVA_de_OTRA_GOLEADA_.mp3" length="28352541" type="audio/mpeg" />
+        <guid isPermaLink="false">b7466f2b5d957813cf407f466ca610daa3234f85</guid>
+        <pubDate>Wed, 05 Nov 2025 15:05:44 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
