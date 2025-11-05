@@ -1849,6 +1849,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251105_MIS_NOTAS_AL_MADRID_EN_LA_DERROTA_1_0_ANTE_UN_LIVERPOOL_QUE_NOS_PUDO_GOLEAR___Ubietoo___Champions.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251105_MIS_NOTAS_AL_MADRID_EN_LA_DERROTA_1_0_ANTE_UN_LIVERPOOL_QUE_NOS_PUDO_GOLEAR___Ubietoo___Champions.mp3" length="5428917" type="audio/mpeg" />
+        <guid isPermaLink="false">55942595e5b0b3391441cc27d07cbf2ad1873a53</guid>
+        <pubDate>Wed, 05 Nov 2025 14:21:31 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
