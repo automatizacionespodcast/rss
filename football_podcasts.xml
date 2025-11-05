@@ -1831,6 +1831,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251105_EL_MADRID_APESTA_a_lo_MISMO__DECEPCI_N_TOTAL_y_GOLPE_de_REALIDAD___POL_MICA_en_ANFIELD.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251105_EL_MADRID_APESTA_a_lo_MISMO__DECEPCI_N_TOTAL_y_GOLPE_de_REALIDAD___POL_MICA_en_ANFIELD.mp3" length="8619381" type="audio/mpeg" />
+        <guid isPermaLink="false">c170923490eeb5947e580c6672ee1873576e5068</guid>
+        <pubDate>Wed, 05 Nov 2025 13:02:30 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
