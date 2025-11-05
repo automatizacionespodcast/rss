@@ -1885,6 +1885,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251105_____PERO_QUE_DICE_XABI_ALONSO___EL_PARTIDO_FUE_IGUALADO_y_SE_COMPITI_____ESTO_NO_ES_EL_LEVERKUSEN_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251105_____PERO_QUE_DICE_XABI_ALONSO___EL_PARTIDO_FUE_IGUALADO_y_SE_COMPITI_____ESTO_NO_ES_EL_LEVERKUSEN_.mp3" length="8673045" type="audio/mpeg" />
+        <guid isPermaLink="false">f08b4b0311778903fbf4c30694decc2f3e4c8ac0</guid>
+        <pubDate>Wed, 05 Nov 2025 18:41:46 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
