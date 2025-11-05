@@ -1912,6 +1912,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251105____REACCI_N_en_CALIENTE_de_SPIDERCULE_al_BOCHORNOSO_BRUJAS_3_3_BAR_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251105____REACCI_N_en_CALIENTE_de_SPIDERCULE_al_BOCHORNOSO_BRUJAS_3_3_BAR_A_.mp3" length="5500629" type="audio/mpeg" />
+        <guid isPermaLink="false">a4ae13610749c56f7b3decd1d90467550f14e943</guid>
+        <pubDate>Wed, 05 Nov 2025 23:53:37 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251105____REACCIONES_TRAS_el_LAMENTABLE_BRUJAS_3_3_BAR_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251105____REACCIONES_TRAS_el_LAMENTABLE_BRUJAS_3_3_BAR_A_.mp3" length="8005941" type="audio/mpeg" />
+        <guid isPermaLink="false">4ce735af5386e2876f2dcf80f60ad5ca0fb91696</guid>
+        <pubDate>Wed, 05 Nov 2025 23:53:40 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
