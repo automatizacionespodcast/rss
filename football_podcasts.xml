@@ -2029,6 +2029,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251106_____ACUERDO_UPAMECANO___REAL_MADRID_MUY_CERCA____ES_EL_FICHAJE____SZCZESNY_PREFIERE_el_BANQUILLO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251106_____ACUERDO_UPAMECANO___REAL_MADRID_MUY_CERCA____ES_EL_FICHAJE____SZCZESNY_PREFIERE_el_BANQUILLO.mp3" length="5602797" type="audio/mpeg" />
+        <guid isPermaLink="false">83b6df50e31497fec41576d07404393a1d7130d9</guid>
+        <pubDate>Thu, 06 Nov 2025 22:21:33 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
