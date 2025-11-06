@@ -1993,6 +1993,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251106__EL_BAYERN_FAVORITO_a_la_CHAMPIONS___MADRIDISTAS_TEN_IS_QUE_VER_ESTE_V_DEO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251106__EL_BAYERN_FAVORITO_a_la_CHAMPIONS___MADRIDISTAS_TEN_IS_QUE_VER_ESTE_V_DEO_.mp3" length="17711757" type="audio/mpeg" />
+        <guid isPermaLink="false">f741889a51ac8fcf229d5c6d991ebfe23feb89dd</guid>
+        <pubDate>Thu, 06 Nov 2025 18:03:10 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
