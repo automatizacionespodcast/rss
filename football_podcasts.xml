@@ -1984,6 +1984,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251106_ASEGURAN_QUE_LOS_JUGADORES_YA_NO_CREEN_EN_EL_METODO_DE_HANSI_FLICK_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251106_ASEGURAN_QUE_LOS_JUGADORES_YA_NO_CREEN_EN_EL_METODO_DE_HANSI_FLICK_.mp3" length="6740685" type="audio/mpeg" />
+        <guid isPermaLink="false">fca3721cc32891c955c03578e398b9c6eaf83bf4</guid>
+        <pubDate>Thu, 06 Nov 2025 16:31:33 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
