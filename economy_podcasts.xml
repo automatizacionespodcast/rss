@@ -462,6 +462,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251106__Qu__es_el_VALOR_INTR_NSECO_de_una_Acci_n____La_pizarra_de_Invertir_desde_Cero_Ep_5.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251106__Qu__es_el_VALOR_INTR_NSECO_de_una_Acci_n____La_pizarra_de_Invertir_desde_Cero_Ep_5.mp3" length="6746109" type="audio/mpeg" />
+        <guid isPermaLink="false">d0cb05540c0d583740861d53e133f1bb7eba5db4</guid>
+        <pubDate>Thu, 06 Nov 2025 19:31:35 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
