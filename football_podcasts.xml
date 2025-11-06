@@ -1939,6 +1939,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251106____AN_LISIS_en_FR_O_del_DESASTROSO_BRUJAS_3_3_BAR_A_____ESTE_EQUIPO_DEBE_REACCIONAR_YA_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251106____AN_LISIS_en_FR_O_del_DESASTROSO_BRUJAS_3_3_BAR_A_____ESTE_EQUIPO_DEBE_REACCIONAR_YA_.mp3" length="11723277" type="audio/mpeg" />
+        <guid isPermaLink="false">5454316c470417412d13b7dbb4d96a865bcae156</guid>
+        <pubDate>Thu, 06 Nov 2025 12:52:51 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
