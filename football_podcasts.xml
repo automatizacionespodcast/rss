@@ -1948,6 +1948,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251106_ESTE_ES_MI_ENTRENADOR____HANSI_FLICK_SE_PLANTA_Y_DEMUESTRA_CAR_CTER_TRAS_EL_BRUJAS_3_3_BAR_A.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251106_ESTE_ES_MI_ENTRENADOR____HANSI_FLICK_SE_PLANTA_Y_DEMUESTRA_CAR_CTER_TRAS_EL_BRUJAS_3_3_BAR_A.mp3" length="6323133" type="audio/mpeg" />
+        <guid isPermaLink="false">a460f7e25fb28d763e2c366b202cd5ec8be0a6ef</guid>
+        <pubDate>Thu, 06 Nov 2025 14:11:38 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
