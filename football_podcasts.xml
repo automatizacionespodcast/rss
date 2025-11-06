@@ -1957,6 +1957,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251106_EXHIBICI_N_de_LAMINE_YAMAL_pero_el_BAR_A_SE_LA_PEGA_en_BRUJAS__3_3_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251106_EXHIBICI_N_de_LAMINE_YAMAL_pero_el_BAR_A_SE_LA_PEGA_en_BRUJAS__3_3_.mp3" length="17220861" type="audio/mpeg" />
+        <guid isPermaLink="false">800949fab2de4929d437a8ab1e3a070b19237849</guid>
+        <pubDate>Thu, 06 Nov 2025 15:02:50 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
