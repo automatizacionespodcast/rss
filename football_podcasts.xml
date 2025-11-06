@@ -1966,6 +1966,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251106_INACEPTABLE___HANSI_FLICK_BAJO_FUEGO__CR_TICAS_DESMEDIDAS_TRAS_EL_EMPATE_BRUJAS_3_3__BAR_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251106_INACEPTABLE___HANSI_FLICK_BAJO_FUEGO__CR_TICAS_DESMEDIDAS_TRAS_EL_EMPATE_BRUJAS_3_3__BAR_A_.mp3" length="6537021" type="audio/mpeg" />
+        <guid isPermaLink="false">30e68e40547bc089611b7e153addf50caad63f6d</guid>
+        <pubDate>Thu, 06 Nov 2025 15:31:39 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
