@@ -471,6 +471,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251106__Un_CICLO_ECON_MICO_demasiado_maduro__C_mo_jugarlo_en_RENTA_FIJA_____Finect_Alpha.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251106__Un_CICLO_ECON_MICO_demasiado_maduro__C_mo_jugarlo_en_RENTA_FIJA_____Finect_Alpha.mp3" length="26098197" type="audio/mpeg" />
+        <guid isPermaLink="false">ce967924cc97f2888c1db2c6af9b7cd7e708cb50</guid>
+        <pubDate>Thu, 06 Nov 2025 20:28:50 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
