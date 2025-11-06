@@ -1930,6 +1930,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251106_LAMINE_EL_MEJOR_Y_CHESNY_REPROBAD_SIMO___NOTAS_DE_UN_MADRIDISTA_AL_BRUJAS_3_3_FC_BARCELONA__UBIETOO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251106_LAMINE_EL_MEJOR_Y_CHESNY_REPROBAD_SIMO___NOTAS_DE_UN_MADRIDISTA_AL_BRUJAS_3_3_FC_BARCELONA__UBIETOO.mp3" length="6834909" type="audio/mpeg" />
+        <guid isPermaLink="false">2ef72630090293c3c85a11a28acc90c52685a080</guid>
+        <pubDate>Thu, 06 Nov 2025 00:21:32 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
