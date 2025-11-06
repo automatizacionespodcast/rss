@@ -2011,6 +2011,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251106_EL_MADRID_SIGUE_en_el_TOP_8_y_el_BAR_A_SE_LA_JUEGA_la_PR_XIMA_JORNADA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251106_EL_MADRID_SIGUE_en_el_TOP_8_y_el_BAR_A_SE_LA_JUEGA_la_PR_XIMA_JORNADA.mp3" length="17981445" type="audio/mpeg" />
+        <guid isPermaLink="false">4e34d8f19d6544dbec982ab8c61f7cf14cc8716d</guid>
+        <pubDate>Thu, 06 Nov 2025 20:03:04 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
