@@ -2020,6 +2020,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251106__BOMBAZO____SZCZESNY_PREFIERE_SER_BANQUILLO_en_el_BAR_A___INFORMACI_N_CONFIRMADA_POR_SU_HERMANO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251106__BOMBAZO____SZCZESNY_PREFIERE_SER_BANQUILLO_en_el_BAR_A___INFORMACI_N_CONFIRMADA_POR_SU_HERMANO_.mp3" length="5538429" type="audio/mpeg" />
+        <guid isPermaLink="false">f6cbdde3da429c276d611fc79d3d8ee738177a12</guid>
+        <pubDate>Thu, 06 Nov 2025 20:11:34 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
