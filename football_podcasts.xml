@@ -2002,6 +2002,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251106____EXPLOTA_el_CASO_VINICIUS__FLORENTINO_lo_QUIERE_FUERA_del_MADRID___DATO_DEMOLEDOR_BAR_A___THE_BEST.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251106____EXPLOTA_el_CASO_VINICIUS__FLORENTINO_lo_QUIERE_FUERA_del_MADRID___DATO_DEMOLEDOR_BAR_A___THE_BEST.mp3" length="7846437" type="audio/mpeg" />
+        <guid isPermaLink="false">692c73ff2aa335d864b23a1f9b9e7db82cc06633</guid>
+        <pubDate>Thu, 06 Nov 2025 19:21:49 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
