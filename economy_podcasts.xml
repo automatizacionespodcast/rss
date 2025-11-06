@@ -444,6 +444,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251106____Estamos_a_las_puertas_de_ALGO_FUERTE_en_BOLSA___La_tesis_de_RAY_DALIO_se_puede_cumplir.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251106____Estamos_a_las_puertas_de_ALGO_FUERTE_en_BOLSA___La_tesis_de_RAY_DALIO_se_puede_cumplir.mp3" length="19602621" type="audio/mpeg" />
+        <guid isPermaLink="false">5281fb899eab745e564eaa6194f8f8baa67ba5b6</guid>
+        <pubDate>Thu, 06 Nov 2025 18:29:21 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251106__Burbuja_Inmobiliaria__en_Espa_a___Caer_n_los_Precios_de_la_Vivienda_o_no_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251106__Burbuja_Inmobiliaria__en_Espa_a___Caer_n_los_Precios_de_la_Vivienda_o_no_.mp3" length="7037997" type="audio/mpeg" />
+        <guid isPermaLink="false">7ec2057170764d76c6398784dd754c9cb69e954a</guid>
+        <pubDate>Thu, 06 Nov 2025 18:29:25 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
