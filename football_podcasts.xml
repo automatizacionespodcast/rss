@@ -1975,6 +1975,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251106_____ESTO_ES_GRAVE___LESI_N_IMPORTANTE_en_el_MADRID___LO_DE_SZCZESNY_FUE_TERRIBLE___CAMP_NOU_LISTO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251106_____ESTO_ES_GRAVE___LESI_N_IMPORTANTE_en_el_MADRID___LO_DE_SZCZESNY_FUE_TERRIBLE___CAMP_NOU_LISTO.mp3" length="8196813" type="audio/mpeg" />
+        <guid isPermaLink="false">e2e9d821745df42da7362d34a0f10139e762e70c</guid>
+        <pubDate>Thu, 06 Nov 2025 16:21:42 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
