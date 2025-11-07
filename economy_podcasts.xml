@@ -489,6 +489,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251107_____Vienen_CA_DAS_GORDAS___GOLDMAN_y_MORGAN_alertan_de_la_BOLSA__mientras_FIDELITY_revela_su_jugada.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251107_____Vienen_CA_DAS_GORDAS___GOLDMAN_y_MORGAN_alertan_de_la_BOLSA__mientras_FIDELITY_revela_su_jugada.mp3" length="11228709" type="audio/mpeg" />
+        <guid isPermaLink="false">ab3e473d82bbad88c5b7d0ecc159f01de6ae82c6</guid>
+        <pubDate>Fri, 07 Nov 2025 18:21:38 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
