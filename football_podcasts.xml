@@ -2038,6 +2038,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251107_EL_CAMBIO_NACE_HOY__El_NUEVO_CAMP_NOU_LISTO_para_ser_ABIERTO___LA_EXIGENCIA_que_CAMBIAR__la_HISTORIA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251107_EL_CAMBIO_NACE_HOY__El_NUEVO_CAMP_NOU_LISTO_para_ser_ABIERTO___LA_EXIGENCIA_que_CAMBIAR__la_HISTORIA.mp3" length="9750453" type="audio/mpeg" />
+        <guid isPermaLink="false">301b9606d54eea8bfff1e54a1b73ad216f38f7dc</guid>
+        <pubDate>Fri, 07 Nov 2025 12:11:55 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
