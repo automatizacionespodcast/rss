@@ -2101,6 +2101,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251107____LAMINE_CONVOCADO_con_ESPA_A___EN_RIESGO_por_la_PUBALGIA___QU__LE_PASA_A_GULER_en_PARTIDOS_GRANDES_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251107____LAMINE_CONVOCADO_con_ESPA_A___EN_RIESGO_por_la_PUBALGIA___QU__LE_PASA_A_GULER_en_PARTIDOS_GRANDES_.mp3" length="14244669" type="audio/mpeg" />
+        <guid isPermaLink="false">0c49dfa43e3050400b98dc5f6b8f504f7cc62260</guid>
+        <pubDate>Fri, 07 Nov 2025 20:01:55 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
