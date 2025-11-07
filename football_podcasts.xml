@@ -2083,6 +2083,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251107____VINICIUS_SALDR__en_2026_del_REAL_MADRID___FLORENTINO_SE_HA_CANSADO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251107____VINICIUS_SALDR__en_2026_del_REAL_MADRID___FLORENTINO_SE_HA_CANSADO_.mp3" length="17539173" type="audio/mpeg" />
+        <guid isPermaLink="false">03b00c86b5318e41a9fbc49c29231cf613698ee8</guid>
+        <pubDate>Fri, 07 Nov 2025 18:02:50 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
