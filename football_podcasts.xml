@@ -2092,6 +2092,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251107__ILAIX_MORIBA_LO_RECONOCE____SE_EQUIVOC__al_DEJAR_el_BAR_A_y_AHORA_lo_ADMITE_P_BLICAMENTE_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251107__ILAIX_MORIBA_LO_RECONOCE____SE_EQUIVOC__al_DEJAR_el_BAR_A_y_AHORA_lo_ADMITE_P_BLICAMENTE_.mp3" length="8147829" type="audio/mpeg" />
+        <guid isPermaLink="false">89fc2a98a8033fc967522eee1dac031ee6bbc74f</guid>
+        <pubDate>Fri, 07 Nov 2025 19:51:40 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
