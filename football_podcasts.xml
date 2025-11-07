@@ -2056,6 +2056,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251107_AS__SE_HACE______DECO_se_PLANTA_y_DEFIENDE_P_BLICAMENTE_a_HANSI_FLICK_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251107_AS__SE_HACE______DECO_se_PLANTA_y_DEFIENDE_P_BLICAMENTE_a_HANSI_FLICK_.mp3" length="7827141" type="audio/mpeg" />
+        <guid isPermaLink="false">3d2d427a6625cac85217cda84a554263063ce683</guid>
+        <pubDate>Fri, 07 Nov 2025 14:31:42 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
