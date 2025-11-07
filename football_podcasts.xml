@@ -2074,6 +2074,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251107___VAN_a_REVENTAR_a_LAMINE_YAMAL__CONVOCADO_con_ESPA_A____DE_LA_FUENTE_con_lo_MISMO___VUELTA_CAMP_NOU.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251107___VAN_a_REVENTAR_a_LAMINE_YAMAL__CONVOCADO_con_ESPA_A____DE_LA_FUENTE_con_lo_MISMO___VUELTA_CAMP_NOU.mp3" length="5827557" type="audio/mpeg" />
+        <guid isPermaLink="false">246904547bcd1f446d45f6502c2e2806d1b567b0</guid>
+        <pubDate>Fri, 07 Nov 2025 16:01:32 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
