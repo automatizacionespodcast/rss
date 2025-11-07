@@ -480,6 +480,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251107_Capital_privado__as__funcionan_las_llamadas_de_capital____Largoplacistas_con_Crescenta___Finect_Talks.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251107_Capital_privado__as__funcionan_las_llamadas_de_capital____Largoplacistas_con_Crescenta___Finect_Talks.mp3" length="8146077" type="audio/mpeg" />
+        <guid isPermaLink="false">85a6a5e7d24cd9f49fbcb1b74c445cb359a4103e</guid>
+        <pubDate>Fri, 07 Nov 2025 13:21:43 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
