@@ -2065,6 +2065,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251107____UPAMECANO_CERCA_de_FICHAR_por_el_REAL_MADRID__TCHOUAMENI_3_SEMANAS_LESIONADO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251107____UPAMECANO_CERCA_de_FICHAR_por_el_REAL_MADRID__TCHOUAMENI_3_SEMANAS_LESIONADO.mp3" length="17621181" type="audio/mpeg" />
+        <guid isPermaLink="false">d1c731bf355232053c64ef7354e82c8dd2d7aee2</guid>
+        <pubDate>Fri, 07 Nov 2025 15:02:29 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
