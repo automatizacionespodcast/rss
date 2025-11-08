@@ -2137,6 +2137,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251108____HANSI_FLICK_REVIENTA_a_la_PRENSA_y_DEJA_CLARA_su_VISI_N_del_BAR_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251108____HANSI_FLICK_REVIENTA_a_la_PRENSA_y_DEJA_CLARA_su_VISI_N_del_BAR_A_.mp3" length="5588973" type="audio/mpeg" />
+        <guid isPermaLink="false">df62c8bc509e2d1a161421e4e48a687ab9027e8e</guid>
+        <pubDate>Sat, 08 Nov 2025 13:31:29 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
