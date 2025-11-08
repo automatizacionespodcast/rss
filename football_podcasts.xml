@@ -2200,6 +2200,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251108_____PINCHAZO_del_MADRID___PARTIDO_en_VALLECAS__MUY_COMPLICADO__DATO_DEMOLEDOR_BESTIAL_y_PREDICCI_N.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251108_____PINCHAZO_del_MADRID___PARTIDO_en_VALLECAS__MUY_COMPLICADO__DATO_DEMOLEDOR_BESTIAL_y_PREDICCI_N.mp3" length="4276581" type="audio/mpeg" />
+        <guid isPermaLink="false">b84336775e7151a42d9e4ee1427493114d252e8b</guid>
+        <pubDate>Sat, 08 Nov 2025 23:21:28 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
