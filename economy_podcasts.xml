@@ -498,6 +498,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251108____En_2026_llegar__el_PINCHAZO_en_BOLSA___suena_en_WALL_STREET____3_inversiones_para_PREPARARSE.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251108____En_2026_llegar__el_PINCHAZO_en_BOLSA___suena_en_WALL_STREET____3_inversiones_para_PREPARARSE.mp3" length="13941189" type="audio/mpeg" />
+        <guid isPermaLink="false">45c14c65d344b6966c0d43cd9e05f8eddcfa5312</guid>
+        <pubDate>Sat, 08 Nov 2025 18:21:47 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
