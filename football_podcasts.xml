@@ -2146,6 +2146,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251108__TIENE_EL_BAR_A_QUE_FICHAR_EN_EL_MERCADO_DE_INVIERNO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251108__TIENE_EL_BAR_A_QUE_FICHAR_EN_EL_MERCADO_DE_INVIERNO_.mp3" length="6226725" type="audio/mpeg" />
+        <guid isPermaLink="false">d091946caf79c1e8fd42ecc06a172a98c781358e</guid>
+        <pubDate>Sat, 08 Nov 2025 14:51:27 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
