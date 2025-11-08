@@ -2191,6 +2191,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251108_LO_ADMITO__ME_EQUIVOQU__CON_JOAN_GARCIA___.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251108_LO_ADMITO__ME_EQUIVOQU__CON_JOAN_GARCIA___.mp3" length="5783805" type="audio/mpeg" />
+        <guid isPermaLink="false">fc28506349aac57bdce250697c37833bfcc104a2</guid>
+        <pubDate>Sat, 08 Nov 2025 21:31:31 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
