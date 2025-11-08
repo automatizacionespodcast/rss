@@ -2182,6 +2182,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251108__EMERGENCIA_en_el_BAR_A____KOUND__CAE_y_FLICK_NO_SABR__A_QUI_N_PONER___QUE_FALTA_HACE_HECTOR_FORT_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251108__EMERGENCIA_en_el_BAR_A____KOUND__CAE_y_FLICK_NO_SABR__A_QUI_N_PONER___QUE_FALTA_HACE_HECTOR_FORT_.mp3" length="5815845" type="audio/mpeg" />
+        <guid isPermaLink="false">90f865e5ddfbcb4bfdd27b26ef99dc1c6a00dff4</guid>
+        <pubDate>Sat, 08 Nov 2025 20:11:30 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
