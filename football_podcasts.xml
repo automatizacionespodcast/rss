@@ -2155,6 +2155,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251108___JULIAN_ALVAREZ_LO_DEJA_CLARO___AL_FINAL_de_la_TEMPORADA_DECIDIR___BAR_A_y_PSG_tras_su_FICHAJE.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251108___JULIAN_ALVAREZ_LO_DEJA_CLARO___AL_FINAL_de_la_TEMPORADA_DECIDIR___BAR_A_y_PSG_tras_su_FICHAJE.mp3" length="14830941" type="audio/mpeg" />
+        <guid isPermaLink="false">1f332504138c177d746cb8f1323f6e5a600ac606</guid>
+        <pubDate>Sat, 08 Nov 2025 15:01:39 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
