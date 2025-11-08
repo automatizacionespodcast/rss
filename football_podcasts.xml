@@ -2173,6 +2173,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251108__MESSI_NO_ES_ni_el_MEJOR_ARGENTINO____ENTREVISTA_POL_MICA_de_CRISTIANO_RONALDO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251108__MESSI_NO_ES_ni_el_MEJOR_ARGENTINO____ENTREVISTA_POL_MICA_de_CRISTIANO_RONALDO.mp3" length="19255605" type="audio/mpeg" />
+        <guid isPermaLink="false">9c63d9f50384bba78c808b1dc0e5dcb53bc42b2b</guid>
+        <pubDate>Sat, 08 Nov 2025 18:02:58 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
