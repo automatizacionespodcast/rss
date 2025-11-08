@@ -2128,6 +2128,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251108__DRAM_TICO___FLORENTINO_P_REZ_NO_SE_F_A_DE_XABI_ALONSO___PROYECTO_EN_RIESGO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251108__DRAM_TICO___FLORENTINO_P_REZ_NO_SE_F_A_DE_XABI_ALONSO___PROYECTO_EN_RIESGO_.mp3" length="7412445" type="audio/mpeg" />
+        <guid isPermaLink="false">29311cc8aadffe375055160176f1edca72397dc5</guid>
+        <pubDate>Sat, 08 Nov 2025 12:11:36 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
