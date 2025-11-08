@@ -2164,6 +2164,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251108___RAJADA_de_FLICK_tras_lo_del_BRUJAS_y_EXIGE_LUCHA___XABI_SE_ABLANDA___NO_HAY_EGOS__y__SIN_REPROCHES_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251108___RAJADA_de_FLICK_tras_lo_del_BRUJAS_y_EXIGE_LUCHA___XABI_SE_ABLANDA___NO_HAY_EGOS__y__SIN_REPROCHES_.mp3" length="6469869" type="audio/mpeg" />
+        <guid isPermaLink="false">bd35e8f3d42824c7933f5e8dc56572d7d508b5ef</guid>
+        <pubDate>Sat, 08 Nov 2025 15:41:29 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
