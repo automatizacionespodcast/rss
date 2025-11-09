@@ -2209,6 +2209,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251109_CELTA_de_VIGO_vs_FC_BARCELONA____OJO_a_OTRO_PINCHAZO___PREVIA_y_POSIBLES_ALINEACIONES_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251109_CELTA_de_VIGO_vs_FC_BARCELONA____OJO_a_OTRO_PINCHAZO___PREVIA_y_POSIBLES_ALINEACIONES_.mp3" length="12233709" type="audio/mpeg" />
+        <guid isPermaLink="false">1309b871817b49c8dbfa559cee8981c6b76d52c0</guid>
+        <pubDate>Sun, 09 Nov 2025 11:01:44 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
