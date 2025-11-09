@@ -516,6 +516,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251109_Michael_Burry_vende_TODAS_sus_acciones_y_apuesta_1000M__contra_la_IA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251109_Michael_Burry_vende_TODAS_sus_acciones_y_apuesta_1000M__contra_la_IA.mp3" length="7597413" type="audio/mpeg" />
+        <guid isPermaLink="false">8b37e6012fa00734db8e8b1da58c4685af18feb0</guid>
+        <pubDate>Sun, 09 Nov 2025 16:21:30 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
