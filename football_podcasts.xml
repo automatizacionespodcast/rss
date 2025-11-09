@@ -2254,6 +2254,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251109_LEWANDOWSKI_BESTIAL_Y_LAMINE_VUELVE_A_MARCAR___CELTA_DE_VIGO_2_4_FC_BARCELONA___LALIGA___Ubietoo.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251109_LEWANDOWSKI_BESTIAL_Y_LAMINE_VUELVE_A_MARCAR___CELTA_DE_VIGO_2_4_FC_BARCELONA___LALIGA___Ubietoo.mp3" length="5338437" type="audio/mpeg" />
+        <guid isPermaLink="false">3168cad52bf287467a947cb907346c4d12e1c0b6</guid>
+        <pubDate>Sun, 09 Nov 2025 23:01:07 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
