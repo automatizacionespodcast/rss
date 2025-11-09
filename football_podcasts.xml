@@ -2218,6 +2218,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251109____PARTIDO_DE_SUPERVIVENCIA__TENEMOS_QUE_GANAR_HOY__COMO_SEA_____PREVIA_CELTA_DE_VIGO_vs_BAR_A.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251109____PARTIDO_DE_SUPERVIVENCIA__TENEMOS_QUE_GANAR_HOY__COMO_SEA_____PREVIA_CELTA_DE_VIGO_vs_BAR_A.mp3" length="6232173" type="audio/mpeg" />
+        <guid isPermaLink="false">812d2c638020451d30d07d6cf5d8f9d844f3af20</guid>
+        <pubDate>Sun, 09 Nov 2025 13:01:34 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
