@@ -2263,6 +2263,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251109____BRUTALES_PALABRAS_de_HANSI_FLICK_tras_el_CELTA_DE_VIGO_2_4_BAR_A___ME_DA_LA_RAZ_N_COMPLETAMENTE_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251109____BRUTALES_PALABRAS_de_HANSI_FLICK_tras_el_CELTA_DE_VIGO_2_4_BAR_A___ME_DA_LA_RAZ_N_COMPLETAMENTE_.mp3" length="6545181" type="audio/mpeg" />
+        <guid isPermaLink="false">6949084472eac4208d58411ac58e19be9e7b83a0</guid>
+        <pubDate>Sun, 09 Nov 2025 23:43:08 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251109__QU__COJON_S____LEWAN_Y_DANI_OLMO_se_CONTRADICEN_en_DECLARACIONES_POST_PARTIDO_CELTA_2_4_BAR_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251109__QU__COJON_S____LEWAN_Y_DANI_OLMO_se_CONTRADICEN_en_DECLARACIONES_POST_PARTIDO_CELTA_2_4_BAR_A_.mp3" length="6123381" type="audio/mpeg" />
+        <guid isPermaLink="false">7762ccf21443fd99a8466f8c99a2fb8ed08341fb</guid>
+        <pubDate>Sun, 09 Nov 2025 23:43:10 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
