@@ -507,6 +507,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251109_As__invierto_yo_en_la_burbuja_de_la_inteligencia_artificial__y_por_qu__no_salgo_corriendo_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251109_As__invierto_yo_en_la_burbuja_de_la_inteligencia_artificial__y_por_qu__no_salgo_corriendo_.mp3" length="8220933" type="audio/mpeg" />
+        <guid isPermaLink="false">ab69a7affc1db780f174cf7a412da885f43803e7</guid>
+        <pubDate>Sun, 09 Nov 2025 16:01:43 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
