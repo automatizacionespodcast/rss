@@ -2236,6 +2236,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251109_LOCURA_TOTAL__EL_BAR_A_GANA_2_4_AL_CELTA_DE_VIGO_Y_SE_PONE_A_3_PTS_DEL_MADRID___ARBITRAJE_LAMENTABLE_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251109_LOCURA_TOTAL__EL_BAR_A_GANA_2_4_AL_CELTA_DE_VIGO_Y_SE_PONE_A_3_PTS_DEL_MADRID___ARBITRAJE_LAMENTABLE_.mp3" length="7344765" type="audio/mpeg" />
+        <guid isPermaLink="false">036c5e9a6e2834842a155ce2c6f77dc02df6bec7</guid>
+        <pubDate>Sun, 09 Nov 2025 22:40:11 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251109___LEWANDOWSKI_DESTROZA_al_CELTA_con_un_HAT_TRICK_y_LAMINE_SIGUE_MARCANDO_2_4___BAR_A_a_3_del_MADRID.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251109___LEWANDOWSKI_DESTROZA_al_CELTA_con_un_HAT_TRICK_y_LAMINE_SIGUE_MARCANDO_2_4___BAR_A_a_3_del_MADRID.mp3" length="5597637" type="audio/mpeg" />
+        <guid isPermaLink="false">88c7b4a763e48d5cefd1302170a300875916f35c</guid>
+        <pubDate>Sun, 09 Nov 2025 22:40:20 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
