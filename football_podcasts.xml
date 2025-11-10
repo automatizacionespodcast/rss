@@ -2362,6 +2362,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251110_Los_ERRORES_de_XABI_ALONSO__Es_el_CULPABLE_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251110_Los_ERRORES_de_XABI_ALONSO__Es_el_CULPABLE_.mp3" length="21211197" type="audio/mpeg" />
+        <guid isPermaLink="false">8406c2f566becf6ae827622bd502f18d826558f0</guid>
+        <pubDate>Mon, 10 Nov 2025 20:04:21 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
