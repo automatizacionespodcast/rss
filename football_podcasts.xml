@@ -2353,6 +2353,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251110_MESSI_VUELVE_al_CAMP_NOU_con_el_CORAZ_N_ROTO_DESEANDO_VOLVER___EL_BAR_A_LEYENDAS_GANA_al_MADRID_2_0.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251110_MESSI_VUELVE_al_CAMP_NOU_con_el_CORAZ_N_ROTO_DESEANDO_VOLVER___EL_BAR_A_LEYENDAS_GANA_al_MADRID_2_0.mp3" length="5996901" type="audio/mpeg" />
+        <guid isPermaLink="false">3640df27146941e8ef048e533648da6e26d3cf01</guid>
+        <pubDate>Mon, 10 Nov 2025 18:41:04 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
