@@ -2371,6 +2371,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251110___XABI_ALONSO_NOS_MIENTE_en_la_CARA_tras_el_BOCHORNO_del_MADRID____YA_ESTOY_al_L_MITE.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251110___XABI_ALONSO_NOS_MIENTE_en_la_CARA_tras_el_BOCHORNO_del_MADRID____YA_ESTOY_al_L_MITE.mp3" length="8828661" type="audio/mpeg" />
+        <guid isPermaLink="false">ab4b4756fda1a8f7b489f281590515bab8248bbc</guid>
+        <pubDate>Mon, 10 Nov 2025 21:01:33 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
