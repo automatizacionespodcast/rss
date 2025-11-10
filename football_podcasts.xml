@@ -2326,6 +2326,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251110__NOTICI_N____MESSI_PODRIA_FICHAR_POR_EL_BAR_A_EN_ENERO_PARA_PREPARARSE_PARA_EL_MUNDIAL_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251110__NOTICI_N____MESSI_PODRIA_FICHAR_POR_EL_BAR_A_EN_ENERO_PARA_PREPARARSE_PARA_EL_MUNDIAL_.mp3" length="7408581" type="audio/mpeg" />
+        <guid isPermaLink="false">e18d4b4e7d59e6201310064defaee5c892f8d811</guid>
+        <pubDate>Mon, 10 Nov 2025 16:21:17 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
