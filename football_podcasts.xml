@@ -2344,6 +2344,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251110_VOLVI__LEWANDOWSKI_y_el_BAR_A_DEJA_BUENAS_SENSACIONES_en_la_VICTORIA_2_4_ante_el_CELTA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251110_VOLVI__LEWANDOWSKI_y_el_BAR_A_DEJA_BUENAS_SENSACIONES_en_la_VICTORIA_2_4_ante_el_CELTA.mp3" length="14931165" type="audio/mpeg" />
+        <guid isPermaLink="false">bf97f2369d52cd1c92326a1cb2c59d3b6f301e44</guid>
+        <pubDate>Mon, 10 Nov 2025 18:02:32 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
