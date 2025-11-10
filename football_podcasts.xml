@@ -2335,6 +2335,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251110____VAYA_DRAMA__COURTOIS_y_VALVERDE_se_LESIONAN___FILTRADO_el_AUDIO_VAR_en_el_PENALTI_al_BAR_A.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251110____VAYA_DRAMA__COURTOIS_y_VALVERDE_se_LESIONAN___FILTRADO_el_AUDIO_VAR_en_el_PENALTI_al_BAR_A.mp3" length="8471493" type="audio/mpeg" />
+        <guid isPermaLink="false">42d325c18b936f55dd70d0c6d3b764e3647da3bc</guid>
+        <pubDate>Mon, 10 Nov 2025 16:41:21 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
