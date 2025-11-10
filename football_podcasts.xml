@@ -2290,6 +2290,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251110__BOMBAZO____MESSI_SE_INFILTRA_EN_EL_CAMP_NOU_Y_SUE_A_CON_VOLVER_AL_BAR_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251110__BOMBAZO____MESSI_SE_INFILTRA_EN_EL_CAMP_NOU_Y_SUE_A_CON_VOLVER_AL_BAR_A_.mp3" length="9380253" type="audio/mpeg" />
+        <guid isPermaLink="false">2f7e523c4c59ad540ec3d372efab3b2458213a9d</guid>
+        <pubDate>Mon, 10 Nov 2025 13:25:08 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251110_____HARTO_de_ESTE_MADRID_y_de_ESTOS_NI_ATOS___SIN_ACTITUD__NO_CORREN_y_VACILAN___PAGARON_PARA_VERME_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251110_____HARTO_de_ESTE_MADRID_y_de_ESTOS_NI_ATOS___SIN_ACTITUD__NO_CORREN_y_VACILAN___PAGARON_PARA_VERME_.mp3" length="8468157" type="audio/mpeg" />
+        <guid isPermaLink="false">eba3d2fb1a45ae26c7e8c5cfef81110a2fb35dc5</guid>
+        <pubDate>Mon, 10 Nov 2025 13:25:11 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
