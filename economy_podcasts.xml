@@ -525,6 +525,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251110___Ser__la_BURBUJA_M_S_GRANDE_de_la_HISTORIA__Trader_profesional_revela_c_mo_INVERTIR_en_BOLSA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251110___Ser__la_BURBUJA_M_S_GRANDE_de_la_HISTORIA__Trader_profesional_revela_c_mo_INVERTIR_en_BOLSA.mp3" length="19125981" type="audio/mpeg" />
+        <guid isPermaLink="false">ae73290bf298e107464fe98ef55a828f202e177b</guid>
+        <pubDate>Mon, 10 Nov 2025 18:26:05 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
