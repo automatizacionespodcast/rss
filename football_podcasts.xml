@@ -2308,6 +2308,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251110__AQU__PASA_ALGO_GORDO__EL_MADRID_deja_MUY_MALA_IMAGEN_y_EMPATA_a_0_con_el_RAYO_VALLECANO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251110__AQU__PASA_ALGO_GORDO__EL_MADRID_deja_MUY_MALA_IMAGEN_y_EMPATA_a_0_con_el_RAYO_VALLECANO.mp3" length="19254765" type="audio/mpeg" />
+        <guid isPermaLink="false">c634a70f504c4751533fd1ee283778c2a5ba2ff7</guid>
+        <pubDate>Mon, 10 Nov 2025 15:06:29 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251110_PERFECCI_N_DE_LEWAN____XITO_DEL_BAR_A_CON_ESTE_NUEVO_TRIDENTE___CELTA_DE_VIGO_2_4_FC_BARCELONA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251110_PERFECCI_N_DE_LEWAN____XITO_DEL_BAR_A_CON_ESTE_NUEVO_TRIDENTE___CELTA_DE_VIGO_2_4_FC_BARCELONA.mp3" length="5960373" type="audio/mpeg" />
+        <guid isPermaLink="false">a9fed96c19358191b42ce525edcd75990bc7b4eb</guid>
+        <pubDate>Mon, 10 Nov 2025 15:06:33 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
