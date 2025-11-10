@@ -2281,6 +2281,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251110____ANALISIS_en_FRIO_del_CELTA_DE_VIGO_2_4_BAR_A____UN_BAR_A_DE_DOS_CARAS_PERO_CON_CAR_CTER___.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251110____ANALISIS_en_FRIO_del_CELTA_DE_VIGO_2_4_BAR_A____UN_BAR_A_DE_DOS_CARAS_PERO_CON_CAR_CTER___.mp3" length="8531541" type="audio/mpeg" />
+        <guid isPermaLink="false">1268b4e0b1a705c765f8dc8355d86ccbb899fc9b</guid>
+        <pubDate>Mon, 10 Nov 2025 12:21:23 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
