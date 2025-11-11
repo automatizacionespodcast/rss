@@ -2479,6 +2479,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251111____BOMBAZO____3_JUGADORES__QUIEREN__CARGARSE__a_XABI_ALONSO___INADMISIBLE____I_AKI_ANGULO_lo_DESTAPA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251111____BOMBAZO____3_JUGADORES__QUIEREN__CARGARSE__a_XABI_ALONSO___INADMISIBLE____I_AKI_ANGULO_lo_DESTAPA.mp3" length="9893229" type="audio/mpeg" />
+        <guid isPermaLink="false">43d3e370cbbcde9d371724db9ec5f73a9caf20da</guid>
+        <pubDate>Tue, 11 Nov 2025 21:41:42 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
