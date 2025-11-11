@@ -2434,6 +2434,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251111____IMPACTANTE_ENTREVISTA_de_MESSI_EN_LA_QUE_REVELA_su_PLAN_a_FUTURO_con_el_BAR_A_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251111____IMPACTANTE_ENTREVISTA_de_MESSI_EN_LA_QUE_REVELA_su_PLAN_a_FUTURO_con_el_BAR_A_.mp3" length="5665053" type="audio/mpeg" />
+        <guid isPermaLink="false">0ae6ae06de92410d3175c6033aa02814c944aa03</guid>
+        <pubDate>Tue, 11 Nov 2025 16:44:13 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
