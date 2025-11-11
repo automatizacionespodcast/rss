@@ -2398,6 +2398,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251111_DESPROP_SITO_TOTAL___LA_FEDERACI_N_EXPLOTA_contra_el_BAR_A_por_CUIDAR_a_LAMINE_YAMAL__SON_RETRASAD0S_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251111_DESPROP_SITO_TOTAL___LA_FEDERACI_N_EXPLOTA_contra_el_BAR_A_por_CUIDAR_a_LAMINE_YAMAL__SON_RETRASAD0S_.mp3" length="4985925" type="audio/mpeg" />
+        <guid isPermaLink="false">5f0332321864662b8a4489a46fc9fac114eaa910</guid>
+        <pubDate>Tue, 11 Nov 2025 14:22:26 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251111_MESSI_VUELVE_A_CASA__EL_MENSAJE_QUE_HUNDI__A_LAPORTA.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251111_MESSI_VUELVE_A_CASA__EL_MENSAJE_QUE_HUNDI__A_LAPORTA.mp3" length="5366685" type="audio/mpeg" />
+        <guid isPermaLink="false">51ff20c8f12a67965975ed966c48629715205dcc</guid>
+        <pubDate>Tue, 11 Nov 2025 14:22:27 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
