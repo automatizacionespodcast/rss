@@ -2443,6 +2443,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251111___LAMINE_YAMAL__QUER_A_QUEDARSE__y_se_FILTRAN_DETALLES_de_su_TRATAMIENTO_SECRETO___la_ESPINA_de_MESSI.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251111___LAMINE_YAMAL__QUER_A_QUEDARSE__y_se_FILTRAN_DETALLES_de_su_TRATAMIENTO_SECRETO___la_ESPINA_de_MESSI.mp3" length="7538829" type="audio/mpeg" />
+        <guid isPermaLink="false">580abadaee88c4fd0668c7a6601fcfac5439c29d</guid>
+        <pubDate>Tue, 11 Nov 2025 18:06:40 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251111____MESSI_PODR_A_VOLVER_al_BAR_A__LAMINE_DESCONVOCADO_con_ESPA_A__Y_SE_ENFADAN_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251111____MESSI_PODR_A_VOLVER_al_BAR_A__LAMINE_DESCONVOCADO_con_ESPA_A__Y_SE_ENFADAN_.mp3" length="13710765" type="audio/mpeg" />
+        <guid isPermaLink="false">bbbc8e260add9527b018e5bab13ab4813fec69c7</guid>
+        <pubDate>Tue, 11 Nov 2025 18:06:44 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
