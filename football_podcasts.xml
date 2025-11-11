@@ -2380,6 +2380,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251111_LO_ADMITO__EL_POST_DE_MESSI_EN_EL_CAMP_NOU_ME_HA_HECHO_MUCHO_DA_O___.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251111_LO_ADMITO__EL_POST_DE_MESSI_EN_EL_CAMP_NOU_ME_HA_HECHO_MUCHO_DA_O___.mp3" length="5831229" type="audio/mpeg" />
+        <guid isPermaLink="false">83ba10db0d3d30b16d5967ba2cbed228040a6cea</guid>
+        <pubDate>Tue, 11 Nov 2025 13:03:28 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251111____ESC_NDALO_BAR_A_RFEF_por_LAMINE_YAMAL__DESCONVOCADO_con_ESPA_A_por_TRATAMIENTO_SECRETO_sin_AVISO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251111____ESC_NDALO_BAR_A_RFEF_por_LAMINE_YAMAL__DESCONVOCADO_con_ESPA_A_por_TRATAMIENTO_SECRETO_sin_AVISO.mp3" length="6924213" type="audio/mpeg" />
+        <guid isPermaLink="false">f3a0bc2800296bfa4085bd46295a4cf4e21bb2cb</guid>
+        <pubDate>Tue, 11 Nov 2025 13:03:30 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
