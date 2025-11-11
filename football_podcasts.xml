@@ -2461,6 +2461,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251111____BOMBAZO__VINICIUS_a_FLORENTINO___SI_SIGUE_XABI_ME_VOY_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251111____BOMBAZO__VINICIUS_a_FLORENTINO___SI_SIGUE_XABI_ME_VOY_.mp3" length="14850189" type="audio/mpeg" />
+        <guid isPermaLink="false">f10e3dc8b57be54488ae1853a5938c96a9ddc443</guid>
+        <pubDate>Tue, 11 Nov 2025 20:06:48 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251111_CONVOCATORIA_POL_MICA___EXIGENCIAS__LESIONES_Y_M_S___YA_ESTAMOS_CLASIFICADOS___Ubietoo.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251111_CONVOCATORIA_POL_MICA___EXIGENCIAS__LESIONES_Y_M_S___YA_ESTAMOS_CLASIFICADOS___Ubietoo.mp3" length="8683509" type="audio/mpeg" />
+        <guid isPermaLink="false">26d994a3657a531903a6ffb3e52bdb33e9a8f29f</guid>
+        <pubDate>Tue, 11 Nov 2025 20:06:52 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
