@@ -534,6 +534,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251111___El_GR_FICO_que_mantiene_en_VILO_a_Wall_Street___Puede_secar_a_la_BOLSA_de_GOLPE_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251111___El_GR_FICO_que_mantiene_en_VILO_a_Wall_Street___Puede_secar_a_la_BOLSA_de_GOLPE_.mp3" length="18688053" type="audio/mpeg" />
+        <guid isPermaLink="false">0bf44430d384658b78ed0438f1e4a9445f886505</guid>
+        <pubDate>Tue, 11 Nov 2025 18:32:19 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251111_As__Encuentro_Las_Mejores_ACCIONES_Para_Invertir__de_manera_muy_sencilla_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/economy/20251111_As__Encuentro_Las_Mejores_ACCIONES_Para_Invertir__de_manera_muy_sencilla_.mp3" length="15317205" type="audio/mpeg" />
+        <guid isPermaLink="false">dff60313b94e422b3de35d9255b52a067021431a</guid>
+        <pubDate>Tue, 11 Nov 2025 18:32:33 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
