@@ -2416,6 +2416,24 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251111__DECISI_N_CLAVE___EL_BAR_A_ENTRE_RENOVAR_A_LEWANDOWSKI_O_FICHAR_UN_NUEVO_DELANTERO____MI_OPINI_N.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251111__DECISI_N_CLAVE___EL_BAR_A_ENTRE_RENOVAR_A_LEWANDOWSKI_O_FICHAR_UN_NUEVO_DELANTERO____MI_OPINI_N.mp3" length="5582757" type="audio/mpeg" />
+        <guid isPermaLink="false">0ee58ea2f9ecd409c887553a88085ebaf0905e21</guid>
+        <pubDate>Tue, 11 Nov 2025 15:28:09 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+
+      <item>
+        <title>20251111____TENEMOS_UNA_PLANTILLA_de_MALCRIADOS___LE_ESTAN_HACIENDO_LA_CAMA_a_XABI_ALONSO_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251111____TENEMOS_UNA_PLANTILLA_de_MALCRIADOS___LE_ESTAN_HACIENDO_LA_CAMA_a_XABI_ALONSO_.mp3" length="24327501" type="audio/mpeg" />
+        <guid isPermaLink="false">6abe7c7468a2043e04d4af846790bb7041b72dcb</guid>
+        <pubDate>Tue, 11 Nov 2025 15:28:13 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
