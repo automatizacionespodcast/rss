@@ -2488,6 +2488,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251112__XAVI_CONFIESA_y_ME_DA_LA_RAZ_N____DESTAPA_la_MANIPULACI_N_de_CIERTOS_YOUTUBERS_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251112__XAVI_CONFIESA_y_ME_DA_LA_RAZ_N____DESTAPA_la_MANIPULACI_N_de_CIERTOS_YOUTUBERS_.mp3" length="12075501" type="audio/mpeg" />
+        <guid isPermaLink="false">74344955798b9f751d0d1beabb7b95711db48974</guid>
+        <pubDate>Wed, 12 Nov 2025 14:23:09 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
