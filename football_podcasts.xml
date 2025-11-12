@@ -2506,6 +2506,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251112___ES_MUY_GRAVE____FLORENTINO_EST__PERMITIENDO_ESTO___EGOS__DECISIONES_____TODO_PODR_A_EXPLOTAR_.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251112___ES_MUY_GRAVE____FLORENTINO_EST__PERMITIENDO_ESTO___EGOS__DECISIONES_____TODO_PODR_A_EXPLOTAR_.mp3" length="12515901" type="audio/mpeg" />
+        <guid isPermaLink="false">65d811c7b7174461f2f8c7ff17f42b09f701f789</guid>
+        <pubDate>Wed, 12 Nov 2025 15:22:08 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
