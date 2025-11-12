@@ -2497,6 +2497,15 @@
         <itunes:duration>00:00:00</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
       </item>
+
+      <item>
+        <title>20251112____BOMBAZO__LOS_4_JUGADORES_que_QUIEREN_CARGARSE_a_XABI_ALONSO.mp3</title>
+        <enclosure url="https://automatizacionespodcast.github.io/rss/Podcasts/football/20251112____BOMBAZO__LOS_4_JUGADORES_que_QUIEREN_CARGARSE_a_XABI_ALONSO.mp3" length="20707821" type="audio/mpeg" />
+        <guid isPermaLink="false">9813ec383dfc4cf19cfdd1e588cdb7b556626bd2</guid>
+        <pubDate>Wed, 12 Nov 2025 15:03:47 GMT</pubDate>
+        <itunes:duration>00:00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+      </item>
 </channel>
 </rss>
 
